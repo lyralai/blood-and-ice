@@ -2,7 +2,7 @@
 
 ## Current Draft Frontier
 
-The rough draft currently reaches the end of Chapter 20, where Khar Vane places the blood-crown under law around Rook instead of surrendering him to Hollow Antler containment. Rook accepts a constrained war-crown but publicly states that the Wound-Guest is not king.
+The rough draft currently reaches the end of Chapter 24, where Rook answers Hollow Antler's third move by turning empty-cradle shame into a material winter-store obligation. He is beginning to see the island as a system of food, names, roads, mourning, and witness rather than a chain of immediate threats.
 
 ## Completed Packet: Blood Crown Opening
 
@@ -91,11 +91,11 @@ Accomplished:
 - Fen-Kin becomes the old-blood check on red-state loss of control.
 - Ending image establishes leadership as a new pit.
 
-## Next Packet: After The Crown
+## Completed Packet: After The Crown
 
 ### Chapter 21: Standing Witness
 
-Must accomplish:
+Accomplished:
 
 - show immediate fallout from the blood-crown terms
 - give Asha/Fen-Kin a concrete role as check on Rook
@@ -104,7 +104,7 @@ Must accomplish:
 
 ### Chapter 22: Salt Price
 
-Must accomplish:
+Accomplished:
 
 - Maren turns the new political order into explicit contracts
 - Rook learns that allies require terms before loyalty
@@ -112,7 +112,7 @@ Must accomplish:
 
 ### Chapter 23: The Missing Ear
 
-Must accomplish:
+Accomplished:
 
 - Dremm's mutilation becomes a factional symbol
 - some young Khar Vane treat him as martyr against restraint
@@ -120,8 +120,45 @@ Must accomplish:
 
 ### Chapter 24: Hollow Antler's Third Answer
 
-Must accomplish:
+Accomplished:
 
 - Vessa shifts from containment to fragmentation
 - she tries to split Fen-Kin from Khar Vane by making Asha's check look like control
 - Rook begins seeing the island as a system instead of a sequence of threats
+
+## Next Packet: Fracture And System
+
+### Chapter 25: Cradle Tenth
+
+Must accomplish:
+
+- turn Rook's public offer into hard collection work
+- force Khar Vane to decide whether followers are worth feeding children outside the tribe
+- make Salt Veyr extract administrative power from the counting
+- show Hollow Antler debating whether to accept useful food from a polluted crown
+
+### Chapter 26: The Wrapped Spear
+
+Must accomplish:
+
+- Cairn or another Fen-Kin takes the caller role more personally
+- Rook learns the actual technique that might call him back from red-state
+- the Wound-Guest becomes more articulate under discipline
+- Asha names the risk of training the thing while training the boy
+
+### Chapter 27: Road Teeth
+
+Must accomplish:
+
+- a road incident tests the new Salt/Khar/Fen terms
+- followers try to turn road protection into toll-taking
+- Rook must punish his own side in a way that preserves rather than weakens authority
+
+### Chapter 28: Vessa's Clean Knife
+
+Must accomplish:
+
+- Vessa makes a move that does not look like an attack
+- Naim's doubts deepen or become actionable
+- Mother Harl's cradle-store witness complicates Hollow Antler unity
+- Rook understands that winning an argument can create a quieter enemy

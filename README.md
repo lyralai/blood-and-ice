@@ -39,7 +39,7 @@ The long-term ambition is a large-scale first-person dark fantasy series, potent
 - `docs/story/long-series-roadmap.md` - path to a very large manuscript
 - `docs/style/voice-guide.md` - original prose and POV rules
 - `docs/continuity/` - timeline, names, cost ledger, banned-term checklist, and next-scene queue
-- `manuscript/book-one/part-01-wild-boy/` - opening scene samples
+- `manuscript/book-one/` - rough-draft chapter packets
 
 ## Current Creative Decisions
 
@@ -60,7 +60,7 @@ The long-term ambition is a large-scale first-person dark fantasy series, potent
 
 ## Current Manuscript Status
 
-The manuscript sample now covers the first ten chapters in rough-draft form:
+The manuscript sample now covers the first twenty-four chapters in rough-draft form:
 
 1. Rook wakes on the black shore.
 2. Salt Veyr introduces food, debt, and knot law.
@@ -72,8 +72,22 @@ The manuscript sample now covers the first ten chapters in rough-draft form:
 8. Rook is prepared, named, and lowered into the pit.
 9. The Wound-Guest fully wakes below.
 10. Rook returns wrong and Khar Vane claims the event.
+11. Rook gains followers before he gains wisdom, creating the first leadership crisis.
+12. Rook learns restraint can disappoint worshippers.
+13. Salt Veyr turns myth into logistics.
+14. Hollow Antler answers with taboo pressure.
+15. Fen-Kin tests whether the boy or the Wound-Guest owns the body.
+16. Harvek teaches symbolic captivity.
+17. Khar Vane feast law becomes the central moral pressure.
+18. Rook reshapes a containment rite into a witnessed hollow.
+19. Blood Snow proves command but creates moral debt.
+20. Khar Vane crowns Rook under constrained law.
+21. Fen-Kin publicly takes the old-blood witness role.
+22. Salt Veyr prices the new order in roads, stores, and guarantees.
+23. Dremm's missing ear becomes a factional symbol, then a forced lesson in cost.
+24. Hollow Antler uses empty cradles as a fragmentation tactic, and Rook answers with a winter-store obligation.
 
-The next natural manuscript packet is chapters 11-13: Khar Vane camp, first restraint, and Salt Debt logistics.
+The next natural manuscript packet is chapters 25-28: cradle-store enforcement, Fen old-blood discipline, road-right violations, and Vessa's quieter countermove.
 
 ## Not In Scope For This PR
 
@@ -83,4 +97,4 @@ The next natural manuscript packet is chapters 11-13: Khar Vane camp, first rest
 - Any publication packaging
 - Automated story generation loops without continuity gates
 
-The next useful pass is a human creative review of voice and story direction, then a targeted expansion of `manuscript/book-one/part-04-blood-crown/` into the first leadership aftermath.
+The next useful pass is a targeted expansion of `manuscript/book-one/part-05-after-crown/` into the next political fracture packet, with continuity checks after every 4-chapter batch.
