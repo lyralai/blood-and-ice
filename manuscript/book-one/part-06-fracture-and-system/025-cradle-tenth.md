@@ -177,4 +177,3 @@ But every head turned to hear it.
 That was when I understood Maren had taken more than a tenth.
 
 She had taken the counting.
-

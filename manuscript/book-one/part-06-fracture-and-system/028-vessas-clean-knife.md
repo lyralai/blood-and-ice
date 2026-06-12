@@ -189,4 +189,3 @@ That night, Yara made no song of the road punishment. She made no song of the me
 Not enough to become memory.
 
 Enough to warn me she had heard a future trying to start.
-
