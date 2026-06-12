@@ -102,6 +102,8 @@ Recognition.
 
 The forest answered.
 
+The white bark around the hares' necks was the same color as the cloth the old woman had carried at the beach. The hunters who had taken what the snares caught had left their mark the way the dead left names on the antler pole. Something in the cold of my bones knew the shape of this claim. The red under my ribs knew it too, and liked it.
+
 A spear came out of fog and struck Maren in the shoulder.
 
 She turned with it instead of away, which saved her life. The black point cut through fur and flesh and slid past bone. She fell without crying out.
@@ -197,6 +199,8 @@ I spat instead.
 It came out red on the moss.
 
 Maren saw that too.
+
+The cold in my bones had held the red back from finishing what the mask and the white bark had started. The red had wanted to take the eye and the throat and keep going until the forest learned the name that had returned to the shore. Both sides had been held by a boy who still did not know why the island kept trying to name him with blood.
 
 No one smiled.
 
