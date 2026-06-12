@@ -60,7 +60,7 @@ The long-term ambition is a large-scale first-person dark fantasy series, potent
 
 ## Current Manuscript Status
 
-The manuscript sample now covers the first twenty-four chapters in rough-draft form:
+The manuscript sample now covers the first twenty-eight chapters in rough-draft form:
 
 1. Rook wakes on the black shore.
 2. Salt Veyr introduces food, debt, and knot law.
@@ -86,8 +86,12 @@ The manuscript sample now covers the first twenty-four chapters in rough-draft f
 22. Salt Veyr prices the new order in roads, stores, and guarantees.
 23. Dremm's missing ear becomes a factional symbol, then a forced lesson in cost.
 24. Hollow Antler uses empty cradles as a fragmentation tactic, and Rook answers with a winter-store obligation.
+25. The cradle tenth becomes hard collection work, letting Salt Veyr seize administrative power through counting.
+26. Fen-Kin teaches Rook the wrapped-spear caller discipline, but the Wound-Guest begins learning from the lesson.
+27. A road-right violation forces Rook to punish his own side and fine Harvek without breaking Khar Vane.
+28. Vessa sends clean wound care instead of threat, exposing Naim's doubts and turning the cradle store into the next public test.
 
-The next natural manuscript packet is chapters 25-28: cradle-store enforcement, Fen old-blood discipline, road-right violations, and Vessa's quieter countermove.
+The next natural manuscript packet is chapters 29-32: public cradle-store inspection, Naim's first private fracture, Dremm's faction trying to make sacrifice useful again, and the first winter-road bargain with a minor tribe.
 
 ## Not In Scope For This PR
 

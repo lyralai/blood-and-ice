@@ -2,7 +2,7 @@
 
 ## Current Draft Frontier
 
-The rough draft currently reaches the end of Chapter 24, where Rook answers Hollow Antler's third move by turning empty-cradle shame into a material winter-store obligation. He is beginning to see the island as a system of food, names, roads, mourning, and witness rather than a chain of immediate threats.
+The rough draft currently reaches the end of Chapter 28, where Vessa's clean wound-care move exposes Naim's doubts and forces Rook to open the cradle store to constrained public inspection. Rook is beginning to understand that systems can be traps even when they feed people.
 
 ## Completed Packet: Blood Crown Opening
 
@@ -126,11 +126,11 @@ Accomplished:
 - she tries to split Fen-Kin from Khar Vane by making Asha's check look like control
 - Rook begins seeing the island as a system instead of a sequence of threats
 
-## Next Packet: Fracture And System
+## Completed Packet: Fracture And System
 
 ### Chapter 25: Cradle Tenth
 
-Must accomplish:
+Accomplished:
 
 - turn Rook's public offer into hard collection work
 - force Khar Vane to decide whether followers are worth feeding children outside the tribe
@@ -139,7 +139,7 @@ Must accomplish:
 
 ### Chapter 26: The Wrapped Spear
 
-Must accomplish:
+Accomplished:
 
 - Cairn or another Fen-Kin takes the caller role more personally
 - Rook learns the actual technique that might call him back from red-state
@@ -148,7 +148,7 @@ Must accomplish:
 
 ### Chapter 27: Road Teeth
 
-Must accomplish:
+Accomplished:
 
 - a road incident tests the new Salt/Khar/Fen terms
 - followers try to turn road protection into toll-taking
@@ -156,9 +156,47 @@ Must accomplish:
 
 ### Chapter 28: Vessa's Clean Knife
 
-Must accomplish:
+Accomplished:
 
 - Vessa makes a move that does not look like an attack
 - Naim's doubts deepen or become actionable
 - Mother Harl's cradle-store witness complicates Hollow Antler unity
 - Rook understands that winning an argument can create a quieter enemy
+
+## Next Packet: Stores And Splinters
+
+### Chapter 29: The Open Store
+
+Must accomplish:
+
+- make the cradle-store inspection a public pressure test rather than a simple audit
+- let Mother Harl name what is missing without letting Vessa own the entire meaning
+- force Maren to decide how much scarcity truth to reveal
+- show Rook learning that transparent weakness can either build trust or invite attack
+
+### Chapter 30: Naim Without Staff
+
+Must accomplish:
+
+- give Naim a private or semi-private scene where his doubts become specific
+- reveal a piece of Hollow Antler doctrine that Vessa has been simplifying
+- make Naim useful without making him instantly loyal
+- give Rook a reason to distrust help that sounds merciful
+
+### Chapter 31: Useful Sacrifice
+
+Must accomplish:
+
+- Dremm's faction tries to reframe restraint as waste
+- someone proposes a sacrifice or punishment that would solve a practical problem
+- Rook must reject or transform the offer without looking weak to hungry followers
+- the Wound-Guest should press for a strategic rather than purely violent answer
+
+### Chapter 32: The Small Tribe Bargain
+
+Must accomplish:
+
+- introduce a minor tribe or outlying holdfast affected by the new road/store order
+- force the big-four politics to meet people with less symbolic power and more immediate needs
+- make a winter-road bargain that extends Rook's authority beyond the central camps
+- end with evidence that Vessa or Harvek can still reach ahead of him
