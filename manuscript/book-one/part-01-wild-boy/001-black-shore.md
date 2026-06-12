@@ -20,6 +20,8 @@ No knife.
 
 That mattered most.
 
+The stones under my back felt familiar in a way that made no sense. Not like the ship. Not like anything I could remember. The cold in them knew how to hold a body without giving it back easily. My bones recognized the weight of it even if the rest of me did not.
+
 The beach had three bodies besides mine. One had no head. One had no legs below the knee. One was only a piece of someone caught between stones, hand still wearing a copper ring gone green from salt. I watched the hand for a long time. It did not move. The ring was too tight for me to pull free.
 
 I tried anyway.
