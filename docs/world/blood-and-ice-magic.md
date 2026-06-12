@@ -47,6 +47,19 @@ He is not immune. He is a better vessel.
 
 That is worse.
 
+## The White Pit Unlock and the Rauth Severing
+
+The 30-year isolation was not only political punishment. It was a deliberate ritual severing of the old blood channels. The Rauth line (Rook's family) were the traditional vessels and keys that kept the blood-god rites stable. After the second rebellion (put down by Rook's father), the tribes (or the remaining power structure) imposed isolation to starve the force of true Rauth blood.
+
+For thirty years the power has been weakened or "sleeping." The tribes still perform reduced rites (Hollow Antler containment, Khar pit-keeping), but without a living Rauth vessel the force does not fully wake or travel as it once did.
+
+When Rook enters the White Pit (ch8-10) under the old ritual conditions — ritual fear, confinement, blood loss, near-death, public witnessing by all four tribes — the return of Rauth blood re-opens the channel. The ice-blood (Rauth endurance, memory, name-holding) provides the grip that lets the blood-god force take hold without immediately burning through the vessel. The force remembers how it used to ride the Rauth line.
+
+This is the personal and political "magic coming back." The isolation's severing is broken. Ice-blood lets Rook survive as a better vessel. That is worse: the Guest now has a sustainable host who can learn systems (stores, names, debts, small loops) while the force re-learns the old shapes of rule.
+
+Pre-Pit: Ice-blood dominant (subtle expressions in the wild-boy phase).
+Post-Pit: The hybrid becomes possible. The Guest escalates from raw hunger to strategic learner that files crown tools. The Rauth name itself becomes a vector the force can learn to wear.
+
 ## The Wound-Guest
 
 The Wound-Guest is the name Rook eventually gives the presence. It arrives first as sensation:

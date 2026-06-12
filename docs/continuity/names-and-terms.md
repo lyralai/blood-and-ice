@@ -7,6 +7,7 @@
 - **The Blackjaw Isles** - primary Book One setting.
 - **The Wound-Guest** - Rook's eventual name for the blood-force.
 - **The White Pit** - sacrificial site and political test.
+- **House Rauth** (or "the Rauth", "the Rauth line") - the old ruling house of the Blackjaw Isles. All tribes were once subjects. Two major rebellions were put down (the most recent by Rook's father ~10-20 years before the story). As punishment the islands were sentenced to 30 years of isolation (still in effect when Rook lands). The isolation had a ritual layer: a deliberate severing of the blood-god channels by removing true Rauth vessels. Rook is the last heir. The tribes know the name even if they do not speak it openly. Ice-blood (Rauth preserving/memory/name-holding inheritance) lets him survive the White Pit as a better vessel. The blood name spoken by the vessel in inner law carries the weight of this lineage.
 - **Blood Snow** - first open fight after the second pit; useful victory turned morally costly by Dremm's disobedient killing.
 - **Blood-crown** - constrained Khar Vane war-crown placed around Rook under law; explicitly does not make the Wound-Guest king.
 - **Second pit / witnessed hollow** - Rook's four-tribe revision of Vessa's containment rite.
