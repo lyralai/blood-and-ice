@@ -7,6 +7,9 @@
 - **The Blackjaw Isles** - primary Book One setting.
 - **The Wound-Guest** - Rook's eventual name for the blood-force.
 - **The White Pit** - sacrificial site and political test.
+- **Blood Snow** - first open fight after the second pit; useful victory turned morally costly by Dremm's disobedient killing.
+- **Blood-crown** - constrained Khar Vane war-crown placed around Rook under law; explicitly does not make the Wound-Guest king.
+- **Second pit / witnessed hollow** - Rook's four-tribe revision of Vessa's containment rite.
 
 ## Tribes
 
@@ -30,6 +33,8 @@
 - **Yara Khar** - pit-singer and public witness.
 - **Dremm** - young Khar Vane war-eater.
 - **Solek the Thin** - Khar Vane law-speaker.
+- **Otta** - one-armed Khar Vane camp woman/healer; practical care through insult and work.
+- **Gran Otta** - informal use for Otta when Khar Vane warriors invoke her age/status.
 
 ## Usage Notes
 
@@ -39,3 +44,4 @@
 - Hollow Antler power comes from naming. Their scenes should turn on who gets to interpret an event.
 - Salt Veyr power comes from storage, boats, translation, and debt.
 - Fen-Kin power comes from genealogy, old blood, and disciplined violence.
+- After Chapter 20, Fen-Kin holds the old-blood check on Rook: Asha or one she names may call him back if the Wound-Guest takes over, and Khar Vane law requires binding or killing if he does not return.

@@ -49,8 +49,6 @@
 - Fen-Kin argues that careless sacrifice may wake a debt older than the tribes.
 - The dispute widens from local punishment into island politics.
 
-## Next Events
-
 ### Chapter 7: Khar Vane Demand
 
 - Harvek Bone-Mouth arrives under horn and oath.
@@ -80,8 +78,63 @@
 - Khar Vane begins kneeling.
 - Asha recognizes catastrophe; Maren starts counting logistics; Vessa starts planning countermoves.
 
-## Next Events
+### Chapter 11: Meat And Meaning
 
 - Khar Vane takes Rook into its camp as omen, hostage, guest, and weapon.
 - Rook learns Khar Vane hunger law.
-- He must restrain violence for the first time after being rewarded for monstrosity.
+
+### Chapter 12: The First Restraint
+
+- Senn provokes Rook during a Khar Vane dispute.
+- Rook restrains himself instead of killing a politically useful person.
+- Dremm sees restraint as a disappointment; Harvek and Solek see its value.
+
+### Chapter 13: Salt Debt
+
+- Maren forces the practical bargain: myth cannot feed followers.
+- Salt Veyr uses food and road access to make Khar Vane depend on logistics.
+- Rook begins to learn that fear does not preserve fish.
+
+### Chapter 14: Antler Countermove
+
+- Hollow Antler raises taboo markers to isolate Khar Vane.
+- Vessa frames Rook as breach and demands containment.
+- Rook proposes a law answer instead of raid.
+
+### Chapter 15: Fen Challenge
+
+- Asha sends Cairn to test whether the boy still owns the body.
+- Rook deliberately yields before the Wound-Guest can turn the test into murder.
+- Cairn reports that there is still a boy, but the boy is losing.
+
+### Chapter 16: Bone-Mouth's Lesson
+
+- Harvek teaches Rook that followers ask permission to become their worst selves.
+- Rook confronts Dremm and states he knelt to keep his teeth his own.
+- Rook moves his sleeping place beside the law racks.
+
+### Chapter 17: The Feast Dispute
+
+- Khar Vane holds a sacramental enemy feast.
+- Rook places his portion in the ash bowl as debt-first rather than eating.
+- Dremm strikes him; Rook makes Dremm serve the roads instead of killing him.
+
+### Chapter 18: The Second Pit
+
+- Vessa proposes a second containment pit before all tribes.
+- Rook changes it into a shared four-tribe witnessed hollow beside Khar law.
+- He holds his name through the night and climbs out at dawn.
+
+### Chapter 19: Blood Snow
+
+- A road conflict escalates into the first open fight with Hollow Antler.
+- Rook's plan uses a false pass threat, Salt logistics, Fen movement, and Khar shock.
+- Dremm disobeys and kills a young acolyte.
+- Rook sends Dremm unarmed to return the dead and own the killing.
+
+### Chapter 20: The Crown That Bites
+
+- Dremm returns mutilated and kneels to Rook.
+- Khar Vane demands a blood-crown.
+- Rook accepts only under terms: the Wound-Guest is not king, and Fen old-blood may call him back or authorize binding/killing if he does not return.
+- Book One's first leadership compromise is born unstable.
