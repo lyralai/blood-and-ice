@@ -46,16 +46,9 @@ Runa's hand moved, small, a warning or a claim. The extension to the Reed-Bend w
 
 That night, after Keva and her people were given a place under Salt guard and the re-tied cord was hung where the road spur met the main count, I walked the edge of the camp with the wrapped spear in my hands.
 
-The ice had reached the black sand. The tide flats were a darker line under the moon. The small loop on the cord felt heavier than the first time. The new due knot pulled against the turns.
+The ice had reached the black sand. The tide flats were a darker line under the moon. The small loop on the cord pulled against the turns. It felt heavier than the first time. The new due knot pulled against the turns. The red thread on the spear bit my palm when I tightened my grip. I could still see the Reed-Bend girl's fingers on the eel basket and the quick sideways look she gave Keva when the knot was tied. The coughing from the direction of the bend carried on the wind.
 
-The Wound-Guest was quiet. Not bored. Waiting in the way it waited after it had learned that restraint could be turned into a larger story. It had learned something new tonight.
+The Wound-Guest had liked the name "the road's due." It had offered the flats as a thing a hand could close. I said my name until the images thinned.
+Rook.
 
-The road's due was a name that could pull from the boy-king's stores without a pit or a snow. The small had brought the claim because the name had reached them. The name had arrived second, after Vessa's salt and after Half-Ear's laugh and after the child had died waiting for the hole the crown had counted her into. To make the small believe the name had teeth, I had to let the road-sworn carry the due and stand where the law had been late. The counting would have to stretch. The road-sworn would have to walk thinner. The center would have to answer every new loop faster than the four tribes could walk the ice.
-
-The island was larger than the camps, and the camps were already speaking in more voices under my name. Not just the big four. Now the small ones had a loop and a due. The grandmothers who spoke to the tide. The children who coughed at night. Every new voice that the count had to feed made the center thinner, not stronger, because the ones who already hated the crown could point to every small mouth we had to feed and say the hunger was spreading. The flats would remember who had come to them first with a bargain and who had come with salt and a missing ear and a cut in the cord.
-
-The systems were under strain. The stores could not stretch to every loop the name tied. The roads needed more sworn than the living debt could supply without breaking the ones who carried it. The small loops required the center to answer faster than the four tribes could walk under winter. The boy-king problem had escalated. The small and the followers now expected the crown to be the one that fed them and protected them, or the name was only another fog that the tide would wash away. The cost of holding the Wound-Guest was rising with every new claim the law could not meet alone. The tools — Maren's boards, Harvek's law, Asha's call, the living debt of the road-sworn — were being asked to do more than they were built for.
-
-The hand on the wrapped spear still shook, small and low, long after the pressure had passed. The thing inside had noted the shape of "the road's due." It would use the name when the boy could not make the law answer fast enough.
-
-To survive the winter, the order would have to decide whether the political name could hold without the monster becoming the practical government that named the due and collected it with teeth the counting could not match.
+The cord stayed in my hand until the cold made the reed stiff. One more mouth the count had to feed. One more place a hand could reach before the knot held.
