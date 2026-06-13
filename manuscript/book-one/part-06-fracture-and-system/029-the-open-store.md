@@ -122,12 +122,4 @@ I held my own name until the counting in my head stopped.
 
 Rook.
 
-The lesson was new and it cost more than the tenth. Showing the empty had let one Salt woman give what she could hide. It had also let Keff and Dremm's knot see exactly where the real food still sat and how little the crown could do about it without breaking the very law that kept the roads open.
-
-Transparent weakness could feed trust or it could feed the ones who promised to fill the gaps faster by using teeth instead of boards.
-
-Yara made no song. She only stood at the edge of the firelight and watched the open store door and the mothers walking back to their camps with their cloths still white and their baskets still too light for winter.
-
-The Wound-Guest counted the steps with me until the last one faded.
-
-It was learning the math.
+Yara stood at the edge of the firelight and watched the mothers walk back with white cloths and light baskets. The Wound-Guest counted their steps. It had seen the root bundle and the red-haired one planning the inlet. It was learning which doors the empty racks opened.
