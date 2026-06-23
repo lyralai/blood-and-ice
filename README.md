@@ -112,6 +112,14 @@ That is the beginning of the problem.
 
 ---
 
+---
+
+## © 2026 All Rights Reserved
+
+All rights owned by **@0xatd**. This is original creative IP. No adaptation, commercial use, or redistribution without express written permission. Adaptation rights (film, television, game, audio) are available for licensing — contact via X.
+
+---
+
 ## How to Edit
 
 **Quick edit in browser:** Open any chapter file and press `.` (the period key) to launch GitHub's web editor. Make changes, commit, done.
