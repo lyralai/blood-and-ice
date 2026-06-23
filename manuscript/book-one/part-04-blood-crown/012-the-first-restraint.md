@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 12 of 36
+
+← [Meat And Meaning](./011-meat-and-meaning.md) | [📖 Contents](../../README.md) | [Salt Debt](./013-salt-debt.md) →
+<!-- NAV END -->
+
 # Chapter 12 Draft: The First Restraint
 
 In the morning, Khar Vane brought me a prisoner.
@@ -271,3 +277,9 @@ That frightened me more than if it had raged.
 That was how I learned the twelfth law of the island.
 
 Mercy is not clean. Sometimes it is only violence made to wait.
+
+
+---
+<!-- NAV START -->
+← [Meat And Meaning](./011-meat-and-meaning.md) | [📖 Contents](../../README.md) | [Salt Debt](./013-salt-debt.md) →
+<!-- NAV END -->

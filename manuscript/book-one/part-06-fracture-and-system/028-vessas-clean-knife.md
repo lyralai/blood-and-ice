@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 28 of 36
+
+← [Road Teeth](./027-road-teeth.md) | [📖 Contents](../../README.md) | [The Open Store](./029-the-open-store.md) →
+<!-- NAV END -->
+
 # Chapter 28 Draft: Vessa's Clean Knife
 
 Vessa's next move arrived clean.
@@ -189,3 +195,9 @@ That night, Yara made no song of the road punishment. She made no song of the me
 Not enough to become memory.
 
 Enough to warn me she had heard a future trying to start.
+
+
+---
+<!-- NAV START -->
+← [Road Teeth](./027-road-teeth.md) | [📖 Contents](../../README.md) | [The Open Store](./029-the-open-store.md) →
+<!-- NAV END -->

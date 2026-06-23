@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 33 of 36
+
+← [The Small Tribe Bargain](./032-the-small-tribe-bargain.md) | [📖 Contents](../../README.md) | [Dremms Offer](./034-dremms-offer.md) →
+<!-- NAV END -->
+
 # Chapter 33: The Cradle Reckoning
 
 The frost came in the night after the small loop was tied. It did not announce itself with wind. It settled on the counting stone and the store racks like a second skin, thin enough that the first sun should have burned it away, thick enough that the oil skins left outside had gone stiff and the reed bundles from the bend had whitened at the edges. When I walked the spur before the light was full, my breath came out white and the wrapped spear's red thread had gone hard under my fingers.
@@ -77,3 +83,8 @@ The small loop felt heavier than the cord. The frost had only just begun. The cr
 The Wound-Guest had filed the shape of the clean administrative solution. It would remember it when the next claims came. I would have to remember faster. The more voices spoke under the name, the more places there were for other hands to reach in before the knot could hold. Winter had made the reaching easier. The frost did not care which mouths the crown had promised to feed. It only cared which ones the count chose to leave thin when the carts could not move.
 
 I did not sleep. The counting in my head did not stop. Cradles. Road-sworn. Small loop. Core teeth. The order the crown had named. The frost had already started taking from the ones the order was meant to protect. The reckoning had only begun.
+
+---
+<!-- NAV START -->
+← [The Small Tribe Bargain](./032-the-small-tribe-bargain.md) | [📖 Contents](../../README.md) | [Dremms Offer](./034-dremms-offer.md) →
+<!-- NAV END -->

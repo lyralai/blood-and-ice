@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 13 of 36
+
+← [The First Restraint](./012-the-first-restraint.md) | [📖 Contents](../../README.md) | [Antler Countermove](./014-antler-countermove.md) →
+<!-- NAV END -->
+
 # Chapter 13 Draft: Salt Debt
 
 Maren came at midday and made Khar Vane count fish.
@@ -275,3 +281,9 @@ But for the first time, I had changed the shape of the cage from inside.
 That was how I learned the thirteenth law of the island.
 
 Fear moves feet. Hunger keeps accounts.
+
+
+---
+<!-- NAV START -->
+← [The First Restraint](./012-the-first-restraint.md) | [📖 Contents](../../README.md) | [Antler Countermove](./014-antler-countermove.md) →
+<!-- NAV END -->

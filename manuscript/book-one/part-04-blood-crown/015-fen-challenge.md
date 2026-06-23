@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 15 of 36
+
+← [Antler Countermove](./014-antler-countermove.md) | [📖 Contents](../../README.md) | [Bone Mouths Lesson](./016-bone-mouths-lesson.md) →
+<!-- NAV END -->
+
 # Chapter 15 Draft: Fen Challenge
 
 Asha did not send a message with bark or cord.
@@ -171,3 +177,9 @@ It dreamed of the moment I yielded.
 It studied the shape of it.
 
 That was the first time I wondered whether restraint taught the monster too.
+
+
+---
+<!-- NAV START -->
+← [Antler Countermove](./014-antler-countermove.md) | [📖 Contents](../../README.md) | [Bone Mouths Lesson](./016-bone-mouths-lesson.md) →
+<!-- NAV END -->

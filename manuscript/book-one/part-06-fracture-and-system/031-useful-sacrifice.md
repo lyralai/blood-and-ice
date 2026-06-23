@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 31 of 36
+
+← [Naim Without Staff](./030-naim-without-staff.md) | [📖 Contents](../../README.md) | [The Small Tribe Bargain](./032-the-small-tribe-bargain.md) →
+<!-- NAV END -->
+
 # Chapter 31 Draft: Useful Sacrifice
 
 The boards still carried the marks of the tenth.
@@ -157,3 +163,8 @@ I stayed by the racks until the fires burned low. The debt bowl sat on the stone
 The storehouse door was barred. The boards were covered. The hunger was still there in the camp, in the young fires, in the knot that had walked away with Dremm.
 
 The heat stayed after they left. Not the old blind push. A slower thing, like it was turning the debt bowl in its mind the way a man turns a new knife. It had liked the bowl traveling to the storehouse door. I kept my hand on the wrapped spear until the red at the edges thinned. My tongue still tasted the place I had bitten during the caller lesson. The three were already walking toward the pass. Dorrik carried the bowl. I stayed by the racks until the fire burned low enough that I could not see the mark in it anymore. The young knot watched from the edge of the light. Some looked at the three like they had been given something. Others looked at the bowl like it was a new kind of answer. The red did not leave. It settled lower, patient, the way it had after the wrapped spear work. It was learning the shape of the living debt.
+
+---
+<!-- NAV START -->
+← [Naim Without Staff](./030-naim-without-staff.md) | [📖 Contents](../../README.md) | [The Small Tribe Bargain](./032-the-small-tribe-bargain.md) →
+<!-- NAV END -->

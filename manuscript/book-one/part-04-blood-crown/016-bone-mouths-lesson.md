@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 16 of 36
+
+← [Fen Challenge](./015-fen-challenge.md) | [📖 Contents](../../README.md) | [The Feast Dispute](./017-the-feast-dispute.md) →
+<!-- NAV END -->
+
 # Chapter 16 Draft: Bone-Mouth's Lesson
 
 Harvek woke me before dawn by kicking the shelter post.
@@ -219,3 +225,9 @@ Solek watched me lay the hide down.
 He nodded once.
 
 No one moved me.
+
+
+---
+<!-- NAV START -->
+← [Fen Challenge](./015-fen-challenge.md) | [📖 Contents](../../README.md) | [The Feast Dispute](./017-the-feast-dispute.md) →
+<!-- NAV END -->

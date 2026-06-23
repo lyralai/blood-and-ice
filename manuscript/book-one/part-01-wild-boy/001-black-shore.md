@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 1 of 36
+
+ | [📖 Contents](../../README.md) | [Hunger Law](./002-hunger-law.md) →
+<!-- NAV END -->
+
 # Chapter 1 Sample: Black Shore
 
 The sea gave me back without kindness.
@@ -219,3 +225,9 @@ I looked at the island.
 The island was still deciding, but the stones under my boots already knew the shape of the blood that walked them. The last of something old and broken had come home, and the cold part of me that remembered how to hold a name under pain did not want the red thing to answer first.
 
 I followed her up the black path with the stolen knife in my hand and the red heat awake under my ribs, laughing softly every time my wound opened.
+
+
+---
+<!-- NAV START -->
+ | [📖 Contents](../../README.md) | [Hunger Law](./002-hunger-law.md) →
+<!-- NAV END -->

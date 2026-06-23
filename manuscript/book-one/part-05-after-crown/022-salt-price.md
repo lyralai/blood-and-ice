@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 22 of 36
+
+← [Standing Witness](./021-standing-witness.md) | [📖 Contents](../../README.md) | [The Missing Ear](./023-the-missing-ear.md) →
+<!-- NAV END -->
+
 # Chapter 22 Draft: Salt Price
 
 Maren Salt-Hand arrived with three carts, six armed boatmen, two ledgers, and a boy carrying a stool.
@@ -205,3 +211,9 @@ He looked up.
 Senn did not smile.
 
 But he did unwrap the knife enough to check the edge.
+
+
+---
+<!-- NAV START -->
+← [Standing Witness](./021-standing-witness.md) | [📖 Contents](../../README.md) | [The Missing Ear](./023-the-missing-ear.md) →
+<!-- NAV END -->

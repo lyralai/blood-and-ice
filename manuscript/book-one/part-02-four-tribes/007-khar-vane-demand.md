@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 7 of 36
+
+← [Fen Names](./006-fen-names.md) | [📖 Contents](../../README.md) | [The Descent](./008-the-descent.md) →
+<!-- NAV END -->
+
 # Chapter 7 Draft: Khar Vane Demand
 
 The horn did not sound again.
@@ -175,3 +181,9 @@ Everyone owned a piece of my death.
 That was how I learned the seventh law of the island.
 
 When powerful people cannot agree who may kill you, they call the compromise justice.
+
+
+---
+<!-- NAV START -->
+← [Fen Names](./006-fen-names.md) | [📖 Contents](../../README.md) | [The Descent](./008-the-descent.md) →
+<!-- NAV END -->

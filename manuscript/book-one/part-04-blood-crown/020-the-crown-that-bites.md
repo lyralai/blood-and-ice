@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 20 of 36
+
+← [Blood Snow](./019-blood-snow.md) | [📖 Contents](../../README.md) | [Standing Witness](./021-standing-witness.md) →
+<!-- NAV END -->
+
 # Chapter 20 Draft: The Crown That Bites
 
 Dremm came back at midnight.
@@ -233,3 +239,9 @@ I had thought the White Pit was the place meant to swallow me.
 I was wrong.
 
 The first pit is only the one with sides you can see.
+
+
+---
+<!-- NAV START -->
+← [Blood Snow](./019-blood-snow.md) | [📖 Contents](../../README.md) | [Standing Witness](./021-standing-witness.md) →
+<!-- NAV END -->

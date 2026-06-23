@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 18 of 36
+
+← [The Feast Dispute](./017-the-feast-dispute.md) | [📖 Contents](../../README.md) | [Blood Snow](./019-blood-snow.md) →
+<!-- NAV END -->
+
 # Chapter 18 Draft: The Second Pit
 
 Vessa came herself after the feast dispute.
@@ -215,3 +221,9 @@ Yara whispered, "That will travel too."
 This time I said nothing.
 
 Some things are already gone before you can stop them.
+
+
+---
+<!-- NAV START -->
+← [The Feast Dispute](./017-the-feast-dispute.md) | [📖 Contents](../../README.md) | [Blood Snow](./019-blood-snow.md) →
+<!-- NAV END -->

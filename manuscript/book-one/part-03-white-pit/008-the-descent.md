@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 8 of 36
+
+← [Khar Vane Demand](./007-khar-vane-demand.md) | [📖 Contents](../../README.md) | [Below Hunger](./009-below-hunger.md) →
+<!-- NAV END -->
+
 # Chapter 8 Draft: The Descent
 
 They washed me before they killed me.
@@ -183,3 +189,9 @@ So did the Wound-Guest.
 That was how I learned the eighth law of the island.
 
 Some doors only open inward.
+
+
+---
+<!-- NAV START -->
+← [Khar Vane Demand](./007-khar-vane-demand.md) | [📖 Contents](../../README.md) | [Below Hunger](./009-below-hunger.md) →
+<!-- NAV END -->

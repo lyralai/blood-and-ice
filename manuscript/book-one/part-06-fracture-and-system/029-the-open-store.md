@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 29 of 36
+
+← [Vessas Clean Knife](./028-vessas-clean-knife.md) | [📖 Contents](../../README.md) | [Naim Without Staff](./030-naim-without-staff.md) →
+<!-- NAV END -->
+
 # Chapter 29 Draft: The Open Store
 
 The store stood open because I had ordered the bar lifted before the sun cleared the trees.
@@ -123,3 +129,9 @@ I held my own name until the counting in my head stopped.
 Rook.
 
 Yara stood at the edge of the firelight and watched the mothers walk back with white cloths and light baskets. The Wound-Guest counted their steps. It had seen the root bundle and the red-haired one planning the inlet. It was learning which doors the empty racks opened.
+
+
+---
+<!-- NAV START -->
+← [Vessas Clean Knife](./028-vessas-clean-knife.md) | [📖 Contents](../../README.md) | [Naim Without Staff](./030-naim-without-staff.md) →
+<!-- NAV END -->

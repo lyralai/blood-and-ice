@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 23 of 36
+
+← [Salt Price](./022-salt-price.md) | [📖 Contents](../../README.md) | [Hollow Antlers Third Answer](./024-hollow-antlers-third-answer.md) →
+<!-- NAV END -->
+
 # Chapter 23 Draft: The Missing Ear
 
 Dremm's ear became three different things before noon.
@@ -173,3 +179,9 @@ That was not victory. Victory is a word singers use after someone else cleans th
 It was a hinge.
 
 Small, ugly, and holding more weight than it wanted.
+
+
+---
+<!-- NAV START -->
+← [Salt Price](./022-salt-price.md) | [📖 Contents](../../README.md) | [Hollow Antlers Third Answer](./024-hollow-antlers-third-answer.md) →
+<!-- NAV END -->

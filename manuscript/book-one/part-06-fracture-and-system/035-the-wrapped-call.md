@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 35 of 36
+
+← [Dremms Offer](./034-dremms-offer.md) | [📖 Contents](../../README.md) | [The Roads Due](./036-the-roads-due.md) →
+<!-- NAV END -->
+
 # Chapter 35: The Wrapped Call
 
 The counting stone was crowded again. Winter had thinned the stores faster than Maren's inlet boats could fill them, and the small loop from Reed-Bend had added mouths that coughed in the night. Keva stood with her granddaughter, the girl holding an eel basket like it was the last thing between her and the fog. Half-Ear was there too, his missing ear wrapped in salt-hide, the red-haired Keff beside him, Dorrik and Runa at the edge of the knot. The road-sworn had not broken their oath yet, but their eyes were on the basket and the thin count Maren spoke aloud.
@@ -89,3 +95,8 @@ The cough would not stop because I had held. It would stop when the stores added
 I walked the spur with the wrapped spear in my shaking hand, counting the small loop and the witnesses and the cost that did not show on the board.
 
 The red was learning faster than the boy.
+
+---
+<!-- NAV START -->
+← [Dremms Offer](./034-dremms-offer.md) | [📖 Contents](../../README.md) | [The Roads Due](./036-the-roads-due.md) →
+<!-- NAV END -->

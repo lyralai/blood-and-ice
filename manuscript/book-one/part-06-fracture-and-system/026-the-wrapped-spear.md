@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 26 of 36
+
+← [Cradle Tenth](./025-cradle-tenth.md) | [📖 Contents](../../README.md) | [Road Teeth](./027-road-teeth.md) →
+<!-- NAV END -->
+
 # Chapter 26 Draft: The Wrapped Spear
 
 Asha came for me after the cradle tenth, when Khar Vane were still angry enough to sharpen tools that did not need sharpening.
@@ -197,3 +203,9 @@ Asha did not like that.
 Neither did I.
 
 But the Wound-Guest was listening now. The island had become a school, and everyone kept bringing lessons.
+
+
+---
+<!-- NAV START -->
+← [Cradle Tenth](./025-cradle-tenth.md) | [📖 Contents](../../README.md) | [Road Teeth](./027-road-teeth.md) →
+<!-- NAV END -->

@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 14 of 36
+
+← [Salt Debt](./013-salt-debt.md) | [📖 Contents](../../README.md) | [Fen Challenge](./015-fen-challenge.md) →
+<!-- NAV END -->
+
 # Chapter 14 Draft: Antler Countermove
 
 Hollow Antler answered with silence first.
@@ -245,3 +251,9 @@ I stood between him and the pen anyway.
 That was how I learned the fourteenth law of the island.
 
 A war can begin with nobody dead, if the right road is named forbidden.
+
+
+---
+<!-- NAV START -->
+← [Salt Debt](./013-salt-debt.md) | [📖 Contents](../../README.md) | [Fen Challenge](./015-fen-challenge.md) →
+<!-- NAV END -->

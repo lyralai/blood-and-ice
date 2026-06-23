@@ -1,0 +1,15 @@
+title: Blood Under Ice
+description: An original dark fantasy epic — full manuscript, chapter-by-chapter reading, and reference docs.
+theme: jekyll-theme-midnight
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+exclude:
+  - docs/continuity/
+  - docs/review/

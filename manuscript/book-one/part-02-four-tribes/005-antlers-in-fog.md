@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 5 of 36
+
+← [Salt Knots](./004-salt-knots.md) | [📖 Contents](../../README.md) | [Fen Names](./006-fen-names.md) →
+<!-- NAV END -->
+
 # Chapter 5 Draft: Antlers In Fog
 
 Maren tried to move me before sunset.
@@ -223,3 +229,9 @@ If I had, I might have mistaken that sound for friendship.
 That was how I learned the fifth law of the island.
 
 People who cannot afford to save you will call it respect when they let you go.
+
+
+---
+<!-- NAV START -->
+← [Salt Knots](./004-salt-knots.md) | [📖 Contents](../../README.md) | [Fen Names](./006-fen-names.md) →
+<!-- NAV END -->

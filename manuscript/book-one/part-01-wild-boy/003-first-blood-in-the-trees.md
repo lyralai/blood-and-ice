@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 3 of 36
+
+← [Hunger Law](./002-hunger-law.md) | [📖 Contents](../../README.md) | [Salt Knots](./004-salt-knots.md) →
+<!-- NAV END -->
+
 # Chapter 3 Draft: First Blood In The Trees
 
 Maren did not let me sleep near the fire.
@@ -207,3 +213,9 @@ No one smiled.
 That was how I learned the third law of the island.
 
 If blood speaks in front of witnesses, someone will claim the words.
+
+
+---
+<!-- NAV START -->
+← [Hunger Law](./002-hunger-law.md) | [📖 Contents](../../README.md) | [Salt Knots](./004-salt-knots.md) →
+<!-- NAV END -->

@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 30 of 36
+
+← [The Open Store](./029-the-open-store.md) | [📖 Contents](../../README.md) | [Useful Sacrifice](./031-useful-sacrifice.md) →
+<!-- NAV END -->
+
 # Chapter 30 Draft: Naim Without Staff
 
 The inspection left a taste like wet ash in the mouth.
@@ -133,3 +139,8 @@ The Wound-Guest laughed once under my ribs, low and patient.
 It could wait.
 
 Names always could.
+
+---
+<!-- NAV START -->
+← [The Open Store](./029-the-open-store.md) | [📖 Contents](../../README.md) | [Useful Sacrifice](./031-useful-sacrifice.md) →
+<!-- NAV END -->

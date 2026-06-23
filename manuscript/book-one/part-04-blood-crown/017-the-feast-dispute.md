@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 17 of 36
+
+← [Bone Mouths Lesson](./016-bone-mouths-lesson.md) | [📖 Contents](../../README.md) | [The Second Pit](./018-the-second-pit.md) →
+<!-- NAV END -->
+
 # Chapter 17 Draft: The Feast Dispute
 
 The feast began as law and almost became hunger.
@@ -183,3 +189,9 @@ He left before I could decide whether I had spoken wisdom or only made another e
 The Wound-Guest whispered without words under my ribs.
 
 It approved of enemies.
+
+
+---
+<!-- NAV START -->
+← [Bone Mouths Lesson](./016-bone-mouths-lesson.md) | [📖 Contents](../../README.md) | [The Second Pit](./018-the-second-pit.md) →
+<!-- NAV END -->

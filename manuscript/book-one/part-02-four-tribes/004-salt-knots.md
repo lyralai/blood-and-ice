@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 4 of 36
+
+← [First Blood In The Trees](./003-first-blood-in-the-trees.md) | [📖 Contents](../../README.md) | [Antlers In Fog](./005-antlers-in-fog.md) →
+<!-- NAV END -->
+
 # Chapter 4 Draft: Salt Knots
 
 Salt Veyr did not carry the dead first.
@@ -241,3 +247,9 @@ Warning.
 That was how I learned the fourth law of the island.
 
 A debt can keep you alive until someone richer buys it.
+
+
+---
+<!-- NAV START -->
+← [First Blood In The Trees](./003-first-blood-in-the-trees.md) | [📖 Contents](../../README.md) | [Antlers In Fog](./005-antlers-in-fog.md) →
+<!-- NAV END -->

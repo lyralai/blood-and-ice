@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 19 of 36
+
+← [The Second Pit](./018-the-second-pit.md) | [📖 Contents](../../README.md) | [The Crown That Bites](./020-the-crown-that-bites.md) →
+<!-- NAV END -->
+
 # Chapter 19 Draft: Blood Snow
 
 The first blood after the second pit fell without permission.
@@ -231,3 +237,9 @@ The snow kept taking red from both of them.
 He walked toward the trees.
 
 No one sang.
+
+
+---
+<!-- NAV START -->
+← [The Second Pit](./018-the-second-pit.md) | [📖 Contents](../../README.md) | [The Crown That Bites](./020-the-crown-that-bites.md) →
+<!-- NAV END -->

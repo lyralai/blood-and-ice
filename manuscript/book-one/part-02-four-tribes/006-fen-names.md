@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 6 of 36
+
+← [Antlers In Fog](./005-antlers-in-fog.md) | [📖 Contents](../../README.md) | [Khar Vane Demand](./007-khar-vane-demand.md) →
+<!-- NAV END -->
+
 # Chapter 6 Draft: Fen Names
 
 Hollow Antler walked me through fog until the sea became a memory.
@@ -265,3 +271,9 @@ That was how I learned the sixth law of the island.
 Some names do not enter a room.
 
 They arrive, and the room becomes theirs.
+
+
+---
+<!-- NAV START -->
+← [Antlers In Fog](./005-antlers-in-fog.md) | [📖 Contents](../../README.md) | [Khar Vane Demand](./007-khar-vane-demand.md) →
+<!-- NAV END -->

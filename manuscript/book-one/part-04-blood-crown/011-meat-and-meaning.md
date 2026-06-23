@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 11 of 36
+
+← [The Boy Returns Wrong](./010-the-boy-returns-wrong.md) | [📖 Contents](../../README.md) | [The First Restraint](./012-the-first-restraint.md) →
+<!-- NAV END -->
+
 # Chapter 11 Draft: Meat And Meaning
 
 Khar Vane did not carry me like a wounded boy.
@@ -191,3 +197,9 @@ I put my knuckles between my teeth and bit until pain was mine again.
 That was how I learned the eleventh law of the island.
 
 When people make meaning from your wounds, they will keep you bleeding if you let them.
+
+
+---
+<!-- NAV START -->
+← [The Boy Returns Wrong](./010-the-boy-returns-wrong.md) | [📖 Contents](../../README.md) | [The First Restraint](./012-the-first-restraint.md) →
+<!-- NAV END -->

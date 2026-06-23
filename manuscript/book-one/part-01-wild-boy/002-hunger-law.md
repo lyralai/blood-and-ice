@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 2 of 36
+
+← [Black Shore](./001-black-shore.md) | [📖 Contents](../../README.md) | [First Blood In The Trees](./003-first-blood-in-the-trees.md) →
+<!-- NAV END -->
+
 # Chapter 2 Sample: Hunger Law
 
 Maren's people counted while they walked.
@@ -251,3 +257,9 @@ Hunger starts every bargain.
 Debt decides whether it ends.
 
 The cold in my bones had recognized the antler pole and the names that fed the dead. The red under my ribs had wanted to answer with teeth. Both had been held back by a boy who did not yet know his own name was old enough to matter on this shore. The knot she tied felt heavier than it should have.
+
+
+---
+<!-- NAV START -->
+← [Black Shore](./001-black-shore.md) | [📖 Contents](../../README.md) | [First Blood In The Trees](./003-first-blood-in-the-trees.md) →
+<!-- NAV END -->

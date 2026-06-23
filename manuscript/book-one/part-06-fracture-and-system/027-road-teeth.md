@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 27 of 36
+
+← [The Wrapped Spear](./026-the-wrapped-spear.md) | [📖 Contents](../../README.md) | [Vessas Clean Knife](./028-vessas-clean-knife.md) →
+<!-- NAV END -->
+
 # Chapter 27 Draft: Road Teeth
 
 The first road broke before the second storehouse opened.
@@ -195,3 +201,9 @@ The Wound-Guest listened.
 So did Harvek.
 
 "Especially there," I said.
+
+
+---
+<!-- NAV START -->
+← [The Wrapped Spear](./026-the-wrapped-spear.md) | [📖 Contents](../../README.md) | [Vessas Clean Knife](./028-vessas-clean-knife.md) →
+<!-- NAV END -->

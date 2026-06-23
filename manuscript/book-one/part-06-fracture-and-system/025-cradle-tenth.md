@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 25 of 36
+
+← [Hollow Antlers Third Answer](./024-hollow-antlers-third-answer.md) | [📖 Contents](../../README.md) | [The Wrapped Spear](./026-the-wrapped-spear.md) →
+<!-- NAV END -->
+
 # Chapter 25 Draft: Cradle Tenth
 
 Mother Harl did not accept the bargain.
@@ -177,3 +183,9 @@ But every head turned to hear it.
 That was when I understood Maren had taken more than a tenth.
 
 She had taken the counting.
+
+
+---
+<!-- NAV START -->
+← [Hollow Antlers Third Answer](./024-hollow-antlers-third-answer.md) | [📖 Contents](../../README.md) | [The Wrapped Spear](./026-the-wrapped-spear.md) →
+<!-- NAV END -->

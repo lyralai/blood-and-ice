@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 10 of 36
+
+← [Below Hunger](./009-below-hunger.md) | [📖 Contents](../../README.md) | [Meat And Meaning](./011-meat-and-meaning.md) →
+<!-- NAV END -->
+
 # Chapter 10 Draft: The Boy Returns Wrong
 
 No one touched me after I came out.
@@ -193,3 +199,9 @@ The Wound-Guest settled, patient and full.
 That was how I learned the tenth law of the island.
 
 If people kneel to the thing that saved you, you must decide whether to stand as yourself or be worshiped as your wound.
+
+
+---
+<!-- NAV START -->
+← [Below Hunger](./009-below-hunger.md) | [📖 Contents](../../README.md) | [Meat And Meaning](./011-meat-and-meaning.md) →
+<!-- NAV END -->

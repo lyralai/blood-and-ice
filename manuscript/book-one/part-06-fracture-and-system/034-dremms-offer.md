@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 34 of 36
+
+← [The Cradle Reckoning](./033-the-cradle-reckoning.md) | [📖 Contents](../../README.md) | [The Wrapped Call](./035-the-wrapped-call.md) →
+<!-- NAV END -->
+
 # Chapter 34: Dremm's Offer
 
 The snow had begun to bite the counting stone. Thin flakes melted on the boards Maren had left weighted with a salt stone against the wind. The numbers were lower than the last count. The road-sworn had stood the lower spur through two turns of the moon and the small loop had sent reed and eel, but not enough to fill what the pass guards burned keeping the wind off their faces. Three more mouths at the exposed watch needed winter shares that did not exist yet. The small loop was tied. The road-sworn paid living. Winter did not care.
@@ -97,3 +103,8 @@ The pass would hold or it would not. The small would send or they would not. The
 I said my name once more under my breath where only the Guest could hear it. Rook. The small loop. The winter-sworn. The winter price. The count holds. The teeth that asked carry it.
 
 The wind cut. The snow bit the stone. The boards waited for the next numbers. The island was larger than the camps, and the crown had made its own knot walk the part of the road that wanted meat.
+
+---
+<!-- NAV START -->
+← [The Cradle Reckoning](./033-the-cradle-reckoning.md) | [📖 Contents](../../README.md) | [The Wrapped Call](./035-the-wrapped-call.md) →
+<!-- NAV END -->

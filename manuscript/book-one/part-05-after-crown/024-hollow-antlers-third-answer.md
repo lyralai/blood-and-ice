@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 24 of 36
+
+← [The Missing Ear](./023-the-missing-ear.md) | [📖 Contents](../../README.md) | [Cradle Tenth](./025-cradle-tenth.md) →
+<!-- NAV END -->
+
 # Chapter 24 Draft: Hollow Antler's Third Answer
 
 Vessa did not send warriors.
@@ -201,3 +207,9 @@ The mothers lifted their empty cradles and climbed the ridge.
 No one cheered.
 
 That was how I knew the morning mattered.
+
+
+---
+<!-- NAV START -->
+← [The Missing Ear](./023-the-missing-ear.md) | [📖 Contents](../../README.md) | [Cradle Tenth](./025-cradle-tenth.md) →
+<!-- NAV END -->

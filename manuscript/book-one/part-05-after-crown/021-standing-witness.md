@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 21 of 36
+
+← [The Crown That Bites](./020-the-crown-that-bites.md) | [📖 Contents](../../README.md) | [Salt Price](./022-salt-price.md) →
+<!-- NAV END -->
+
 # Chapter 21 Draft: Standing Witness
 
 Morning made the crown worse.
@@ -201,3 +207,9 @@ Just a woman with clean hands making allies ashamed of standing near me.
 The Wound-Guest did not stir.
 
 That frightened me more.
+
+
+---
+<!-- NAV START -->
+← [The Crown That Bites](./020-the-crown-that-bites.md) | [📖 Contents](../../README.md) | [Salt Price](./022-salt-price.md) →
+<!-- NAV END -->

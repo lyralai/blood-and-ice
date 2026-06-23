@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 32 of 36
+
+← [Useful Sacrifice](./031-useful-sacrifice.md) | [📖 Contents](../../README.md) | [The Cradle Reckoning](./033-the-cradle-reckoning.md) →
+<!-- NAV END -->
+
 # Chapter 32 Draft: The Small Tribe Bargain
 
 The runner came up the new road spur three days after the cradle store was named and counted in the open.
@@ -155,3 +161,8 @@ I did not sleep.
 The island was larger than the camps, and the camps were already speaking in more voices under my name. Not just the big four. Now the small ones had a loop. The grandmothers who spoke to the tide. The children who coughed at night. Every new voice that the count had to feed made the center thinner, not stronger, because the ones who already hated the crown could point to every small mouth we had to feed and say the hunger was spreading. The flats would remember who had come to them first with a bargain and who had come with salt and a missing ear and a cut antler in the mud.
 
 I would have to remember faster. The more voices spoke under the name, the more places there were for other hands to reach in before the knot could hold. My hand on the wrapped spear still shook, small and low, long after the pressure had passed. The thing inside had heard the name I gave the small loop. It would use it when it chose.
+
+---
+<!-- NAV START -->
+← [Useful Sacrifice](./031-useful-sacrifice.md) | [📖 Contents](../../README.md) | [The Cradle Reckoning](./033-the-cradle-reckoning.md) →
+<!-- NAV END -->

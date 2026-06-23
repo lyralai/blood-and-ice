@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 36 of 36
+
+← [The Wrapped Call](./035-the-wrapped-call.md) | [📖 Contents](../../README.md) | 
+<!-- NAV END -->
+
 # Chapter 36: The Road's Due
 
 The ice had skinned the black sand for three turnings when the Reed-Bend came again.
@@ -52,3 +58,8 @@ The Wound-Guest had liked the name "the road's due." It had offered the flats as
 Rook.
 
 The cord stayed in my hand until the cold made the reed stiff. One more mouth the count had to feed. One more place a hand could reach before the knot held.
+
+---
+<!-- NAV START -->
+← [The Wrapped Call](./035-the-wrapped-call.md) | [📖 Contents](../../README.md) | 
+<!-- NAV END -->

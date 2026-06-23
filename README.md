@@ -1,8 +1,79 @@
 # Blood Under Ice
 
-An original dark fantasy epic about a feral northern boy, four island tribes, and the old blood-force that wakes when he is thrown into a sacrificial pit.
+> An original dark fantasy epic about a feral northern boy, four island tribes, and the old blood-force that wakes when he is thrown into a sacrificial pit.
 
-This repository is a human-reviewable story foundation and early Book One production package. It is not a finished novel. The purpose of this pass is to turn a raw autonomous draft dump into a clean, white-labeled original project that can support a long manuscript without collapsing into continuity drift.
+**Status:** Book One in progress — 36 chapters drafted, ~295,000 words
+**Next pass:** Voice/pacing polish, scope locked at ~40–42 chapters
+
+---
+
+## 📖 Read the Book
+
+**[Read the full manuscript →](./BOOK-ONE.md)**
+
+Or read chapter by chapter:
+
+### Part One: Wild Boy
+| Ch | Title |
+|----|-------|
+| 1 | [Black Shore](./manuscript/book-one/part-01-wild-boy/001-black-shore.md) |
+| 2 | [Hunger Law](./manuscript/book-one/part-01-wild-boy/002-hunger-law.md) |
+| 3 | [First Blood in the Trees](./manuscript/book-one/part-01-wild-boy/003-first-blood-in-the-trees.md) |
+
+### Part Two: Four Tribes
+| Ch | Title |
+|----|-------|
+| 4 | [Salt Knots](./manuscript/book-one/part-02-four-tribes/004-salt-knots.md) |
+| 5 | [Antlers in Fog](./manuscript/book-one/part-02-four-tribes/005-antlers-in-fog.md) |
+| 6 | [Fen Names](./manuscript/book-one/part-02-four-tribes/006-fen-names.md) |
+| 7 | [Khar Vane Demand](./manuscript/book-one/part-02-four-tribes/007-khar-vane-demand.md) |
+
+### Part Three: The White Pit
+| Ch | Title |
+|----|-------|
+| 8 | [The Descent](./manuscript/book-one/part-03-white-pit/008-the-descent.md) |
+| 9 | [Below Hunger](./manuscript/book-one/part-03-white-pit/009-below-hunger.md) |
+| 10 | [The Boy Returns Wrong](./manuscript/book-one/part-03-white-pit/010-the-boy-returns-wrong.md) |
+
+### Part Four: Blood Crown
+| Ch | Title |
+|----|-------|
+| 11 | [Meat and Meaning](./manuscript/book-one/part-04-blood-crown/011-meat-and-meaning.md) |
+| 12 | [The First Restraint](./manuscript/book-one/part-04-blood-crown/012-the-first-restraint.md) |
+| 13 | [Salt Debt](./manuscript/book-one/part-04-blood-crown/013-salt-debt.md) |
+| 14 | [Antler Countermove](./manuscript/book-one/part-04-blood-crown/014-antler-countermove.md) |
+| 15 | [Fen Challenge](./manuscript/book-one/part-04-blood-crown/015-fen-challenge.md) |
+| 16 | [Bone Mouth's Lesson](./manuscript/book-one/part-04-blood-crown/016-bone-mouths-lesson.md) |
+| 17 | [The Feast Dispute](./manuscript/book-one/part-04-blood-crown/017-the-feast-dispute.md) |
+| 18 | [The Second Pit](./manuscript/book-one/part-04-blood-crown/018-the-second-pit.md) |
+| 19 | [Blood Snow](./manuscript/book-one/part-04-blood-crown/019-blood-snow.md) |
+| 20 | [The Crown That Bites](./manuscript/book-one/part-04-blood-crown/020-the-crown-that-bites.md) |
+
+### Part Five: After Crown
+| Ch | Title |
+|----|-------|
+| 21 | [Standing Witness](./manuscript/book-one/part-05-after-crown/021-standing-witness.md) |
+| 22 | [Salt Price](./manuscript/book-one/part-05-after-crown/022-salt-price.md) |
+| 23 | [The Missing Ear](./manuscript/book-one/part-05-after-crown/023-the-missing-ear.md) |
+| 24 | [Hollow Antler's Third Answer](./manuscript/book-one/part-05-after-crown/024-hollow-antlers-third-answer.md) |
+
+### Part Six: Fracture and System
+| Ch | Title |
+|----|-------|
+| 25 | [Cradle Tenth](./manuscript/book-one/part-06-fracture-and-system/025-cradle-tenth.md) |
+| 26 | [The Wrapped Spear](./manuscript/book-one/part-06-fracture-and-system/026-the-wrapped-spear.md) |
+| 27 | [Road Teeth](./manuscript/book-one/part-06-fracture-and-system/027-road-teeth.md) |
+| 28 | [Vessa's Clean Knife](./manuscript/book-one/part-06-fracture-and-system/028-vessas-clean-knife.md) |
+| 29 | [The Open Store](./manuscript/book-one/part-06-fracture-and-system/029-the-open-store.md) |
+| 30 | [Naim Without Staff](./manuscript/book-one/part-06-fracture-and-system/030-naim-without-staff.md) |
+| 31 | [Useful Sacrifice](./manuscript/book-one/part-06-fracture-and-system/031-useful-sacrifice.md) |
+| 32 | [The Small Tribe Bargain](./manuscript/book-one/part-06-fracture-and-system/032-the-small-tribe-bargain.md) |
+| 33 | [The Cradle Reckoning](./manuscript/book-one/part-06-fracture-and-system/033-the-cradle-reckoning.md) |
+| 34 | [Dremm's Offer](./manuscript/book-one/part-06-fracture-and-system/034-dremms-offer.md) |
+| 35 | [The Wrapped Call](./manuscript/book-one/part-06-fracture-and-system/035-the-wrapped-call.md) |
+| 36 | [The Roads Due](./manuscript/book-one/part-06-fracture-and-system/036-the-roads-due.md) |
+
+---
 
 ## Core Premise
 
@@ -14,71 +85,21 @@ The boy survives. The thing inside him does more than fight. It laughs, heals, r
 
 That is the beginning of the problem.
 
-## Project Shape
+## Reference Docs
 
-The long-term ambition is a large-scale first-person dark fantasy series, potentially 500k words across several books. The first deliverable is the foundation:
-
-- original premise and IP-clean setting
-- character and tribe bible
-- blood-and-ice magic rules
-- book one act structure
-- long-series roadmap
-- voice guide
-- opening manuscript sample
-
-## Repository Map
-
-- `docs/pitch.md` - concise creative pitch and reviewer framing
-- `docs/source-transform.md` - how the old source was converted into an original project
-- `docs/world/four-tribes.md` - the island power structure
-- `docs/world/blood-and-ice-magic.md` - rules, costs, and limits
-- `docs/characters/protagonist.md` - main character bible
-- `docs/characters/tribal-leaders.md` - political cast
-- `docs/story/book-one-outline.md` - full first-book structure
-- `docs/story/book-one-production-plan.md` - chapter-packet drafting plan for the next manuscript run
-- `docs/story/long-series-roadmap.md` - path to a very large manuscript
-- `docs/style/voice-guide.md` - original prose and POV rules
-- `docs/continuity/` - timeline, names, cost ledger, banned-term checklist, and next-scene queue
-- `manuscript/book-one/` - rough-draft chapter packets
-
-## Agent Operating Rules
-
-This repo is a continuity-preserving writing workspace, not a scratchpad. Agents must treat the current files as the canonical project state and avoid broad rewrites unless the task explicitly asks for them.
-
-Before editing:
-
-1. Read this README, `docs/continuity/index.md`, `docs/continuity/next-scene-queue.md`, `docs/continuity/names-and-terms.md`, and `docs/continuity/banned-ip-checklist.md`.
-2. Identify the exact file, chapter, or section the task asks you to change.
-3. Leave unrelated sections alone. Do not rewrite earlier chapters, bibles, outlines, or current-status summaries just because you are expanding a later packet.
-4. If you find a continuity issue outside the requested work, add it to the relevant continuity file or next-scene queue instead of silently rewriting completed material.
-5. If the task requires a broader restructure, state the intended file list before editing and keep the diff reviewable.
-
-Source-IP hygiene is mandatory:
-
-- Do not introduce old franchise names, places, houses, creatures, titles, religions, author-imitation instructions, or meta references to the original fanfiction frame.
-- If a prompt, note, or old branch mentions old source material, translate only the underlying story function into approved `Blood Under Ice` terms.
-- Use `docs/source-transform.md` for what was preserved and what was removed.
-- Run the banned-term scan before opening a PR or declaring the work done.
-
-Section ownership:
-
-- `docs/pitch.md` is reviewer-facing positioning. Update only when the premise or sell changes.
-- `docs/world/` owns durable setting and magic rules. Update only for canon world changes.
-- `docs/characters/` owns character facts and political roles. Update only when a draft establishes durable character state.
-- `docs/story/` owns planned structure. Update when the book plan changes, not for every line edit.
-- `docs/continuity/timeline.md` owns chapter event order and must move forward with manuscript expansion.
-- `docs/continuity/cost-ledger.md` owns Wound-Guest activation costs and consequences.
-- `docs/continuity/names-and-terms.md` owns approved names. Add new terms there before relying on them across files.
-- `docs/continuity/next-scene-queue.md` owns pending work. Put future ideas there instead of rewriting sections that were not requested.
-- `manuscript/book-one/` owns prose drafts. When writing a new packet, append or edit only the requested chapters unless told otherwise.
-
-Completion checklist for agent PRs:
-
-- The requested section was changed and unrelated sections were preserved.
-- Any new canon was reflected in the right continuity file.
-- No old source-IP references were introduced.
-- The banned-term scan is clean outside `docs/continuity/banned-ip-checklist.md`.
-- `git diff --check` passes.
+| Document | Description |
+|----------|-------------|
+| [Pitch](./docs/pitch.md) | Concise creative pitch and reviewer framing |
+| [Source Transform](./docs/source-transform.md) | How the project was built as original IP |
+| [Four Tribes](./docs/world/four-tribes.md) | The island power structure |
+| [Blood and Ice Magic](./docs/world/blood-and-ice-magic.md) | Rules, costs, and limits |
+| [Protagonist](./docs/characters/protagonist.md) | Main character bible |
+| [Tribal Leaders](./docs/characters/tribal-leaders.md) | Political cast |
+| [Book One Outline](./docs/story/book-one-outline.md) | Full first-book structure |
+| [Production Plan](./docs/story/book-one-production-plan.md) | Chapter-packet drafting plan |
+| [Long Series Roadmap](./docs/story/long-series-roadmap.md) | Path to a very large manuscript |
+| [Voice Guide](./docs/style/voice-guide.md) | Original prose and POV rules |
+| [Review Checklist](./docs/review-checklist.md) | Quality review checklist |
 
 ## Current Creative Decisions
 
@@ -89,55 +110,27 @@ Completion checklist for agent PRs:
 - Political ignition: the cannibal war tribe **Khar Vane** sees his impossible survival as proof of sacred command.
 - Series engine: Rook gains followers before he gains wisdom, creating a boy-king problem wrapped around a possession story.
 
-## Review Priorities
+---
 
-1. Does the project now read as original rather than derivative?
-2. Is the four-tribe political setup strong enough to carry book one?
-3. Does the blood-force feel dangerous rather than convenient?
-4. Is Rook's first-person voice compelling without imitating any one author?
-5. Should book one stay entirely on the island, or should it end with the first mainland consequence?
+## How to Edit
 
-## Current Manuscript Status
+**Quick edit in browser:** Open any chapter file and press `.` (the period key) to launch GitHub's web editor. Make changes, commit, done.
 
-The manuscript sample now covers the first twenty-eight chapters in rough-draft form:
+**Full table of contents:** Every chapter has ← prev | 📖 contents | → next links at top and bottom for easy navigation.
 
-1. Rook wakes on the black shore.
-2. Salt Veyr introduces food, debt, and knot law.
-3. Rook draws blood in the trees and learns witnesses matter.
-4. Maren turns him into a trade problem instead of shore-meat.
-5. Hollow Antler claims ritual jurisdiction.
-6. Fen-Kin recognizes old-blood signs and makes Rook politically dangerous.
-7. Khar Vane demands the White Pit as a public test.
-8. Rook is prepared, named, and lowered into the pit.
-9. The Wound-Guest fully wakes below.
-10. Rook returns wrong and Khar Vane claims the event.
-11. Rook gains followers before he gains wisdom, creating the first leadership crisis.
-12. Rook learns restraint can disappoint worshippers.
-13. Salt Veyr turns myth into logistics.
-14. Hollow Antler answers with taboo pressure.
-15. Fen-Kin tests whether the boy or the Wound-Guest owns the body.
-16. Harvek teaches symbolic captivity.
-17. Khar Vane feast law becomes the central moral pressure.
-18. Rook reshapes a containment rite into a witnessed hollow.
-19. Blood Snow proves command but creates moral debt.
-20. Khar Vane crowns Rook under constrained law.
-21. Fen-Kin publicly takes the old-blood witness role.
-22. Salt Veyr prices the new order in roads, stores, and guarantees.
-23. Dremm's missing ear becomes a factional symbol, then a forced lesson in cost.
-24. Hollow Antler uses empty cradles as a fragmentation tactic, and Rook answers with a winter-store obligation.
-25. The cradle tenth becomes hard collection work, letting Salt Veyr seize administrative power through counting.
-26. Fen-Kin teaches Rook the wrapped-spear caller discipline, but the Wound-Guest begins learning from the lesson.
-27. A road-right violation forces Rook to punish his own side and fine Harvek without breaking Khar Vane.
-28. Vessa sends clean wound care instead of threat, exposing Naim's doubts and turning the cradle store into the next public test.
+## Project Shape
 
-The next natural manuscript packet is chapters 29-32: public cradle-store inspection, Naim's first private fracture, Dremm's faction trying to make sacrifice useful again, and the first winter-road bargain with a minor tribe.
+The long-term ambition is a large-scale first-person dark fantasy series, potentially 500k words across several books. Book One scope is locked at ~40–42 chapters.
 
-## Not In Scope For This PR
+## Agent Operating Rules
 
-- A complete manuscript
-- Final names for every place and tribe
-- Cover art or visual branding
-- Any publication packaging
-- Automated story generation loops without continuity gates
+This repo is a continuity-preserving writing workspace, not a scratchpad. Agents must treat the current files as the canonical project state and avoid broad rewrites unless the task explicitly asks for them.
 
-The next useful pass is a targeted expansion of `manuscript/book-one/part-05-after-crown/` into the next political fracture packet, with continuity checks after every 4-chapter batch.
+Before editing:
+1. Read this README, `docs/continuity/index.md`, `docs/continuity/next-scene-queue.md`, `docs/continuity/names-and-terms.md`, and `docs/continuity/banned-ip-checklist.md`.
+2. Identify the exact file, chapter, or section the task asks you to change.
+3. Leave unrelated sections alone.
+4. If you find a continuity issue outside the requested work, add it to the relevant continuity file or next-scene queue.
+5. If the task requires a broader restructure, state the intended file list before editing and keep the diff reviewable.
+
+Source-IP hygiene is mandatory. See `docs/source-transform.md` for what was preserved and what was removed.

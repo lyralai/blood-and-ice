@@ -1,3 +1,9 @@
+<!-- NAV START -->
+**Blood Under Ice** — Chapter 9 of 36
+
+← [The Descent](./008-the-descent.md) | [📖 Contents](../../README.md) | [The Boy Returns Wrong](./010-the-boy-returns-wrong.md) →
+<!-- NAV END -->
+
 # Chapter 9 Draft: Below Hunger
 
 I do not remember the first scream.
@@ -159,3 +165,9 @@ What came out was laughter.
 That was how I learned the ninth law of the island.
 
 Survival is not innocence.
+
+
+---
+<!-- NAV START -->
+← [The Descent](./008-the-descent.md) | [📖 Contents](../../README.md) | [The Boy Returns Wrong](./010-the-boy-returns-wrong.md) →
+<!-- NAV END -->
