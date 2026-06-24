@@ -4,11 +4,24 @@
 
 ---
 
-## Format
+## Format & POV
 
-**First-person present tense. Immersive. No narrator looking back.**
+**Primary POV: First-person present tense (Rook). Immersive. No narrator looking back.**
 
 The reader IS Rook. Every sensation is felt now. Every choice is made blind. No safety net of reflection.
+
+**Multiple POVs allowed.** Not every chapter must be Rook. Other characters can carry chapters when:
+- Rook is absent from a scene that matters (political maneuvering between tribes)
+- A scene is more powerful seen from outside Rook (someone watching the Wound-Guest take over)
+- A character's interiority reveals something the plot needs (Maren calculating, Harvek planning, Vessa's fear)
+- It creates dramatic irony (the reader knows something Rook doesn't)
+
+**Secondary POV rules:**
+- Any non-Rook POV is also first-person present tense (consistency of format)
+- Each POV character must have a distinct voice — Maren thinks in calculations, Dremm in hungers, Vessa in old words
+- The POV switch must be obvious within the first sentence (named character, their context)
+- Rook should carry at least 70% of the book's chapters — he is the spine
+- The Wound-Guest never gets its own POV. It is only ever felt from inside someone else
 
 ---
 
@@ -19,7 +32,7 @@ The reader IS Rook. Every sensation is felt now. Every choice is made blind. No 
 Emotion is physical. Always. The reader feels the fist before they understand the politics.
 
 - Body first: hands shake, jaw locks, stomach drops, vision narrows
-- Short sentences in crisis. Longer sentences when dread accumulates
+- Sentence length follows emotion: short and sharp in crisis, longer and layered when dread accumulates or understanding deepens. Not everything is short — Rook is capable of complex thought when the moment allows
 - Every chapter ends on a hook — a question, a revelation, a threat
 - Momentum above all. The reader should never want to put the book down
 
@@ -118,12 +131,12 @@ A line that is beautiful but does nothing is the most dangerous kind of line in 
 
 ## Sentence Rhythm
 
-- **Crisis mode:** Short. Punchy. Physical. One-sentence paragraphs allowed.
+- **Crisis mode:** Short, sharp sentences. Physical. One-sentence paragraphs allowed. But not uniform — even in crisis, a longer sentence can hit harder by contrast
 - **Dread mode:** Longer sentences that accumulate weight. The rhythm should feel like something building.
-- **People mode:** Natural, varied. Character voice drives the rhythm. Political scenes breathe.
+- **People mode:** Natural, varied. Character voice drives the rhythm. Political scenes breathe. This is where longer, complex sentences earn their place.
 - **Horror mode:** Slow. Deliberate. Long sentences that hold the reader in the moment too long, then a short sentence that hits like a door slamming.
 
-**Rule:** If every paragraph is the same rhythm, the reader goes numb. Vary the tempo intentionally.
+**Rule:** If every paragraph is the same rhythm, the reader goes numb. Vary the tempo intentionally. Short sentences are a tool, not a default — use them for impact, not habit.
 
 ---
 
@@ -141,14 +154,15 @@ A line that is beautiful but does nothing is the most dangerous kind of line in 
 
 When revising a chapter, check:
 1. Is it first-person present tense with no narrator reflection?
-2. Is every emotion physical (Brown)?
-3. Do metaphors recur and deepen (Rothfuss)?
-4. Are characters contradictory and surprising (Martin)?
-5. Does the horror come from meaning, not jump scares (Lovecraftian)?
-6. Does magic only solve problems the reader understands (Sanderson 1st)?
-7. Are limitations shown before powers (Sanderson 2nd)?
-8. Is the magic going deeper, not wider (Sanderson 3rd)?
-9. Does every scene do 2+ jobs (Sanderson 4th)?
-10. Does every line advance, reveal, plant, establish, or deepen?
+2. If non-Rook POV, is the voice distinct and the switch clear?
+3. Is every emotion physical (Brown)?
+4. Do metaphors recur and deepen (Rothfuss)?
+5. Are characters contradictory and surprising (Martin)?
+6. Does the horror come from meaning, not jump scares (Lovecraftian)?
+7. Does magic only solve problems the reader understands (Sanderson 1st)?
+8. Are limitations shown before powers (Sanderson 2nd)?
+9. Is the magic going deeper, not wider (Sanderson 3rd)?
+10. Does every scene do 2+ jobs (Sanderson 4th)?
+11. Does every line advance, reveal, plant, establish, or deepen?
 
 If any answer is no, the chapter is not done.
