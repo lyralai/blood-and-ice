@@ -1,131 +1,93 @@
 # Chapter 2: Hunger Law
 
-He stayed in the crack for three days.
+I stay in the crack three days.
 
-Not because he wanted to. Because the body wouldn't move. The leg had swollen and the skin around the cut had gone from red to a color he didn't have a name for — dark, hot, tight. When he touched it the heat pushed back.
+Not by choice. The body will not move. The leg has swollen, and the skin around the cut has gone a color I have no name for — dark, hot, tight, pushing back when I press it.
 
-Thirst he could solve. The seep was ten steps away. He crawled to it, drank, crawled back. The water came slow but it came. He could live on that.
-
-Food was different.
+Thirst I can answer; the seep is ten steps and a crawl. Food is another country.
 
 ---
 
-The hunger started on the second day. Not in the stomach — in the head. A fog. His thoughts, which were already thin and few, got thinner. He'd pull himself out of the crack to drink and the walk to the seep seemed longer each time. The rock blurred at the edges.
+The hunger starts on the second day, and it does not start in the belly. It starts in the head. A fog. My thoughts are few to begin with, and the fog thins them to almost nothing. Each crawl to the water is longer than the last. The rock blurs at its edges.
 
-By the third day the fog was everything. He couldn't feel the cold anymore. That should have scared him. It didn't. Nothing scared him. The fog ate fear too.
+By the third day the fog is everything, and I cannot feel the cold. That should frighten me. It doesn't. Nothing does. The fog eats fear along with the rest.
 
-He knew — in the body, not in words — that if he stayed in the crack he would die there. Warm stone or not. The body was running out of whatever made it go.
+There are two hungers in me, and I am slow to learn they are not the same. One is for meat. The other has no belly to sit in. It wakes when there is nothing breathing near me — no voice, no hand, no other warmth in the dark. The cage used to keep it full with cruelty, so that I never had to feel the edges of it. Here there is no one to fill it at all. It opens in me like a second mouth, and it does not close, and the meat-hunger I can maybe answer — but that other one I cannot, and I am beginning to understand it is the one that takes a man last and surest.
 
-He pulled himself out.
-
----
-
-The shore had things on it. He'd seen them without seeing them. Now the hunger made him look.
-
-Black rock split by tide pools. Shallow — ankle deep at most. In each pool: life. Green slime on the rocks. Things that moved — small, fast, leggy, hiding under ledges when his shadow crossed the water. Fish the length of his finger, clear, almost invisible against the stone.
-
-He caught one with his hands.
-
-It took an hour. The fish were fast and the water was cold and his hands were slow. But the hunger made him patient in a way the cold couldn't. He lay on the rock above a pool and didn't move. He waited. When a fish drifted close enough he drove his hand into the water and closed his fingers and held on even though the thing thrashed and the cold shot up his arm and his grip wanted to open.
-
-He had it.
-
-He bit into it while it was still alive.
-
-The taste was good and wrong at the same time. The flesh was cold and slick and it fought his teeth. He chewed through bones and skin and the tail flipped against his chin and he didn't care. He ate the whole thing.
-
-Then he caught another.
-
-Then he was sick.
+I pull myself out of the crack. One mouth at a time. The near one first.
 
 ---
 
-The sickness came fast. His stomach seized and he vomited the fish back onto the black rock and the vomit was mostly blood and bile and pieces of half-chewed bone. His throat burned. His guts twisted. He lay on the rock and shook and the shaking was different from the cold-shaking — this came from inside, from somewhere deep in the belly, and it was worse.
+The shore has things on it. I have seen them without seeing. The hunger makes me look.
 
-He didn't know why. Raw fish. Bones. Something in the gut that wasn't right. He didn't know about parasites or bacteria or the specific dangers of eating raw whatever-this-was. He just knew: ate the fish, now dying.
+Tide pools, ankle-deep, set into the black rock. In each one, life. Green slime. Small leggy things that bolt under the ledges when my shadow crosses the water. Fish the length of a finger, clear as glass against the stone.
 
-He wasn't dying. But he didn't know that. He lay on the rock for a long time and the sickness eventually passed and he was weaker than before and the hunger was still there.
+I take one with my hands. It costs an hour. I lie on the rock above a pool and go still — the hunger makes me patient where the cold never could — and when a clear shape drifts close I drive my hand down and shut my fingers and hold on, though it thrashes and the cold shoots up my arm and my grip begs to open.
 
----
+I have it. I bite into it while it still kicks. The taste is good and wrong at once, cold and slick, fighting my teeth. I eat the whole of it — bones, skin, the tail flicking my chin — and I do not care, and I reach for another.
 
-He watched the birds.
-
-There were birds on the island. Small, dark, fast. They landed on the tide pools and picked at things. He watched what they ate and what they avoided.
-
-They ate the green slime. They ate the small leggy things under the rocks. They did not eat the clear fish. They avoided the pools where the water was stagnant and dark.
-
-He copied them.
-
-The green slime tasted like salt and decay and nothing else. But it stayed down. The small leggy things — crabs, he would learn much later, though the word meant nothing to him — he cracked them against the rock and pulled the legs off and sucked the meat out and that stayed down too.
-
-Not enough. Not even close. But something.
-
-He followed the birds for two days. When they moved, he moved. When they ate, he ate what they ate. When they flew away, he stayed low and watched where they landed.
-
-The birds knew things he didn't. They knew which pools were safe and which tide edges had the best picking and where the fresh water seeped from the cliff in places he hadn't found yet. They were his teachers. They didn't know it.
+Then I am sick.
 
 ---
 
-The tide taught him next.
+It comes fast. My stomach knots and I bring the fish back up onto the black rock, mostly blood and bile and half-chewed bone. My throat burns. My guts wring themselves out. I lie there and shake, and this shaking comes from inside, from somewhere deep and wet, and it is worse than the cold ever was.
 
-The water came in and the water went out. When it went out, the rock was wet and the pools were full and the leggy things were trapped in the low places. When it came in, the pools disappeared and the waves broke and everything moved.
-
-He learned the rhythm. Not by counting — he couldn't count, not in the way that uses numbers. By the body. By the light on the water. By the way the wind shifted when the tide was turning. The body knew patterns. It remembered them the way it remembered pain.
-
-Low tide was when he ate. The rest of the time he stayed in the crack and conserved.
-
-He found that the best pools were the ones furthest from the water line. The ones that only emptied on the lowest tides. Those pools had bigger things in them — darker crabs, thicker slime, sometimes a fish that wasn't the clear kind. A fish with color. Orange-brown. It tasted different. It stayed down.
-
-He ate the orange-brown fish and he was not sick and the hunger pulled back one step.
+*Ate the fish. Now dying.* That is the whole of what I know. I have no word for the thing that lives in bad meat and turns on you; I only know it has turned. I am not dying. But I don't know that, so I lie on the rock and wait to — and when I don't, I am only weaker, and the hunger is still there. Both mouths of it.
 
 ---
 
-The leg got worse before it got better.
+So I watch the birds.
 
-He didn't look at it for two days. When he finally did, the cut had sealed — but the skin around it was still swollen and hot. The color was changing. Yellow at the edges.
+Small, dark, quick, they drop onto the pools and pick and choose. I watch what they take and what they leave. They eat the green slime. They eat the small leggy things under the rock. They will not touch the clear fish. They keep well clear of the dark, still pools where the water sits and stinks.
 
-He didn't know about infection. He didn't know about wounds. He knew: the leg was hot, the leg was wrong, the leg was getting worse.
+I do what the birds do.
 
-He washed it at the seep. Cold clear water on the hot swollen skin. He did this over and over. The water was very cold — colder than the air, colder than the sea. It hit the hot skin and the skin reacted and the swelling pulled back. A little.
-
-He kept washing it.
-
-On the fourth day he noticed the cut was smaller. Not just sealed — smaller. The edges had pulled together. The yellow was fading. The heat was fading.
-
-Fast. Too fast.
-
-He'd seen wounds before. On the ship. On the bodies around him in the cage. Cuts like this took weeks to close. He knew that the way he knew the stone was warm — not in words, in the accumulated evidence of a body that had been hurt before and had watched other bodies hurt and had learned the timeline of damage.
-
-This was wrong. The leg was healing in days what should have taken weeks.
-
-He looked at his hands. The cuts from the sharp rock — the ones from crawling on the shore that first day — those were closed too. Clean, pink, new skin where the gashes had been. As if they were a week old.
-
-They were three days old.
-
-He didn't have words for what this meant. He didn't have a framework. He looked at his healing hands and his healing leg and the warm stone and he felt the wrongness of it and the wrongness had no name.
-
-He filed it where the body files things that don't make sense: in the back. Behind the hunger and the cold and the pain. He would come back to it. Not now.
-
-Now he needed to eat.
+The slime tastes of salt and rot and stays down. The leggy things — I crack them on the rock, pull the legs, suck out what little is in them — stay down too. Not enough. Not near enough. But the birds have lived here longer than me and have not died of it, and I am not too proud to be schooled by a bird. I follow them two days. When they move, I move. When they eat, I eat what they ate. They do not know they are teaching me. If they knew, I think they would stop.
 
 ---
 
-The crabs were getting harder to find. He'd cleaned out the pools closest to his crack. The closest ones with anything left were a long walk down the shore — far enough that the round trip took most of the low tide.
+The tide teaches me next.
 
-He needed more.
+Water in, water out. When it goes, the pools fill and the leggy things are caught in the low places. When it comes, the pools vanish and everything runs. I learn the rhythm — not by counting, I have no numbers — but by the body: the light on the water, the turn of the wind when the sea is about to change its mind.
 
-He started watching the shore the way he'd watched the birds. Not looking for food — looking for patterns. Where the water left things. When the seaweed washed up and what lived in it. Where the small things ran when the tide came in.
+Low water is when I eat. The rest I spend in the crack, banking what little heat and strength I have.
 
-He found the eel grass. Beds of it in a shallow cove where the water was calm. The grass was tough and salty and tasted like rope. But things lived in it — small eels, thin and dark, that hid in the roots. He pulled the grass apart and the eels bolted and he caught two with his hands.
+The best pools are the farthest out, the ones that bare themselves only on the lowest tides. They hold bigger things — darker crabs, and a fish that is not the clear kind but colored, orange-brown, fatter, that tastes of something and stays down. I eat the colored fish and I am not sick, and the meat-hunger gives one step backward. Only one. But it is the first ground I have taken from anything since I woke, and I take it.
 
-They were better than the crabs. More meat. More fat. The sickness didn't come.
+---
 
-He ate eels and crabs and green slime and the orange-brown fish when the low tide exposed the deep pools. He ate what the birds ate and then he ate what the birds didn't know about. He learned.
+The leg gets worse before it turns.
 
-The hunger didn't go away. It pulled back. It became a thing he carried instead of a thing that carried him. Manageable. Present. The body's price for being alive.
+I do not look at it for two days. When I do, the cut has sealed — but the skin around it is still swollen and hot, and at the edges it has gone yellow. I do not know the word for what lives in a wound and feeds there. I know the leg is hot, and the leg is wrong.
 
-He could eat. He could drink. He could stay in the crack at night and the stone would be warm and he would sleep without dreams.
+I wash it at the seep. Cold clear water over the hot skin, again and again. The water is colder than the air, colder than the sea, and where it runs the swelling pulls back a little. I keep at it.
 
-He was surviving.
+On the fourth day the cut is smaller. Not just closed — smaller. The edges have drawn together. The yellow is fading. The heat is going out of it.
 
-It was not enough.
+Too fast.
+
+I have seen wounds. On the ship, on the bodies packed around me in the dark, I watched cuts like this take weeks — watched some of them never close at all, only widen and stink until the body around them went still. I know the slow arithmetic of damage the way I know the warm stone: not in words, in the long evidence of a body that has been hurt, and has watched others be hurt, and has counted how long the hurt is supposed to last.
+
+This is wrong by that count. The leg is mending in days what should have eaten weeks.
+
+I look at my hands. The gashes the sharp rock opened that first day are gone — closed to clean pink lines, a week healed. They are three days old.
+
+I have no frame to set this in. So I put it where the body puts what it cannot use yet: on a shelf at the back, behind the cold and the hunger and the pain. The breath that will not smoke. The stone that should be cold and is not. The wounds that close too soon. A small dark shelf of wrong things, all of a kind I cannot name. I will come back to it.
+
+Not now. Now I need to eat.
+
+---
+
+The crabs near the crack run thin. I have cleaned the close pools out; the nearest with anything left is a long walk down the shore, far enough that the round trip eats most of the low tide.
+
+So I widen. I watch the shore the way I watched the birds — not for food, for pattern. Where the sea sets things down. What lives in the weed it throws up. I find the eel grass in a calm cove, tough and salt and tasting of rope, and in its roots the thin dark eels that bolt when I tear the grass apart. I take two with my hands. More meat than the crabs. More fat. No sickness after.
+
+I eat eels and crabs and slime and the colored fish when the low tide bares the deep pools. I eat what the birds eat, and then I eat what the birds never found. I learn.
+
+The meat-hunger does not leave. It pulls back. It becomes a thing I carry instead of a thing that carries me — present, mine, the body's rent for staying alive.
+
+The other mouth, the second one, does not pull back at all.
+
+I can feed myself now. I can drink. I can hold the warm dark around me at night and sleep without dreams. By every measure the cage taught me, I am winning.
+
+It is not enough. And I am starting to see it was never going to be.
