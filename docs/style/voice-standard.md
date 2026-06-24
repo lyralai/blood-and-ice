@@ -155,7 +155,7 @@ A line that is beautiful but does nothing is the most dangerous kind of line in 
 - **Red Rising engine** — propulsive first-person intensity, emotional gut-punches, rising from nothing
 - **Game of Thrones world** — moral complexity, real consequences, factions that make sense, no one is safe
 - **Kingkiller Chronicle prose** — beautiful, intimate, layered. Magic that feels deep. The gap between myth and man
-- **The series spine:** Beast → Boy → The Thing Between. Every voice choice serves this arc
+- **The series spine:** Boy → Beast → Great Man. Every voice choice serves this arc
 
 ---
 

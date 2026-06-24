@@ -103,9 +103,9 @@ Example direction:
 
 > They did not look at my face. They looked at the blood drying on me, as if it had spoken better than I had.
 
-### Stage 4: The Thing Between (Book 3 late)
+### Stage 4: Great Man (Book 3 late)
 
-Rook holds both beast and boy. The voice synthesizes — capable of violence and beauty in the same breath.
+Rook holds both beast and boy. He has become the great man — not because he left the beast behind, but because he mastered it. The voice synthesizes — capable of violence and beauty, wisdom and hunger, in the same breath.
 
 Example direction:
 

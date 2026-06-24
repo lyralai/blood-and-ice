@@ -2,7 +2,7 @@
 
 **Last updated:** 2026-06-24  
 **Status:** Scaffolding (good enough to write from, not locked stone)  
-**Series spine:** Beast → Boy → The Thing Between  
+**Series spine:** Boy → Beast → Great Man  
 **Genre:** Epic fantasy with visceral literary prose  
 **Tonal anchors:** Red Rising urgency · Game of Thrones density · Kingkiller Chronicle craft  
 **POV:** First-person present tense, Rook  
@@ -306,7 +306,7 @@
 #### Chapter 16: The Reckoning
 - Rook confronts what he's become. Not the ghost on the rocks. Not the boy from the ship. Not the king. The thing between.
 - The Red settles. Not defeated — accepted. The boy didn't win. The beast didn't win. They both survived.
-- **Voice note:** Thematic resolution of Book 2's central question. Neither beast nor boy — the thing between. But unstable. Unfinished.
+- **Voice note:** Thematic resolution of Book 2's central question. He is the beast — but the boy isn't dead. The tension doesn't resolve. It escalates into Book 3.
 
 #### Chapter 17: The Island Remade
 - Political aftermath. The order holds — barely — through living debt, Fen check, Salt logistics. Not through myth.
@@ -424,7 +424,7 @@
 
 #### Chapter 13: The Island United
 - The four tribes under one crown. Not through myth — through systems, law, the Fen check, Salt logistics, and the thing Rook has become.
-- The order holds because it's built on the combination: beast strength + boy wisdom + the thing between.
+- The order holds because it's built on the combination: what the beast gave him (strength, instinct, the Red) and what the man became (law, systems, leadership, the will to hold both).
 - **Voice note:** Resolution. Political, emotional, thematic.
 
 #### Chapter 14: The World Arrives
@@ -454,7 +454,7 @@
 - **The thing between:** thematic culmination — not compromise but synthesis
 - **The girl:** from recognition to partnership to the anchor that holds him together
 - **The world:** expands from island to mainland, setting up the long series
-- **Satisfying close:** the arc completes (beast → boy → the thing between) while opening the door to more
+- **Satisfying close:** the arc completes (boy → beast → great man) while opening the door to more
 
 ---
 
@@ -496,4 +496,4 @@
 
 ---
 
-*This is scaffolding. Good enough to write from. Not locked stone. The chapters will shift, merge, split, and surprise us. But the spine holds: beast → boy → the thing between.*
+*This is scaffolding. Good enough to write from. Not locked stone. The chapters will shift, merge, split, and surprise us. But the spine holds: boy → beast → great man.*
