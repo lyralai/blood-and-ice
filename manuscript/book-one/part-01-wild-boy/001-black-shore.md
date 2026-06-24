@@ -56,11 +56,9 @@ Then I find the fish.
 
 Dried strips wrapped in oilskin, tied against his skin under his shirt like a secret. Like something he was keeping safe. The smell fills my mouth so fast my jaw aches and my stomach clenches like a fist around nothing, around less than nothing, around a hollow that has been hollow for three days.
 
-I eat too fast and throw half of it onto the stones.
+I eat too fast. Half of it comes back. I wait for the shaking to stop, then I eat the rest — slower, quieter, the way a dog eats when it has been beaten for eating.
 
-I look at the vomited fish on the black rock. I pick it up and eat it again.
-
-The shame of this will live in me longer than any wound I receive on this island. I do not know that yet. I know only the eating, and the eating is the best thing I have ever felt — better than the warmth, better than the cold stopping, better than the fact of being alive.
+The shame of this sits in my throat like a bone. But the Red does not care about shame. It is warm and full and quiet now, and that quietness bothers me more than anything it has done so far, because hunger that finishes eating and goes to sleep is hunger that will wake again.
 
 Something watches me eat.
 
