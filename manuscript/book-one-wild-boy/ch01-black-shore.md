@@ -112,7 +112,7 @@ This was different. This was open. This was the whole gray world and nothing in 
 
 He stood there for a long time. The wind pushed. He didn't move.
 
-Something in him — not a thought, not a word, something deeper, something in the blood — said *this is where you were supposed to come.* Not the island. The rock. This specific black stone under his feet. As if the stone had been waiting. As if something in his blood recognized something in the ground and they fit together the way a key fits a lock that hasn't been opened in a very long time.
+Something in him — not a thought, not a word, something deeper, something in the blood — said *this is where you were supposed to come.* Not the island. The rock. This specific black stone under his feet. As if the stone had been waiting. As if the warmth was an answer to a question his blood had been carrying without knowing it.
 
 The feeling lasted two breaths. Then the wind cut through it and he was cold and his leg hurt and his mouth tasted like iron and salt.
 

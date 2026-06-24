@@ -156,6 +156,7 @@ A line that is beautiful but does nothing is the most dangerous kind of line in 
 - **Game of Thrones world** — moral complexity, real consequences, factions that make sense, no one is safe
 - **Kingkiller Chronicle prose** — beautiful, intimate, layered. Magic that feels deep. The gap between myth and man
 - **The series spine:** Boy → Beast → Great Man. Every voice choice serves this arc
+- **Rook's driving goal:** Belonging. A stolen child who goes feral because everyone left. Every chapter: reaching toward connection or the beast pulling toward isolation. The engine that never stops
 
 ---
 

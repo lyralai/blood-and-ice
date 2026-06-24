@@ -15,7 +15,9 @@
 **Premise:** A feral boy washes up alone on a hostile ice island and becomes its apex predator — until being human gets him caught.  
 **Target length:** ~70-90k words  
 **The Red:** Dormant. Hints only — cold doesn't bite him the way it should, wounds close faster than they ought. Never named, never surfaces. The reader feels something wrong but can't identify it yet.  
+**Driving goal:** Belonging. A stolen child who goes feral because everyone left. Everything he does — the hunting, the killing, the crown, the war — is a lost kid trying to build a family the world keeps taking away. The beast doesn't need anyone. That's the threat.
 **Arc:** Boy goes beast → girl pulls him toward human → caught between both → captured before the question resolves.  
+**Scale:** Incredible on one island. Meaningless in the grand scheme. Promise, not greatness — like Darrow at the end of Red Rising.  
 **Timeline:** Rook is ~12-13. Spans roughly a year and a half to two years on the island alone.
 
 ---
@@ -174,18 +176,20 @@
 
 ### BOOK ONE — WHAT IT DELIVERS
 
+- **Driving goal seeded:** Belonging. He's a stolen kid. The island is the deepest alone a person can be. The crack in the cliff is the first home he chose. The girl is the first person who stayed. The capture rips it all away.
 - **Survival engine:** helplessness → competence → mastery (Tarzan bones, different blood)
-- **Emotional core:** first love as recognition, not romance
+- **Emotional core:** first love as recognition, not romance — she sees him, he lets himself be seen
 - **The legend:** built kid by kid, story by story
 - **The Red:** seeded but never surfaced — reader knows something is off but can't name it
-- **The cliffhanger:** captures him at his most human, sets up Book 2's pits
-- **Thematic resolution:** the boy who became a beast, briefly touched by humanity, captured because he reached back toward it
+- **Scale:** Small. He's incredible on one frozen rock and nobody in the wider world knows or cares. Like Darrow at the end of the Institute — promising, dangerous, not great yet. The seeds (cold resistance, fast healing, the thing in the blood) hint at a bigger stage he can't see yet.
+- **The cliffhanger:** captures him at his most human, sets up Book 2's pits. Everything he built — gone in one net. Property again.
+- **Thematic resolution:** the boy who became a beast because there was no one to stay human for, briefly pulled back by a girl who stayed, captured because he reached toward connection. The beast doesn't need anyone. That's the tragedy.
 
 ---
 
 ## BOOK TWO: THE RED
 
-**Premise:** The pits make beasts of men. Rook is already halfway there. The Red finishes the job — but the girl planted something the pits can't kill.  
+**Premise:** The pits make beasts of men. Rook is already halfway there. The Red finishes the job — but Yara planted something the pits can't kill.  
 **Target length:** ~80-100k words  
 **The Red:** Awakens. Rook is the first host in thousands of years because he's already crossed over — there's no wall between boy and beast for the Red to hit. It flows in through the gap.  
 **Arc:** Captive → the Red wakes → beast vs boy → the crown → the war for the island → the thing he becomes.  
@@ -221,7 +225,7 @@
 
 #### Chapter 4: The First Restraint
 - Rook has a chance to kill someone who deserves it. The Red wants it. The beast in him wants it.
-- He stops. Not because he's good — because the girl's voice is in his head. A word. A name. The memory of being seen.
+- He stops. Not because he's good — because Yara's voice is in his head. A word. A name. The memory of being seen.
 - The restraint costs him. Dremm sees it as betrayal. Some followers lose faith.
 - **Voice note:** The first time the Red and the boy are in conflict. The prose should feel like two hands pulling in different directions.
 
@@ -274,12 +278,12 @@
 - Rook in the pits: the Red is strongest here. Violence feeds it. The boy loses ground.
 - **Voice note:** This is where Book 2 earns its name. The pits should be brutal, dehumanizing, and thematically dense.
 
-#### Chapter 12: The Girl in the Wreckage
+#### Chapter 12: Yara in the Wreckage
 - The girl makes contact. Real contact — not offerings on rocks, but a conversation. A choice.
 - She sees what the Red is doing to him. She names it. She's not afraid of the beast — she's afraid of what the beast will leave.
 - The thread of humanity: she pulls. The Red pushes. Rook is between them.
 - **Voice note:** Intimate. Quiet in the middle of noise. Two people who met as ghost and believer, now as monster and anchor.
-- **End of Act 2:** The Red is winning. The pits are working. The boy is losing ground. But the girl planted something and it won't die.
+- **End of Act 2:** The Red is winning. The pits are working. The boy is losing ground. But Yara planted something and it won't die.
 
 ---
 
@@ -299,12 +303,12 @@
 - **Voice note:** The climax of the Red vs boy tension. The prose should feel like a body tearing itself apart.
 
 #### Chapter 15: The Fracture
-- The cost lands. Someone breaks — Naim (a Hollow Antler ally who's been doubting), Dremm (the believer who feels betrayed), or the girl (who sees how close it came).
+- The cost lands. Someone breaks — Naim (a Hollow Antler ally who's been doubting), Dremm (the believer who feels betrayed), or Yara (who sees how close it came).
 - The fracture is paid publicly. Witnesses. Consequences.
 - **Voice note:** Quiet after the storm. The damage assessment.
 
 #### Chapter 16: The Reckoning
-- Rook confronts what he's become. Not the ghost on the rocks. Not the boy from the ship. Not the king. The thing between.
+- Rook confronts what he's become. Not the ghost on the rocks. Not the boy from the ship. Not the king. The beast — with a boy still alive inside, refusing to die.
 - The Red settles. Not defeated — accepted. The boy didn't win. The beast didn't win. They both survived.
 - **Voice note:** Thematic resolution of Book 2's central question. He is the beast — but the boy isn't dead. The tension doesn't resolve. It escalates into Book 3.
 
@@ -318,7 +322,7 @@
 - The first external signal. A runner, a token, a rumor from the mainland. Someone has heard of "the pit that answers with laughter" or "the blood that woke on the black isles."
 - The island is no longer isolated. The world is coming.
 - **Cliffhanger:** Rook holds the island. The Red is part of him. The world knows he exists. And the cold — his family's cold — is stirring in his blood alongside the Red.
-- **End of Book 2:** He is the thing between. And the thing between is what the world has been waiting for. Or fearing.
+- **End of Book 2:** He is the beast. But the boy isn't dead. And the world is waking up to what he is.
 
 ---
 
@@ -329,17 +333,17 @@
 - **Beast vs boy:** the central tension, paid in full
 - **Political complexity:** crown, tribes, systems — but filtered through Rook's feral lens
 - **The girl:** from believer to anchor to partner (not romance — recognition deepening)
-- **The thing between:** neither beast nor boy, unstable, unfinished
+- **The beast ascendant:** the crown held by power and fear, the boy a thread the pits can't kill
 - **The hook:** the world beyond the island is waking up
 
 ---
 
-## BOOK THREE: THE THING BETWEEN
+## BOOK THREE: THE GREAT MAN
 
 **Premise:** Rook must conquer the island — not through beast strength or boy wisdom alone, but through the thing he's become. Pure beast can't lead. Pure boy can't win. He has to be both.  
 **Target length:** ~80-100k words  
 **The Red:** Part of him. Not controlled, not separate. A partnership that costs daily.  
-**Arc:** Consolidation → conquest → the ice stirs → the world arrives → the thing between stands.  
+**Arc:** Consolidation → conquest → the ice stirs → the world arrives → the great man stands.  
 **Timeline:** Rook is ~15-16. Spans a year to two years.
 
 ---
@@ -371,7 +375,7 @@
 #### Chapter 5: The Salt Roads
 - Maren, Salt Veyr, logistics. The island's supply lines are the real power.
 - Rook learns that controlling food controls everything. The beast wants to take. The boy learns to manage.
-- **Voice note:** Systems thinking. Rook becoming the thing between in governance, not just combat.
+- **Voice note:** Systems thinking. Rook learning to govern — the beast's instinct plus the man's discipline.
 
 #### Chapter 6: The First Winter
 - The island under Rook's order faces its first real test. Famine, cold, factional pressure.
@@ -404,7 +408,7 @@
 - A rival force — mainland expedition, rival claimant, or island coalition against Rook.
 - Rook must fight. Not pit fights. Not single combat. A war.
 - The Red in full battle: beast strength, healing, fear. But now the ice joins — cold that shields, frost that weaponizes, the combination that no one has ever seen.
-- **Voice note:** Epic. The prose opens up for the first time in the series. Rook as the thing between, fully expressed.
+- **Voice note:** Epic. The prose opens up for the first time in the series. Rook as the great man — beast and boy mastered, fully expressed.
 
 #### Chapter 11: The Cost of Both
 - The combination has a price. Ice and blood in one body means two forces pulling in different directions. Rook is burning from the inside.
@@ -418,7 +422,7 @@
 
 ---
 
-### ACT THREE: THE THING BETWEEN (~30%, ch13-16)
+### ACT THREE: THE GREAT MAN (~30%, ch13-16)
 
 *He stands as what he's become. The world meets him.*
 
@@ -434,13 +438,13 @@
 - **Voice note:** Scale shift. The island that was the whole world in Book 1 is now a small piece of a larger board.
 
 #### Chapter 15: The Choice
-- Rook chooses. Not what the Red wants (war, dominance). Not what the boy wants (safety, isolation). What the thing between wants: a third path.
+- Rook chooses. Not what the Red wants (war, dominance). Not what the boy wants (safety, isolation). What the great man chooses: a third path — power disciplined by purpose, strength held by the people who gave it meaning.
 - The choice defines the series going forward (Books 4+ if the series continues).
-- **Voice note:** Thematic culmination. The thing between isn't a compromise — it's a new kind of power.
+- **Voice note:** Thematic culmination. The great man isn't a compromise — he's something new. The boy who became the beast who became the man who could hold both.
 
 #### Chapter 16: The Last Shore
 - Rook stands on the black shore where he woke up in Book 1.
-- Everything has changed. He's not the broken boy or the beast or the king. He's the thing between.
+- Everything has changed. He's not the broken boy or the beast or the king. He's the great man. The first person to hold both ice and blood since magic left the world.
 - The girl is there. The Red is there. The cold is there.
 - The world is waiting.
 - **End of Book 3:** The island is his. The world is next. And the thing he's become is something new — the combination that hasn't existed since magic left the world.
@@ -451,7 +455,7 @@
 
 - **Conquest:** earned through systems, alliance, and the combination of beast/boy
 - **Ice + Blood:** the lore payoff — two ancient forces in one body, never combined
-- **The thing between:** thematic culmination — not compromise but synthesis
+- **The great man:** thematic culmination — not compromise but synthesis. The boy mastered the beast. The beast gave the man his teeth.
 - **The girl:** from recognition to partnership to the anchor that holds him together
 - **The world:** expands from island to mainland, setting up the long series
 - **Satisfying close:** the arc completes (boy → beast → great man) while opening the door to more
@@ -466,10 +470,24 @@
 - **The combination:** never existed. Ice and blood are opposing forces — one preserves, one consumes. Together they create something new: the ability to hold both stillness and hunger, preservation and change. This is why magic left the world — the two traditions warred and destroyed each other. Rook is the first to carry both.
 - **Magic returning:** the world has been slowly waking for centuries. Old sites, old blood, old forces. The Red waking in Rook is a symptom, not a cause. The ice following is the next step. The combination is the signal flare.
 
-### The Girl
+### Rook's Driving Goal: Belonging
+
+Rook is a stolen child. He was taken from family he can't remember — just hands, cage, ship. The island is the deepest alone a person can be. Everything he does is a lost kid trying to build a family the world keeps taking away.
+
+- Book 1: The crack in the cliff is his first home. Yara is the first person who stayed. The capture rips it all away.
+- Book 2: The crown/following is a substitute family. The Red threatens it — the beast doesn't need anyone. The pits are designed to sever human connection.
+- Book 3: The great man doesn't build a kingdom. He builds a *people*. A home with walls made of loyalty, not stone. The first belonging that can't be taken.
+
+**The engine:** Every chapter, Rook is either reaching toward connection or the beast is pulling him toward isolation. That tension never stops across all three books.
+
+**In one line:** A stolen boy goes wild on a frozen island, and everything he does — the hunting, the killing, the crown, the war — is just a lost child trying to build a family the world keeps taking away.
+
+### The Girl — Yara
+
 - Fen-Kin. Old blood (ice resonance). The caller discipline works because her people carry the other half of the ancient tradition.
-- She is not a love interest in the romance sense. She is *recognition* — the first person who sees Rook as a person, not a beast or a myth or a weapon.
-- Her role evolves: believer (Book 1) → anchor (Book 2) → partner (Book 3). She is the thread of humanity that survives the beast transformation.
+- **Name:** Yara. (Old-blood Fen-Kin name; means nothing to Rook yet — he learns it as his first word in Ch14.)
+- She is not a love interest in the romance sense. She is *recognition* — the first person who sees Rook as a person, not a beast or a myth or a weapon. The first person who *stayed*.
+- Her role evolves: believer (Book 1) → anchor (Book 2) → partner (Book 3). She is the thread of humanity that survives the beast transformation. She is what belonging looks like when the world keeps taking.
 - Potential lore: her bloodline and Rook's may be connected through the old ice tradition. Not necessarily romantically — ancestrally. Two branches of the same ancient tree.
 
 ### The Island
@@ -490,7 +508,7 @@
 - Book 1 is almost entirely new prose. Ch1-3 exist in early form but need radical expansion.
 - Book 2 draws most heavily on existing material (the pit, the crown, the tribes).
 - Book 3 draws on the systems/political chapters but reframed as consolidation/conquest.
-- The girl needs to be introduced and named. She's the emotional spine of all three books.
+- Yara (the girl) is the emotional spine of all three books. Named. Introduced in Book 1 Ch13. First word Rook speaks in Ch14.
 - The lore (ice + blood, magic returning) needs to be seeded subtly in Book 1 and paid off across Books 2-3.
 - Voice consistency is critical: feral first-person throughout, with the prose itself reflecting Rook's mental state (wordless → sharp → layered → fractured → whole).
 

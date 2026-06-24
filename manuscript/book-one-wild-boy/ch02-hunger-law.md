@@ -32,7 +32,7 @@ He had it.
 
 He bit into it while it was still alive.
 
-The taste was — he didn't have words for taste. Good and wrong at the same time. The flesh was cold and slick and it fought his teeth. He chewed through bones and skin and the tail flipped against his chin and he didn't care. He ate the whole thing.
+The taste was good and wrong at the same time. The flesh was cold and slick and it fought his teeth. He chewed through bones and skin and the tail flipped against his chin and he didn't care. He ate the whole thing.
 
 Then he caught another.
 

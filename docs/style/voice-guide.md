@@ -7,6 +7,8 @@ This project needs an original voice: visceral first-person intensity with polit
 - **Game of Thrones density:** Scale, moral complexity, real consequences. Factions with competing interests that make sense. The world is bigger than the protagonist and doesn't care about him.
 - **Kingkiller Chronicle craft:** Beautiful, intimate prose. The gap between the myth and the man. Magic that feels deep and real. Slow-burn mastery — watching someone become extraordinary.
 
+**Rook's driving goal:** Belonging. A stolen child who goes feral because everyone left. Everything he does is a lost kid trying to build a family the world keeps taking. The beast doesn't need anyone — that's the threat. Every chapter: reaching toward connection or the beast pulling toward isolation.
+
 **What this is NOT:** dark fantasy (horror-adjacent). This is epic fantasy with visceral, literary prose. The darkness comes from the world and the cost, not from genre horror.
 
 Do not imitate any named author's sentence patterns. Use the following internal rules instead.
