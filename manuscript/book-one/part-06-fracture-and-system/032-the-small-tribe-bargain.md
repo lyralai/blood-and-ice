@@ -22,7 +22,7 @@ The boy stopped at the edge of the counting stone. He did not kneel the way Khar
 
 Harvek stood with his arms crossed because the road law was still half his to break or keep. Solek the Thin was beside him, listening with the whole of his narrow face. Asha had come with Cairn because any new blood on the island needed a genealogy before it could be trusted. Naim stood a little apart, no staff, carrying only the white cloth of a witness who was not Vessa. Mother Harl had asked for that. After the clean medicine and the store argument, she wanted eyes on what the crown did next.
 
-The Wound-Guest woke the moment the boy said "small." It liked small. Small was easy to close a hand around.
+The Red woke the moment the boy said "small." It liked small. Small was easy to close a hand around.
 
 "Name what was taken," I said.
 
@@ -136,7 +136,7 @@ Runa stood a little behind Harvek's shoulder. Her eyes flicked to me when I name
 
 That night, after Keva and her people were given a place under Salt guard and the knot was hung where the road spur met the main count, I walked the edge of the camp with the wrapped spear in my hands.
 
-The Wound-Guest was quiet. Not bored. Waiting in the way it waited after the second pit, after it had learned that restraint could be turned into a larger story.
+The Red was quiet. Not bored. Waiting in the way it waited after the second pit, after it had learned that restraint could be turned into a larger story.
 
 It had learned something new tonight.
 

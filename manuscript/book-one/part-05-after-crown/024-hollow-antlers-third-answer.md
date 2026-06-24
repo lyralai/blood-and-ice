@@ -38,7 +38,7 @@ Tovek whispered, "Mother Harl. Keeps cradle names."
 
 He gave me a look. "The names of children dead before first winter."
 
-The Wound-Guest did not rise. It listened.
+The Red did not rise. It listened.
 
 Mother Harl planted the short staff in the mud.
 
@@ -90,11 +90,11 @@ Senn whispered, "Can they do that?"
 
 Maren answered, "If enough people act like they can."
 
-I heard the whole island then. Not with the Wound-Guest. With the part of me that had learned to count exits, then hands, then roads.
+I heard the whole island then. Not with the Red. With the part of me that had learned to count exits, then hands, then roads.
 
 Salt roads. Fen witness. Khar hunger. Hollow names. No tribe was a beast alone. Each held a piece of what the others needed to remain people. Vessa did not need to beat us. She could make every bond shameful until bonds broke themselves.
 
-The Wound-Guest offered a red answer.
+The Red offered a red answer.
 
 Twelve mothers. One old throat. A little blood in the mud and the accusation would stop.
 

@@ -39,7 +39,7 @@ Alternative shortlist if "Rauth" does not land: "the Skarn", "the Vinter", "the 
 **Integration into Dual Ancestry:**
 - Father's line = Ice-Blood dominant (the "cold ones" inheritance the user referenced). The Rauth were the preservers, the name-holders, the ones who could endure the northern cold and hold the old blood under pressure.
 - The rebellions were not only political (desire for independence) but also resistance to the Rauth monopoly on the blood-god sites and rites. The tribes wanted the power without the Rauth vessel.
-- Rook's father put down the last rebellion using a combination of ice-blood discipline + controlled (or not) Wound-Guest force. This made him both feared as a repressor and mythologized as the last strong king.
+- Rook's father put down the last rebellion using a combination of ice-blood discipline + controlled (or not) The Red force. This made him both feared as a repressor and mythologized as the last strong king.
 
 ## 2. The 30-Year Isolation as Severing + Magical Punishment
 
@@ -51,7 +51,7 @@ The isolation is not just political exile from the wider world. It is a delibera
 - The tribes were forced to turn inward and starve the old power structures.
 
 **Ritual / Magical Layer (tied to dual heritage and White Pit):**
-- The blood gods (or the force the Wound-Guest embodies) are strongest on the Blackjaw Isles, particularly at the White Pit.
+- The blood gods (or the force the Red embodies) are strongest on the Blackjaw Isles, particularly at the White Pit.
 - The Rauth line acted as the traditional "vessels" or "keys" that kept the rites stable. Their rule was the channel.
 - The rebellions + the isolation were an attempt to close that channel: starve the gods of named vessels, break the lineage, let the old blood fade.
 - For 30 years the force has been "sleeping" or weakened. The tribes still perform reduced rites (Hollow Antler containment, Khar pit-keeping) but without a true Rauth vessel the power does not fully wake or travel the way it once did.
@@ -80,11 +80,11 @@ This makes Rook not a random feral boy who gets power. He is the last heir of th
   - Fen-Kin (Asha): The old-blood check and wrapped spear caller training are not neutral. Asha recognizes the Rauth lineage that made the pit vessel viable in the first place. The caller is partly an old Rauth tool repurposed.
   - Salt (Maren): Practical. They remember the Rauth as the ones who could enforce the old stores and roads. Maren's "thin trust" root bundle and later guarantees are calculations about whether the last Rauth can be turned into a useful counted thing rather than a returned tyrant.
 - Small tribes like Reed-Bend (ch32): They calculate between two hungers — the old Rauth name (which once protected or ruled them) vs the immediate local power (Dremm/Half-Ear faction taking eel runs).
-- Guest learning: The Wound-Guest now has access to "Rauth" as a shape. Names have bellies becomes more dangerous because the family name itself is a historical claim the force can learn to wear.
+- Guest learning: The Red now has access to "Rauth" as a shape. Names have bellies becomes more dangerous because the family name itself is a historical claim the force can learn to wear.
 - Naim inner law (ch30): The three-name rule (dead + living non-Antler witness + blood name spoken by the vessel) is revealed in private because Naim knows Rook is Rauth. Speaking the family name in the right ritual context would close (or re-open) paths in ways that affect the whole island.
 
 **Long Arc Implication:**
-The story is no longer "feral boy gains power." It is "last heir of the overthrown line returns during the tail end of the punishment isolation, re-ignites the old blood force, and must decide whether to become the new version of his father's repression or build something that does not feed only the Wound-Guest."
+The story is no longer "feral boy gains power." It is "last heir of the overthrown line returns during the tail end of the punishment isolation, re-ignites the old blood force, and must decide whether to become the new version of his father's repression or build something that does not feed only the Red."
 
 Every small loop, road-sworn, cradle tenth, and "the road's due" becomes a test of whether the Rauth name can be remade into law that the blood-god force has not yet learned to exploit.
 
@@ -92,7 +92,7 @@ Every small loop, road-sworn, cradle tenth, and "the road's due" becomes a test 
 
 **To docs/characters/protagonist.md:**
 - In Core Identity or new "Lineage" subsection: Add that Rook is the last surviving member of the Rauth (the old ruling house of the Blackjaw Isles). The family was overthrown in two rebellions; the most recent put down by his father ~10-20 years before the story opens. The islands were placed under 30-year isolation as punishment; that sentence is still active when he is shipwrecked.
-- Update "old northern blood" references to "Rauth ice-blood" or "the ice-blood of the Rauth line" in key places (especially Wound-Guest Relationship stages and Post-Crown Developments).
+- Update "old northern blood" references to "Rauth ice-blood" or "the ice-blood of the Rauth line" in key places (especially The Red Relationship stages and Post-Crown Developments).
 - In Long Arc: Explicitly name the tension — he carries the name of the repressor line at the same moment the isolation is ending and the force is waking.
 
 **To docs/world/blood-and-ice-magic.md:**
@@ -135,7 +135,7 @@ This makes the early solo phase tragic and political instead of pure Tarzan surv
 
 This new canon layer does not contradict the 8-agent merged dual-heritage proposal. It strengthens it.
 
-The White Pit unlock is no longer just a personal ritual event for a random vessel. It is the return of the specific bloodline the tribes tried to sever through rebellion and isolation. Ice-blood (Rauth preserving memory + name-holding) lets Rook survive the re-ignition; the Wound-Guest learns the old shapes of rule (and the old resentments) along with the new crown systems.
+The White Pit unlock is no longer just a personal ritual event for a random vessel. It is the return of the specific bloodline the tribes tried to sever through rebellion and isolation. Ice-blood (Rauth preserving memory + name-holding) lets Rook survive the re-ignition; the Red learns the old shapes of rule (and the old resentments) along with the new crown systems.
 
 All prior 8-agent recommendations (bible updates to protagonist.md and blood-and-ice-magic.md first, then light continuity) now have an even clearer target.
 

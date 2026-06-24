@@ -24,7 +24,7 @@ Ice-blood is conservative. It preserves. It remembers. It binds a person to line
 
 ### Blood-God Force
 
-The blood-god force is older than the tribes that worship it. Khar Vane calls it **the Below-Eater**. Hollow Antler calls it **the Red Listener**. Fen-Kin refuses to name it. Rook experiences it as **the Wound-Guest**.
+The blood-god force is older than the tribes that worship it. Khar Vane calls it **the Below-Eater**. Hollow Antler calls it **the Red Listener**. Fen-Kin refuses to name it. Rook experiences it as **the Red**.
 
 It can express as:
 
@@ -60,9 +60,9 @@ This is the personal and political "magic coming back." The isolation's severing
 Pre-Pit: Ice-blood dominant (subtle expressions in the wild-boy phase).
 Post-Pit: The hybrid becomes possible. The Guest escalates from raw hunger to strategic learner that files crown tools. The Rauth name itself becomes a vector the force can learn to wear.
 
-## The Wound-Guest
+## The Red
 
-The Wound-Guest is the name Rook eventually gives the presence. It arrives first as sensation:
+The Red is the name Rook eventually gives the presence. It arrives first as sensation:
 
 - red pressure behind the eyes
 - warmth spreading from wounds
@@ -76,7 +76,7 @@ Later, as Rook gives it more victories, it becomes more articulate. This is dang
 
 ## Trigger Conditions
 
-The Wound-Guest wakes under:
+The Red wakes under:
 
 - severe injury
 - blood loss
@@ -107,11 +107,11 @@ Possible costs:
 - physical crashes after the state recedes
 - difficulty knowing whether a choice was his
 
-The most important cost: the better the Wound-Guest protects Rook, the more other people prefer the monster to the boy.
+The most important cost: the better the Red protects Rook, the more other people prefer the monster to the boy.
 
 ## Limits
 
-The Wound-Guest cannot:
+The Red cannot:
 
 - solve logistics
 - make people loyal in a healthy way

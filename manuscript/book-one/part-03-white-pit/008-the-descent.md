@@ -98,7 +98,7 @@ Too low.
 
 Yara's head tilted.
 
-The Wound-Guest pressed behind my teeth, amused by rope, by law, by the little theater of people pretending the pit needed permission.
+The Red pressed behind my teeth, amused by rope, by law, by the little theater of people pretending the pit needed permission.
 
 I bit my tongue.
 
@@ -184,7 +184,7 @@ I fell the last body-length into darkness and hit bone hard enough to hear one o
 
 The thing below me breathed in.
 
-So did the Wound-Guest.
+So did the Red.
 
 That was how I learned the eighth law of the island.
 

@@ -36,7 +36,7 @@ He lifted his head. His eyes were fever-bright. "It is already spoken."
 
 That was the trouble with mercy. People can turn it into banner faster than cruelty, because cruelty is common and mercy asks explanation. Explanation becomes doctrine if enough frightened mouths need it.
 
-By dawn the camp had named the ridge fight Blood Snow. By midday they had named my half-red restraint as proof that the Wound-Guest could be bridled. By evening three young warriors had cut shallow lines across their own ribs and packed them with ash, claiming they would hold hunger as I did.
+By dawn the camp had named the ridge fight Blood Snow. By midday they had named my half-red restraint as proof that the Red could be bridled. By evening three young warriors had cut shallow lines across their own ribs and packed them with ash, claiming they would hold hunger as I did.
 
 Solek beat two of them with a staff.
 
@@ -112,7 +112,7 @@ I looked at Solek. "If there is crown, there are terms."
 
 "There must be."
 
-"The Wound-Guest is not king."
+"The Red is not king."
 
 Yara, somewhere behind me, made a tiny sound.
 
@@ -180,7 +180,7 @@ Solek stood before me with the bone band. "Name terms."
 
 So I named them in trade-tongue, and Tovek carried them, and Solek reshaped them into Khar law while Asha listened for traps and Maren listened for cost.
 
-The Wound-Guest is not king.
+The Red is not king.
 
 The blood-crowned answers to law before appetite.
 
@@ -202,7 +202,7 @@ Then warm.
 
 Then too warm.
 
-The Wound-Guest rose like something hearing a door open.
+The Red rose like something hearing a door open.
 
 No, I told it.
 
@@ -226,7 +226,7 @@ I hated the beauty of it.
 
 That night, after the crown was taken off and locked beside the law racks, I went alone to the edge of camp. The island breathed fog. Somewhere in Hollow Antler woods, Vessa would be learning that Khar Vane had put law around the breach instead of surrendering it. Somewhere in Fen marsh, Asha would be deciding whether she had saved a boy or tied herself to a catastrophe. Somewhere by Salt water, Maren would be counting profit and graves with the same hand.
 
-Under my ribs, the Wound-Guest waited.
+Under my ribs, the Red waited.
 
 Stronger.
 

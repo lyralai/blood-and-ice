@@ -17,7 +17,7 @@
 
 **Sub-Agent 1: ch29 Audit (The Open Store)**
 - Full read of ch29 in the surfaced drafts file.
-- Audit against Chapter Standard (plot move, relationship alteration, tribal rule clarification, Wound-Guest cost, public meaning shift).
+- Audit against Chapter Standard (plot move, relationship alteration, tribal rule clarification, The Red cost, public meaning shift).
 - Specific checks: public store pressure test, Mother Harl naming lacks, Maren scarcity reveal, thin trust root bundle, concrete Half-Ear threat + order, Guest "Names have bellies" learning, fines to cradles.
 - Produce 5-8 specific punch list items (strengths + issues + recommended fixes).
 - Cross-ref to ch25/27/28.

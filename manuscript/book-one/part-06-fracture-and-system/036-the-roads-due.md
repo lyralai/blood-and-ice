@@ -30,7 +30,7 @@ Naim's mouth moved once when Keva said the child had died waiting. He looked at 
 
 Mother Harl spoke for the cradles. "If the small take from the tenth to pay the due the crown named, the empty frames will multiply. The mothers will remember that the small on the flats were fed before the frames were filled."
 
-The Wound-Guest rose the moment Keva said "the road's due."
+The Red rose the moment Keva said "the road's due."
 
 It liked the name. The due was a claim the small loop could make on the center. It was a hand that could be closed around the flats until the due came to the story in fear and tribute. Images came fast and clean: the bend sending the rest of the eel and the reed to feed the crown's hunger; the tide flats as a thing the name could close until nothing moved; the coughing children as the ones who would make the small loop strong if the crown took what the fog woods had left them and called it the due. The pressure under my ribs climbed like the ice on the sand. Sweat started on my palms where they gripped the wrapped spear. The red was at the edges of my sight like water rising on a flat that had no shore. My voice came out rougher than I wanted.
 
@@ -54,7 +54,7 @@ That night, after Keva and her people were given a place under Salt guard and th
 
 The ice had reached the black sand. The tide flats were a darker line under the moon. The small loop on the cord pulled against the turns. It felt heavier than the first time. The new due knot pulled against the turns. The red thread on the spear bit my palm when I tightened my grip. I could still see the Reed-Bend girl's fingers on the eel basket and the quick sideways look she gave Keva when the knot was tied. The coughing from the direction of the bend carried on the wind.
 
-The Wound-Guest had liked the name "the road's due." It had offered the flats as a thing a hand could close. I said my name until the images thinned.
+The Red had liked the name "the road's due." It had offered the flats as a thing a hand could close. I said my name until the images thinned.
 Rook.
 
 The cord stayed in my hand until the cold made the reed stiff. One more mouth the count had to feed. One more place a hand could reach before the knot held.

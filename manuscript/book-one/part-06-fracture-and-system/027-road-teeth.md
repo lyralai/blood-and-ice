@@ -32,7 +32,7 @@ Dremm's knot moved again. Not much. Enough.
 
 I saw Keff among them, the red-haired boy from the spit. He would not meet my eyes.
 
-The Wound-Guest woke with clean pleasure.
+The Red woke with clean pleasure.
 
 Here, it pressed.
 
@@ -70,7 +70,7 @@ Harvek watched me with old interest. Dremm watched like pain waiting to be given
 
 I wanted to hit someone.
 
-The Wound-Guest wanted to break Dorrik's jaw, then Keff's, then make Runa kneel in the road with the oil poured over her hair so everyone would remember.
+The Red wanted to break Dorrik's jaw, then Keff's, then make Runa kneel in the road with the oil poured over her hair so everyone would remember.
 
 It offered the image kindly.
 
@@ -114,7 +114,7 @@ Harvek's hands hung loose at his sides. "Careful."
 
 Maren whispered something that sounded like a curse and a prayer sharing the same teeth.
 
-The Wound-Guest surged. Old male challenge. Public. Blood required.
+The Red surged. Old male challenge. Public. Blood required.
 
 Harvek had chosen the ground well. If I backed down, Salt Veyr knew my roads were words. If I struck him, Khar Vane might split before winter. If I punished only the young, everyone would understand whose lesson had been protected.
 
@@ -156,7 +156,7 @@ Harvek said, "Do I?"
 
 His eyes went flat.
 
-The Wound-Guest begged.
+The Red begged.
 
 Please, it almost said.
 
@@ -196,7 +196,7 @@ He looked past me at Harvek.
 
 "Even under teeth?"
 
-The Wound-Guest listened.
+The Red listened.
 
 So did Harvek.
 

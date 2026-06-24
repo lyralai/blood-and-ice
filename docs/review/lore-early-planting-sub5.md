@@ -1,15 +1,15 @@
 # Lore Early Planting: SubAgent-5 Report — Wild Boy / Part-01 Phase (Ch1-4 Focus)
 
 **Date:** 2026-06-12  
-**Scope:** Proposal only. Light retrofits and new beats for ch1-4 (part-01 wild-boy + early part-02) to plant dormant dual blood (ice-blood / "cold ones father line" + blood-god / "blood monsters" / Wound-Guest) subtly before the White Pit. No manuscript edits performed. No new canon invented beyond magic bible and existing prose signals. Banned IP clean (full scan confirmed zero matches for prohibited terms).  
+**Scope:** Proposal only. Light retrofits and new beats for ch1-4 (part-01 wild-boy + early part-02) to plant dormant dual blood (ice-blood / "cold ones father line" + blood-god / "blood monsters" / The Red) subtly before the White Pit. No manuscript edits performed. No new canon invented beyond magic bible and existing prose signals. Banned IP clean (full scan confirmed zero matches for prohibited terms).  
 **Mandatory files read first (per task):**  
 - docs/world/blood-and-ice-magic.md (core dual inheritance rules, triggers, expressions, costs, "body first" entry)  
-- docs/characters/protagonist.md (early voice, opening condition, old northern blood, Wound-Guest stages, hunger as personality)  
+- docs/characters/protagonist.md (early voice, opening condition, old northern blood, The Red stages, hunger as personality)  
 - docs/continuity/CHANGES-2026-06-12-bible-refine.md (prior audit patterns, post-crown facts only, hygiene rules)  
 - docs/story/book-one-outline.md (part-01 purpose: physical survivor before politics; ch1-3 beats; pit as transformation)  
-- docs/continuity/names-and-terms.md (Wound-Guest naming rule: body sensation first; early chapters avoid the name)  
+- docs/continuity/names-and-terms.md (The Red naming rule: body sensation first; early chapters avoid the name)  
 - docs/continuity/timeline.md + docs/continuity/cost-ledger.md (existing pre-pit Events 1-3 already track red heat stirs + one ice memory flash)  
-- docs/style/voice-guide.md (sensory/physical/suspicious early voice; short danger sentences; dread through body/witness; no lore dumps; imagery: black stone, cold iron blood taste, ice as memory, hunger as second mouth; Wound-Guest early = pressure/heat/laughter/images)  
+- docs/style/voice-guide.md (sensory/physical/suspicious early voice; short danger sentences; dread through body/witness; no lore dumps; imagery: black stone, cold iron blood taste, ice as memory, hunger as second mouth; The Red early = pressure/heat/laughter/images)  
 **Additional read:** docs/world/four-tribes.md, docs/pitch.md, docs/continuity/index.md, docs/continuity/next-scene-queue.md, docs/continuity/banned-ip-checklist.md, docs/review-checklist.md, full early manuscript samples (001-black-shore.md, 002-hunger-law.md, 003-first-blood-in-the-trees.md, 004-salt-knots.md partial), and supporting continuity. All work from blood-and-ice/ clone only.
 
 ## Current State Summary (Pre-Pit Dormancy in Existing Prose)
@@ -173,7 +173,7 @@ Retrofits above make the "before" feel like quiet dual signals rather than pure 
 If a "Blood Under Ice" standalone novella is cut from early ch1-4 + pit, the above retrofits make an excellent self-contained "feral boy with old blood" arc: subtle ice endurance + one snow name memory + animal watchfulness + other-hunger, then pit as violent awakening. Keep all proposals voice-consistent; no lore lecture.
 
 ## Banned IP Hygiene
-Full manual + conceptual scan of this proposal + referenced files: clean. No rickon/stark/skagos/winterfell/GoT/ASoIaF houses/creatures, no author names (martin/rothfuss/etc.), no direct source references. All terms original (Wound-Guest, Blackjaw Isles, four tribes, ice-blood/blood-god per internal bibles). "Ice" used only as descriptive/memory per magic bible ("ice as memory").
+Full manual + conceptual scan of this proposal + referenced files: clean. No rickon/stark/skagos/winterfell/GoT/ASoIaF houses/creatures, no author names (martin/rothfuss/etc.), no direct source references. All terms original (The Red, Blackjaw Isles, four tribes, ice-blood/blood-god per internal bibles). "Ice" used only as descriptive/memory per magic bible ("ice as memory").
 
 ## Next Natural Steps (Not Executed — Proposal Only)
 1. Human review + decide which (if any) retrofits to apply to manuscript (light touch recommended; 1-2 per chapter max to avoid over-planting).

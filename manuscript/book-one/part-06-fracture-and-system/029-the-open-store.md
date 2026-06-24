@@ -22,7 +22,7 @@ Maren gave me one hard look. She had promised "some" before Mother Harl came. So
 
 She nodded once and went in.
 
-The smell hit first. Old fish oil, smoke that had soaked into the racks for three winters, the sharp bite of salt that no longer covered the emptiness underneath. My stomach turned before my mind caught it. The boy on the black shore would have crawled for that smell. The Wound-Guest liked it for different reasons.
+The smell hit first. Old fish oil, smoke that had soaked into the racks for three winters, the sharp bite of salt that no longer covered the emptiness underneath. My stomach turned before my mind caught it. The boy on the black shore would have crawled for that smell. The Red liked it for different reasons.
 
 Not food, it pressed, low and interested. Count.
 
@@ -40,7 +40,7 @@ Asha said nothing. The gray-braid Fen mother shifted her weight but kept her mou
 
 Maren's voice stayed flat. She was not hiding the numbers. She was choosing which ones to let the wind carry.
 
-The Wound-Guest rose under my ribs like heat from a stone that had been in the sun too long.
+The Red rose under my ribs like heat from a stone that had been in the sun too long.
 
 The inlet, it offered. Boats have oil. Boats have names that eat.
 
@@ -74,7 +74,7 @@ Otta made a small sound. Not quite a laugh. "One tally. It is short because wint
 
 She meant the new road guards. She meant the ones who had come to kneel after the pit and the crown. She meant the young Khar who followed Dremm because restraint looked like slow starvation.
 
-The Wound-Guest pressed harder.
+The Red pressed harder.
 
 Names have bellies, it said. The counters lie with numbers. Open the inlet with teeth and the cradles will not need to ask again. The littlest will feed the story if we take what the boats hide. Their small mouths will make the crown strong.
 
@@ -112,7 +112,7 @@ Keff nodded. "Dremm will not stop it. The crown talks of fines. Fines do not fil
 
 Dremm did not stop them. He only watched me from across the mud to see if the crown would answer with law or with the red thing that had climbed out of the pit.
 
-The Wound-Guest liked the plan too. It offered the shape of Half-Ear's throat under a hand that did not belong to a boy anymore, the inlet store under Khar hands, Maren watching her boats bend.
+The Red liked the plan too. It offered the shape of Half-Ear's throat under a hand that did not belong to a boy anymore, the inlet store under Khar hands, Maren watching her boats bend.
 
 I walked to them instead of letting the heat answer.
 
@@ -122,13 +122,13 @@ Half-Ear met my eyes. He did not spit. He smiled the way Dremm had smiled when t
 
 "Bring him to the law racks at dusk," I told Otta, loud enough for the three of them to hear. "Half-Ear. No weapons. He will answer for the road gift he plans to take from the inlet before it is counted."
 
-That night the Wound-Guest did not sleep. It walked the empty racks with me. Every missing skin became a reason. Every named lack became a door the thing could learn to open with the right words in the right ears.
+That night the Red did not sleep. It walked the empty racks with me. Every missing skin became a reason. Every named lack became a door the thing could learn to open with the right words in the right ears.
 
 I held my own name until the counting in my head stopped.
 
 Rook.
 
-Yara stood at the edge of the firelight and watched the mothers walk back with white cloths and light baskets. The Wound-Guest counted their steps. It had seen the root bundle and the red-haired one planning the inlet. It was learning which doors the empty racks opened.
+Yara stood at the edge of the firelight and watched the mothers walk back with white cloths and light baskets. The Red counted their steps. It had seen the root bundle and the red-haired one planning the inlet. It was learning which doors the empty racks opened.
 
 
 ---

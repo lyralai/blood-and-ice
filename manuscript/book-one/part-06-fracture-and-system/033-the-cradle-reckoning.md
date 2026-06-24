@@ -28,7 +28,7 @@ Maren's mouth was a thin line. "The inlet is thin because the boats could not mo
 
 Half-Ear laughed once, low. The sound carried because the cold made every small noise louder. "The bend gave reed and eel. They chose the crown over the antler and the salt. Now they want the winter hole the knot promised. The teeth that guard the spur are the ones who will answer when the fog woods come again. If the small eat first, the guards will not stand. The crown will learn what it costs to feed promises before it feeds the hands that keep them." He looked at me the way the young knot had looked at the open store, like the returned thing had come back wearing a name they remembered from before the isolation, before the pit boy had to count who ate first under frost.
 
-I felt the Wound-Guest wake under the frost. Not the old blind heat. Something slower, interested in the boards and the mouths and the way the small loop had changed the math. It pressed against the inside of my ribs like a hand testing where the new voices had thinned the center.
+I felt the Red wake under the frost. Not the old blind heat. Something slower, interested in the boards and the mouths and the way the small loop had changed the math. It pressed against the inside of my ribs like a hand testing where the new voices had thinned the center.
 
 Reed-Bend first, it offered. Small is still small. Cut the loop and the others will see the crown knows which mouths matter. The guards who carry the name will eat. The cradles that feed the story will eat. The ones who came late will learn the price of being counted without teeth.
 
@@ -66,7 +66,7 @@ Maren marked the boards. The charcoal moved in small, hard strokes. She did not 
 
 I stayed at the stone after they were gone. The frost had not burned away. It had thickened on the boards where Maren's marks sat. The small loop on the hanging knot looked heavier than the cord that held it. The Reed-Bend had walked the long way around the black sand because the tide had frozen. They had brought what they could carry. The knot said they had a winter hole. The count now had to decide whether the hole would be filled from the inlet that was already thin or from the teeth that had expected to eat first.
 
-The Wound-Guest had settled low in the ribs. Not gone. Waiting with the shape of the clean solution it had learned. It had watched the boards and the mouths and the way the small loop had forced every decision to be spoken where the ones who hated the crown could carry the words back to the fog woods and the cove and the fen camps. It had learned that the name could be used to choose who the frost took without a pit or a blood snow. The administrative hunger was slower than meat. It was also larger.
+The Red had settled low in the ribs. Not gone. Waiting with the shape of the clean solution it had learned. It had watched the boards and the mouths and the way the small loop had forced every decision to be spoken where the ones who hated the crown could carry the words back to the fog woods and the cove and the fen camps. It had learned that the name could be used to choose who the frost took without a pit or a blood snow. The administrative hunger was slower than meat. It was also larger.
 
 That night I walked the spur again with the wrapped spear. The cold had deepened. The black sand below the tide flats was white where the frost had reached. I stopped at the place where the new knot hung. The small loop was still there, reed woven through the Salt cord. Keva's fingers had closed around it when the bargain was made. The Reed-Bend girl had pressed the eel basket to her hip and looked sideways at her grandmother to see if the counted thing was real. Now the frost had taken from the flats and the count had to answer.
 
@@ -80,7 +80,7 @@ Rook.
 
 The small loop felt heavier than the cord. The frost had only just begun. The cradles that had gone quiet would not be the last names the wind carried if the count could not keep the order it had named when the store was opened and the bend chose the law.
 
-The Wound-Guest had filed the shape of the clean administrative solution. It would remember it when the next claims came. I would have to remember faster. The more voices spoke under the name, the more places there were for other hands to reach in before the knot could hold. Winter had made the reaching easier. The frost did not care which mouths the crown had promised to feed. It only cared which ones the count chose to leave thin when the carts could not move.
+The Red had filed the shape of the clean administrative solution. It would remember it when the next claims came. I would have to remember faster. The more voices spoke under the name, the more places there were for other hands to reach in before the knot could hold. Winter had made the reaching easier. The frost did not care which mouths the crown had promised to feed. It only cared which ones the count chose to leave thin when the carts could not move.
 
 I did not sleep. The counting in my head did not stop. Cradles. Road-sworn. Small loop. Core teeth. The order the crown had named. The frost had already started taking from the ones the order was meant to protect. The reckoning had only begun.
 

@@ -97,9 +97,9 @@ Example direction:
 
 > Fear moves people fast. Hunger moves them longer. Law moves them when you are not there to bare your teeth.
 
-## The Wound-Guest Voice
+## The Red Voice
 
-The Wound-Guest should not begin as a chatty inner demon.
+The Red should not begin as a chatty inner demon.
 
 Early:
 
@@ -133,7 +133,7 @@ Do not write gore as decoration. A violent scene should change at least one of:
 - Rook's reputation
 - a political balance
 - a relationship
-- the Wound-Guest's strength
+- the Red's strength
 - a tribe's interpretation of events
 
 ## Cannibalism

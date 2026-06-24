@@ -105,7 +105,7 @@ That is the beginning of the problem.
 
 - Main character: **Rook**, a feral fourteen-year-old survivor of old northern blood.
 - Setting: **The Blackjaw Isles**, an isolated cold island chain with four major tribes.
-- Central power: **the Wound-Guest**, an ancient blood presence awakened by injury, fear, and sacrifice.
+- Central power: **the Red**, an ancient blood presence awakened by injury, fear, and sacrifice.
 - First major turn: Rook is captured and thrown into **the White Pit** as a ritual offering.
 - Political ignition: the cannibal war tribe **Khar Vane** sees his impossible survival as proof of sacred command.
 - Series engine: Rook gains followers before he gains wisdom, creating a boy-king problem wrapped around a possession story.

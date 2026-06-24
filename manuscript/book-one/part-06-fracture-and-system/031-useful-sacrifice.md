@@ -12,7 +12,7 @@ Maren had left them out on the flat stone where anyone could read the charcoal i
 
 I stood with the law racks at my back because that was where the counting had moved after the store was named open. Harvek sharpened a hook against the rack wood. Solek stood with his arms folded so thin they looked like they might snap in a wind. Maren counted under her breath and did not look at me.
 
-The Wound-Guest was quiet. It did not care about boards or shares until the numbers touched meat.
+The Red was quiet. It did not care about boards or shares until the numbers touched meat.
 
 Dremm came from the direction of the young fires. Keff walked on his left, red hair tied back with a strip of hide. Runa was on his right, her face still carrying the road dust she had not washed off since the axle work. Two others came with them whose names I did not use because they only opened their mouths when Dremm opened his first. Dorrik stayed at the edge of the knot, the one who had fixed the cart under Salt eyes. He watched the ground.
 
@@ -34,7 +34,7 @@ Dremm kept his eyes on me. "We have the three who broke the road. Dorrik. Keff. 
 
 The camp did not go quiet. It went still in the way a dog goes still before it decides whether to bite or run.
 
-The Wound-Guest woke.
+The Red woke.
 
 Not with the old blind hunger. With something slower. It pressed against the inside of my ribs like a hand testing cloth for weak seams. Images came without words first: Keff's throat under a clean cut, the body carried to the fire pit where the young knot waited, the smell of it filling the air so that even the ones who had not eaten since the tenth would remember who fed them. Then the story moving: to Hollow Antler mothers who would fill the next cradle share themselves rather than risk one of their own becoming the next useful thing. To the small holds beyond the ridge who had begun sending watchers instead of carts. Fear that brought tribute before the snows closed the passes.
 
@@ -60,7 +60,7 @@ Dremm's good eye narrowed. The bound side of his face did not move the same.
 
 "Then name one," he said. "Or stand aside and let the knot do what the crown will not."
 
-The heat under my ribs pushed harder. The Wound-Guest pressed like a second set of lungs trying to speak through mine. It offered the choice clean but showed more now: the debt bowl lifted from this stone and carried to the storehouse door, the blood poured across the threshold so every future tally would carry the mark of what had been paid in flesh and fear. The three standing the pass thin but alive, bringing word back that oath-breakers were not eaten but bound, and small holds sending tribute because the living example traveled farther than meat. Hollow Antler mothers doubling the tenth themselves rather than risk one of their own becoming the next useful thing. It was learning the crown's own tools.
+The heat under my ribs pushed harder. The Red pressed like a second set of lungs trying to speak through mine. It offered the choice clean but showed more now: the debt bowl lifted from this stone and carried to the storehouse door, the blood poured across the threshold so every future tally would carry the mark of what had been paid in flesh and fear. The three standing the pass thin but alive, bringing word back that oath-breakers were not eaten but bound, and small holds sending tribute because the living example traveled farther than meat. Hollow Antler mothers doubling the tenth themselves rather than risk one of their own becoming the next useful thing. It was learning the crown's own tools.
 
 It almost spoke. The iron taste flooded back across my tongue. Sweat started at my hairline. Red crept at the edges of my sight.
 
@@ -92,7 +92,7 @@ I turned so the whole knot could hear, and the ones who had drifted closer from 
 
 Maren's eyes sharpened on the boards — she was already counting what the reassigned shares would cost Salt logistics and what the mark would mean for every future tally. Asha watched the three with the old-blood stillness that said a name spoken in blood was heavier than one spoken in air; her gaze flicked once to the wrapped spear on Cairn's back. Yara, who had not sung, made a single low note under her breath that did not become a verse. It was enough to carry the shape of what had just been made public.
 
-The heat did not leave. It changed. The Wound-Guest turned the images. Now it showed the three standing the pass through snow, thin but alive, bringing back word of carts that came because the small holds had seen what happened to oath-breakers who were not eaten. It showed the blood in the bowl being carried to the storehouse door and poured across the threshold so that every tally after would carry the mark. It showed Dremm's knot watching their own made useful without being meat, and some of them beginning to wonder whether the crown's restraint was another kind of strength.
+The heat did not leave. It changed. The Red turned the images. Now it showed the three standing the pass through snow, thin but alive, bringing back word of carts that came because the small holds had seen what happened to oath-breakers who were not eaten. It showed the blood in the bowl being carried to the storehouse door and poured across the threshold so that every tally after would carry the mark. It showed Dremm's knot watching their own made useful without being meat, and some of them beginning to wonder whether the crown's restraint was another kind of strength.
 
 It was learning.
 
@@ -128,7 +128,7 @@ The young knot watched. Some looked at the bowl like it was a new kind of answer
 
 Dremm turned without a word and walked back toward the fires. Keff and Runa and the two others went with him. Dorrik stayed a moment longer, then followed when I nodded toward the pass.
 
-The Wound-Guest sank, but not all the way. It left a pressure behind the ribs like a lesson being remembered. Not the old laughter. Something that had teeth and could wait for snow.
+The Red sank, but not all the way. It left a pressure behind the ribs like a lesson being remembered. Not the old laughter. Something that had teeth and could wait for snow.
 
 That night Yara did not sing of the blood bowl or the three who had been made useful without being meat. She sat by the law racks and hummed one low note that did not become a verse. It was enough to carry.
 

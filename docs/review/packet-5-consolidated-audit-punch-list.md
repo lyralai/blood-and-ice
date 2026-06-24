@@ -24,7 +24,7 @@ Public cradle-store inspection (ch29) as pressure test with multi-tribe witnesse
 ## High (Strong Recommendation — Address in Next Pass or Packet 6)
 
 1. **Voice polish / after-the-fact reflection (packet-wide, echoes 21-28 notes):** Several closing reflections drift toward polished/systems-overview tone rather than pure feral-boy physical observation + immediate body/witness reaction.  
-   - Ch31: "The Wound-Guest had not taken the body. It had taken a new shape inside the law I was trying to build. That was the useful part. That was also the part that frightened me most." (Strong idea; tighten to immediate physical cost + what Rook does next.)  
+   - Ch31: "The Red had not taken the body. It had taken a new shape inside the law I was trying to build. That was the useful part. That was also the part that frightened me most." (Strong idea; tighten to immediate physical cost + what Rook does next.)  
    - Ch32: Extended night-walk reflection ("The island was larger than the camps... more voices... center thinner... the more places there were for other hands to reach in..."). Good political clarity but one sentence too many after the concrete images (Keva's fingers, girl pressing basket, antler cut in mud).  
    - Minor: Ch30 end ("Now the crack had a name and a use. That was the new pit...") and one "Be careful what you feed, Rook" line (on-nose for Guest).  
    **Recommendation:** In next edit pass, apply the feral alternative direction from chapter-21-28-review-notes.md (anchor in body, exits counted, hands, what the eyes see next, iron taste, red edges, spear grip). Keep the ideas; compress the summary.
@@ -60,7 +60,7 @@ Public cradle-store inspection (ch29) as pressure test with multi-tribe witnesse
 
 ## Strengths to Preserve (Packet-Wide)
 
-- **Public rite density and witness balance (ch29/31/32):** Open store with multi-tribe ring + Mother Harl inventory (no Vessa control). Road-sworn oath at law racks with Maren boards, Harvek, Solek, Asha, Yara note, Otta blade. Small loop knot with four-tribe + small + Naim witness. Excellent Chapter Standard execution (plot move + relationship alteration + rule clarification + public meaning shift + Wound-Guest cost).
+- **Public rite density and witness balance (ch29/31/32):** Open store with multi-tribe ring + Mother Harl inventory (no Vessa control). Road-sworn oath at law racks with Maren boards, Harvek, Solek, Asha, Yara note, Otta blade. Small loop knot with four-tribe + small + Naim witness. Excellent Chapter Standard execution (plot move + relationship alteration + rule clarification + public meaning shift + The Red cost).
 
 - **Guest escalation and strategic learning (core strength of packet):** From ch29 "Not food... Store" / "Names have bellies" counting hunger → ch30 "new gap" (unstaffed information, names as knots) + clean kill on mercy → ch31 "useful shape inside the law," debt bowl filed for later, fear as store → ch32 held on spoken "small loop" anchor + opposition reach noted. Physical toll consistently shown (iron taste, sweat, red edges, voice strain, hand shake after). This is the highest-leverage thread for Book One.
 

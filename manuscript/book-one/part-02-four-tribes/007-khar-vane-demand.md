@@ -46,7 +46,7 @@ Her covered face turned toward my wound, my wrist cord, my stolen blood, the pla
 
 Then she began to hum.
 
-The Wound-Guest woke under my skin like a dog hearing meat fall.
+The Red woke under my skin like a dog hearing meat fall.
 
 No, I thought.
 

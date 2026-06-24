@@ -34,7 +34,7 @@ By noon, two Khar Vane were dead, one Hollow Antler acolyte was missing, and Ves
 
 "Yes."
 
-The Wound-Guest approved of ownership when it smelled like guilt. Guilt is blood turned inward.
+The Red approved of ownership when it smelled like guilt. Guilt is blood turned inward.
 
 Maren arrived before sunset, furious because one of the dead Khar Vane had been carrying her grain. Asha came with Cairn and six Fen-Kin scouts. Vessa did not come. Vessa sent antlers.
 
@@ -116,7 +116,7 @@ The first arrow struck near my foot. White-fletched. Warning or bad aim. I kept 
 
 The second cut my arm.
 
-The Wound-Guest woke smiling.
+The Red woke smiling.
 
 Not yet.
 
@@ -134,7 +134,7 @@ So I ran.
 
 Not at them. Away.
 
-It shocked them. It shocked me too. The Wound-Guest howled inside my chest, furious at my back turned to enemies. Arrows hissed. One struck my shoulder shallow. Pain flashed red. I kept running down the pass, dragging them after me, making myself coward, bait, boy.
+It shocked them. It shocked me too. The Red howled inside my chest, furious at my back turned to enemies. Arrows hissed. One struck my shoulder shallow. Pain flashed red. I kept running down the pass, dragging them after me, making myself coward, bait, boy.
 
 Then the wash erupted behind them.
 
@@ -156,7 +156,7 @@ Men fell.
 
 My fault, I thought, because I had put Dremm on road, because I had wounded him, because I had thought shame could become discipline in three days.
 
-The Wound-Guest offered to fix it.
+The Red offered to fix it.
 
 This time I let it rise halfway.
 
@@ -202,7 +202,7 @@ His face twisted. "Then punish me, pit-boy."
 
 There it was. The challenge. The plea.
 
-The Wound-Guest wanted his submission in blood.
+The Red wanted his submission in blood.
 
 Harvek watched from the wash. Asha watched. Vessa's surviving acolytes watched from the trees. Yara watched from her stone, already holding the song by the throat.
 

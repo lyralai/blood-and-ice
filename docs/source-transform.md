@@ -38,10 +38,10 @@ The protagonist is now **Rook**, not an inherited franchise character. His value
 - ambiguous old northern ancestry
 - wilderness adaptation
 - willingness to observe before speaking
-- unwanted bond with the Wound-Guest
+- unwanted bond with the Red
 - symbolic capture by Khar Vane after the White Pit
 
-The monster is now **the Wound-Guest**, an ancient blood-presence. It is not just rage. It has memory, hunger, pattern recognition, and alien patience.
+The monster is now **the Red**, an ancient blood-presence. It is not just rage. It has memory, hunger, pattern recognition, and alien patience.
 
 The first book now centers on island politics and religious capture, not a rush to a mainland throne.
 

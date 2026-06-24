@@ -112,7 +112,7 @@ Not miracle first. Not chief first. Guest first after law.
 
 I remembered the White Pit and almost laughed. Law had eaten well today.
 
-The broth burned my tongue. I drank anyway. There was meat in it. Seal, I decided. Or wanted to decide. The Wound-Guest stirred, amused by the difference between knowing and choosing not to know.
+The broth burned my tongue. I drank anyway. There was meat in it. Seal, I decided. Or wanted to decide. The Red stirred, amused by the difference between knowing and choosing not to know.
 
 I stopped after half the bowl.
 
@@ -170,7 +170,7 @@ Her smile widened, not happy. Interested.
 
 I touched my chest. "Rook returned."
 
-The Wound-Guest shifted under my ribs, not angry. Patient.
+The Red shifted under my ribs, not angry. Patient.
 
 Yara looked down at my hand, at the place where my own name sat like a fist over the wound.
 
@@ -188,7 +188,7 @@ The camp settled in layers: children first, then old ones, then those with dutie
 
 Near dawn, I woke with my hand at my mouth.
 
-The Wound-Guest had dreamed of the pit-man crawling.
+The Red had dreamed of the pit-man crawling.
 
 It had liked the dream.
 

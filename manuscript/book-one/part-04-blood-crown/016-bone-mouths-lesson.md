@@ -112,7 +112,7 @@ I watched it fall, strike once, vanish into fog.
 
 "People who follow you will ask permission to become their worst selves," he said. "They will call it loyalty. They will call it faith. If you say yes because yes feels like power, they own you."
 
-Dremm's disappointed face came back to me. So did the ring. So did the Wound-Guest studying my yield.
+Dremm's disappointed face came back to me. So did the ring. So did the Red studying my yield.
 
 "If I say no?"
 
@@ -130,7 +130,7 @@ I did not want to be answer.
 
 I wanted the beach before people. Hunger without witness. Cold without meaning. A knife was honest when held by a man who wanted your food. A tribe was a knife that asked you to thank it for the handle.
 
-The Wound-Guest stirred.
+The Red stirred.
 
 It liked Harvek.
 

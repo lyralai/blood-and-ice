@@ -9,7 +9,7 @@ The near-term target is a reviewable 25k-35k word opening package that proves:
 - Rook's voice can carry a long first-person novel.
 - The four tribes create plot without relying on outside lore.
 - The White Pit is inevitable by politics, not random cruelty.
-- The Wound-Guest is useful, frightening, and costly.
+- The Red is useful, frightening, and costly.
 
 The long target is a full Book One of roughly 140k-180k words. A 500k-word series becomes plausible only if Book One has strong continuity systems before scaling.
 
@@ -73,7 +73,7 @@ Chapters:
 Purpose:
 
 - deliver the first major set piece
-- make the Wound-Guest terrifying before it becomes articulate
+- make the Red terrifying before it becomes articulate
 - create multiple public interpretations of the same event
 - give Khar Vane its sacred mandate
 
@@ -128,7 +128,7 @@ Purpose:
 
 - consolidate the blood-crown terms into daily governance, logistics, and counting
 - turn the cradle tenth into a public system that gives Salt Veyr administrative leverage while exposing scarcity
-- show Fen-Kin training (wrapped spear) as double-edged: it disciplines Rook but teaches the Wound-Guest
+- show Fen-Kin training (wrapped spear) as double-edged: it disciplines Rook but teaches the Red
 - expose Naim's doubts and Vessa's pivot from containment to indirect fragmentation and quiet knives
 - make the new road and store order a trap as much as a strength; winning public arguments creates quieter, longer enemies
 - establish that Dremm's faction and Khar Vane restraint are ongoing internal pressures
@@ -152,9 +152,9 @@ Purpose:
 
 - force the new cradle-store and road-bargain systems to confront material winter scarcity and the claims that follow from "feeding the people"
 - show Dremm's faction (or parallel internal pressure) attempting to convert the earlier "useful sacrifice" idea into a practical policy or action that solves a shortfall for the core followers
-- test the wrapped-spear / Fen caller discipline and old-blood check under real governance stress; demonstrate that the Wound-Guest has learned from the training and can now use openings strategically
+- test the wrapped-spear / Fen caller discipline and old-blood check under real governance stress; demonstrate that the Red has learned from the training and can now use openings strategically
 - escalate a bargain with a minor/outlying group or the small-tribe integration from Packet 5; reveal the limits of central authority when promises meet actual winter and competing claims
-- end with Rook making a choice (distribution, punishment, or public discipline) that either deepens his personal cost or publicly tests/blurs the "Wound-Guest is not king" crown term, setting up the larger mid-Book One crisis around whether the system can survive without the monster becoming the government
+- end with Rook making a choice (distribution, punishment, or public discipline) that either deepens his personal cost or publicly tests/blurs the "The Red is not king" crown term, setting up the larger mid-Book One crisis around whether the system can survive without the monster becoming the government
 
 Review question:
 
@@ -167,7 +167,7 @@ Each chapter should do at least three jobs:
 - move the plot
 - alter one relationship
 - clarify one tribal rule
-- deepen the Wound-Guest cost
+- deepen the Red cost
 - change Rook's public meaning
 - reveal a new pressure on food, law, or ritual
 

@@ -14,7 +14,7 @@ High prose target: sensory precision (internal cost) + visceral body-first voice
 - 30-year isolation sentence as punishment — still in effect when he is shipwrecked.
 - The isolation had a ritual layer: deliberate severing of the blood-god channels by removing true Rauth vessels.
 - **Ice-Blood** (Rauth inheritance via father / "cold ones" line): conservative, preserving, memory-holding. Endurance in cold, resistance to panic, animal attention, slow healing, sense of direction in snow/fog/dark water, ability to hold a name under pain. This is what will later let the blood-god force grip without burning through him.
-- **Blood-God Force** (Wound-Guest side): expansive, consuming, learns by injury. Currently dormant/latent in the pre-Pit phase. Subtle stirrings only (red heat, heightened senses, intrusive "old knowing" when touching bones/antlers, the heat "laughing" or purring under the ribs).
+- **Blood-God Force** (The Red side): expansive, consuming, learns by injury. Currently dormant/latent in the pre-Pit phase. Subtle stirrings only (red heat, heightened senses, intrusive "old knowing" when touching bones/antlers, the heat "laughing" or purring under the ribs).
 - **Key rule for this phase:** Keep the Rauth name completely latent in Rook's internal voice. He does not know (or only half-remembers) who he is. The island and the tribes will eventually name it for him. Plant only through:
   - Subtle ice-blood expressions (cold resistance, "the shore knew me," memory flashes on the antler pole or bones).
   - The sense that he is the last of something old and broken.
@@ -44,7 +44,7 @@ Target: Keep it lean. Every scene must do at least two things (survival + cost t
 - Compares people to animals, weather, wounds, food.
 - Distrusts beautiful language.
 - Thinks in exits, leverage, and who gets fed first.
-- The red heat / blood monster is not yet named "Wound-Guest." It is "the heat," "the red," "the thing under the ribs that laughed."
+- The red heat / blood monster is not yet named "The Red." It is "the heat," "the red," "the thing under the ribs that laughed."
 - Ice-blood expressions feel like "the cold remembered me," "my bones knew the weight of the snow even if I did not," or resistance when others break.
 - No Rauth name spoken by Rook. At most a half-memory of "names were how the dead stayed fed."
 

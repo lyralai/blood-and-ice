@@ -121,7 +121,7 @@ Rook's pit survival gives each tribe a different nightmare.
 3. Fen-Kin recognizes old-blood markers and argues against careless sacrifice.
 4. Khar Vane demands the White Pit rite.
 5. Rook is thrown in as compromise, punishment, and test.
-6. The Wound-Guest wakes.
+6. The Red wakes.
 7. Khar Vane claims the result before Hollow Antler can explain it away.
 
 That sequence turns a feral survival story into politics.

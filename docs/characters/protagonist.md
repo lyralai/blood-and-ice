@@ -20,7 +20,7 @@ This history is not yet known to Rook at the start. He carries two inheritances 
 
 **Ice-Blood** (the Rauth inheritance, through his father — the "cold ones" line): conservative, preserving, memory-holding. It expresses as endurance in cold, resistance to panic, animal attention, slow healing, a sense of direction in snow/fog/dark water, and the ability to hold a name under pain. This is what gives him the "grip" that lets the second force take hold without immediately destroying him.
 
-**Blood-God Force** (the Wound-Guest / blood monster side): expansive, consuming, learns by injury. It does not preserve the self; it uses the self as a door. Violent healing, laughter under pain, intrusive hunger, alien strategic clarity, smell-memory of bloodlines.
+**Blood-God Force** (the Red / blood monster side): expansive, consuming, learns by injury. It does not preserve the self; it uses the self as a door. Violent healing, laughter under pain, intrusive hunger, alien strategic clarity, smell-memory of bloodlines.
 
 The White Pit (ch8-10) is the first full mixing and the re-ignition point. For thirty years the isolation has been a deliberate severing of the old blood channels by removing true Rauth vessels. When Rook enters the pit under the old ritual conditions (fear, confinement, blood loss, near-death, public witnessing), the return of Rauth blood re-opens the channel. Ice-blood lets him survive as a better vessel. That is worse. The force now has a sustainable host who can be taught systems while the Guest learns the old shapes of rule along with the new crown tools.
 
@@ -76,11 +76,11 @@ Late book-one Rook:
 
 - speaks more clearly
 - thinks in public meaning
-- fears the Wound-Guest's usefulness
+- fears the Red's usefulness
 - begins to ask whether leadership is possession with witnesses
 - must decide whether to become a new version of his father's repression or build something the blood-god force has not yet learned to exploit
 
-## The Wound-Guest Relationship
+## The Red Relationship
 
 At first, Rook thinks the monster is rage. Then he realizes rage is only the door.
 
@@ -98,15 +98,15 @@ Post-Crown Developments (Ch 21-28):
 - Visible bone band (crown) acts as term and reminder; Rook refuses to sleep in it initially.
 - Intrusive pre-tribal memory: red hands on white ice, circle of kneeling men with open mouths, a boy with cut throat laughing through another mouth (ch21, triggered by broth heat).
 - Uses self-name "Rook" deliberately to slow or refuse surges (ch27 road violation).
-- Learns "store" concept via Wound-Guest during cradle tenth inspection ("Not food... Store").
-- Wound-Guest offers clear images (teeth on stone at Keff) and internal plea ("Please" for Harvek during road challenge).
+- Learns "store" concept via The Red during cradle tenth inspection ("Not food... Store").
+- The Red offers clear images (teeth on stone at Keff) and internal plea ("Please" for Harvek during road challenge).
 - During wrapped-spear caller training (ch26): strong rise ("Kill caller"), almost-words ("Door"), tastes the name "Rook", red thread visibly affects blood; Rook bites tongue to answer with own name and draws blood.
 - Bored by clean politics: disinterest in wound care, baskets, names, counting, and store inspection (ch28); only engages violence, hunger, dominance, direct threat.
 - Becomes more articulate/educated under restraint and training; learns faces/roles (Cairn as "Strong hand. Clean cut.").
 
 **Post-Crown Articulation & Education Costs (ch21-28)**
 - ch21: Memory intrusion (pre-tribal ritual killing image) triggered by simple heat/broth; public observers see physical reaction; reinforces need for visible terms.
-- ch25: During cradle tenth store opening, Wound-Guest distinguishes "Not food... Store"; offers clear kill image at Keff's entitlement; Rook holds and redirects to law (necessary wound to followers).
+- ch25: During cradle tenth store opening, The Red distinguishes "Not food... Store"; offers clear kill image at Keff's entitlement; Rook holds and redirects to law (necessary wound to followers).
 - ch26: Caller training produces strongest articulation yet ("Kill caller", "Door" almost-word now clear, tastes/repeats name "Rook", red thread visibly affects blood pressure). Rook succeeds via self-name + self-injury (bite tongue); success teaches the thing.
 - ch27: Internal plea ("Please") for permission to take Harvek during public road challenge; self-name used as anchor to refuse.
 - ch28: Explicit disinterest/boredom with clean administrative politics (wound care, baskets, names, counting, store inspection); only engages with violence, hunger, dominance, or direct threat to vessel. Highlights limitation in "system" phase of rule.
@@ -131,7 +131,7 @@ Post-Crown Developments (Ch 21-28):
 - tempted to let fear do the work of legitimacy
 - does not understand followers as people at first
 - risks confusing survival with rule
-- cannot always tell whether the Wound-Guest is helping him think
+- cannot always tell whether the Red is helping him think
 - Crown terms and witnesses create new captivity (bone band, Fen caller, Salt guarantees, public counting)
 - Faction (Dremm/young Khar) uses his restraint/mutilation as symbol against him
 - Administrative work (tallies, stores, road fines) exposes him to subtler traps than violence
@@ -179,7 +179,7 @@ Pit-singer. First person to name Rook's survival publicly. She can make or unmak
 ### Asha Fen
 
 Old-blood genealogist and spear-mother. She knows enough about Rook's inheritance to fear him honestly.
-- Establishes concrete witness role post-crown with hair token (ch21); brings wrapped spear (caller) for name-holding training (ch26); notes that success teaches the Wound-Guest.
+- Establishes concrete witness role post-crown with hair token (ch21); brings wrapped spear (caller) for name-holding training (ch26); notes that success teaches the Red.
 - Recognizes the Rauth lineage (ice-blood) that makes the pit vessel viable and the Fen old-blood check meaningful. The caller is partly an old Rauth tool repurposed to teach the force discipline.
 
 ### Naim
@@ -194,9 +194,9 @@ Hollow Antler acolyte with doubt. Participates in Vessa's clean political moves.
 
 Book one should end with Rook no longer merely surviving. He has followers, enemies, a name with political force, and a monster inside him that others are starting to prefer.
 
-The deeper question is whether the last Rauth can build a rule that does not feed only the Wound-Guest. The ice-blood side wants to preserve name, law, and lineage. The blood-god force wants to turn every small loop, road's due, debt bowl, and witness count into a feeding apparatus. Every time Rook successfully holds the name with anchors (self-name, wrapped spear, spoken claims, witnesses), the Guest learns the shape of those anchors and waits inside them.
+The deeper question is whether the last Rauth can build a rule that does not feed only the Red. The ice-blood side wants to preserve name, law, and lineage. The blood-god force wants to turn every small loop, road's due, debt bowl, and witness count into a feeding apparatus. Every time Rook successfully holds the name with anchors (self-name, wrapped spear, spoken claims, witnesses), the Guest learns the shape of those anchors and waits inside them.
 
-The long series asks whether he can build a rule that does not feed only the Wound-Guest.
+The long series asks whether he can build a rule that does not feed only the Red.
 
 Post-crown (ch21-28) pressures:
 - Leadership as system of counting, roads, stores, fines, and witnesses rather than single violent tests.

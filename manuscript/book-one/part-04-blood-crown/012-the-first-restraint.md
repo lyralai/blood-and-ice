@@ -16,7 +16,7 @@ They brought him with his hands tied behind his back and a rope around his neck.
 
 Dremm dragged him into the fire circle and threw him at my feet.
 
-I was sitting because standing made my rib click and the click made the Wound-Guest attentive. Harvek had ordered a woman named Otta to wrap my chest tighter. She had done it with no pity, which I preferred, and had called me bone-stupid in Khar Vane when I tried not to breathe.
+I was sitting because standing made my rib click and the click made the Red attentive. Harvek had ordered a woman named Otta to wrap my chest tighter. She had done it with no pity, which I preferred, and had called me bone-stupid in Khar Vane when I tried not to breathe.
 
 The prisoner landed hard.
 
@@ -52,7 +52,7 @@ But I wanted the knife because everyone expected my hand to close around it.
 
 Expectation is a path through snow. Easy to follow. Hard to leave without making everyone see where you go.
 
-The Wound-Guest pressed warmly against my ribs.
+The Red pressed warmly against my ribs.
 
 It did not command.
 
@@ -96,7 +96,7 @@ Solek's head tilted.
 
 He knew the words. Harvek saw Solek hear them. Yara did too.
 
-The Wound-Guest liked the prisoner's fear. It rose through me with sweet patience, showing me how easy the cut would be. Under jaw. Across wrist. Into belly and upward. Let the camp see. Let the camp know.
+The Red liked the prisoner's fear. It rose through me with sweet patience, showing me how easy the cut would be. Under jaw. Across wrist. Into belly and upward. Let the camp see. Let the camp know.
 
 I put the knife against the prisoner's throat.
 
@@ -134,7 +134,7 @@ Pain blackened the edge of the world. I stayed up because sitting would have giv
 
 That word the camp understood.
 
-The Wound-Guest warmed around it.
+The Red warmed around it.
 
 Careful, I thought, but maybe to myself.
 
@@ -154,7 +154,7 @@ He should not have.
 
 His fist caught my cheek, not hard enough to break anything, hard enough to open the split the sea had given me. Blood ran hot into my mouth. The camp moved. Harvek did not. Solek did not. Yara's eyes sharpened.
 
-The Wound-Guest came up laughing.
+The Red came up laughing.
 
 It had waited for a door, and Dremm had opened one with his fist.
 
@@ -182,7 +182,7 @@ He wanted me to become it.
 
 That brought me back more sharply than fear.
 
-The Wound-Guest could use enemies. It could use pain. It could use threat. But a follower who offered himself as a door was a different kind of trap.
+The Red could use enemies. It could use pain. It could use threat. But a follower who offered himself as a door was a different kind of trap.
 
 I saw Dremm old, maybe. Or dead. Or wearing my hunger as permission while boys behind him learned how to love their worst selves.
 
@@ -266,7 +266,7 @@ I waited.
 
 I did not answer because I did not want to learn from him and knew I already had.
 
-When I sat again, my rib pain returned with interest. My hands shook. The Wound-Guest curled under the shaking, not angry, not beaten.
+When I sat again, my rib pain returned with interest. My hands shook. The Red curled under the shaking, not angry, not beaten.
 
 Curious.
 

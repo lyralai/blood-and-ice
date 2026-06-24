@@ -28,7 +28,7 @@ Asha set the wrapped spear across both palms. "A caller."
 
 "This one calls names."
 
-The Wound-Guest stirred.
+The Red stirred.
 
 Names were hooks to it. Names were handles on meat. Names were what people gave one another so grief knew where to sit.
 
@@ -54,7 +54,7 @@ Asha took the spear from Cairn and laid it on the stone.
 
 "I want to train the boy before the thing learns faster."
 
-The Wound-Guest laughed inside my ribs.
+The Red laughed inside my ribs.
 
 It had almost-words now. Not full speech. Not yet. But pressure gathered in shapes.
 
@@ -72,7 +72,7 @@ So of course I looked.
 
 The red thread seemed ordinary until my blood noticed it. Then the world leaned.
 
-The Wound-Guest rose like a dog scenting the open door.
+The Red rose like a dog scenting the open door.
 
 Not dog. Not anything that had ever curled beside a fire. It rose old and pleased and certain that the wrapped spear had been made by hands that knew how vessels broke.
 
@@ -94,7 +94,7 @@ Again the spear struck.
 
 My knees bent. Not from weakness. From wanting to spring.
 
-The Wound-Guest pressed forward.
+The Red pressed forward.
 
 Kill caller.
 
@@ -114,7 +114,7 @@ Cairn moved behind me. I heard his feet in snow, careful, ready to cut tendons i
 
 My jaw locked.
 
-The Wound-Guest filled my tongue with heat. It wanted to answer in a sound older than names. It wanted to make the Fen woman kneel and the stone remember. It wanted to show them the pit had not given back a boy. It had given back a door.
+The Red filled my tongue with heat. It wanted to answer in a sound older than names. It wanted to make the Fen woman kneel and the stone remember. It wanted to show them the pit had not given back a boy. It had given back a door.
 
 The spear struck.
 
@@ -138,7 +138,7 @@ Asha lowered the spear half an inch.
 
 "Rook."
 
-The Wound-Guest recoiled, not beaten. Irritated. Curious.
+The Red recoiled, not beaten. Irritated. Curious.
 
 Rook, it pressed.
 
@@ -158,7 +158,7 @@ Solek said, "I thought the danger was failing."
 
 "No," Asha said. "Failure kills him. Success teaches what lives in him where the door is."
 
-The Wound-Guest settled back, warm and pleased.
+The Red settled back, warm and pleased.
 
 Door.
 
@@ -186,7 +186,7 @@ Cairn answered before Asha.
 
 He said it cleanly. No hate. That made it worse.
 
-The Wound-Guest liked him.
+The Red liked him.
 
 Strong hand, it pressed. Clean cut.
 
@@ -202,7 +202,7 @@ Asha did not like that.
 
 Neither did I.
 
-But the Wound-Guest was listening now. The island had become a school, and everyone kept bringing lessons.
+But the Red was listening now. The island had become a school, and everyone kept bringing lessons.
 
 
 ---

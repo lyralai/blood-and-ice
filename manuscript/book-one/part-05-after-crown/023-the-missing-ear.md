@@ -54,7 +54,7 @@ I squatted by the fire. "What did I teach?"
 
 He leaned forward. "That mercy costs flesh."
 
-The Wound-Guest liked that sentence. It liked how simple it was. Simple things fit in mouths and travel far.
+The Red liked that sentence. It liked how simple it was. Simple things fit in mouths and travel far.
 
 "Wrong."
 
@@ -130,7 +130,7 @@ Just one word.
 
 Mine, held ready.
 
-The Wound-Guest fell back laughing.
+The Red fell back laughing.
 
 Dremm heard it too, not the laughter but the check. He saw Asha. He saw the wrapped Fen spears. He saw that even his anger had witnesses now.
 

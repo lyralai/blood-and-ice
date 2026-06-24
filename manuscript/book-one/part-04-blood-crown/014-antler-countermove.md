@@ -74,7 +74,7 @@ Maren's baskets.
 
 "It is a wall made of mouths," Solek said.
 
-The Wound-Guest did not understand the problem. I felt its contempt. Antlers could be smashed. Bark could be burned. Anyone who complained could be opened. Simple.
+The Red did not understand the problem. I felt its contempt. Antlers could be smashed. Bark could be burned. Anyone who complained could be opened. Simple.
 
 For half a breath I loved that simplicity.
 

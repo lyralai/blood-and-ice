@@ -9,7 +9,7 @@ Iteration 1: Added post-crown articulation grouping in protagonist.md + ch30-der
 ## Files Updated
 
 ### docs/characters/protagonist.md (Rook)
-- Wound-Guest relationship: Added post-crown stages/details from ch21-28 (intrusive pre-tribal memory ch21; self-name "Rook" anchor ch27; "Not food... Store" recognition ch25; caller training "Kill caller"/"Door"/red thread/bite-tongue blood ch26; internal plea "Please" ch27; boredom/disinterest in clean politics ch28; articulation/education side effects).
+- The Red relationship: Added post-crown stages/details from ch21-28 (intrusive pre-tribal memory ch21; self-name "Rook" anchor ch27; "Not food... Store" recognition ch25; caller training "Kill caller"/"Door"/red thread/bite-tongue blood ch26; internal plea "Please" ch27; boredom/disinterest in clean politics ch28; articulation/education side effects).
 - Strengths: Added self-name/public witnesses as anchors; learning systems (counting/roads/stores/fines) as tools.
 - Weaknesses: Added crown terms as new captivity (bone band/Fen caller/Salt guarantees/public counting); Dremm faction using restraint/mutilation as symbol; administrative work exposing subtler traps.
 - Relationships: Expanded Maren (ledgers/guarantees/cradle tenth power ch22/25/28), Harvek (road sanction/fine ch27), Yara (Dremm wrap/meaning ch23), Asha (hair token ch21 + caller training ch26), Cairn (knife role ch21/26).
@@ -17,7 +17,7 @@ Iteration 1: Added post-crown articulation grouping in protagonist.md + ch30-der
 
 ### docs/characters/tribal-leaders.md
 - **Maren Salt-Hand**: Added ch22 guarantees (open roads, joint storehouse, Senn as living guarantee-counter); ch25/28 counting/admin power via cradle tenth and public inspection.
-- **Cairn**: Added ch21/26 knife/executioner positioning during crown witness and wrapped-spear caller training; "Strong hand. Clean cut." learned by Wound-Guest.
+- **Cairn**: Added ch21/26 knife/executioner positioning during crown witness and wrapped-spear caller training; "Strong hand. Clean cut." learned by The Red.
 - **Dremm**: Added ch23 missing ear as factional symbol ("Half-Hearing"); Yara wrap; Rook's tally punishment with Senn ("hear numbers with the side left to you"); faction resentment to fines/tenth; ch27 road violation reaction.
 - **Vessa of the Hollow Antler**: Added ch24-28 shift to fragmentation (Mother Harl + empty cradles aimed at Fen-Kin/mourning paths) then clean knife (wound care via Mother Harl/Naim under white cloth, no direct threat).
 - **Asha Fen**: Added ch21 hair-token witness move (first at crown, bone tube from Rook's hair, public Fen call-back declaration); ch26 caller (wrapped spear) training on black stone; independence notes ("Fen-Kin marks terms, not obedience").

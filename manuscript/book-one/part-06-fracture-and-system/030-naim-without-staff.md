@@ -20,7 +20,7 @@ No white cloth. No basket. No mothers behind him. He walked like someone who had
 
 I did not call a guard. I wanted to see what a man without a staff thought he could do.
 
-He stopped at the distance where a thrown knife might reach but a hand could not. Close enough to speak without shouting. Far enough that the Wound-Guest could not take him before I decided.
+He stopped at the distance where a thrown knife might reach but a hand could not. Close enough to speak without shouting. Far enough that the Red could not take him before I decided.
 
 "You left the store open longer than the count required," he said.
 
@@ -32,7 +32,7 @@ He stopped at the distance where a thrown knife might reach but a hand could not
 
 Naim looked at the door, then at the ground between us. "She names what Vessa tells her to name. The gaps are real. The meaning is chosen."
 
-The Wound-Guest stirred at the word "gaps." It liked holes. It liked the idea that something had been taken from the inside and the outside had not noticed yet.
+The Red stirred at the word "gaps." It liked holes. It liked the idea that something had been taken from the inside and the outside had not noticed yet.
 
 I kept my hands where he could see them. "You walked here without the others. Without the staff."
 
@@ -52,7 +52,7 @@ He stopped. His eyes went to the ridge, then back.
 
 "The inner law is different. It lives in the hands that carve the first antlers and in the carvers who remember before the current mothers were born. Old Brannoc knows the words. If a vessel survives the White Pit and the blood answers without a name given by the priesthood, the hollows must be left open for one full turning. Three names must be offered before the mourning paths can close against those who stand with the vessel. One name from the dead. One from the living witness who is not Antler. One from the blood itself, spoken by the vessel when it is ready."
 
-The Wound-Guest rose hard at that. It pushed an image of wind moving through black trees, carrying names that were not mine into every cradle frame on the ridge, names that made the wood whistle like the dead were still trying to speak. Then it showed me my own mouth forced open, something that was not my voice naming the island's hungers one by one while the cradles drank the sound. The red heat climbed my ribs like a hand closing.
+The Red rose hard at that. It pushed an image of wind moving through black trees, carrying names that were not mine into every cradle frame on the ridge, names that made the wood whistle like the dead were still trying to speak. Then it showed me my own mouth forced open, something that was not my voice naming the island's hungers one by one while the cradles drank the sound. The red heat climbed my ribs like a hand closing.
 
 I bit down on the inside of my cheek until the iron taste was sharp enough to hold. Sweat started at my hairline. I counted the exits the way the wrapped-spear lessons had taught me to count when the thing pushed. One ridge path. One store bar I could drop. One knife at my belt I would not draw. My voice came out strained. "You are saying Vessa is using only half the law."
 
@@ -68,7 +68,7 @@ Naim's face did something complicated. Not a smile. Not a wince. His voice caugh
 
 He was not asking for pity. He was naming a cost the way Maren named fish. I watched his hand move to his left wrist without thinking — two fingers pressing skin, then open palm down before he caught the motion and let it fall. The sign he had not meant to show. The same hand that had steadied the frame now hid the thing that might save the child he had not named. That made the "I will not kneel" land harder than any oath I had heard since the crown.
 
-The Wound-Guest offered a cleaner answer. Take the unstaffed man. He is already open. No ritual wall. The name he carries can be eaten and the doubt with it. The mothers will see and some will break before the next count.
+The Red offered a cleaner answer. Take the unstaffed man. He is already open. No ritual wall. The name he carries can be eaten and the doubt with it. The mothers will see and some will break before the next count.
 
 I did not move. I let the pressure sit under my ribs until it hurt in the old familiar way. Then I spoke around it.
 
@@ -92,7 +92,7 @@ Mercy from a man who has put down his staff is still a knife. It just arrives wi
 
 He told me the sign once, crisp. Two fingers to the left wrist, then open palm down, the way a woman might set a cradle frame on the ground when she is too tired to carry it upright. "The mother who will answer is the one whose sister was named wrong in a prior rite and whose boat never came back from the salt runs. That is the sign the fasting mothers know. Reach her with it and the fast may crack before it starves anyone useful to either of us. The ones who have not yet cut a name will stay back if they can."
 
-I memorized it. The Wound-Guest memorized the face Naim would wear when he lied about where he had been.
+I memorized it. The Red memorized the face Naim would wear when he lied about where he had been.
 
 Naim turned to go.
 
@@ -104,7 +104,7 @@ I pulled a small knot from my belt. One of Maren's counting knots, the kind that
 
 "If the mother answers the sign, bring this back with her mark on it. If she does not, keep it or burn it. I will know what the answer means either way."
 
-The Wound-Guest offered the clean kill image again while the knot lay there: Naim's throat with no staff and no ritual wall, quick and quiet, the doubt eaten before it could travel back to the ridge. I counted the exits the way the wrapped-spear lessons had taught me — ridge path, store bar I could drop, knife at my belt I would not draw — and let the pressure climb until my palms were damp and the edges of my sight went thin and red. Then I spoke around the iron in my mouth. "Take it or leave it. The choice is yours."
+The Red offered the clean kill image again while the knot lay there: Naim's throat with no staff and no ritual wall, quick and quiet, the doubt eaten before it could travel back to the ridge. I counted the exits the way the wrapped-spear lessons had taught me — ridge path, store bar I could drop, knife at my belt I would not draw — and let the pressure climb until my palms were damp and the edges of my sight went thin and red. Then I spoke around the iron in my mouth. "Take it or leave it. The choice is yours."
 
 Naim looked at the knot for a long time. He crouched without taking his eyes off me, picked it up, and tested the weight in his own hand the way I had watched him test the road boy's binding. He did not hold it long. "You are learning how to make debts that do not require blood."
 
@@ -120,7 +120,7 @@ He left the way he had come, back toward the ridge, no staff, no basket, no whit
 
 I stayed by the store door until the light was gone.
 
-The Wound-Guest did not sleep. It kept showing me the open place where a staff should have been. It kept offering the image of Naim's throat with no ritual wall around it. It kept whispering the shape of the name he had not spoken. I felt it settling lower in the ribs, patient, as if it had just learned the shape of this new gap — information that arrived without a staff, names that could be carried like knots, and the space between a man and the law he had been told to keep.
+The Red did not sleep. It kept showing me the open place where a staff should have been. It kept offering the image of Naim's throat with no ritual wall around it. It kept whispering the shape of the name he had not spoken. I felt it settling lower in the ribs, patient, as if it had just learned the shape of this new gap — information that arrived without a staff, names that could be carried like knots, and the space between a man and the law he had been told to keep.
 
 I did not take it.
 
@@ -134,7 +134,7 @@ That was the new pit. Not the White one. Not the witnessed hollow. This one had 
 
 I went back to the camp fire. I did not tell Maren or Harvek or Asha what Naim had said. Not yet. First I would test the knot and the sign. First I would see whether mercy that sounded like information was only another way for Hollow Antler to own the next story.
 
-The Wound-Guest laughed once under my ribs, low and patient.
+The Red laughed once under my ribs, low and patient.
 
 It could wait.
 

@@ -38,7 +38,7 @@ His eyes found the blood on my hand.
 
 He smiled with half a mouth.
 
-The Wound-Guest stirred.
+The Red stirred.
 
 I tried to stand. My rib said no. My knee slipped on bone. The pit-man came fast.
 
@@ -70,7 +70,7 @@ No, I thought.
 
 The thought was small and far away.
 
-The Wound-Guest loved the pit-man because the pit-man was simple. Hunger wearing a body. A door already open.
+The Red loved the pit-man because the pit-man was simple. Hunger wearing a body. A door already open.
 
 Mine, I thought again.
 
@@ -82,7 +82,7 @@ Not well. Not beautifully. Nothing in the pit was beautiful. I drove the broken 
 
 He bit my shoulder.
 
-The Wound-Guest laughed through my teeth.
+The Red laughed through my teeth.
 
 I bit back.
 
@@ -100,7 +100,7 @@ That is the part I remember too clearly.
 
 Not the killing blow. Not the blood. The crawl.
 
-His fingers dragged pale lines through dust. He made a sound that might have been a word. The Wound-Guest heard plea and translated it as weakness. My hand caught his ankle.
+His fingers dragged pale lines through dust. He made a sound that might have been a word. The Red heard plea and translated it as weakness. My hand caught his ankle.
 
 Stop, I thought.
 
@@ -124,7 +124,7 @@ Yara singing faster.
 
 The pit wall under my fingers.
 
-The Wound-Guest did not climb like a boy. It climbed like the pit owed it height.
+The Red did not climb like a boy. It climbed like the pit owed it height.
 
 Halfway up, my left hand slipped. A nail tore off. I watched it fall into the dark and felt nothing.
 
@@ -148,7 +148,7 @@ Harvek's scarred mouth opened in a grin that showed too many teeth.
 
 I did not want his hands on me.
 
-The Wound-Guest did.
+The Red did.
 
 It liked witnesses.
 

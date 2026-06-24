@@ -10,7 +10,7 @@ Rook's power grows in three directions:
 2. **Tribe**: followers, law, food, ritual, legitimacy.
 3. **World**: mainland politics, old bloodlines, religious panic, imperial consequence.
 
-The danger is that the Wound-Guest grows along the same paths. It learns body first, then tribe, then world.
+The danger is that the Red grows along the same paths. It learns body first, then tribe, then world.
 
 ## Book One: Blood Under Ice
 
@@ -22,7 +22,7 @@ Scope:
 - four tribes
 - White Pit
 - Khar Vane following
-- first leadership crisis (blood-crown under law, cradle-store and road systems, small-tribe integration, internal faction pressure, and the Wound-Guest learning counting/administrative hunger while the boy holds the crown term)
+- first leadership crisis (blood-crown under law, cradle-store and road systems, small-tribe integration, internal faction pressure, and the Red learning counting/administrative hunger while the boy holds the crown term)
 
 Target length: 120k-160k words.
 
@@ -54,7 +54,7 @@ Scope:
 - old-blood recognition
 - mainland church or crown response
 - Rook used as claimant, weapon, and scandal
-- Wound-Guest learns mass politics
+- The Red learns mass politics
 
 Target length: 150k-180k words.
 
@@ -69,13 +69,13 @@ Scope:
 - followers split between Rook-the-boy and Rook-the-monster
 - old blood versus blood-god theology
 - Cairn/Yara/Dremm consequences
-- major defeat caused by overuse of the Wound-Guest
+- major defeat caused by overuse of the Red
 
 Target length: 140k-180k words.
 
 ## Book Five: The Guest Below
 
-**Question:** If the Wound-Guest can become a ruler, what must Rook give up to remain a person?
+**Question:** If the Red can become a ruler, what must Rook give up to remain a person?
 
 Scope:
 
@@ -104,7 +104,7 @@ Do not generate chronologically forever without review. Use staged expansion:
 - Every public miracle must update political reaction.
 - Every tribe needs food logic in long arcs.
 - Rook's voice may mature but should not become generic court narration.
-- The Wound-Guest should learn from repeated use.
+- The Red should learn from repeated use.
 - No victory without a social consequence.
 
 ## Scale Notes

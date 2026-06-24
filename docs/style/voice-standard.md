@@ -12,7 +12,7 @@ The reader IS Rook. Every sensation is felt now. Every choice is made blind. No 
 
 **Multiple POVs allowed.** Not every chapter must be Rook. Other characters can carry chapters when:
 - Rook is absent from a scene that matters (political maneuvering between tribes)
-- A scene is more powerful seen from outside Rook (someone watching the Wound-Guest take over)
+- A scene is more powerful seen from outside Rook (someone watching the Red take over)
 - A character's interiority reveals something the plot needs (Maren calculating, Harvek planning, Vessa's fear)
 - It creates dramatic irony (the reader knows something Rook doesn't)
 
@@ -21,7 +21,7 @@ The reader IS Rook. Every sensation is felt now. Every choice is made blind. No 
 - Each POV character must have a distinct voice — Maren thinks in calculations, Dremm in hungers, Vessa in old words
 - The POV switch must be obvious within the first sentence (named character, their context)
 - Rook should carry at least 70% of the book's chapters — he is the spine
-- The Wound-Guest never gets its own POV. It is only ever felt from inside someone else
+- The Red never gets its own POV. It is only ever felt from inside someone else
 
 ---
 
@@ -64,7 +64,7 @@ Characters who contradict themselves. Political scenes that are personal. No one
 
 Old things under the world. Horror from understanding, not jump scares.
 
-- The Wound-Guest predates human categories of good and evil
+- The Red predates human categories of good and evil
 - The antler teeth, the pit, the old blood — fragments of something older and larger
 - Horror escalates through *recognition*, not revelation. The scarier thing is understanding what was always there
 - Cosmic indifference: the old powers don't hate humans. They don't care enough to hate
@@ -77,13 +77,13 @@ Old things under the world. Horror from understanding, not jump scares.
 
 ### First Law: Magic solves problems only when the reader understands its cost
 
-- The Wound-Guest is mysterious early (creates problems) and understood gradually (earns the right to solve problems later)
+- The Red is mysterious early (creates problems) and understood gradually (earns the right to solve problems later)
 - By chapter 30, the reader understands its rules well enough that deliberate use feels earned
 - Never use the Guest as a deus ex machina. If it saves Rook, the reader must already know why and what it costs
 
 ### Second Law: Limitations > Powers
 
-What the Wound-Guest **can't** do defines Rook more than what it can.
+What the Red **can't** do defines Rook more than what it can.
 
 **Established limitations:**
 - Heals him but **eats memories** — he's losing his mother's face
@@ -96,7 +96,7 @@ What the Wound-Guest **can't** do defines Rook more than what it can.
 
 ### Third Law: Go deep, not wide
 
-- Don't invent new magic systems. The Wound-Guest, the antlers, the pit, the old blood — that's the system
+- Don't invent new magic systems. The Red, the antlers, the pit, the old blood — that's the system
 - Every magical event should be a new angle on the same system, not a new power
 - Explore 10 consequences of one rule rather than 10 rules with one consequence each
 

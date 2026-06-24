@@ -5,12 +5,12 @@
 - **Blood Under Ice** - working series/book title.
 - **Rook** - protagonist.
 - **The Blackjaw Isles** - primary Book One setting.
-- **The Wound-Guest** - Rook's eventual name for the blood-force.
+- **The Red** - Rook's eventual name for the blood-force.
 - **The White Pit** - sacrificial site and political test.
 - **House Rauth** (or "the Rauth", "the Rauth line") - the old ruling house of the Blackjaw Isles. All tribes were once subjects. Two major rebellions were put down (the most recent by Rook's father ~10-20 years before the story). As punishment the islands were sentenced to 30 years of isolation (still in effect when Rook lands). The isolation had a ritual layer: a deliberate severing of the blood-god channels by removing true Rauth vessels. Rook is the last heir. The tribes know the name even if they do not speak it openly. Ice-blood (Rauth preserving/memory/name-holding inheritance) lets him survive the White Pit as a better vessel. The blood name spoken by the vessel in inner law carries the weight of this lineage.
   - **Novella pass planting (001-003, 2026-06-13):** Subtle pre-Pit expressions only (shore/stones/bones recognize returning blood; "last of something old and broken"; "cold part of me that remembered how to hold a name under pain"; "knots the dead had used to keep names fed when the isolation had tried to starve the line"; claims "older than the snares" that waited for the old line's blood). Rook's internal voice keeps the name completely latent. No spoken Rauth. These early touches are now canonical for the opening.
 - **Blood Snow** - first open fight after the second pit; useful victory turned morally costly by Dremm's disobedient killing.
-- **Blood-crown** - constrained Khar Vane war-crown placed around Rook under law; explicitly does not make the Wound-Guest king.
+- **Blood-crown** - constrained Khar Vane war-crown placed around Rook under law; explicitly does not make the Red king.
 - **Second pit / witnessed hollow** - Rook's four-tribe revision of Vessa's containment rite.
 - **Half-Hearing** - Dremm's post-mutilation name among young Khar Vane; later used by Rook as ironic punishment title for tally work.
 - **Cradle tenth** - the public share extracted from Khar Vane storehouse for Hollow Antler children under the new road/store order (ch25).
@@ -55,15 +55,15 @@
 ## Usage Notes
 
 - Rook should not know most tribe names immediately. Early chapters should let names arrive through repetition, barter, threats, and translation.
-- The Wound-Guest should not be called that by Rook in early chapters. Use body sensation first: red heat, pressure, second breath, laughter under the ribs.
+- The Red should not be called that by Rook in early chapters. Use body sensation first: red heat, pressure, second breath, laughter under the ribs.
 - Khar Vane cannibalism should be framed through law, sacrament, scarcity, and political dread. Avoid using it as empty shock.
 - Hollow Antler power comes from naming. Their scenes should turn on who gets to interpret an event.
 - Salt Veyr power comes from storage, boats, translation, and debt.
 - Fen-Kin power comes from genealogy, old blood, and disciplined violence.
-- After Chapter 20, Fen-Kin holds the old-blood check on Rook: Asha or one she names may call him back if the Wound-Guest takes over, and Khar Vane law requires binding or killing if he does not return.
+- After Chapter 20, Fen-Kin holds the old-blood check on Rook: Asha or one she names may call him back if the Red takes over, and Khar Vane law requires binding or killing if he does not return.
 - "Half-Hearing" is used both as factional praise for Dremm's wound and as Rook's deliberate administrative punishment (hear numbers with the side left to you).
 - Cradle names / empty cradles are Hollow Antler's primary symbolic weapon in ch24-28; names of dead children are physical objects (cut into frames) and political currency.
-- The wrapped spear / caller is a specific Fen-Kin tool for name-holding and red-state recall; its red thread and bone blade are the only physical objects shown to visibly affect the Wound-Guest's rise.
+- The wrapped spear / caller is a specific Fen-Kin tool for name-holding and red-state recall; its red thread and bone blade are the only physical objects shown to visibly affect the Red's rise.
 
 ## New Terms (Chapter 32)
 

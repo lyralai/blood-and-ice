@@ -54,7 +54,7 @@ Cairn did not look at him. That was a skill too.
 
 The camp went quiet in the wrong way.
 
-The Wound-Guest stirred under my ribs. It liked being discussed by enemies. It liked challenge most of all. Challenge is an open door for hunger with witnesses.
+The Red stirred under my ribs. It liked being discussed by enemies. It liked challenge most of all. Challenge is an open door for hunger with witnesses.
 
 I stood.
 
@@ -112,7 +112,7 @@ Cairn struck my ribs with the heel of his hand.
 
 White filled me.
 
-The Wound-Guest rose through it, delighted.
+The Red rose through it, delighted.
 
 No.
 
@@ -126,7 +126,7 @@ His hand passed over me. I caught his knee, not to break, only to pull. He turne
 
 Pain cracked open behind my eyes.
 
-The Wound-Guest surged.
+The Red surged.
 
 I put my own hand on the ground.
 
@@ -170,7 +170,7 @@ Dremm left before the fire settled. He did not stomp. That would have been easie
 
 Yara watched him leave, then looked at me with the face of someone hearing three songs fight over one ending.
 
-That night the Wound-Guest did not dream of killing Cairn.
+That night the Red did not dream of killing Cairn.
 
 It dreamed of the moment I yielded.
 

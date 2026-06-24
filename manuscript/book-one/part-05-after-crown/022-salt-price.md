@@ -80,7 +80,7 @@ Maren pointed at me.
 
 "His."
 
-The Wound-Guest rose so fast my vision reddened at the edges.
+The Red rose so fast my vision reddened at the edges.
 
 Mine?
 
@@ -176,7 +176,7 @@ Dremm said, "Salt boy gives terms now?"
 
 I turned.
 
-The Wound-Guest wanted the turn to become strike. It showed me Dremm's throat and how easy a thumb can close breath. I held my hands open.
+The Red wanted the turn to become strike. It showed me Dremm's throat and how easy a thumb can close breath. I held my hands open.
 
 "Yes," I said. "That is what witness means when it is not song."
 

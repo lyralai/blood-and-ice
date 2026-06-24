@@ -32,13 +32,13 @@
 **Sub-Agent 1: Packet 6 Detailed Specs Expansion (Planning Lead)**
 - Scope: Expand the high-level Packet 6 outline into full per-chapter "Must accomplish" lists + key scene beats in both `docs/story/book-one-production-plan.md` (update Packet 6 section) and `docs/continuity/next-scene-queue.md` (flesh out the "Next Packet: The Winter Ledger" section).
 - Add concrete review questions for each chapter.
-- Cross-link to ch29-32 accomplishments (winter scarcity, road-sworn precedent, small loop weight, Dremm/Half-Ear faction reach, Wound-Guest systems learning).
+- Cross-link to ch29-32 accomplishments (winter scarcity, road-sworn precedent, small loop weight, Dremm/Half-Ear faction reach, The Red systems learning).
 - Minimal updates to `docs/story/long-series-roadmap.md` if Book One midpoint implications are now clearer.
 - Deliverable: Updated production-plan.md + next-scene-queue.md with rich, actionable Packet 6 specs. Short summary at top of changes.
 
 **Sub-Agent 2: Draft Chapter 33 "The Cradle Reckoning"**
 - Scope: Full rough draft of Chapter 33 per the (expanded) spec in next-scene-queue.md.
-- Constraints: First-person Rook voice. Chapter Standard: plot move + relationship alteration + tribal rule clarification + Wound-Guest cost + public meaning shift. Focus on winter scarcity pressure on the new cradle-store and road-bargain systems. Show coordinated claims from Reed-Bend + pass guards + core Khar. Rook feels the "small loop" weight. Guest offers "clean" administrative solutions.
+- Constraints: First-person Rook voice. Chapter Standard: plot move + relationship alteration + tribal rule clarification + The Red cost + public meaning shift. Focus on winter scarcity pressure on the new cradle-store and road-bargain systems. Show coordinated claims from Reed-Bend + pass guards + core Khar. Rook feels the "small loop" weight. Guest offers "clean" administrative solutions.
 - Required: Update timeline.md, cost-ledger.md (new Event), names-and-terms.md if new terms, and next-scene-queue.md with Voice & Cost Notes.
 - Deliverable: `manuscript/book-one/part-06-fracture-and-system/033-the-cradle-reckoning.md` (or correct part path) + continuity updates. Banned scan clean.
 
@@ -50,20 +50,20 @@
 
 **Sub-Agent 4: Draft Chapter 35 "The Wrapped Call"**
 - Scope: Full rough draft of Chapter 35.
-- Constraints: Real red-state pressure or public loss of control under governance stress (not training). Demonstrate that the Wound-Guest has learned from ch26 wrapped-spear training and now uses openings strategically (anticipates caller, offers bargains, turns discipline back). Fen-Kin old-blood check (Asha or named) forced to act. Rook returns/holds via boy discipline + self-name + political cost awareness. New visible cost on the return.
+- Constraints: Real red-state pressure or public loss of control under governance stress (not training). Demonstrate that the Red has learned from ch26 wrapped-spear training and now uses openings strategically (anticipates caller, offers bargains, turns discipline back). Fen-Kin old-blood check (Asha or named) forced to act. Rook returns/holds via boy discipline + self-name + political cost awareness. New visible cost on the return.
 - Required continuity updates.
 - Deliverable: `.../035-the-wrapped-call.md` + continuity. Clean scan.
 
 **Sub-Agent 5: Draft Chapter 36 "The Road's Due"**
 - Scope: Full rough draft of Chapter 36 (Packet 6 closer).
-- Constraints: Escalate a concrete consequence from ch32 Reed-Bend (or small-tribe) winter-road bargain under winter pressure. Minor group makes a claim the center cannot easily meet, or opposition reaches them first. Rook chooses distribution/punishment/discipline that deepens personal administrative cost or publicly tests the "Wound-Guest is not king" term. End with clear evidence that systems (stores, roads, road-sworn, small loops) are under strain and the boy-king problem has escalated. Set up mid-Book One crisis.
+- Constraints: Escalate a concrete consequence from ch32 Reed-Bend (or small-tribe) winter-road bargain under winter pressure. Minor group makes a claim the center cannot easily meet, or opposition reaches them first. Rook chooses distribution/punishment/discipline that deepens personal administrative cost or publicly tests the "The Red is not king" term. End with clear evidence that systems (stores, roads, road-sworn, small loops) are under strain and the boy-king problem has escalated. Set up mid-Book One crisis.
 - Required continuity + strong Voice & Cost Notes in queue.
 - Deliverable: `.../036-the-roads-due.md` + continuity. Clean banned scan.
 
 **Sub-Agent 6: Continuity Hygiene Pass (Packet 5 Lock-in)**
 - Scope: Systematic review and update of continuity files for the newly completed ch29-32.
   - Add full detailed events/bullets for ch29-32 to `docs/continuity/timeline.md`.
-  - Add new Events (16+) to `docs/continuity/cost-ledger.md` with trigger, expression, benefit, cost (Wound-Guest learning counting/systems, road-sworn living debt, small loop, Naim fracture, Half-Ear concrete faction).
+  - Add new Events (16+) to `docs/continuity/cost-ledger.md` with trigger, expression, benefit, cost (The Red learning counting/systems, road-sworn living debt, small loop, Naim fracture, Half-Ear concrete faction).
   - Add/update terms in `docs/continuity/names-and-terms.md` (road-sworn, Reed-Bend/Keva, Half-Ear, small loop, fasting-mother sign, inner law, etc.).
   - Append a "Post-Packet 5 Hygiene Report" section to `docs/continuity/next-scene-queue.md`.
 - Constraints: NO manuscript edits. Only the 4 continuity files + queue. Re-run banned scan at end.

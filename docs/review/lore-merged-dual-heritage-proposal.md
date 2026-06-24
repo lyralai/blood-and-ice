@@ -18,7 +18,7 @@
 
 ## Executive Summary
 
-Rook carries **dual heritage**: conservative Ice-Blood (memory, endurance, lineage-binding) + expansive Blood-God Force (the Wound-Guest: consumes, learns via injury, uses the self as door). The White Pit is the specific unlock that lets the blood-force grip a vessel who would otherwise burn out or be consumed cleanly. Packet 5 (ch29-32) and prior beats escalate this from raw survival tool to strategic/administrative learner that exploits crown systems (stores, names, debts, small loops, information gaps). 
+Rook carries **dual heritage**: conservative Ice-Blood (memory, endurance, lineage-binding) + expansive Blood-God Force (the Red: consumes, learns via injury, uses the self as door). The White Pit is the specific unlock that lets the blood-force grip a vessel who would otherwise burn out or be consumed cleanly. Packet 5 (ch29-32) and prior beats escalate this from raw survival tool to strategic/administrative learner that exploits crown systems (stores, names, debts, small loops, information gaps). 
 
 Key evolution: Restraint + public terms (self-name, wrapped spear, witnesses, debt bowl, small loop) train the Guest while costing Rook (political dependence, followers preferring the monster, new vulnerabilities like "names have bellies," boredom with admin, mutual suspicion knots). Tribal reactions range from weapon-worship (Khar) to logistics risk (Salt), containment/inner-law fracture (Hollow), old-blood check (Fen), and calculated choice between hungers (small holds like Reed-Bend).
 
@@ -37,7 +37,7 @@ Rook carries two forces that should not mix cleanly.
 - Expressions: endurance in cold, slow healing, ancestral memory fragments (red hands on white ice, circle of kneeling men with open mouths, boy with cut throat laughing through another mouth — ch21 intrusion), animal attention, resistance to panic, sense of direction in snow/fog/dark water, ability to hold a name under pain.  
 - Nature: Conservative. Preserves. Remembers. Binds a person to lineage and place. Gives Rook a "grip" that lets the second force take hold without immediate burnout.
 
-**Blood-God Force (older than the tribes; the Wound-Guest to Rook):**  
+**Blood-God Force (older than the tribes; the Red to Rook):**  
 - Khar Vane: the Below-Eater. Hollow Antler: the Red Listener. Fen-Kin: refuses to name it.  
 - Expressions: violent healing after injury, battle-state possession, laughter under mortal pain, borrowed strength, smell-memory of bloodlines, temporary loss of fear, intrusive hunger, alien strategic clarity, intrusive pre-tribal ritual images.  
 - Nature: Expansive. Consumes. Learns by injury. Does not preserve the self; it uses the self as a door. Becomes more articulate with every victory (from sensation → images → almost-words like "Door" → "Names have bellies. The counters lie with numbers..." → strategic "useful shape inside the law" / debt bowl / small loop shapes).
@@ -53,7 +53,7 @@ He is not immune. He is a better vessel. That is worse.
 
 **Post-Packet 5 Refinement (from audits + ch29-32):** The dual heritage now explicitly enables "administrative hunger." Ice-blood's memory + name-holding lets Rook count witnesses/exits and repeat "Rook" as brake; Blood-God learns the shape of those brakes (new gaps, debt bowls as traveling marks, small loops as reachable shapes, "names have bellies"). Inner law (Hollow Antler three-name doctrine) surfaces as a new information vector the Guest can exploit (unstaffed channels, names carried like knots). The White Pit did not just wake the monster — it created the conditions for a hybrid that can be shaped by law and then turn law into a feeding apparatus.
 
-**Long Arc Implication:** Book one ends with Rook no longer merely surviving. He has followers, enemies, a name with political force, and a monster inside him that others (and the Guest itself) are starting to prefer and train. The series asks whether he can build a rule that does not feed only the Wound-Guest.
+**Long Arc Implication:** Book one ends with Rook no longer merely surviving. He has followers, enemies, a name with political force, and a monster inside him that others (and the Guest itself) are starting to prefer and train. The series asks whether he can build a rule that does not feed only the Red.
 
 ## 2. How the White Pit Specifically Unlocks the Blood Monster + Integration with Existing Story Beats (ch1-36)
 
@@ -69,7 +69,7 @@ The Pit is not generic trauma. It is a ritual containment (Hollow Antler) + publ
 
 **Crown / Restraint Phase (ch11-20):**  
 - ch11-13: Followers before wisdom. Dremm devotion vs Solek law. Restraint disappoints worshippers (ch12). Salt turns myth to logistics (ch13).  
-- ch15-18: Fen challenge (Cairn as potential knife). Blood Snow (useful victory, costly disobedience). Second pit / witnessed hollow revision of containment rite. Blood-crown placed under constrained law (explicitly does not make Wound-Guest king).  
+- ch15-18: Fen challenge (Cairn as potential knife). Blood Snow (useful victory, costly disobedience). Second pit / witnessed hollow revision of containment rite. Blood-crown placed under constrained law (explicitly does not make The Red king).  
 - ch19-20: Blood Snow moral debt. Crown under law. Khar Vane feast law as central pressure.  
 
 **Post-Crown / Systems Phase (ch21-28 from protagonist/CHANGES + Packet 5 ch29-32):**  
@@ -107,7 +107,7 @@ The Pit is not generic trauma. It is a ritual containment (Hollow Antler) + publ
 - Guest learning (names have bellies, new gaps as info vectors, debt bowl as weapon, small loops as reachable shapes, "useful shape inside the law"). Every restraint teaches it.  
 - Physical crashes after (sweat, red vision edges, iron taste, hand shake on spear long after; ch29-32).  
 - Political: transparent weakness feeds trust (root bundle) or teeth (Half-Ear plan); authority arrives late to its own extensions; center thinner with every small loop; systems strain (more voices = more reach points for enemies).  
-- New from Packet 5: "The Wound-Guest had not taken the body. It had taken a new shape inside the law I was trying to build." (ch31); small loop "heavier than the cord"; Naim silences accumulate as visible costly public refusals.
+- New from Packet 5: "The Red had not taken the body. It had taken a new shape inside the law I was trying to build." (ch31); small loop "heavier than the cord"; Naim silences accumulate as visible costly public refusals.
 
 **Limits (unchanged core + reinforced):** Guest cannot solve logistics cleanly, make healthy loyalty, understand tenderness, create food, prevent backlash, or keep Rook's identity intact for free. It can win pit fights and file crown tools; it cannot run a society without turning it into a feeding apparatus.
 
@@ -150,12 +150,12 @@ Pulled and ranked by leverage for lore (dual heritage, Pit unlock, costs/anchors
 **Do not edit manuscript prose** (per all sub-agent scopes + audit-plan + README rules). Only continuity, bibles, review notes.
 
 **To docs/characters/protagonist.md (high priority, minimal):**
-- Expand "The Wound-Guest Relationship" and "Post-Crown Developments" with Packet 5 escalations: administrative hunger ("Names have bellies," "Not food... Store" → debt bowl / small loop shapes), "new gap" from ch30, strategic learning ("testing a new knife," "useful shape inside the law"), Naim private/public silences as accumulating cost, small loop weight + after-effect (hand shake), boredom with clean admin as explicit limitation.
+- Expand "The Red Relationship" and "Post-Crown Developments" with Packet 5 escalations: administrative hunger ("Names have bellies," "Not food... Store" → debt bowl / small loop shapes), "new gap" from ch30, strategic learning ("testing a new knife," "useful shape inside the law"), Naim private/public silences as accumulating cost, small loop weight + after-effect (hand shake), boredom with clean admin as explicit limitation.
 - Update "Strengths" / "Weaknesses" / "Long Arc": self-name + public witnesses + wrapped spear as anchors; crown terms as new captivity; administrative work as subtler trap; systems strain (more voices = thinner center + more reach for enemies); Guest files crown tools while Rook holds.
 - Add cross-refs to ch29-32 queue accomplished and cost-ledger Events 16+ (to be added post-Packet 6).
 
 **To docs/world/blood-and-ice-magic.md (medium, targeted):**
-- In "The Two Inheritances" and "The Wound-Guest" sections: add explicit White Pit grip mechanics (ice-blood as handle allowing adaptation rather than clean death/burnout); note post-Pit learning curve (sensation → images → almost-words → strategic/administrative filing of names, stores, debts, gaps, small loops).
+- In "The Two Inheritances" and "The Red" sections: add explicit White Pit grip mechanics (ice-blood as handle allowing adaptation rather than clean death/burnout); note post-Pit learning curve (sensation → images → almost-words → strategic/administrative filing of names, stores, debts, gaps, small loops).
 - In "Trigger Conditions" / "Costs" / "Limits": add examples from Packet 5 (public pressure tests, inner law gaps, debt bowl as traveling symbol, small loop as new vulnerability, "names have bellies," administrative boredom, opposition reach ahead of law). Reinforce: better vessel = worse (Guest learns the anchors that hold it).
 - "Ritual Misreadings": note inner law (Hollow) as older doctrine that creates exploitable gaps for the Guest.
 
@@ -185,7 +185,7 @@ Only legitimate project-native strings ("numbers," "counted," "tally," "store," 
 
 **All Sub-Agent Reports Verified:** Sub1-7 + consolidated + queue hygiene rounds + CHANGES-2026-06-12-bible-refine.md + chapter-21-28-review-notes.md all state "CLEAN," "Zero prohibited IP matches," "Banned Hygiene: Pass." No drift since last reports. New synthesis file introduces none.
 
-**Compliance:** Full. Source-IP hygiene rules (README) followed. Public surface (bibles, continuity, review, this proposal, manuscript ch1-32) remains white-labeled original fantasy (Blackjaw Isles, Wound-Guest, four tribes, Reed-Bend, road-sworn, inner law, etc.). Ready for parent review / human gate / Packet 6 expansion. Re-run exact scan before any PR or further packets.
+**Compliance:** Full. Source-IP hygiene rules (README) followed. Public surface (bibles, continuity, review, this proposal, manuscript ch1-32) remains white-labeled original fantasy (Blackjaw Isles, The Red, four tribes, Reed-Bend, road-sworn, inner law, etc.). Ready for parent review / human gate / Packet 6 expansion. Re-run exact scan before any PR or further packets.
 
 **End of Synthesis.** This file is the deliverable. All prior sub-agent artifacts (review/*.md) + continuity + bibles remain source of truth for details. No further files edited by this subagent.
 

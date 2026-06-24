@@ -60,7 +60,7 @@ This time Harvek did not let it rise long. His hand cut down.
 
 Vessa's eyes stayed on me. "Then all tribes hear what Khar Vane has brought among us."
 
-There it was. Not a pit to kill me. A pit to make me perform monster or prove absence. Both were cages. If I entered and the Wound-Guest stayed quiet, Vessa would say her containment worked. If it rose, she would say I needed containment forever.
+There it was. Not a pit to kill me. A pit to make me perform monster or prove absence. Both were cages. If I entered and the Red stayed quiet, Vessa would say her containment worked. If it rose, she would say I needed containment forever.
 
 "No," Harvek said again.
 
@@ -82,7 +82,7 @@ I was so tired of eyes.
 
 Vessa's face softened. That was the cruelest thing she had done yet. "Then prove person."
 
-The Wound-Guest stirred.
+The Red stirred.
 
 It did not like being invited politely.
 
@@ -146,7 +146,7 @@ The question entered me like cold water.
 
 Rook, I thought.
 
-The Wound-Guest rose behind the name.
+The Red rose behind the name.
 
 Vessa asked again in another tongue. Then another. Old words. Antler words. Maybe words older than Antler. Each one pressed somewhere different in the blood.
 
@@ -154,7 +154,7 @@ I saw snow that had never fallen on this island. I saw men with blue lips biting
 
 "What are you?"
 
-Hungry, the Wound-Guest answered.
+Hungry, the Red answered.
 
 My mouth stayed closed.
 
@@ -162,7 +162,7 @@ The night stretched. People shifted. Children slept against old knees. Dremm wat
 
 Vessa kept asking.
 
-Near dawn, my body began to fail from stillness. Pain is easier when moving. Stillness gives it time to speak. The Wound-Guest pressed against my teeth.
+Near dawn, my body began to fail from stillness. Pain is easier when moving. Stillness gives it time to speak. The Red pressed against my teeth.
 
 Let me answer.
 
@@ -192,7 +192,7 @@ Not monster. Boy. She found the door Cairn had named.
 
 My mouth opened.
 
-The Wound-Guest waited.
+The Red waited.
 
 "I am Rook," I said.
 

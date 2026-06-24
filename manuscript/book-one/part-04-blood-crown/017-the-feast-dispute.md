@@ -70,7 +70,7 @@ Dremm took his piece when offered. He lifted it high before eating, eyes on me.
 
 Several young warriors did the same.
 
-The Wound-Guest stirred with amused recognition. Meat was meat. Blood was memory. Taking an enemy into the body was only a cruder version of what old powers did all the time.
+The Red stirred with amused recognition. Meat was meat. Blood was memory. Taking an enemy into the body was only a cruder version of what old powers did all the time.
 
 That thought was not mine.
 
@@ -124,7 +124,7 @@ His fist hit my mouth.
 
 I fell because my rib was still a weak door and pain came through it. The camp roared. Dremm stood over me, breathing hard, horrified and glad.
 
-The Wound-Guest rose clean and eager.
+The Red rose clean and eager.
 
 It gave me his throat again. Always throats. Always the easiest red answer.
 
@@ -148,7 +148,7 @@ I pushed myself to my knees. Not yielding this time. Rising.
 
 His eyes widened.
 
-I did not ask for death. The Wound-Guest hated me for that.
+I did not ask for death. The Red hated me for that.
 
 "He feeds the roads he wanted to burn. He carries Salt Veyr loads through Fen marsh until Antler taboo breaks or his feet do. He learns what hunger costs before he asks other mouths to sing it."
 
@@ -186,7 +186,7 @@ When Dremm passed me later, he did not look at my face.
 
 He left before I could decide whether I had spoken wisdom or only made another enemy from a boy who had wanted too hard.
 
-The Wound-Guest whispered without words under my ribs.
+The Red whispered without words under my ribs.
 
 It approved of enemies.
 

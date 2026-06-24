@@ -62,7 +62,7 @@ The camp followed her finger.
 
 I disliked that enough to stand.
 
-My rib clicked. The Wound-Guest opened one red eye inside me. I sat back down before it mistook pride for need.
+My rib clicked. The Red opened one red eye inside me. I sat back down before it mistook pride for need.
 
 Maren saw. Her face did not change, but her hand moved once against the knot cord at her belt.
 
@@ -202,11 +202,11 @@ Dremm looked at me, as if I should save him from being made small.
 
 I understood him then in a way I did not want.
 
-He did not love the Wound-Guest only because it was violent. He loved it because it made the world simple. Bleed and win. Kneel and rise. Kill and become true.
+He did not love the Red only because it was violent. He loved it because it made the world simple. Bleed and win. Kneel and rise. Kill and become true.
 
 Maren was showing him a world where someone could defeat him with fish counts.
 
-The Wound-Guest hated that world too.
+The Red hated that world too.
 
 It shifted in me, bored and irritated.
 

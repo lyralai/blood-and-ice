@@ -1,14 +1,14 @@
-# Wound-Guest Berserk Manifestation: "Blood Monster" / Bloody-Nine Adaptation Proposal (SubAgent-3)
+# The Red Berserk Manifestation: "Blood Monster" / Bloody-Nine Adaptation Proposal (SubAgent-3)
 
 **Date:** 2026-06-12  
 **SubAgent Task:** Blood Under Ice Lore Refinement — Berserk / 'blood monster' state.  
-**Scope:** Proposal file only. No manuscript changes. Fits 'Wound-Guest' name, dual blood + White Pit unlock, physical anchors (self-name 'Rook', wrapped spear, cheek/tongue bite, counting exits/witnesses), and learning arc (smarter with each use). Visceral, costly, explicitly *not* a clean power-up. Inspired by Logen Ninefingers' Bloody-Nine (uncontrollable laughing hyper-violence, loss of self, alien joy) but grounded in Rook's specific ice-blood vessel + blood-god force.  
+**Scope:** Proposal file only. No manuscript changes. Fits 'The Red' name, dual blood + White Pit unlock, physical anchors (self-name 'Rook', wrapped spear, cheek/tongue bite, counting exits/witnesses), and learning arc (smarter with each use). Visceral, costly, explicitly *not* a clean power-up. Inspired by Logen Ninefingers' Bloody-Nine (uncontrollable laughing hyper-violence, loss of self, alien joy) but grounded in Rook's specific ice-blood vessel + blood-god force.  
 **Mandatory Files Read:** blood-and-ice-magic.md, protagonist.md, cost-ledger.md, names-and-terms.md, banned-ip-checklist.md, 026-the-wrapped-spear.md, 027-road-teeth.md. Cross-referenced ch31 (useful sacrifice), ch36 (road's due), ch21-28 review notes, packet-5 audits, next-scene-queue.md, and continuity index.  
 **Banned Scan:** Performed (grep -r -iE against full banned list, excluding checklist itself). Result: CLEAN. Zero franchise/IP matches (rickon/stark/skagos/etc., GoT/ASoIaF terms, author names, etc.). Only incidental legitimate "numbers"/"counted" strings in store/road/debt contexts. Re-runnable via `banned-ip-checklist.md` command.
 
 ## Core Concept
 
-The Wound-Guest is Rook's name for the blood-god force (called Below-Eater by Khar Vane, Red Listener by Hollow Antler). It is *not* simple rage or a berserker rage power. It is an expansive, consuming, learning presence that uses Rook's ice-blood inheritance as a superior "vessel" (White Pit unlock makes the grip sustainable rather than immediately self-destructive — which is worse for the boy).
+The Red is Rook's name for the blood-god force (called Below-Eater by Khar Vane, Red Listener by Hollow Antler). It is *not* simple rage or a berserker rage power. It is an expansive, consuming, learning presence that uses Rook's ice-blood inheritance as a superior "vessel" (White Pit unlock makes the grip sustainable rather than immediately self-destructive — which is worse for the boy).
 
 **Bloody-Nine Adaptation (visceral, not clean):**  
 - Uncontrollable laughter rising from the ribs under mortal pain (alien joy, not triumph).  
@@ -23,7 +23,7 @@ It arrives through the body first (red heat from wounds, iron taste, pressure un
 
 From magic.md and protagonist.md:  
 - **Ice-blood** (northern inheritance): conservative, preserves, remembers, binds to lineage/place. Gives endurance in cold, resistance to panic, ability to hold a name under pain, animal attention, slow healing. Makes Rook a "better vessel" — the blood-god force can grip without burning through him immediately.  
-- **Blood-god force** (Wound-Guest): expansive, consumes, learns by injury. Violent healing, battle-state possession, laughter under pain, borrowed strength, intrusive hunger, alien strategic clarity, smell-memory of bloodlines, temporary loss of fear.  
+- **Blood-god force** (The Red): expansive, consumes, learns by injury. Violent healing, battle-state possession, laughter under pain, borrowed strength, intrusive hunger, alien strategic clarity, smell-memory of bloodlines, temporary loss of fear.  
 
 White Pit (ch9 full awakening): ritual fear + confinement + blood loss + near death. Most sacrifices die or break. Rook returns changed because ice-blood gives the force purchase. The pit does not give back a boy; it gives back a door. This is the root "blood monster" unlock — sustainable possession rather than one-shot frenzy.
 
@@ -70,7 +70,7 @@ From ch26 (wrapped spear), ch27 (self-name + "Rook"), ch30 (cheek bite + countin
 - **Wrapped spear / caller (Fen old-blood external check):** Asha/Cairn bring ash-gray shaft, milk-white bone blade, red thread (ch26). Repeated strikes on stone + name repetition ("Rook," "Rook of no shore," "Rook who came back"). Red thread visibly affects blood pressure. Rook succeeds by biting tongue (own blood) + answering with his name. "Kill caller" pressure. "Door" almost-word clarifies on success. Asha: "success teaches it" (fears education, not just loss of control). Cairn positioned as "Strong hand. Clean cut." (Guest learns the face). Crown terms make this a required brake (if no return, bind or kill). Later uses (ch35/36): Guest anticipates the rhythm, turns the call, waits inside it rather than being yanked back. Hand still shakes on shaft after.  
 - **Cheek/tongue bite + iron taste:** Draws "mine" blood. Used in training (ch26) and Naim reveal (ch30). Physical self-injury as assertion against the second breath.  
 - **Counting exits / witnesses / named things aloud:** "Counting exits" (ridge path, store bar, knife at belt — ch30). Counting the three road-breakers (ch31). Counting witnesses (Maren/Asha/Mother Harl/Otta — ch29/36 patterns). Naming the small loop or due claim aloud while holding. Turns political obligation into a physical anchor.  
-- **Crown / blood-crown terms + public witnesses:** Fen check explicit. "The Wound-Guest is not king." Public counting (cradle tenth, road fines, small loop) makes the name heavier and the center thinner.  
+- **Crown / blood-crown terms + public witnesses:** Fen check explicit. "The Red is not king." Public counting (cradle tenth, road fines, small loop) makes the name heavier and the center thinner.  
 
 **Key Rule (Asha in ch26, reinforced everywhere):** Anchors work but success teaches the Guest the shape of the brake. The caller becomes "a door" not just a leash. Restraint (ch27 plea refused, ch31 transformation, ch36 due answered with living debt instead of meat) is filed as "waste" or "a tool for larger meals." Each use makes the next hold costlier (more articulation, more patient waiting, hand tremor as visible after-effect).
 
@@ -142,6 +142,6 @@ From magic.md "Costs" section, cost-ledger cumulative notes, protagonist.md, ch2
 - If Rook leans on it too often, myth eats the boy (followers want the monster for deterrence; restraint humiliates the violent Khar knot).  
 - Winter + small-tribe extensions (ch32/36) are perfect pressure: more claims the law must meet or lose reach; Guest notes every new name/claim as a vector.  
 - Fen check (Asha/Cairn) and Salt counting (Maren) are the primary external brakes — but each use of the check educates the Guest on how the crown answers.  
-- Long arc question (protagonist.md): Can Rook build rule that does not feed only the Wound-Guest? This berserk state makes the answer visceral and costly.
+- Long arc question (protagonist.md): Can Rook build rule that does not feed only the Red? This berserk state makes the answer visceral and costly.
 
 **End of Proposal.** This expands the berserk/'blood monster' state while fitting every existing anchor, cost, learning beat, and White Pit dual-blood detail. Ready for review/implementation in future packets if approved. No manuscript edits performed.

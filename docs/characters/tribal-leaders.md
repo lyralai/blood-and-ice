@@ -17,7 +17,7 @@ He also understands the threat: if the boy becomes more sacred than the chief, K
 **Use in story:**
 
 - teaches Rook that fear must be fed or managed
-- tests whether Rook can restrain the Wound-Guest
+- tests whether Rook can restrain the Red
 - may try to adopt, control, challenge, or sacrifice him again
 
 Post-crown clarifications (Ch 21-28):
@@ -81,7 +81,7 @@ She does not want Khar Vane controlling him and does not trust Hollow Antler to 
 
 - offers the first coherent explanation of ice-blood
 - gives Rook a possible identity beyond monster
-- may order Cairn to kill him if the Wound-Guest wins too often
+- may order Cairn to kill him if the Red wins too often
 
 Post-crown clarifications (Ch 21-28):
 - Moves first at crown witness (ch21): cuts Rook's hair while he sleeps, ties into bone tube as witness token ("This is not leash. This is witness"); declares Fen call-back role publicly before Khar Vane can claim the moment.
@@ -128,7 +128,7 @@ He should not be a simple enemy. His existence asks whether Rook could have beco
 Post-crown clarifications (Ch 21-28):
 - Positioned as potential executioner/knife during crown witness (wrapped spears) and name-holding training (ch21, ch26).
 - Carries the wrapped spear (caller: ash-gray shaft, bone blade, red thread); stands ready during first training session on black stone.
-- The Wound-Guest learns his face/role ("Strong hand. Clean cut.") during caller training.
+- The Red learns his face/role ("Strong hand. Clean cut.") during caller training.
 
 ## Dremm
 
@@ -143,7 +143,7 @@ He is the shape of Rook's bad following: boys who want permission to become hung
 **Use in story:**
 
 - escalates violence Rook meant to contain
-- publicly adores the Wound-Guest
+- publicly adores the Red
 - forces Rook to confront what kind of loyalty he is creating
 
 Post-crown clarifications (Ch 21-28):
@@ -201,7 +201,7 @@ Durable facts established by ch30 draft:
 - Personal stake: sister's winter-late child at risk under closed paths.
 - Explicit "I will not kneel."
 - Provides the fasting-mother sign (two fingers to left wrist then open palm down) that may crack a cradle fast if reached with debt.
-- Offers a test debt knot. Rook gains concrete doctrine Vessa has been simplifying/hiding; treats as useful information source but decides not to share immediately with Maren/Harvek/Asha (widens private gap). Wound-Guest stirs at unstaffed vulnerability and laughs at the new pit forming around information and debt.
+- Offers a test debt knot. Rook gains concrete doctrine Vessa has been simplifying/hiding; treats as useful information source but decides not to share immediately with Maren/Harvek/Asha (widens private gap). The Red stirs at unstaffed vulnerability and laughs at the new pit forming around information and debt.
 
 **Use in story (ch30+):** Becomes a source of Hollow Antler doctrine that Vessa has been simplifying; test debt knot offered; potential lever in future cradle fast or road-sworn scenes without instant loyalty.
 

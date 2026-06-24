@@ -6,7 +6,7 @@ This folder keeps the project from drifting as the manuscript grows.
 
 - `timeline.md` - chapter-by-chapter event order
 - `names-and-terms.md` - approved names, meanings, and usage notes
-- `cost-ledger.md` - every Wound-Guest event and its cost
+- `cost-ledger.md` - every The Red event and its cost
 - `next-scene-queue.md` - ordered drafting queue and open scene questions
 - `banned-ip-checklist.md` - terms and checks that keep the project white-labeled
 

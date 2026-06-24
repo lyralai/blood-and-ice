@@ -1,9 +1,9 @@
-# Guest Behavior Rules v2 — Wound-Guest Articulation & Learning Ceiling
+# Guest Behavior Rules v2 — The Red Articulation & Learning Ceiling
 
-**Purpose**: Codify the safe escalation ladder for the Wound-Guest (Blood-God Force / Below-Eater / Red Listener). Preserve its core strength as a *strategic learner of systems* (stores, names, debts, small loops, callers, crowns, due claims) while strictly enforcing the articulation ceiling. The Guest must remain dangerous, bodily, expensive, and only *almost* articulate for the majority of Book One.
+**Purpose**: Codify the safe escalation ladder for the Red (Blood-God Force / Below-Eater / Red Listener). Preserve its core strength as a *strategic learner of systems* (stores, names, debts, small loops, callers, crowns, due claims) while strictly enforcing the articulation ceiling. The Guest must remain dangerous, bodily, expensive, and only *almost* articulate for the majority of Book One.
 
 **Core Principle (unchanged from magic.md + protagonist.md)**: 
-The Wound-Guest communicates through appetite, images, pressure, sudden knowing, and strategic hunger. It learns by injury, restraint, and witnessed victories. It does **not** speak in neat sentences early. Every escalation in clarity must be earned through visible physical and political cost to Rook, and must leave the reader feeling the thing is becoming a better ruler *because* the boy is trying to hold law.
+The Red communicates through appetite, images, pressure, sudden knowing, and strategic hunger. It learns by injury, restraint, and witnessed victories. It does **not** speak in neat sentences early. Every escalation in clarity must be earned through visible physical and political cost to Rook, and must leave the reader feeling the thing is becoming a better ruler *because* the boy is trying to hold law.
 
 ## Safe Escalation Ladder (Book One Ceiling)
 
@@ -68,7 +68,7 @@ Full sentences, relational speech, clean administrative hunger, and the Guest ac
 
 **Cross-references**: 
 - docs/world/blood-and-ice-magic.md (original trigger/cost/limit sections)
-- docs/characters/protagonist.md (Wound-Guest relationship stages + post-crown articulation notes)
+- docs/characters/protagonist.md (The Red relationship stages + post-crown articulation notes)
 - docs/continuity/cost-ledger.md (all logged events)
 - docs/review/chapter-21-28-review-notes.md and packet audits
 

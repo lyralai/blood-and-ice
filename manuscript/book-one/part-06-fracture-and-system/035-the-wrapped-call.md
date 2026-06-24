@@ -16,7 +16,7 @@ Mother Harl's cradle frames clicked. Naim stood near her, no staff, two fingers 
 
 Half-Ear laughed, the sound short and wet. "The red thing eats the count the same as it eats meat. Give it one of the road-sworn who still owes and the rest will walk the pass without taking from the bend. Useful. The old price."
 
-The Wound-Guest rose at "small" and "cough" and "eat the count." It had learned the language of stores. Images came clean: the bend girl's basket overturned, the eel meat in the debt bowl poured across the stone so every future tally carried the mark of what the crown fed. The coughing child lifted easy because small things did not fight the hand that closed. Pressure under my ribs. Sweat on my palms where the wrapped spear rested. Red at the edges like the tide coming in under black sand.
+The Red rose at "small" and "cough" and "eat the count." It had learned the language of stores. Images came clean: the bend girl's basket overturned, the eel meat in the debt bowl poured across the stone so every future tally carried the mark of what the crown fed. The coughing child lifted easy because small things did not fight the hand that closed. Pressure under my ribs. Sweat on my palms where the wrapped spear rested. Red at the edges like the tide coming in under black sand.
 
 I counted the witnesses the way Asha had taught. Maren. Harvek. Solek. Asha with Cairn. Mother Harl. Naim. Keva and the girl. The three road-sworn. Otta at the edge with her one arm. Yara humming low, not a full song yet.
 
@@ -40,7 +40,7 @@ The sound went into my teeth like the first time on the black stone.
 
 "Rook."
 
-The Wound-Guest did not wait for the second strike. It rose before the sound finished, anticipating the rhythm it had learned in the fog woods. The red thread on the bone blade seemed to lean toward me. I saw the bargain form inside before Asha could speak the next name.
+The Red did not wait for the second strike. It rose before the sound finished, anticipating the rhythm it had learned in the fog woods. The red thread on the bone blade seemed to lean toward me. I saw the bargain form inside before Asha could speak the next name.
 
 Let the spear-mother name the bend as yours in blood. I will close the hands on the ones who reach before the knot. Three turnings. The small will feed the name. Their cough will make the crown strong.
 

@@ -10,13 +10,13 @@
 
 ## Chapter Standard Applied
 
-Each chapter must move plot, alter one relationship, clarify one tribal rule, deepen Wound-Guest cost, change Rook's public meaning, or reveal pressure on food/law/ritual.
+Each chapter must move plot, alter one relationship, clarify one tribal rule, deepen The Red cost, change Rook's public meaning, or reveal pressure on food/law/ritual.
 
 **ch32 Delivery:**
 - Plot move: First extension of crown authority to a small/outlying holdfast via public winter-road bargain (no pit/battle/snow required). Introduces Reed-Bend/Keva as new counted party.
 - Relationship alteration: Naim's visible public choice of silence against Hollow Antler naming interest on the bend dead creates new fragile knot of mutual suspicion with Rook (deepens prior ch28/30 fracture).
 - Tribal rule clarification: Small debt is still debt; four-tribe + one small knot mechanics; road protection + winter share in exchange for witness + non-aggression; blood bead for genealogy.
-- Wound-Guest cost: Held on "small" via spoken anchor ("the small loop"); bodily pressure (ribs, sweat, red edges, voice strain); learns new shape (small tribes added without consumption; name reaches first or second); after-effect lingers (hand shake on spear).
+- The Red cost: Held on "small" via spoken anchor ("the small loop"); bodily pressure (ribs, sweat, red edges, voice strain); learns new shape (small tribes added without consumption; name reaches first or second); after-effect lingers (hand shake on spear).
 - Public meaning shift: Rook's authority arrives visibly second (Vessa antler-salt first, Half-Ear takers first). Crown now administrative reach to small who choose between hungers. "The more voices spoke under the name, the more places there were for other hands to reach in."
 - Pressure revealed: Stores thinness + winter + opposition (internal Dremm-faction + external Vessa) already at the edge before law arrives; small loop weight on center.
 

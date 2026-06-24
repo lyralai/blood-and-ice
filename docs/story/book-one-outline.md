@@ -40,7 +40,7 @@ Key beats:
 
 ### Chapter 3: First Blood In The Trees
 
-A small hunting party finds him. He is wounded badly enough for the Wound-Guest to stir but not fully take over. He survives in a way that creates rumor.
+A small hunting party finds him. He is wounded badly enough for the Red to stir but not fully take over. He survives in a way that creates rumor.
 
 Key beats:
 
@@ -110,7 +110,7 @@ Key beats:
 
 ### Chapter 9: Below Hunger
 
-The pit is not empty. Rook faces animal, prisoner, old rite, or environmental death. He is injured past ordinary survival. The Wound-Guest wakes fully.
+The pit is not empty. Rook faces animal, prisoner, old rite, or environmental death. He is injured past ordinary survival. The Red wakes fully.
 
 Key beats:
 
@@ -153,7 +153,7 @@ Key beats:
 - restraint as power
 - Dremm's bad loyalty
 - Harvek's respect grows
-- Wound-Guest resents denial
+- The Red resents denial
 
 ### Chapter 13: Salt Debt
 
@@ -213,12 +213,12 @@ Hollow Antler or a coalition forces a second rite, not to kill Rook but to prove
 Key beats:
 
 - public confrontation
-- Wound-Guest almost takes over
+- The Red almost takes over
 - Rook chooses a third path
 
 ### Chapter 19: Blood Snow
 
-The first major tribal battle. Rook uses strategy, terrain, and reputation before unleashing the Wound-Guest. The battle should prove he can command, not just survive.
+The first major tribal battle. Rook uses strategy, terrain, and reputation before unleashing the Red. The battle should prove he can command, not just survive.
 
 Key beats:
 
@@ -234,7 +234,7 @@ Book climax. Khar Vane wants to crown Rook as sacred war-chief. The other tribes
 Key beats:
 
 - victory with moral debt
-- Rook publicly names the Wound-Guest as not-the-king
+- Rook publicly names the Red as not-the-king
 - some followers hate that restraint
 - final image: the island has not been conquered; it has been awakened
 
@@ -247,7 +247,7 @@ By the end of book one:
 - Hollow Antler has lost monopoly over meaning.
 - Salt Veyr has been pulled into war logistics.
 - Fen-Kin has not decided whether Rook is kin or catastrophe.
-- The Wound-Guest is stronger and more articulate.
+- The Red is stronger and more articulate.
 - Rook knows that being followed can be another kind of pit.
 
 ## Open Questions For Human Review
@@ -263,9 +263,9 @@ By the end of book one:
 
 **Peak Crisis (ch37-38):** The visible breaking of the winter ledger under combined material failure (quiet frames / child death under a promised small loop or cradle), faction push for old rite on the small, and live public test of the Fen caller / wrapped-spear discipline. The Guest — educated by ch26 training + ch29-36 store language, small loop weight, "the due", and living debt transformations — anticipates the rhythm, turns the discipline back at the caller, offers strategic "clean" solutions using crown tools (tribute via fear, cut weak claims first, collect the due with teeth the boards cannot match). The core ch20 crown term ("Fen may call him back. If he does not return, bind or kill under the terms that made the crown") is invoked live and tested in front of full four-tribe + small + road-sworn + cradle + Yara witnesses. Rook holds via accumulated tools but the return carries visible new costs (deeper physical toll, Asha names the training risk publicly to all witnesses, relational fractures widen, small witnesses see the thing answer the name). This is the mid-Book One peak: 1-2 major turning points + the required big public rite/test.
 
-**First Major External Consequence / Cliffhanger (ch40):** Immediately after the public call and the choice that strains the "Wound-Guest is not king" term, the first undeniable mainland signal arrives (lone runner, small boat, or washed-up dead with ice-blood marks/token naming "Rauth" / "the pit that answers with laughter" / "the blood that woke on the black isles"). Witnessed by the same group. The tribes must interpret the sign under the fresh cost of the call and the ledger failure. Rook's closing reflection synthesizes the arc: pit survival -> crown under law -> winter ledger strain -> live call test -> choice that educated the Guest with the boy's own tools -> first external eyes. The island has been earned and strained; the larger consequence is now inevitable. The boy-king problem has grown with every knot tied.
+**First Major External Consequence / Cliffhanger (ch40):** Immediately after the public call and the choice that strains the "The Red is not king" term, the first undeniable mainland signal arrives (lone runner, small boat, or washed-up dead with ice-blood marks/token naming "Rauth" / "the pit that answers with laughter" / "the blood that woke on the black isles"). Witnessed by the same group. The tribes must interpret the sign under the fresh cost of the call and the ledger failure. Rook's closing reflection synthesizes the arc: pit survival -> crown under law -> winter ledger strain -> live call test -> choice that educated the Guest with the boy's own tools -> first external eyes. The island has been earned and strained; the larger consequence is now inevitable. The boy-king problem has grown with every knot tied.
 
-**Refined Book One Ending State (ch40-42):** Rook has the following and the order, but it is visibly held by living debt systems, the Fen old-blood check, and Salt's thin boats more than pit myth. The "Wound-Guest is not king" term has been publicly tested and re-affirmed at high cost; the Guest has learned that the law, the call, the due, and the small loop are doors it can stand inside. Visible fractures paid (Naim's choice public or a small death owned; faction scar; Asha/Cairn more distant but necessary). Salt's administrative power is the practical government keeping the count alive, but promises have multiplied mouths faster than boats can move. The island is awake; the center is thinner because enemies can point to every new mouth the name must feed. The first mainland consequence/cliffhanger forces confrontation that the crown is no longer only an island political problem. Rook holds the name but knows the Guest learned the law he built to contain it. The White Pit was only the beginning.
+**Refined Book One Ending State (ch40-42):** Rook has the following and the order, but it is visibly held by living debt systems, the Fen old-blood check, and Salt's thin boats more than pit myth. The "The Red is not king" term has been publicly tested and re-affirmed at high cost; the Guest has learned that the law, the call, the due, and the small loop are doors it can stand inside. Visible fractures paid (Naim's choice public or a small death owned; faction scar; Asha/Cairn more distant but necessary). Salt's administrative power is the practical government keeping the count alive, but promises have multiplied mouths faster than boats can move. The island is awake; the center is thinner because enemies can point to every new mouth the name must feed. The first mainland consequence/cliffhanger forces confrontation that the crown is no longer only an island political problem. Rook holds the name but knows the Guest learned the law he built to contain it. The White Pit was only the beginning.
 
 **Next Work:** Expand ch37-40 per the detailed binding specs now in docs/continuity/next-scene-queue.md (Current Draft Frontier section). After ch40: full continuity gate, update this outline + production-plan.md with final count and ending state, re-run banned hygiene. Target Book One close ch40-42. No further pure systems packets.
 

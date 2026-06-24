@@ -22,7 +22,7 @@
 
 The boards still carry the marks of the tenth. Thin shares remain for winter road guards; three more spears needed at the lower pass. Dremm arrives with Keff (red-haired), Runa (road dust), two others, Dorrik at the edge. Dremm proposes the "useful sacrifice": name one of the three road-breakers (Dorrik/Keff/Runa from ch27) for the old Khar rite. His meat feeds the guards; his blood teaches small holds and Hollow Antler via fear. Restraint called waste.
 
-Wound-Guest rises with **strategic/calculated** pressure (not blind hunger): slow hand testing cloth for seams; images of Keff's clean cut, body to fire, story moving to Hollow Antler mothers and small holds; debt bowl carried to storehouse door and poured across threshold so every future tally carries the mark; three standing thin but alive as living example. Almost-speaks with "This is not waste... The island will learn what the pit boy keeps without feeding it." Files the bowl idea "like a man testing a new knife."
+The Red rises with **strategic/calculated** pressure (not blind hunger): slow hand testing cloth for seams; images of Keff's clean cut, body to fire, story moving to Hollow Antler mothers and small holds; debt bowl carried to storehouse door and poured across threshold so every future tally carries the mark; three standing thin but alive as living example. Almost-speaks with "This is not waste... The island will learn what the pit boy keeps without feeding it." Files the bowl idea "like a man testing a new knife."
 
 Rook holds with self-name (spoken under breath), iron taste from wrapped-spear bite, counting the three aloud (Dorrik. Keff. Runa), wrapped spear presence (Cairn). Transforms publicly: the three become first **road-sworn** under the crown. Otta cuts shallow arm lines into the debt bowl. Reassigned winter shares first to road store/guards. Unarmed labor until debt walked off. Public oath spoken. Maren marks board: "Blood debt. Road-sworn. Shares reassigned." If broken, old price applies with no crown between.
 
@@ -35,11 +35,11 @@ Rook holds with self-name (spoken under breath), iron taste from wrapped-spear b
 - Asha: watches with old-blood stillness; "Old blood sees the difference between a name spoken and a throat opened. The wrapped spear still waits if the boy forgets which he chose."
 - Yara: single low note under her breath that does not become a verse; "enough to carry the shape of what had just been made public." (Repeated at night by racks.)
 
-Rook night reflection: "The Wound-Guest had not taken the body. It had taken a new shape inside the law I was trying to build. That was the useful part. That was also the part that frightened me most."
+Rook night reflection: "The Red had not taken the body. It had taken a new shape inside the law I was trying to build. That was the useful part. That was also the part that frightened me most."
 
 Ties explicitly to ch25 (Keff/store), ch27 (road violation), ch28 (counting power). New durable terms captured in names-and-terms.md (road-sworn, useful sacrifice transformed).
 
-**Chapter Standard compliance:** Strong plot move (restraint turned into living system), relationship alteration (Harvek lesson applied back to his own knot; faction internal fracture shown), tribal rule clarification (Khar law allows old price but crown can name living labor), Wound-Guest cost deepened (strategic learning of crown tools: debt bowl, tally marks, fear as store), public meaning shift (crown restraint becomes a different kind of strength that travels).
+**Chapter Standard compliance:** Strong plot move (restraint turned into living system), relationship alteration (Harvek lesson applied back to his own knot; faction internal fracture shown), tribal rule clarification (Khar law allows old price but crown can name living labor), The Red cost deepened (strategic learning of crown tools: debt bowl, tally marks, fear as store), public meaning shift (crown restraint becomes a different kind of strength that travels).
 
 ---
 

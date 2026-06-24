@@ -18,7 +18,7 @@ Use this checklist before expanding manuscript or merging major creative changes
 - Each of the four tribes has a material motive.
 - Khar Vane cannibal practice has rules and costs.
 - The White Pit is a political compromise, not random cruelty.
-- The Wound-Guest has limits.
+- The Red has limits.
 - Every magic use costs something.
 
 ## Book One

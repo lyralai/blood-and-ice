@@ -1,8 +1,8 @@
-# Wound-Guest Articulation & Learning Ceiling Audit — Chapters 21-36
+# The Red Articulation & Learning Ceiling Audit — Chapters 21-36
 
 **Date:** 2026-06-13  
-**Subagent Task:** Wound-Guest Articulation & Learning Ceiling Audit for Blood Under Ice.  
-**Scope:** Catalog every significant instance of Wound-Guest speech, images, or strategic thinking in ch21-36 (focus 25-36). Score against ceiling rules from magic.md + protagonist.md (pressure/images/almost-words/strategic hunger preferred; full sentences or clean plans too early are violations). Flag too-articulate cases. Supply tightened versions for worst 4-6. Deliver audit table + fixes + Guest Behavior Rules v2 (created at docs/continuity/guest-behavior-rules-v2.md).
+**Subagent Task:** The Red Articulation & Learning Ceiling Audit for Blood Under Ice.  
+**Scope:** Catalog every significant instance of The Red speech, images, or strategic thinking in ch21-36 (focus 25-36). Score against ceiling rules from magic.md + protagonist.md (pressure/images/almost-words/strategic hunger preferred; full sentences or clean plans too early are violations). Flag too-articulate cases. Supply tightened versions for worst 4-6. Deliver audit table + fixes + Guest Behavior Rules v2 (created at docs/continuity/guest-behavior-rules-v2.md).
 
 **Data Sources:** Full reads of ch21,25-36 manuscripts; protagonist.md (post-crown sections); cost-ledger.md (Events 11-20+); chapter-21-28-review-notes.md; blood-and-ice-magic.md.
 
@@ -14,11 +14,11 @@
 
 | Ch | Instance Description | Type | Score (1-5; 5=too articulate) | Flag | Notes / Cost Visibility |
 |----|----------------------|------|-------------------------------|------|-------------------------|
-| 21 | Memory intrusion: red hands on white ice, circle of kneeling men with open mouths, boy with throat cut laughing through another mouth. Triggered by broth + bone band. Public spit reaction. "The Wound-Guest liked the sound." | Image + physical | 2 | OK | Good early post-crown. Physical (spit, heat) shown. Reinforces terms need. |
+| 21 | Memory intrusion: red hands on white ice, circle of kneeling men with open mouths, boy with throat cut laughing through another mouth. Triggered by broth + bone band. Public spit reaction. "The Red liked the sound." | Image + physical | 2 | OK | Good early post-crown. Physical (spit, heat) shown. Reinforces terms need. |
 | 25 | "Not food... Store." during cradle tenth smell. Later clear image of Keff's teeth on stone at entitlement/spit. Rook holds + redirects to law. | Concept + image | 2 | OK | Excellent "learning store" moment. Physical shame + hold shown. Khar "necessary wound." |
 | 26 | "Kill caller" (shape/certainty). "Door" almost-word now clear enough to flinch. Tastes/repeats "Rook". "Strong hand. Clean cut." for Cairn. Red thread blood effect. Bite tongue anchor. | Almost-words + concepts | 3 | Borderline | Strongest escalation yet. Asha explicitly fears "education." Cost high (Asha notes success teaches it; Cairn knife learned). Good but watch "Door" clarity. |
 | 27 | Clean pleasure at "hurt boy, broken flag, named offender." Detailed kill images (Dorrik jaw, Keff, oil on Runa hair). Internal "Please" plea for Harvek during public challenge. Self-name slows. | Images + plea | 4 | FLAG | "Please" is worst escalation so far (plea > command). Too relational. Images vivid but ok if paired with less voice. Cost: no Asha caller present; faction broken sound. |
-| 28 | "The Wound-Guest did not care. Wound care bored it unless wounds opened wider." "sank low, bored by baskets and names and women's eyes measuring stores." | Disinterest | 1 | OK | Protective feature. Highlights Rook alone with systems. Good contrast. |
+| 28 | "The Red did not care. Wound care bored it unless wounds opened wider." "sank low, bored by baskets and names and women's eyes measuring stores." | Disinterest | 1 | OK | Protective feature. Highlights Rook alone with systems. Good contrast. |
 | 29 | "Not food... Store" reinforced. "Names have bellies. The counters lie with numbers. Open the inlet with teeth... The littlest will feed the story if we take what the boats hide. Their small mouths will make the crown strong." Images of inlet under hands, boats burn, littlest as feeders. Strategic hunger. | Multi-concept + near-sentence | 5 | FLAG (worst) | Too clean. Multiple strategic sentences + administrative insight. Physical toll present (iron taste, sweat, red edges, tongue bite, witness count) but clarity overwhelms. Half-Ear/Keff plan overheard as consequence. |
 | 30 | Hard rise on three-name inner law. Image: wind carrying names into cradles whistling like dead speaking; own mouth forced open naming hungers while cradles "drink the sound." Clean kill image of Naim unstaffed throat. Settles learning "unstaffed" info, names-as-knots, new gap. "The thing laughs low and patient." | Complex image + learning | 4 | FLAG | Vision too articulate/poetic ("cradles drinking sound from Rook's forced-open mouth"). Strategic patience shown. Cost: bite cheek, sweat, red edges, exit counting anchor, post-scene hand on cheek. Good info-as-debt but articulation high. |
 | 31 | Strategic (not blind) pressure. Images: debt bowl to storehouse door poured for future tallies mark; three stand pass thin/alive as "useful"; Hollow doubling tenth. "This is not waste. Fear is the store that does not freeze. Tribute before the ice takes the name." (almost full sentence). Files bowl idea like "testing a new knife." | Strategic images + sentence | 5 | FLAG (worst) | Clean plan language. "Useful" reframing is sophisticated. Physical (iron taste, sweat, red edges, bite old wound). Rook anchors with name + counting three + spear. Harvek/Solek/Asha/Maren/Yara reactions good. |
@@ -71,10 +71,10 @@ wind moving through black trees, carrying names that were not mine into every cr
 The wind through the black trees. Names not his moving into every cradle frame until the wood whistled like the dead still spoke. His own mouth forced open, the island's hungers named by a voice that was not his while the frames drank. The red climbed like a closing hand. He bit his cheek until iron held and counted the ridge path, the store bar, the knife he would not draw.
 
 **6. ch27 "Please" plea (too relational)**  
-Original: The Wound-Guest begged. Please, it almost said. That was the worst thing it had done yet. Not command. Not hunger. Plea.
+Original: The Red begged. Please, it almost said. That was the worst thing it had done yet. Not command. Not hunger. Plea.
 
 **Tightened:**  
-The Wound-Guest surged with the old male challenge and offered the clean shape of it: Harvek's throat under the hand that was not a boy's. It pressed forward, warm and wanting, the public ground perfect. Not command. Wanting. He said his name until the heat slowed and the wanting pulled back one step, leaving the shape of the plea behind like a taste.
+The Red surged with the old male challenge and offered the clean shape of it: Harvek's throat under the hand that was not a boy's. It pressed forward, warm and wanting, the public ground perfect. Not command. Wanting. He said his name until the heat slowed and the wanting pulled back one step, leaving the shape of the plea behind like a taste.
 
 ## Proposed "Guest Behavior Rules v2" Document
 

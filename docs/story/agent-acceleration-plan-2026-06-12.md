@@ -17,7 +17,7 @@
 
 1. **Sub-Agent 1: Draft Chapter 29 - "The Open Store"**
    - Scope: Write full rough draft of Chapter 29 per exact spec in docs/continuity/next-scene-queue.md ("The Open Store").
-   - Constraints: First-person Rook voice only. Advance plot + one relationship + one tribal rule + Wound-Guest cost. End ready for public inspection pressure.
+   - Constraints: First-person Rook voice only. Advance plot + one relationship + one tribal rule + The Red cost. End ready for public inspection pressure.
    - Required updates: Append to docs/continuity/timeline.md, add entries to cost-ledger.md and names-and-terms.md if new terms appear. Add any open questions to next-scene-queue.md.
    - Deliverable: New file or update in manuscript/book-one/part-05-after-crown/029-the-open-store.md (or correct part). Short "what this chapter accomplished" note at top of the PR diff.
 
@@ -29,7 +29,7 @@
 
 3. **Sub-Agent 3: Draft Chapter 31 - "Useful Sacrifice"**
    - Scope: Full rough draft of Chapter 31 per spec (Dremm faction + sacrifice proposal + Rook response).
-   - Constraints: Wound-Guest must press for strategic answer. Show restraint vs. utility tension.
+   - Constraints: The Red must press for strategic answer. Show restraint vs. utility tension.
    - Required updates: Continuity files + cost-ledger emphasis.
    - Deliverable: manuscript/.../031-useful-sacrifice.md + continuity.
 
@@ -50,7 +50,7 @@
 
 7. **Sub-Agent 7: Bibles & World Refinement**
    - Scope: Update docs/characters/protagonist.md and docs/characters/tribal-leaders.md with any new durable character/political facts established in chapters 21-28. Light pass on docs/world/four-tribes.md and docs/world/blood-and-ice-magic.md only where recent chapters force canon changes.
-   - Constraints: Only add established facts. Do not invent. Update cost-ledger if new Wound-Guest mechanics appear. Run banned scan.
+   - Constraints: Only add established facts. Do not invent. Update cost-ledger if new The Red mechanics appear. Run banned scan.
    - Deliverable: Updated bibles + short change log in docs/continuity/index.md or next-scene-queue.
 
 8. **Sub-Agent 8: Production Planning & Packet 6 Outline**

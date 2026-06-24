@@ -1581,7 +1581,7 @@ Her covered face turned toward my wound, my wrist cord, my stolen blood, the pla
 
 Then she began to hum.
 
-The Wound-Guest woke under my skin like a dog hearing meat fall.
+The Red woke under my skin like a dog hearing meat fall.
 
 No, I thought.
 
@@ -1815,7 +1815,7 @@ Too low.
 
 Yara's head tilted.
 
-The Wound-Guest pressed behind my teeth, amused by rope, by law, by the little theater of people pretending the pit needed permission.
+The Red pressed behind my teeth, amused by rope, by law, by the little theater of people pretending the pit needed permission.
 
 I bit my tongue.
 
@@ -1901,7 +1901,7 @@ I fell the last body-length into darkness and hit bone hard enough to hear one o
 
 The thing below me breathed in.
 
-So did the Wound-Guest.
+So did the Red.
 
 That was how I learned the eighth law of the island.
 
@@ -1945,7 +1945,7 @@ His eyes found the blood on my hand.
 
 He smiled with half a mouth.
 
-The Wound-Guest stirred.
+The Red stirred.
 
 I tried to stand. My rib said no. My knee slipped on bone. The pit-man came fast.
 
@@ -1977,7 +1977,7 @@ No, I thought.
 
 The thought was small and far away.
 
-The Wound-Guest loved the pit-man because the pit-man was simple. Hunger wearing a body. A door already open.
+The Red loved the pit-man because the pit-man was simple. Hunger wearing a body. A door already open.
 
 Mine, I thought again.
 
@@ -1989,7 +1989,7 @@ Not well. Not beautifully. Nothing in the pit was beautiful. I drove the broken 
 
 He bit my shoulder.
 
-The Wound-Guest laughed through my teeth.
+The Red laughed through my teeth.
 
 I bit back.
 
@@ -2007,7 +2007,7 @@ That is the part I remember too clearly.
 
 Not the killing blow. Not the blood. The crawl.
 
-His fingers dragged pale lines through dust. He made a sound that might have been a word. The Wound-Guest heard plea and translated it as weakness. My hand caught his ankle.
+His fingers dragged pale lines through dust. He made a sound that might have been a word. The Red heard plea and translated it as weakness. My hand caught his ankle.
 
 Stop, I thought.
 
@@ -2031,7 +2031,7 @@ Yara singing faster.
 
 The pit wall under my fingers.
 
-The Wound-Guest did not climb like a boy. It climbed like the pit owed it height.
+The Red did not climb like a boy. It climbed like the pit owed it height.
 
 Halfway up, my left hand slipped. A nail tore off. I watched it fall into the dark and felt nothing.
 
@@ -2055,7 +2055,7 @@ Harvek's scarred mouth opened in a grin that showed too many teeth.
 
 I did not want his hands on me.
 
-The Wound-Guest did.
+The Red did.
 
 It liked witnesses.
 
@@ -2085,7 +2085,7 @@ That was the first gift the pit gave me.
 
 Space.
 
-I lay on the white stone with blood cooling under me and sky burning above. My rib moved wrong. My shoulder was torn. My mouth tasted of a thing I did not want to name. The Wound-Guest sat inside my chest, heavy and pleased, like a guest who had eaten well and now waited to see whether the house would thank him.
+I lay on the white stone with blood cooling under me and sky burning above. My rib moved wrong. My shoulder was torn. My mouth tasted of a thing I did not want to name. The Red sat inside my chest, heavy and pleased, like a guest who had eaten well and now waited to see whether the house would thank him.
 
 I tried to move.
 
@@ -2155,7 +2155,7 @@ Memory flashed: the pit-man crawling, my hand on his ankle, the heat pulling.
 
 I turned and vomited onto the white stone.
 
-The Wound-Guest disliked that. It curled away from shame as if shame were cold water.
+The Red disliked that. It curled away from shame as if shame were cold water.
 
 Good.
 
@@ -2227,7 +2227,7 @@ They were not giving me power.
 
 They were putting power around me like a collar and calling it honor.
 
-The Wound-Guest liked the kneeling. It liked Harvek's old scarred mouth. It liked the weapons on stone. It liked being mistaken for a god because gods are allowed to be hungry.
+The Red liked the kneeling. It liked Harvek's old scarred mouth. It liked the weapons on stone. It liked being mistaken for a god because gods are allowed to be hungry.
 
 I pushed myself onto one elbow.
 
@@ -2267,7 +2267,7 @@ Reminder.
 
 I closed my fingers around it.
 
-The Wound-Guest settled, patient and full.
+The Red settled, patient and full.
 
 That was how I learned the tenth law of the island.
 
@@ -2385,7 +2385,7 @@ Not miracle first. Not chief first. Guest first after law.
 
 I remembered the White Pit and almost laughed. Law had eaten well today.
 
-The broth burned my tongue. I drank anyway. There was meat in it. Seal, I decided. Or wanted to decide. The Wound-Guest stirred, amused by the difference between knowing and choosing not to know.
+The broth burned my tongue. I drank anyway. There was meat in it. Seal, I decided. Or wanted to decide. The Red stirred, amused by the difference between knowing and choosing not to know.
 
 I stopped after half the bowl.
 
@@ -2443,7 +2443,7 @@ Her smile widened, not happy. Interested.
 
 I touched my chest. "Rook returned."
 
-The Wound-Guest shifted under my ribs, not angry. Patient.
+The Red shifted under my ribs, not angry. Patient.
 
 Yara looked down at my hand, at the place where my own name sat like a fist over the wound.
 
@@ -2461,7 +2461,7 @@ The camp settled in layers: children first, then old ones, then those with dutie
 
 Near dawn, I woke with my hand at my mouth.
 
-The Wound-Guest had dreamed of the pit-man crawling.
+The Red had dreamed of the pit-man crawling.
 
 It had liked the dream.
 
@@ -2487,7 +2487,7 @@ They brought him with his hands tied behind his back and a rope around his neck.
 
 Dremm dragged him into the fire circle and threw him at my feet.
 
-I was sitting because standing made my rib click and the click made the Wound-Guest attentive. Harvek had ordered a woman named Otta to wrap my chest tighter. She had done it with no pity, which I preferred, and had called me bone-stupid in Khar Vane when I tried not to breathe.
+I was sitting because standing made my rib click and the click made the Red attentive. Harvek had ordered a woman named Otta to wrap my chest tighter. She had done it with no pity, which I preferred, and had called me bone-stupid in Khar Vane when I tried not to breathe.
 
 The prisoner landed hard.
 
@@ -2523,7 +2523,7 @@ But I wanted the knife because everyone expected my hand to close around it.
 
 Expectation is a path through snow. Easy to follow. Hard to leave without making everyone see where you go.
 
-The Wound-Guest pressed warmly against my ribs.
+The Red pressed warmly against my ribs.
 
 It did not command.
 
@@ -2567,7 +2567,7 @@ Solek's head tilted.
 
 He knew the words. Harvek saw Solek hear them. Yara did too.
 
-The Wound-Guest liked the prisoner's fear. It rose through me with sweet patience, showing me how easy the cut would be. Under jaw. Across wrist. Into belly and upward. Let the camp see. Let the camp know.
+The Red liked the prisoner's fear. It rose through me with sweet patience, showing me how easy the cut would be. Under jaw. Across wrist. Into belly and upward. Let the camp see. Let the camp know.
 
 I put the knife against the prisoner's throat.
 
@@ -2605,7 +2605,7 @@ Pain blackened the edge of the world. I stayed up because sitting would have giv
 
 That word the camp understood.
 
-The Wound-Guest warmed around it.
+The Red warmed around it.
 
 Careful, I thought, but maybe to myself.
 
@@ -2625,7 +2625,7 @@ He should not have.
 
 His fist caught my cheek, not hard enough to break anything, hard enough to open the split the sea had given me. Blood ran hot into my mouth. The camp moved. Harvek did not. Solek did not. Yara's eyes sharpened.
 
-The Wound-Guest came up laughing.
+The Red came up laughing.
 
 It had waited for a door, and Dremm had opened one with his fist.
 
@@ -2653,7 +2653,7 @@ He wanted me to become it.
 
 That brought me back more sharply than fear.
 
-The Wound-Guest could use enemies. It could use pain. It could use threat. But a follower who offered himself as a door was a different kind of trap.
+The Red could use enemies. It could use pain. It could use threat. But a follower who offered himself as a door was a different kind of trap.
 
 I saw Dremm old, maybe. Or dead. Or wearing my hunger as permission while boys behind him learned how to love their worst selves.
 
@@ -2737,7 +2737,7 @@ I waited.
 
 I did not answer because I did not want to learn from him and knew I already had.
 
-When I sat again, my rib pain returned with interest. My hands shook. The Wound-Guest curled under the shaking, not angry, not beaten.
+When I sat again, my rib pain returned with interest. My hands shook. The Red curled under the shaking, not angry, not beaten.
 
 Curious.
 
@@ -2811,7 +2811,7 @@ The camp followed her finger.
 
 I disliked that enough to stand.
 
-My rib clicked. The Wound-Guest opened one red eye inside me. I sat back down before it mistook pride for need.
+My rib clicked. The Red opened one red eye inside me. I sat back down before it mistook pride for need.
 
 Maren saw. Her face did not change, but her hand moved once against the knot cord at her belt.
 
@@ -2951,11 +2951,11 @@ Dremm looked at me, as if I should save him from being made small.
 
 I understood him then in a way I did not want.
 
-He did not love the Wound-Guest only because it was violent. He loved it because it made the world simple. Bleed and win. Kneel and rise. Kill and become true.
+He did not love the Red only because it was violent. He loved it because it made the world simple. Bleed and win. Kneel and rise. Kill and become true.
 
 Maren was showing him a world where someone could defeat him with fish counts.
 
-The Wound-Guest hated that world too.
+The Red hated that world too.
 
 It shifted in me, bored and irritated.
 
@@ -3105,7 +3105,7 @@ Maren's baskets.
 
 "It is a wall made of mouths," Solek said.
 
-The Wound-Guest did not understand the problem. I felt its contempt. Antlers could be smashed. Bark could be burned. Anyone who complained could be opened. Simple.
+The Red did not understand the problem. I felt its contempt. Antlers could be smashed. Bark could be burned. Anyone who complained could be opened. Simple.
 
 For half a breath I loved that simplicity.
 
@@ -3337,7 +3337,7 @@ Cairn did not look at him. That was a skill too.
 
 The camp went quiet in the wrong way.
 
-The Wound-Guest stirred under my ribs. It liked being discussed by enemies. It liked challenge most of all. Challenge is an open door for hunger with witnesses.
+The Red stirred under my ribs. It liked being discussed by enemies. It liked challenge most of all. Challenge is an open door for hunger with witnesses.
 
 I stood.
 
@@ -3395,7 +3395,7 @@ Cairn struck my ribs with the heel of his hand.
 
 White filled me.
 
-The Wound-Guest rose through it, delighted.
+The Red rose through it, delighted.
 
 No.
 
@@ -3409,7 +3409,7 @@ His hand passed over me. I caught his knee, not to break, only to pull. He turne
 
 Pain cracked open behind my eyes.
 
-The Wound-Guest surged.
+The Red surged.
 
 I put my own hand on the ground.
 
@@ -3453,7 +3453,7 @@ Dremm left before the fire settled. He did not stomp. That would have been easie
 
 Yara watched him leave, then looked at me with the face of someone hearing three songs fight over one ending.
 
-That night the Wound-Guest did not dream of killing Cairn.
+That night the Red did not dream of killing Cairn.
 
 It dreamed of the moment I yielded.
 
@@ -3573,7 +3573,7 @@ I watched it fall, strike once, vanish into fog.
 
 "People who follow you will ask permission to become their worst selves," he said. "They will call it loyalty. They will call it faith. If you say yes because yes feels like power, they own you."
 
-Dremm's disappointed face came back to me. So did the ring. So did the Wound-Guest studying my yield.
+Dremm's disappointed face came back to me. So did the ring. So did the Red studying my yield.
 
 "If I say no?"
 
@@ -3591,7 +3591,7 @@ I did not want to be answer.
 
 I wanted the beach before people. Hunger without witness. Cold without meaning. A knife was honest when held by a man who wanted your food. A tribe was a knife that asked you to thank it for the handle.
 
-The Wound-Guest stirred.
+The Red stirred.
 
 It liked Harvek.
 
@@ -3757,7 +3757,7 @@ Dremm took his piece when offered. He lifted it high before eating, eyes on me.
 
 Several young warriors did the same.
 
-The Wound-Guest stirred with amused recognition. Meat was meat. Blood was memory. Taking an enemy into the body was only a cruder version of what old powers did all the time.
+The Red stirred with amused recognition. Meat was meat. Blood was memory. Taking an enemy into the body was only a cruder version of what old powers did all the time.
 
 That thought was not mine.
 
@@ -3811,7 +3811,7 @@ His fist hit my mouth.
 
 I fell because my rib was still a weak door and pain came through it. The camp roared. Dremm stood over me, breathing hard, horrified and glad.
 
-The Wound-Guest rose clean and eager.
+The Red rose clean and eager.
 
 It gave me his throat again. Always throats. Always the easiest red answer.
 
@@ -3835,7 +3835,7 @@ I pushed myself to my knees. Not yielding this time. Rising.
 
 His eyes widened.
 
-I did not ask for death. The Wound-Guest hated me for that.
+I did not ask for death. The Red hated me for that.
 
 "He feeds the roads he wanted to burn. He carries Salt Veyr loads through Fen marsh until Antler taboo breaks or his feet do. He learns what hunger costs before he asks other mouths to sing it."
 
@@ -3873,7 +3873,7 @@ When Dremm passed me later, he did not look at my face.
 
 He left before I could decide whether I had spoken wisdom or only made another enemy from a boy who had wanted too hard.
 
-The Wound-Guest whispered without words under my ribs.
+The Red whispered without words under my ribs.
 
 It approved of enemies.
 
@@ -3937,7 +3937,7 @@ This time Harvek did not let it rise long. His hand cut down.
 
 Vessa's eyes stayed on me. "Then all tribes hear what Khar Vane has brought among us."
 
-There it was. Not a pit to kill me. A pit to make me perform monster or prove absence. Both were cages. If I entered and the Wound-Guest stayed quiet, Vessa would say her containment worked. If it rose, she would say I needed containment forever.
+There it was. Not a pit to kill me. A pit to make me perform monster or prove absence. Both were cages. If I entered and the Red stayed quiet, Vessa would say her containment worked. If it rose, she would say I needed containment forever.
 
 "No," Harvek said again.
 
@@ -3959,7 +3959,7 @@ I was so tired of eyes.
 
 Vessa's face softened. That was the cruelest thing she had done yet. "Then prove person."
 
-The Wound-Guest stirred.
+The Red stirred.
 
 It did not like being invited politely.
 
@@ -4023,7 +4023,7 @@ The question entered me like cold water.
 
 Rook, I thought.
 
-The Wound-Guest rose behind the name.
+The Red rose behind the name.
 
 Vessa asked again in another tongue. Then another. Old words. Antler words. Maybe words older than Antler. Each one pressed somewhere different in the blood.
 
@@ -4031,7 +4031,7 @@ I saw snow that had never fallen on this island. I saw men with blue lips biting
 
 "What are you?"
 
-Hungry, the Wound-Guest answered.
+Hungry, the Red answered.
 
 My mouth stayed closed.
 
@@ -4039,7 +4039,7 @@ The night stretched. People shifted. Children slept against old knees. Dremm wat
 
 Vessa kept asking.
 
-Near dawn, my body began to fail from stillness. Pain is easier when moving. Stillness gives it time to speak. The Wound-Guest pressed against my teeth.
+Near dawn, my body began to fail from stillness. Pain is easier when moving. Stillness gives it time to speak. The Red pressed against my teeth.
 
 Let me answer.
 
@@ -4069,7 +4069,7 @@ Not monster. Boy. She found the door Cairn had named.
 
 My mouth opened.
 
-The Wound-Guest waited.
+The Red waited.
 
 "I am Rook," I said.
 
@@ -4133,7 +4133,7 @@ By noon, two Khar Vane were dead, one Hollow Antler acolyte was missing, and Ves
 
 "Yes."
 
-The Wound-Guest approved of ownership when it smelled like guilt. Guilt is blood turned inward.
+The Red approved of ownership when it smelled like guilt. Guilt is blood turned inward.
 
 Maren arrived before sunset, furious because one of the dead Khar Vane had been carrying her grain. Asha came with Cairn and six Fen-Kin scouts. Vessa did not come. Vessa sent antlers.
 
@@ -4215,7 +4215,7 @@ The first arrow struck near my foot. White-fletched. Warning or bad aim. I kept 
 
 The second cut my arm.
 
-The Wound-Guest woke smiling.
+The Red woke smiling.
 
 Not yet.
 
@@ -4233,7 +4233,7 @@ So I ran.
 
 Not at them. Away.
 
-It shocked them. It shocked me too. The Wound-Guest howled inside my chest, furious at my back turned to enemies. Arrows hissed. One struck my shoulder shallow. Pain flashed red. I kept running down the pass, dragging them after me, making myself coward, bait, boy.
+It shocked them. It shocked me too. The Red howled inside my chest, furious at my back turned to enemies. Arrows hissed. One struck my shoulder shallow. Pain flashed red. I kept running down the pass, dragging them after me, making myself coward, bait, boy.
 
 Then the wash erupted behind them.
 
@@ -4255,7 +4255,7 @@ Men fell.
 
 My fault, I thought, because I had put Dremm on road, because I had wounded him, because I had thought shame could become discipline in three days.
 
-The Wound-Guest offered to fix it.
+The Red offered to fix it.
 
 This time I let it rise halfway.
 
@@ -4301,7 +4301,7 @@ His face twisted. "Then punish me, pit-boy."
 
 There it was. The challenge. The plea.
 
-The Wound-Guest wanted his submission in blood.
+The Red wanted his submission in blood.
 
 Harvek watched from the wash. Asha watched. Vessa's surviving acolytes watched from the trees. Yara watched from her stone, already holding the song by the throat.
 
@@ -4373,7 +4373,7 @@ He lifted his head. His eyes were fever-bright. "It is already spoken."
 
 That was the trouble with mercy. People can turn it into banner faster than cruelty, because cruelty is common and mercy asks explanation. Explanation becomes doctrine if enough frightened mouths need it.
 
-By dawn the camp had named the ridge fight Blood Snow. By midday they had named my half-red restraint as proof that the Wound-Guest could be bridled. By evening three young warriors had cut shallow lines across their own ribs and packed them with ash, claiming they would hold hunger as I did.
+By dawn the camp had named the ridge fight Blood Snow. By midday they had named my half-red restraint as proof that the Red could be bridled. By evening three young warriors had cut shallow lines across their own ribs and packed them with ash, claiming they would hold hunger as I did.
 
 Solek beat two of them with a staff.
 
@@ -4449,7 +4449,7 @@ I looked at Solek. "If there is crown, there are terms."
 
 "There must be."
 
-"The Wound-Guest is not king."
+"The Red is not king."
 
 Yara, somewhere behind me, made a tiny sound.
 
@@ -4517,7 +4517,7 @@ Solek stood before me with the bone band. "Name terms."
 
 So I named them in trade-tongue, and Tovek carried them, and Solek reshaped them into Khar law while Asha listened for traps and Maren listened for cost.
 
-The Wound-Guest is not king.
+The Red is not king.
 
 The blood-crowned answers to law before appetite.
 
@@ -4539,7 +4539,7 @@ Then warm.
 
 Then too warm.
 
-The Wound-Guest rose like something hearing a door open.
+The Red rose like something hearing a door open.
 
 No, I told it.
 
@@ -4563,7 +4563,7 @@ I hated the beauty of it.
 
 That night, after the crown was taken off and locked beside the law racks, I went alone to the edge of camp. The island breathed fog. Somewhere in Hollow Antler woods, Vessa would be learning that Khar Vane had put law around the breach instead of surrendering it. Somewhere in Fen marsh, Asha would be deciding whether she had saved a boy or tied herself to a catastrophe. Somewhere by Salt water, Maren would be counting profit and graves with the same hand.
 
-Under my ribs, the Wound-Guest waited.
+Under my ribs, the Red waited.
 
 Stronger.
 
@@ -4599,7 +4599,7 @@ Solek found me before the sun cleared the low teeth of the ridge. He carried a c
 
 "Drink first."
 
-I drank because refusing food is a rich man's kind of anger. The broth was grey and hot. It put a little strength under my ribs. The Wound-Guest shifted at the heat like something turning in a den.
+I drank because refusing food is a rich man's kind of anger. The broth was grey and hot. It put a little strength under my ribs. The Red shifted at the heat like something turning in a den.
 
 Not king, I thought.
 
@@ -4665,7 +4665,7 @@ I put it on.
 
 The camp exhaled.
 
-The Wound-Guest liked the sound.
+The Red liked the sound.
 
 No.
 
@@ -4781,7 +4781,7 @@ No monster in that. No pit. No blood.
 
 Just a woman with clean hands making allies ashamed of standing near me.
 
-The Wound-Guest did not stir.
+The Red did not stir.
 
 That frightened me more.
 
@@ -4865,7 +4865,7 @@ Maren pointed at me.
 
 "His."
 
-The Wound-Guest rose so fast my vision reddened at the edges.
+The Red rose so fast my vision reddened at the edges.
 
 Mine?
 
@@ -4961,7 +4961,7 @@ Dremm said, "Salt boy gives terms now?"
 
 I turned.
 
-The Wound-Guest wanted the turn to become strike. It showed me Dremm's throat and how easy a thumb can close breath. I held my hands open.
+The Red wanted the turn to become strike. It showed me Dremm's throat and how easy a thumb can close breath. I held my hands open.
 
 "Yes," I said. "That is what witness means when it is not song."
 
@@ -5051,7 +5051,7 @@ I squatted by the fire. "What did I teach?"
 
 He leaned forward. "That mercy costs flesh."
 
-The Wound-Guest liked that sentence. It liked how simple it was. Simple things fit in mouths and travel far.
+The Red liked that sentence. It liked how simple it was. Simple things fit in mouths and travel far.
 
 "Wrong."
 
@@ -5127,7 +5127,7 @@ Just one word.
 
 Mine, held ready.
 
-The Wound-Guest fell back laughing.
+The Red fell back laughing.
 
 Dremm heard it too, not the laughter but the check. He saw Asha. He saw the wrapped Fen spears. He saw that even his anger had witnesses now.
 
@@ -5215,7 +5215,7 @@ Tovek whispered, "Mother Harl. Keeps cradle names."
 
 He gave me a look. "The names of children dead before first winter."
 
-The Wound-Guest did not rise. It listened.
+The Red did not rise. It listened.
 
 Mother Harl planted the short staff in the mud.
 
@@ -5267,11 +5267,11 @@ Senn whispered, "Can they do that?"
 
 Maren answered, "If enough people act like they can."
 
-I heard the whole island then. Not with the Wound-Guest. With the part of me that had learned to count exits, then hands, then roads.
+I heard the whole island then. Not with the Red. With the part of me that had learned to count exits, then hands, then roads.
 
 Salt roads. Fen witness. Khar hunger. Hollow names. No tribe was a beast alone. Each held a piece of what the others needed to remain people. Vessa did not need to beat us. She could make every bond shameful until bonds broke themselves.
 
-The Wound-Guest offered a red answer.
+The Red offered a red answer.
 
 Twelve mothers. One old throat. A little blood in the mud and the accusation would stop.
 
@@ -5427,7 +5427,7 @@ The word still felt wrong on my head. It had teeth under it.
 
 Two Khar Vane men lifted the bar. Old smoke rolled out, thick with fish oil and dried bladderwrack. My stomach clenched before my mind caught up. The boy I had been on the black shore would have crawled over teeth for that smell.
 
-The Wound-Guest liked the smell too.
+The Red liked the smell too.
 
 Not food, it pressed.
 
@@ -5477,7 +5477,7 @@ Dremm's knot shifted. One boy, red-haired and narrow-eyed, spat into the mud.
 
 "We bled for that store."
 
-The Wound-Guest rose fast.
+The Red rose fast.
 
 So did my shame, because part of me agreed with him.
 
@@ -5517,7 +5517,7 @@ He said nothing.
 
 "If you spit again," I said, "you clean every cradle frame in Hollow Antler camp with your tongue where mothers can see. Not because they are soft. Because they carried you before you could hold a knife."
 
-The Wound-Guest wanted more. It offered the image of his teeth on stone.
+The Red wanted more. It offered the image of his teeth on stone.
 
 I held still.
 
@@ -5597,7 +5597,7 @@ Asha set the wrapped spear across both palms. "A caller."
 
 "This one calls names."
 
-The Wound-Guest stirred.
+The Red stirred.
 
 Names were hooks to it. Names were handles on meat. Names were what people gave one another so grief knew where to sit.
 
@@ -5623,7 +5623,7 @@ Asha took the spear from Cairn and laid it on the stone.
 
 "I want to train the boy before the thing learns faster."
 
-The Wound-Guest laughed inside my ribs.
+The Red laughed inside my ribs.
 
 It had almost-words now. Not full speech. Not yet. But pressure gathered in shapes.
 
@@ -5641,7 +5641,7 @@ So of course I looked.
 
 The red thread seemed ordinary until my blood noticed it. Then the world leaned.
 
-The Wound-Guest rose like a dog scenting the open door.
+The Red rose like a dog scenting the open door.
 
 Not dog. Not anything that had ever curled beside a fire. It rose old and pleased and certain that the wrapped spear had been made by hands that knew how vessels broke.
 
@@ -5663,7 +5663,7 @@ Again the spear struck.
 
 My knees bent. Not from weakness. From wanting to spring.
 
-The Wound-Guest pressed forward.
+The Red pressed forward.
 
 Kill caller.
 
@@ -5683,7 +5683,7 @@ Cairn moved behind me. I heard his feet in snow, careful, ready to cut tendons i
 
 My jaw locked.
 
-The Wound-Guest filled my tongue with heat. It wanted to answer in a sound older than names. It wanted to make the Fen woman kneel and the stone remember. It wanted to show them the pit had not given back a boy. It had given back a door.
+The Red filled my tongue with heat. It wanted to answer in a sound older than names. It wanted to make the Fen woman kneel and the stone remember. It wanted to show them the pit had not given back a boy. It had given back a door.
 
 The spear struck.
 
@@ -5707,7 +5707,7 @@ Asha lowered the spear half an inch.
 
 "Rook."
 
-The Wound-Guest recoiled, not beaten. Irritated. Curious.
+The Red recoiled, not beaten. Irritated. Curious.
 
 Rook, it pressed.
 
@@ -5727,7 +5727,7 @@ Solek said, "I thought the danger was failing."
 
 "No," Asha said. "Failure kills him. Success teaches what lives in him where the door is."
 
-The Wound-Guest settled back, warm and pleased.
+The Red settled back, warm and pleased.
 
 Door.
 
@@ -5755,7 +5755,7 @@ Cairn answered before Asha.
 
 He said it cleanly. No hate. That made it worse.
 
-The Wound-Guest liked him.
+The Red liked him.
 
 Strong hand, it pressed. Clean cut.
 
@@ -5771,7 +5771,7 @@ Asha did not like that.
 
 Neither did I.
 
-But the Wound-Guest was listening now. The island had become a school, and everyone kept bringing lessons.
+But the Red was listening now. The island had become a school, and everyone kept bringing lessons.
 
 ---
 
@@ -5805,7 +5805,7 @@ Dremm's knot moved again. Not much. Enough.
 
 I saw Keff among them, the red-haired boy from the spit. He would not meet my eyes.
 
-The Wound-Guest woke with clean pleasure.
+The Red woke with clean pleasure.
 
 Here, it pressed.
 
@@ -5843,7 +5843,7 @@ Harvek watched me with old interest. Dremm watched like pain waiting to be given
 
 I wanted to hit someone.
 
-The Wound-Guest wanted to break Dorrik's jaw, then Keff's, then make Runa kneel in the road with the oil poured over her hair so everyone would remember.
+The Red wanted to break Dorrik's jaw, then Keff's, then make Runa kneel in the road with the oil poured over her hair so everyone would remember.
 
 It offered the image kindly.
 
@@ -5887,7 +5887,7 @@ Harvek's hands hung loose at his sides. "Careful."
 
 Maren whispered something that sounded like a curse and a prayer sharing the same teeth.
 
-The Wound-Guest surged. Old male challenge. Public. Blood required.
+The Red surged. Old male challenge. Public. Blood required.
 
 Harvek had chosen the ground well. If I backed down, Salt Veyr knew my roads were words. If I struck him, Khar Vane might split before winter. If I punished only the young, everyone would understand whose lesson had been protected.
 
@@ -5929,7 +5929,7 @@ Harvek said, "Do I?"
 
 His eyes went flat.
 
-The Wound-Guest begged.
+The Red begged.
 
 Please, it almost said.
 
@@ -5969,7 +5969,7 @@ He looked past me at Harvek.
 
 "Even under teeth?"
 
-The Wound-Guest listened.
+The Red listened.
 
 So did Harvek.
 
@@ -6019,7 +6019,7 @@ Vessa had cut clean indeed.
 
 If I refused medicine, road law looked cruel. If I accepted, Hollow Antler touched the consequences of my failure and named them unsettled. If I let them tend Salt Veyr under Khar Vane guard, the image would travel faster than truth: Antler healing what blood-crown broke.
 
-The Wound-Guest did not care. Wound care bored it unless wounds opened wider.
+The Red did not care. Wound care bored it unless wounds opened wider.
 
 That helped. Sometimes the thing's disinterest showed where the real danger was.
 
@@ -6159,7 +6159,7 @@ Harvek groaned. "More counting."
 
 "More road work," Maren said. "More fines. More hauling. More proof."
 
-The Wound-Guest sank low, bored by baskets and names and women's eyes measuring stores.
+The Red sank low, bored by baskets and names and women's eyes measuring stores.
 
 Good.
 
@@ -6193,7 +6193,7 @@ Maren gave me one hard look. She had promised "some" before Mother Harl came. So
 
 She nodded once and went in.
 
-The smell hit first. Old fish oil, smoke that had soaked into the racks for three winters, the sharp bite of salt that no longer covered the emptiness underneath. My stomach turned before my mind caught it. The boy on the black shore would have crawled for that smell. The Wound-Guest liked it for different reasons.
+The smell hit first. Old fish oil, smoke that had soaked into the racks for three winters, the sharp bite of salt that no longer covered the emptiness underneath. My stomach turned before my mind caught it. The boy on the black shore would have crawled for that smell. The Red liked it for different reasons.
 
 Not food, it pressed, low and interested. Count.
 
@@ -6211,7 +6211,7 @@ Asha said nothing. The gray-braid Fen mother shifted her weight but kept her mou
 
 Maren's voice stayed flat. She was not hiding the numbers. She was choosing which ones to let the wind carry.
 
-The Wound-Guest rose under my ribs like heat from a stone that had been in the sun too long.
+The Red rose under my ribs like heat from a stone that had been in the sun too long.
 
 The inlet, it offered. Boats have oil. Boats have names that eat.
 
@@ -6245,7 +6245,7 @@ Otta made a small sound. Not quite a laugh. "One tally. It is short because wint
 
 She meant the new road guards. She meant the ones who had come to kneel after the pit and the crown. She meant the young Khar who followed Dremm because restraint looked like slow starvation.
 
-The Wound-Guest pressed harder.
+The Red pressed harder.
 
 Names have bellies, it said. The counters lie with numbers. Open the inlet with teeth and the cradles will not need to ask again. The littlest will feed the story if we take what the boats hide. Their small mouths will make the crown strong.
 
@@ -6283,7 +6283,7 @@ Keff nodded. "Dremm will not stop it. The crown talks of fines. Fines do not fil
 
 Dremm did not stop them. He only watched me from across the mud to see if the crown would answer with law or with the red thing that had climbed out of the pit.
 
-The Wound-Guest liked the plan too. It offered the shape of Half-Ear's throat under a hand that did not belong to a boy anymore, the inlet store under Khar hands, Maren watching her boats bend.
+The Red liked the plan too. It offered the shape of Half-Ear's throat under a hand that did not belong to a boy anymore, the inlet store under Khar hands, Maren watching her boats bend.
 
 I walked to them instead of letting the heat answer.
 
@@ -6293,13 +6293,13 @@ Half-Ear met my eyes. He did not spit. He smiled the way Dremm had smiled when t
 
 "Bring him to the law racks at dusk," I told Otta, loud enough for the three of them to hear. "Half-Ear. No weapons. He will answer for the road gift he plans to take from the inlet before it is counted."
 
-That night the Wound-Guest did not sleep. It walked the empty racks with me. Every missing skin became a reason. Every named lack became a door the thing could learn to open with the right words in the right ears.
+That night the Red did not sleep. It walked the empty racks with me. Every missing skin became a reason. Every named lack became a door the thing could learn to open with the right words in the right ears.
 
 I held my own name until the counting in my head stopped.
 
 Rook.
 
-Yara stood at the edge of the firelight and watched the mothers walk back with white cloths and light baskets. The Wound-Guest counted their steps. It had seen the root bundle and the red-haired one planning the inlet. It was learning which doors the empty racks opened.
+Yara stood at the edge of the firelight and watched the mothers walk back with white cloths and light baskets. The Red counted their steps. It had seen the root bundle and the red-haired one planning the inlet. It was learning which doors the empty racks opened.
 
 ---
 
@@ -6321,7 +6321,7 @@ No white cloth. No basket. No mothers behind him. He walked like someone who had
 
 I did not call a guard. I wanted to see what a man without a staff thought he could do.
 
-He stopped at the distance where a thrown knife might reach but a hand could not. Close enough to speak without shouting. Far enough that the Wound-Guest could not take him before I decided.
+He stopped at the distance where a thrown knife might reach but a hand could not. Close enough to speak without shouting. Far enough that the Red could not take him before I decided.
 
 "You left the store open longer than the count required," he said.
 
@@ -6333,7 +6333,7 @@ He stopped at the distance where a thrown knife might reach but a hand could not
 
 Naim looked at the door, then at the ground between us. "She names what Vessa tells her to name. The gaps are real. The meaning is chosen."
 
-The Wound-Guest stirred at the word "gaps." It liked holes. It liked the idea that something had been taken from the inside and the outside had not noticed yet.
+The Red stirred at the word "gaps." It liked holes. It liked the idea that something had been taken from the inside and the outside had not noticed yet.
 
 I kept my hands where he could see them. "You walked here without the others. Without the staff."
 
@@ -6353,7 +6353,7 @@ He stopped. His eyes went to the ridge, then back.
 
 "The inner law is different. It lives in the hands that carve the first antlers and in the carvers who remember before the current mothers were born. Old Brannoc knows the words. If a vessel survives the White Pit and the blood answers without a name given by the priesthood, the hollows must be left open for one full turning. Three names must be offered before the mourning paths can close against those who stand with the vessel. One name from the dead. One from the living witness who is not Antler. One from the blood itself, spoken by the vessel when it is ready."
 
-The Wound-Guest rose hard at that. It pushed an image of wind moving through black trees, carrying names that were not mine into every cradle frame on the ridge, names that made the wood whistle like the dead were still trying to speak. Then it showed me my own mouth forced open, something that was not my voice naming the island's hungers one by one while the cradles drank the sound. The red heat climbed my ribs like a hand closing.
+The Red rose hard at that. It pushed an image of wind moving through black trees, carrying names that were not mine into every cradle frame on the ridge, names that made the wood whistle like the dead were still trying to speak. Then it showed me my own mouth forced open, something that was not my voice naming the island's hungers one by one while the cradles drank the sound. The red heat climbed my ribs like a hand closing.
 
 I bit down on the inside of my cheek until the iron taste was sharp enough to hold. Sweat started at my hairline. I counted the exits the way the wrapped-spear lessons had taught me to count when the thing pushed. One ridge path. One store bar I could drop. One knife at my belt I would not draw. My voice came out strained. "You are saying Vessa is using only half the law."
 
@@ -6369,7 +6369,7 @@ Naim's face did something complicated. Not a smile. Not a wince. His voice caugh
 
 He was not asking for pity. He was naming a cost the way Maren named fish. I watched his hand move to his left wrist without thinking — two fingers pressing skin, then open palm down before he caught the motion and let it fall. The sign he had not meant to show. The same hand that had steadied the frame now hid the thing that might save the child he had not named. That made the "I will not kneel" land harder than any oath I had heard since the crown.
 
-The Wound-Guest offered a cleaner answer. Take the unstaffed man. He is already open. No ritual wall. The name he carries can be eaten and the doubt with it. The mothers will see and some will break before the next count.
+The Red offered a cleaner answer. Take the unstaffed man. He is already open. No ritual wall. The name he carries can be eaten and the doubt with it. The mothers will see and some will break before the next count.
 
 I did not move. I let the pressure sit under my ribs until it hurt in the old familiar way. Then I spoke around it.
 
@@ -6393,7 +6393,7 @@ Mercy from a man who has put down his staff is still a knife. It just arrives wi
 
 He told me the sign once, crisp. Two fingers to the left wrist, then open palm down, the way a woman might set a cradle frame on the ground when she is too tired to carry it upright. "The mother who will answer is the one whose sister was named wrong in a prior rite and whose boat never came back from the salt runs. That is the sign the fasting mothers know. Reach her with it and the fast may crack before it starves anyone useful to either of us. The ones who have not yet cut a name will stay back if they can."
 
-I memorized it. The Wound-Guest memorized the face Naim would wear when he lied about where he had been.
+I memorized it. The Red memorized the face Naim would wear when he lied about where he had been.
 
 Naim turned to go.
 
@@ -6405,7 +6405,7 @@ I pulled a small knot from my belt. One of Maren's counting knots, the kind that
 
 "If the mother answers the sign, bring this back with her mark on it. If she does not, keep it or burn it. I will know what the answer means either way."
 
-The Wound-Guest offered the clean kill image again while the knot lay there: Naim's throat with no staff and no ritual wall, quick and quiet, the doubt eaten before it could travel back to the ridge. I counted the exits the way the wrapped-spear lessons had taught me — ridge path, store bar I could drop, knife at my belt I would not draw — and let the pressure climb until my palms were damp and the edges of my sight went thin and red. Then I spoke around the iron in my mouth. "Take it or leave it. The choice is yours."
+The Red offered the clean kill image again while the knot lay there: Naim's throat with no staff and no ritual wall, quick and quiet, the doubt eaten before it could travel back to the ridge. I counted the exits the way the wrapped-spear lessons had taught me — ridge path, store bar I could drop, knife at my belt I would not draw — and let the pressure climb until my palms were damp and the edges of my sight went thin and red. Then I spoke around the iron in my mouth. "Take it or leave it. The choice is yours."
 
 Naim looked at the knot for a long time. He crouched without taking his eyes off me, picked it up, and tested the weight in his own hand the way I had watched him test the road boy's binding. He did not hold it long. "You are learning how to make debts that do not require blood."
 
@@ -6421,7 +6421,7 @@ He left the way he had come, back toward the ridge, no staff, no basket, no whit
 
 I stayed by the store door until the light was gone.
 
-The Wound-Guest did not sleep. It kept showing me the open place where a staff should have been. It kept offering the image of Naim's throat with no ritual wall around it. It kept whispering the shape of the name he had not spoken. I felt it settling lower in the ribs, patient, as if it had just learned the shape of this new gap — information that arrived without a staff, names that could be carried like knots, and the space between a man and the law he had been told to keep.
+The Red did not sleep. It kept showing me the open place where a staff should have been. It kept offering the image of Naim's throat with no ritual wall around it. It kept whispering the shape of the name he had not spoken. I felt it settling lower in the ribs, patient, as if it had just learned the shape of this new gap — information that arrived without a staff, names that could be carried like knots, and the space between a man and the law he had been told to keep.
 
 I did not take it.
 
@@ -6435,7 +6435,7 @@ That was the new pit. Not the White one. Not the witnessed hollow. This one had 
 
 I went back to the camp fire. I did not tell Maren or Harvek or Asha what Naim had said. Not yet. First I would test the knot and the sign. First I would see whether mercy that sounded like information was only another way for Hollow Antler to own the next story.
 
-The Wound-Guest laughed once under my ribs, low and patient.
+The Red laughed once under my ribs, low and patient.
 
 It could wait.
 
@@ -6453,7 +6453,7 @@ Maren had left them out on the flat stone where anyone could read the charcoal i
 
 I stood with the law racks at my back because that was where the counting had moved after the store was named open. Harvek sharpened a hook against the rack wood. Solek stood with his arms folded so thin they looked like they might snap in a wind. Maren counted under her breath and did not look at me.
 
-The Wound-Guest was quiet. It did not care about boards or shares until the numbers touched meat.
+The Red was quiet. It did not care about boards or shares until the numbers touched meat.
 
 Dremm came from the direction of the young fires. Keff walked on his left, red hair tied back with a strip of hide. Runa was on his right, her face still carrying the road dust she had not washed off since the axle work. Two others came with them whose names I did not use because they only opened their mouths when Dremm opened his first. Dorrik stayed at the edge of the knot, the one who had fixed the cart under Salt eyes. He watched the ground.
 
@@ -6475,7 +6475,7 @@ Dremm kept his eyes on me. "We have the three who broke the road. Dorrik. Keff. 
 
 The camp did not go quiet. It went still in the way a dog goes still before it decides whether to bite or run.
 
-The Wound-Guest woke.
+The Red woke.
 
 Not with the old blind hunger. With something slower. It pressed against the inside of my ribs like a hand testing cloth for weak seams. Images came without words first: Keff's throat under a clean cut, the body carried to the fire pit where the young knot waited, the smell of it filling the air so that even the ones who had not eaten since the tenth would remember who fed them. Then the story moving: to Hollow Antler mothers who would fill the next cradle share themselves rather than risk one of their own becoming the next useful thing. To the small holds beyond the ridge who had begun sending watchers instead of carts. Fear that brought tribute before the snows closed the passes.
 
@@ -6501,7 +6501,7 @@ Dremm's good eye narrowed. The bound side of his face did not move the same.
 
 "Then name one," he said. "Or stand aside and let the knot do what the crown will not."
 
-The heat under my ribs pushed harder. The Wound-Guest pressed like a second set of lungs trying to speak through mine. It offered the choice clean but showed more now: the debt bowl lifted from this stone and carried to the storehouse door, the blood poured across the threshold so every future tally would carry the mark of what had been paid in flesh and fear. The three standing the pass thin but alive, bringing word back that oath-breakers were not eaten but bound, and small holds sending tribute because the living example traveled farther than meat. Hollow Antler mothers doubling the tenth themselves rather than risk one of their own becoming the next useful thing. It was learning the crown's own tools.
+The heat under my ribs pushed harder. The Red pressed like a second set of lungs trying to speak through mine. It offered the choice clean but showed more now: the debt bowl lifted from this stone and carried to the storehouse door, the blood poured across the threshold so every future tally would carry the mark of what had been paid in flesh and fear. The three standing the pass thin but alive, bringing word back that oath-breakers were not eaten but bound, and small holds sending tribute because the living example traveled farther than meat. Hollow Antler mothers doubling the tenth themselves rather than risk one of their own becoming the next useful thing. It was learning the crown's own tools.
 
 It almost spoke. The iron taste flooded back across my tongue. Sweat started at my hairline. Red crept at the edges of my sight.
 
@@ -6533,7 +6533,7 @@ I turned so the whole knot could hear, and the ones who had drifted closer from 
 
 Maren's eyes sharpened on the boards — she was already counting what the reassigned shares would cost Salt logistics and what the mark would mean for every future tally. Asha watched the three with the old-blood stillness that said a name spoken in blood was heavier than one spoken in air; her gaze flicked once to the wrapped spear on Cairn's back. Yara, who had not sung, made a single low note under her breath that did not become a verse. It was enough to carry the shape of what had just been made public.
 
-The heat did not leave. It changed. The Wound-Guest turned the images. Now it showed the three standing the pass through snow, thin but alive, bringing back word of carts that came because the small holds had seen what happened to oath-breakers who were not eaten. It showed the blood in the bowl being carried to the storehouse door and poured across the threshold so that every tally after would carry the mark. It showed Dremm's knot watching their own made useful without being meat, and some of them beginning to wonder whether the crown's restraint was another kind of strength.
+The heat did not leave. It changed. The Red turned the images. Now it showed the three standing the pass through snow, thin but alive, bringing back word of carts that came because the small holds had seen what happened to oath-breakers who were not eaten. It showed the blood in the bowl being carried to the storehouse door and poured across the threshold so that every tally after would carry the mark. It showed Dremm's knot watching their own made useful without being meat, and some of them beginning to wonder whether the crown's restraint was another kind of strength.
 
 It was learning.
 
@@ -6569,7 +6569,7 @@ The young knot watched. Some looked at the bowl like it was a new kind of answer
 
 Dremm turned without a word and walked back toward the fires. Keff and Runa and the two others went with him. Dorrik stayed a moment longer, then followed when I nodded toward the pass.
 
-The Wound-Guest sank, but not all the way. It left a pressure behind the ribs like a lesson being remembered. Not the old laughter. Something that had teeth and could wait for snow.
+The Red sank, but not all the way. It left a pressure behind the ribs like a lesson being remembered. Not the old laughter. Something that had teeth and could wait for snow.
 
 That night Yara did not sing of the blood bowl or the three who had been made useful without being meat. She sat by the law racks and hummed one low note that did not become a verse. It was enough to carry.
 
@@ -6627,7 +6627,7 @@ The boy stopped at the edge of the counting stone. He did not kneel the way Khar
 
 Harvek stood with his arms crossed because the road law was still half his to break or keep. Solek the Thin was beside him, listening with the whole of his narrow face. Asha had come with Cairn because any new blood on the island needed a genealogy before it could be trusted. Naim stood a little apart, no staff, carrying only the white cloth of a witness who was not Vessa. Mother Harl had asked for that. After the clean medicine and the store argument, she wanted eyes on what the crown did next.
 
-The Wound-Guest woke the moment the boy said "small." It liked small. Small was easy to close a hand around.
+The Red woke the moment the boy said "small." It liked small. Small was easy to close a hand around.
 
 "Name what was taken," I said.
 
@@ -6741,7 +6741,7 @@ Runa stood a little behind Harvek's shoulder. Her eyes flicked to me when I name
 
 That night, after Keva and her people were given a place under Salt guard and the knot was hung where the road spur met the main count, I walked the edge of the camp with the wrapped spear in my hands.
 
-The Wound-Guest was quiet. Not bored. Waiting in the way it waited after the second pit, after it had learned that restraint could be turned into a larger story.
+The Red was quiet. Not bored. Waiting in the way it waited after the second pit, after it had learned that restraint could be turned into a larger story.
 
 It had learned something new tonight.
 
@@ -6795,7 +6795,7 @@ Maren's mouth was a thin line. "The inlet is thin because the boats could not mo
 
 Half-Ear laughed once, low. The sound carried because the cold made every small noise louder. "The bend gave reed and eel. They chose the crown over the antler and the salt. Now they want the winter hole the knot promised. The teeth that guard the spur are the ones who will answer when the fog woods come again. If the small eat first, the guards will not stand. The crown will learn what it costs to feed promises before it feeds the hands that keep them." He looked at me the way the young knot had looked at the open store, like the returned thing had come back wearing a name they remembered from before the isolation, before the pit boy had to count who ate first under frost.
 
-I felt the Wound-Guest wake under the frost. Not the old blind heat. Something slower, interested in the boards and the mouths and the way the small loop had changed the math. It pressed against the inside of my ribs like a hand testing where the new voices had thinned the center.
+I felt the Red wake under the frost. Not the old blind heat. Something slower, interested in the boards and the mouths and the way the small loop had changed the math. It pressed against the inside of my ribs like a hand testing where the new voices had thinned the center.
 
 Reed-Bend first, it offered. Small is still small. Cut the loop and the others will see the crown knows which mouths matter. The guards who carry the name will eat. The cradles that feed the story will eat. The ones who came late will learn the price of being counted without teeth.
 
@@ -6833,7 +6833,7 @@ Maren marked the boards. The charcoal moved in small, hard strokes. She did not 
 
 I stayed at the stone after they were gone. The frost had not burned away. It had thickened on the boards where Maren's marks sat. The small loop on the hanging knot looked heavier than the cord that held it. The Reed-Bend had walked the long way around the black sand because the tide had frozen. They had brought what they could carry. The knot said they had a winter hole. The count now had to decide whether the hole would be filled from the inlet that was already thin or from the teeth that had expected to eat first.
 
-The Wound-Guest had settled low in the ribs. Not gone. Waiting with the shape of the clean solution it had learned. It had watched the boards and the mouths and the way the small loop had forced every decision to be spoken where the ones who hated the crown could carry the words back to the fog woods and the cove and the fen camps. It had learned that the name could be used to choose who the frost took without a pit or a blood snow. The administrative hunger was slower than meat. It was also larger.
+The Red had settled low in the ribs. Not gone. Waiting with the shape of the clean solution it had learned. It had watched the boards and the mouths and the way the small loop had forced every decision to be spoken where the ones who hated the crown could carry the words back to the fog woods and the cove and the fen camps. It had learned that the name could be used to choose who the frost took without a pit or a blood snow. The administrative hunger was slower than meat. It was also larger.
 
 That night I walked the spur again with the wrapped spear. The cold had deepened. The black sand below the tide flats was white where the frost had reached. I stopped at the place where the new knot hung. The small loop was still there, reed woven through the Salt cord. Keva's fingers had closed around it when the bargain was made. The Reed-Bend girl had pressed the eel basket to her hip and looked sideways at her grandmother to see if the counted thing was real. Now the frost had taken from the flats and the count had to answer.
 
@@ -6847,7 +6847,7 @@ Rook.
 
 The small loop felt heavier than the cord. The frost had only just begun. The cradles that had gone quiet would not be the last names the wind carried if the count could not keep the order it had named when the store was opened and the bend chose the law.
 
-The Wound-Guest had filed the shape of the clean administrative solution. It would remember it when the next claims came. I would have to remember faster. The more voices spoke under the name, the more places there were for other hands to reach in before the knot could hold. Winter had made the reaching easier. The frost did not care which mouths the crown had promised to feed. It only cared which ones the count chose to leave thin when the carts could not move.
+The Red had filed the shape of the clean administrative solution. It would remember it when the next claims came. I would have to remember faster. The more voices spoke under the name, the more places there were for other hands to reach in before the knot could hold. Winter had made the reaching easier. The frost did not care which mouths the crown had promised to feed. It only cared which ones the count chose to leave thin when the carts could not move.
 
 I did not sleep. The counting in my head did not stop. Cradles. Road-sworn. Small loop. Core teeth. The order the crown had named. The frost had already started taking from the ones the order was meant to protect. The reckoning had only begun.
 
@@ -6861,7 +6861,7 @@ The snow had begun to bite the counting stone. Thin flakes melted on the boards 
 
 I stood with the law racks at my back because that was where the counting had moved when the store was named open and the bend had asked to be inside it. The wrapped spear leaned against the rack wood where Cairn had left it after the last naming. Asha stood with him at the edge of the light, old-blood still, watching the spur. Naim was there too, no staff, the white cloth folded small in his hands. Mother Harl had asked for eyes on what the crown did with the small who had come asking. Yara sat on the low stone with her back to the wind, humming nothing yet. Harvek sharpened a hook against the rack. Solek stood with his arms folded so thin they looked like they might snap. Maren counted under her breath and did not look at me.
 
-The Wound-Guest was quiet. It did not care about boards or shares until the numbers touched meat or the small could be closed in a hand.
+The Red was quiet. It did not care about boards or shares until the numbers touched meat or the small could be closed in a hand.
 
 Half-Ear came from the direction of the young fires. The red-haired one with the hide wrapped over the missing ear. He had laughed when we hid the children at the bend. Keff walked on his left, red hair tied back with a strip of hide, the one who had spat at the store and learned not to. The third was the one who would not meet Dorrik's eye after the axle work. Dorrik stayed at the edge of the knot again, watching the ground like the cart he had fixed under Salt eyes still weighed on him. Dremm was not with them. The earless one had become the mouth.
 
@@ -6877,7 +6877,7 @@ He looked at the boards, then at the Reed-Bend girl who had come with Keva's run
 
 The camp did not go quiet. The wind cut. The small witnesses went still in the way people go still when they learn the hand that counted them can close.
 
-The Wound-Guest woke.
+The Red woke.
 
 Not with the old blind hunger. With something slower, patient, the shape of a hand testing cloth for seams that had not been there before the small loop was tied. Images came without words first: the Reed-Bend girl pressing the basket to her hip until the eel dried hard against her, then the flats as a thing a hand could close around until the coughing children sent baskets of first blood or winter-late before the snow locked the spur. Then the story moving: small holds beyond the ridge who had begun sending watchers now sending tribute instead of carts, the name "pit boy" becoming the thing the small paid to before the ice took their weak, fear that brought measured stores without more counting work or four-tribe escorts. The debt bowl carried not to the storehouse door this time but to the bend fires, poured so every small who watched would see the mark and send before asked.
 
@@ -6901,7 +6901,7 @@ Naim's eyes went to the Reed-Bend girl, then to the white cloth in his hands. He
 
 Yara made a single low note under her breath that did not become a verse. It was enough to carry the shape of what was being asked in front of the small witnesses.
 
-The heat under my ribs pushed harder. The Wound-Guest pressed like a second set of lungs trying to speak through mine. It offered the choice clean but showed more now: the debt bowl lifted from this stone and carried down the spur to the bend fires, the blood poured so every small who watched would remember the mark and send the full winter price without being asked twice. The small loop pulled tighter by fear without the body needing to move. The faction that had wanted the meat standing thinner than the road-sworn because the story of the useful thing would travel with their own blood in the bowl. It was learning the crown's own tools and the weight of the small loop at once.
+The heat under my ribs pushed harder. The Red pressed like a second set of lungs trying to speak through mine. It offered the choice clean but showed more now: the debt bowl lifted from this stone and carried down the spur to the bend fires, the blood poured so every small who watched would remember the mark and send the full winter price without being asked twice. The small loop pulled tighter by fear without the body needing to move. The faction that had wanted the meat standing thinner than the road-sworn because the story of the useful thing would travel with their own blood in the bowl. It was learning the crown's own tools and the weight of the small loop at once.
 
 It almost spoke. The iron taste flooded back across my tongue. Sweat started at my hairline despite the wind. Red crept at the edges of my sight.
 
@@ -6929,7 +6929,7 @@ I turned so the whole knot could hear, and the small witnesses, and the ones who
 
 Maren's eyes sharpened on the boards — she was already counting what the reassigned shares would cost Salt logistics and what the mark would mean for every future winter tally from the small. Asha watched the faction with the old-blood stillness that said a name spoken in blood by the proposers was heavier than one spoken by the crown alone; her gaze flicked once to the wrapped spear. Yara, who had not sung, made the single low note again, now carrying the shape of teeth turned inward. Naim's hand tightened on the white cloth. The Reed-Bend girl pressed the basket harder to her hip, but she did not look away. The small witnesses saw the proposers become the hand that would collect instead of the one that closed.
 
-The heat did not leave. It changed. The Wound-Guest turned the images. Now it showed the faction carrying the bowl down the spur, thin but alive, bringing back the full winter price because the small had seen what happened to the ones who asked for meat and were made to carry the count instead. It showed the blood in the bowl being carried to the bend fires and poured so that every small who watched would see the mark of the proposers and send before the snow locked the spur. It showed the road-sworn and the new winter-sworn standing the exposed watch together, the small loop pulled by the visible living deterrent rather than by a dead example. It was learning.
+The heat did not leave. It changed. The Red turned the images. Now it showed the faction carrying the bowl down the spur, thin but alive, bringing back the full winter price because the small had seen what happened to the ones who asked for meat and were made to carry the count instead. It showed the blood in the bowl being carried to the bend fires and poured so that every small who watched would see the mark of the proposers and send before the snow locked the spur. It showed the road-sworn and the new winter-sworn standing the exposed watch together, the small loop pulled by the visible living deterrent rather than by a dead example. It was learning.
 
 That was the cost that did not show on the boards.
 
@@ -6941,7 +6941,7 @@ Otta came with the knife when I nodded. She cut the shallow lines on their arms 
 
 The faction took the mark. They did not cheer or argue loud. They walked away quiet. One muttered to another about Salt law under a Khar crown. The resentment had gone organized. It did not split the knot in the open. It went into the way they would stand the spur and carry the bowl — doing the work because the crown had named it, waiting for the small to short or for the winter price to fail so the old rite could still be asked for in front of witnesses.
 
-The Wound-Guest settled low in the ribs, not gone, but listening. A small, low feeling like a laugh that had nowhere to go yet. It had heard the name I gave the new bound: winter-sworn. It had noted the shape of the winter price traveling with the proposers' blood in the bowl. It had filed the idea that a name could pull stores from the small without the red-state rising if the boy made the ones who wanted meat carry the collection. It turned the images one last time before it sank: the faction standing the exposed spur with the original three, the small sending full baskets because they had seen the crown's teeth were the ones who had proposed the useful thing and were now the hand that collected instead of the one that took. The small loop heavier because the center had made its own knot walk the count.
+The Red settled low in the ribs, not gone, but listening. A small, low feeling like a laugh that had nowhere to go yet. It had heard the name I gave the new bound: winter-sworn. It had noted the shape of the winter price traveling with the proposers' blood in the bowl. It had filed the idea that a name could pull stores from the small without the red-state rising if the boy made the ones who wanted meat carry the collection. It turned the images one last time before it sank: the faction standing the exposed spur with the original three, the small sending full baskets because they had seen the crown's teeth were the ones who had proposed the useful thing and were now the hand that collected instead of the one that took. The small loop heavier because the center had made its own knot walk the count.
 
 I walked the spur at night with the wrapped spear. The snow bit. The small loop was heavier than the cord that held it. The island was larger than the camps. Now the teeth that had wanted to close the hand on the small were the ones walking the spur to collect what the count needed. The Guest had learned the shape of a name that brought baskets without the body needing to move. Useful. The part that frightened most was that the useful shape was inside the law I had just made, and the ones who had called restraint waste now carried the price they had asked for.
 
@@ -6971,7 +6971,7 @@ Mother Harl's cradle frames clicked. Naim stood near her, no staff, two fingers 
 
 Half-Ear laughed, the sound short and wet. "The red thing eats the count the same as it eats meat. Give it one of the road-sworn who still owes and the rest will walk the pass without taking from the bend. Useful. The old price."
 
-The Wound-Guest rose at "small" and "cough" and "eat the count." It had learned the language of stores. Images came clean: the bend girl's basket overturned, the eel meat in the debt bowl poured across the stone so every future tally carried the mark of what the crown fed. The coughing child lifted easy because small things did not fight the hand that closed. Pressure under my ribs. Sweat on my palms where the wrapped spear rested. Red at the edges like the tide coming in under black sand.
+The Red rose at "small" and "cough" and "eat the count." It had learned the language of stores. Images came clean: the bend girl's basket overturned, the eel meat in the debt bowl poured across the stone so every future tally carried the mark of what the crown fed. The coughing child lifted easy because small things did not fight the hand that closed. Pressure under my ribs. Sweat on my palms where the wrapped spear rested. Red at the edges like the tide coming in under black sand.
 
 I counted the witnesses the way Asha had taught. Maren. Harvek. Solek. Asha with Cairn. Mother Harl. Naim. Keva and the girl. The three road-sworn. Otta at the edge with her one arm. Yara humming low, not a full song yet.
 
@@ -6995,7 +6995,7 @@ The sound went into my teeth like the first time on the black stone.
 
 "Rook."
 
-The Wound-Guest did not wait for the second strike. It rose before the sound finished, anticipating the rhythm it had learned in the fog woods. The red thread on the bone blade seemed to lean toward me. I saw the bargain form inside before Asha could speak the next name.
+The Red did not wait for the second strike. It rose before the sound finished, anticipating the rhythm it had learned in the fog woods. The red thread on the bone blade seemed to lean toward me. I saw the bargain form inside before Asha could speak the next name.
 
 Let the spear-mother name the bend as yours in blood. I will close the hands on the ones who reach before the knot. Three turnings. The small will feed the name. Their cough will make the crown strong.
 
@@ -7081,7 +7081,7 @@ Naim's mouth moved once when Keva said the child had died waiting. He looked at 
 
 Mother Harl spoke for the cradles. "If the small take from the tenth to pay the due the crown named, the empty frames will multiply. The mothers will remember that the small on the flats were fed before the frames were filled."
 
-The Wound-Guest rose the moment Keva said "the road's due."
+The Red rose the moment Keva said "the road's due."
 
 It liked the name. The due was a claim the small loop could make on the center. It was a hand that could be closed around the flats until the due came to the story in fear and tribute. Images came fast and clean: the bend sending the rest of the eel and the reed to feed the crown's hunger; the tide flats as a thing the name could close until nothing moved; the coughing children as the ones who would make the small loop strong if the crown took what the fog woods had left them and called it the due. The pressure under my ribs climbed like the ice on the sand. Sweat started on my palms where they gripped the wrapped spear. The red was at the edges of my sight like water rising on a flat that had no shore. My voice came out rougher than I wanted.
 
@@ -7105,7 +7105,7 @@ That night, after Keva and her people were given a place under Salt guard and th
 
 The ice had reached the black sand. The tide flats were a darker line under the moon. The small loop on the cord pulled against the turns. It felt heavier than the first time. The new due knot pulled against the turns. The red thread on the spear bit my palm when I tightened my grip. I could still see the Reed-Bend girl's fingers on the eel basket and the quick sideways look she gave Keva when the knot was tied. The coughing from the direction of the bend carried on the wind.
 
-The Wound-Guest had liked the name "the road's due." It had offered the flats as a thing a hand could close. I said my name until the images thinned.
+The Red had liked the name "the road's due." It had offered the flats as a thing a hand could close. I said my name until the images thinned.
 Rook.
 
 The cord stayed in my hand until the cold made the reed stiff. One more mouth the count had to feed. One more place a hand could reach before the knot held.

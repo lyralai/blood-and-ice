@@ -31,7 +31,7 @@ Strong and consistent. Rook remains the feral boy who notices hunger first, exit
 Excellent progression and tension. Guest manifests as pressure/heat under ribs, images (inlet under Khar hands, "Names have bellies. The counters lie with numbers...", small mouths feeding the story, coughing children easy to lift), almost-words, and strategic hunger. Rook counters with self-name ("Rook" repeated under breath/teeth), biting cheek until iron cuts the wanting, wrapped-spear lessons (counting exits, name-holding), and deliberate choice of harder path. The Guest is learning (store/counting language in ch29, small loop name in ch32) without becoming chatty or moral. Articulation increases only under pressure — exactly on target. Physical cost to Rook (sweat, red vision, palms damp, hand shaking on spear after) is shown, not told.
 
 **Density + Relationship Costs + Public Shifts:**  
-High density without exhaustion. Every chapter does multiple jobs (plot move + relationship alteration + tribal rule clarification + Wound-Guest cost + public meaning shift).  
+High density without exhaustion. Every chapter does multiple jobs (plot move + relationship alteration + tribal rule clarification + The Red cost + public meaning shift).  
 - ch29: Public store inspection forces Maren's nod (costs her with boat-women; "the nod cost her something with the Salt women"); thin trust from one Salt woman ("trust, thin as the cloth... pressed heavier than fear" — second debt cord); Keff/Half-Ear plan exposed; open store door left as visible weakness that can feed trust or teeth.  
 - ch30: Naim no-staff + "I will not kneel" + inner law reveal creates private fracture + new lever; knot toss and "You are learning how to make debts that do not require blood" lands clean; Rook keeps info private from Maren/Harvek/Asha.  
 - ch31: Dremm "useful sacrifice" proposal transformed publicly into road-sworn + debt bowl poured across threshold (living blood-debt, shares reassigned); Harvek mouth-pull lesson applied; Asha "the boy still owns the name. For now"; knot visibly fractures (Dremm walks away flat).  
@@ -43,7 +43,7 @@ Public shifts are concrete and witnessed (boards left out, debt bowl as travelin
 Strong. Chapters close with earned weight rather than summary:  
 - ch29: "Transparent weakness could feed trust or it could feed the ones who promised to fill the gaps faster by using teeth instead of boards." + Guest counting steps, learning the math.  
 - ch30: "Now the crack had a name and a use. That was the new pit... This one had no ropes and no witnesses except the two of us and the thing that wanted to eat the space between."  
-- ch31: "The Wound-Guest had not taken the body. It had taken a new shape inside the law I was trying to build. That was the useful part. That was also the part that frightened me most."  
+- ch31: "The Red had not taken the body. It had taken a new shape inside the law I was trying to build. That was the useful part. That was also the part that frightened me most."  
 - ch32: "The small loop on the knot felt heavier than the cord that held it." + island larger than camps, more voices = thinner center, "I would have to remember faster."  
 
 These echo the queue spec (private doubt, useful sacrifice transformation, small loop weight + after-effect) without over-explaining.
@@ -63,7 +63,7 @@ Precision in law/naming/counting mechanics (inner law three names, debt bowl, sm
 
 ## 6-8 Specific Punch List Items
 
-1. **ch29 store inspection (keep + minor polish):** The Maren nod cost ("the nod cost her something with the Salt women... They would remember who had put their winter on the boards") and Salt boat-woman root bundle ("trust, thin as the cloth she had used... pressed heavier than fear") are packet highlights — perfect relationship cost + public shift embodiment. Minor: Change closing "The Wound-Guest counted the steps with me until the last one faded. It was learning the math." to more physical/suspicious: "The heat under my ribs kept time with the steps until the last one faded. It was learning the math of weakness."
+1. **ch29 store inspection (keep + minor polish):** The Maren nod cost ("the nod cost her something with the Salt women... They would remember who had put their winter on the boards") and Salt boat-woman root bundle ("trust, thin as the cloth she had used... pressed heavier than fear") are packet highlights — perfect relationship cost + public shift embodiment. Minor: Change closing "The Red counted the steps with me until the last one faded. It was learning the math." to more physical/suspicious: "The heat under my ribs kept time with the steps until the last one faded. It was learning the math of weakness."
 
 2. **ch30 Naim scene (keep as-is):** No-staff arrival, inner law reveal ("three names... one from the dead, one from a living witness who is not Antler, one from the blood itself"), "I will not kneel", knot test, and "Be careful what you feed, Rook" are voice gold. The private gap + Rook keeping the info from the other tribes matches queue spec exactly. No changes recommended. Strength to preserve.
 

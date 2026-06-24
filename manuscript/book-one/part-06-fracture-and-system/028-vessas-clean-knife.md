@@ -44,7 +44,7 @@ Vessa had cut clean indeed.
 
 If I refused medicine, road law looked cruel. If I accepted, Hollow Antler touched the consequences of my failure and named them unsettled. If I let them tend Salt Veyr under Khar Vane guard, the image would travel faster than truth: Antler healing what blood-crown broke.
 
-The Wound-Guest did not care. Wound care bored it unless wounds opened wider.
+The Red did not care. Wound care bored it unless wounds opened wider.
 
 That helped. Sometimes the thing's disinterest showed where the real danger was.
 
@@ -184,7 +184,7 @@ Harvek groaned. "More counting."
 
 "More road work," Maren said. "More fines. More hauling. More proof."
 
-The Wound-Guest sank low, bored by baskets and names and women's eyes measuring stores.
+The Red sank low, bored by baskets and names and women's eyes measuring stores.
 
 Good.
 

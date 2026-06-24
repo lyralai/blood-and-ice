@@ -30,21 +30,21 @@ Packet 5-6 material is politically dense and strong on Chapter Standard (public 
 **Findings:** Strong opening public pressure test. Mother Harl lacks-naming and root bundle trust are excellent. Half-Ear threat + order lands. However, closing night walk restates the lesson ("It was learning the math") after the action (open store, public naming, root gift, overheard plan, order to racks) has already shown the political cost/trust vs. attack dynamic. One paragraph too many on "transparent weakness could feed trust or attack".
 
 **Flagged section (night close, ~120 words — compress 50%):**
-> That night the Wound-Guest did not sleep. It walked the empty racks with me. Every missing skin became a reason. Every named lack became a door the thing could learn to open with the right words in the right ears.
+> That night the Red did not sleep. It walked the empty racks with me. Every missing skin became a reason. Every named lack became a door the thing could learn to open with the right words in the right ears.
 > I held my own name until the counting in my head stopped.
 > Rook.
 > The lesson was new and it cost more than the tenth. Showing the empty had let one Salt woman give what she could hide. It had also let Keff and Dremm's knot see exactly where the real food still sat and how little the crown could do about it without breaking the very law that kept the roads open.
 > Transparent weakness could feed trust or it could feed the ones who promised to fill the gaps faster by using teeth instead of boards.
 > Yara made no song. She only stood at the edge of the firelight and watched the open store door and the mothers walking back to their camps with their cloths still white and their baskets still too light for winter.
-> The Wound-Guest counted the steps with me until the last one faded.
+> The Red counted the steps with me until the last one faded.
 > It was learning the math.
 
 **Why it hurts pacing:** The core idea (transparent weakness invites both trust and attack) is already shown via root bundle + overheard Half-Ear plan + Rook's order. The summary paragraph restates it abstractly. Yara beat is good but can carry more of the close. Guest "learning the math" is told after the physical holding is shown.
 
 **Tightened version (target ~55 words, ~55% reduction):**
-> That night the Wound-Guest walked the empty racks with me. I held my name until the counting stopped.
+> That night the Red walked the empty racks with me. I held my name until the counting stopped.
 > Rook.
-> Yara stood at the edge of the firelight and watched the mothers walk back with white cloths and light baskets. The Wound-Guest counted their steps. It had seen the root bundle and the red-haired one planning the inlet. It was learning which doors the empty racks opened.
+> Yara stood at the edge of the firelight and watched the mothers walk back with white cloths and light baskets. The Red counted their steps. It had seen the root bundle and the red-haired one planning the inlet. It was learning which doors the empty racks opened.
 
 **Note:** Preserve Yara's silent watch and the root bundle image in any future cross-refs. This keeps the political idea (weakness feeds trust *or* attack) via concrete images + what the Guest "saw" rather than summary.
 
@@ -53,14 +53,14 @@ Packet 5-6 material is politically dense and strong on Chapter Standard (public 
 
 **Flagged (closing reflection, ~80 words — compress 40%):**
 > I stayed by the store door until the light was gone.
-> The Wound-Guest did not sleep. It kept showing me the open place where a staff should have been. It kept offering the image of Naim's throat with no ritual wall around it. It kept whispering the shape of the name he had not spoken. I felt it settling lower in the ribs, patient, as if it had just learned the shape of this new gap — information that arrived without a staff, names that could be carried like knots, and the space between a man and the law he had been told to keep.
+> The Red did not sleep. It kept showing me the open place where a staff should have been. It kept offering the image of Naim's throat with no ritual wall around it. It kept whispering the shape of the name he had not spoken. I felt it settling lower in the ribs, patient, as if it had just learned the shape of this new gap — information that arrived without a staff, names that could be carried like knots, and the space between a man and the law he had been told to keep.
 > I did not take it.
 > My hand was still pressed to the place on my cheek where I had bitten, and the red at the edges of my sight took longer than usual to clear.
 > But I understood why Vessa had sent him with the clean baskets the day before. She had not missed the crack. She had aimed it.
 > Now the crack had a name and a use.
 > That was the new pit. Not the White one. Not the witnessed hollow. This one had no ropes and no witnesses except the two of us and the thing that wanted to eat the space between.
 > I went back to the camp fire. I did not tell Maren or Harvek or Asha what Naim had said. Not yet. First I would test the knot and the sign. First I would see whether mercy that sounded like information was only another way for Hollow Antler to own the next story.
-> The Wound-Guest laughed once under my ribs, low and patient.
+> The Red laughed once under my ribs, low and patient.
 > It could wait.
 > Names always could.
 
@@ -68,7 +68,7 @@ Packet 5-6 material is politically dense and strong on Chapter Standard (public 
 
 **Tightened version (~50 words, ~40% cut):**
 > I stayed by the store door until the light was gone. My hand stayed pressed to the bite on my cheek. The red at the edges took longer to clear.
-> The Wound-Guest had learned the shape of the gap — a man without a staff, a name that could be carried like a knot, the space between a man and the law he kept. It laughed once, low. It could wait.
+> The Red had learned the shape of the gap — a man without a staff, a name that could be carried like a knot, the space between a man and the law he kept. It laughed once, low. It could wait.
 > I went back to the fire. I did not tell Maren or Harvek or Asha. First I would test the knot and the sign.
 
 **Preserve:** The "mercy from a man who has put down his staff is still a knife" line (earlier) and the physical Naim tells (shoulders, knuckles). The "new pit" idea can be carried by the knot test image instead of restated.
@@ -102,7 +102,7 @@ The audit notes it appeared *twice* back-to-back in the draft state (one mid-sce
 > She walked toward the Fen side of the camp. Cairn stayed a moment with the spear across his back, then followed.
 > I stayed by the racks until the fires burned low. The debt bowl sat on the stone where anyone could see the mark. The three who had given it were already on the lower pass with tools and no weapons, under Salt eyes and Fen witness.
 > The storehouse door was barred. The boards were covered. The hunger was still there in the camp, in the young fires, in the knot that had walked away with Dremm.
-> The Wound-Guest had not taken the body. It had taken a new shape inside the law I was trying to build.
+> The Red had not taken the body. It had taken a new shape inside the law I was trying to build.
 > That was the useful part.
 > That was also the part that frightened me most.
 
@@ -111,7 +111,7 @@ The audit notes it appeared *twice* back-to-back in the draft state (one mid-sce
 **Tightened version (focus on action/cost close, ~45 words, ~55% reduction):**
 > I stayed by the racks until the fires burned low. The debt bowl sat on the stone where anyone could see the mark. The three were already on the lower pass with tools and no weapons.
 > Asha had said the boy still owned the name. For now.
-> The Wound-Guest had learned the shape of the bowl. It had filed it like a man testing a new knife. My hand still tasted iron where I had bitten it.
+> The Red had learned the shape of the bowl. It had filed it like a man testing a new knife. My hand still tasted iron where I had bitten it.
 
 **Yara hygiene (per audit):** The "single low note" during the rite is strong. The night repeat ("Yara did not sing... hummed one low note") is redundant. In tightened version above, remove or vary the night Yara beat — let the visible bowl carry the shape.
 
@@ -122,7 +122,7 @@ The audit notes it appeared *twice* back-to-back in the draft state (one mid-sce
 
 **Major flagged: Extended night-walk reflection (~180 words — compress 60%+):**
 > That night, after Keva and her people were given a place under Salt guard and the knot was hung where the road spur met the main count, I walked the edge of the camp with the wrapped spear in my hands.
-> The Wound-Guest was quiet. Not bored. Waiting in the way it waited after the second pit, after it had learned that restraint could be turned into a larger story.
+> The Red was quiet. Not bored. Waiting in the way it waited after the second pit, after it had learned that restraint could be turned into a larger story.
 > It had learned something new tonight.
 > Small tribes could be added without a pit. Without blood snow. Without throwing anyone into the white. Just by being the one who named the law that reached them first.
 > Or second.
@@ -186,7 +186,7 @@ The block from "That night, after Keva..." through "The hand on the wrapped spea
 
 This is the worst offender for repetition across Packet 5/6. The "road's due" claim, cut cord, dead child, Naim silence, and Rook's decision to send road-sworn to stand the due have already shown the strain, the late arrival, the cost, and the Guest learning the name. The long summary undercuts the impact.
 
-**Why it hurts:** After a high-stakes scene (dead child, cut cord, faction reach under name, public payment with living sworn), ending on 200+ words of "the boy-king problem had escalated... the cost of holding the Wound-Guest was rising" feels like the scene is explaining its own significance instead of ending on the unresolved cost (the due paid with living bodies, the center stretched thinner, the hand still shaking, the child buried under reed).
+**Why it hurts:** After a high-stakes scene (dead child, cut cord, faction reach under name, public payment with living sworn), ending on 200+ words of "the boy-king problem had escalated... the cost of holding the Red was rising" feels like the scene is explaining its own significance instead of ending on the unresolved cost (the due paid with living bodies, the center stretched thinner, the hand still shaking, the child buried under reed).
 
 **Tightened version (target ~70 words, ~65% reduction — end on image + physical + forward question):**
 > That night, after Keva and her people were given a place under Salt guard and the re-tied cord was hung, I walked the edge of the camp with the wrapped spear.
@@ -207,7 +207,7 @@ This is the worst offender for repetition across Packet 5/6. The "road's due" cl
 - An image that travels (debt bowl sitting visible on stone, small loop heavier than the cord, crude antler cut in mud and spat on, root bundle left on lowest rack, cut cord returned with black sand loop).
 
 **How to end on action/cost instead of summary:**
-- Bad: "...The Wound-Guest had taken a new shape inside the law. That was the useful part. That was also the part that frightened me most." (After the rite has already shown it.)
+- Bad: "...The Red had taken a new shape inside the law. That was the useful part. That was also the part that frightened me most." (After the rite has already shown it.)
 - Good: "The debt bowl sat on the stone where anyone could see the mark. The three were already on the lower pass with tools and no weapons. My hand still tasted iron."
 - Bad: Long night walk explaining "the island was larger... more voices made the center thinner... the flats would remember who came first..."
 - Good: Stop at the concrete images from the scene (Keva fingers, girl basket, antler cut) + physical (hand shook) + one forward pressure sentence ("It would remember the shape when the next claim came").

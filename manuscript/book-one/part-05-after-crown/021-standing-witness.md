@@ -22,7 +22,7 @@ Solek found me before the sun cleared the low teeth of the ridge. He carried a c
 
 "Drink first."
 
-I drank because refusing food is a rich man's kind of anger. The broth was grey and hot. It put a little strength under my ribs. The Wound-Guest shifted at the heat like something turning in a den.
+I drank because refusing food is a rich man's kind of anger. The broth was grey and hot. It put a little strength under my ribs. The Red shifted at the heat like something turning in a den.
 
 Not king, I thought.
 
@@ -88,7 +88,7 @@ I put it on.
 
 The camp exhaled.
 
-The Wound-Guest liked the sound.
+The Red liked the sound.
 
 No.
 
@@ -204,7 +204,7 @@ No monster in that. No pit. No blood.
 
 Just a woman with clean hands making allies ashamed of standing near me.
 
-The Wound-Guest did not stir.
+The Red did not stir.
 
 That frightened me more.
 

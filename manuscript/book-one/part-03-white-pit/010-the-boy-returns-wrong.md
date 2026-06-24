@@ -12,7 +12,7 @@ That was the first gift the pit gave me.
 
 Space.
 
-I lay on the white stone with blood cooling under me and sky burning above. My rib moved wrong. My shoulder was torn. My mouth tasted of a thing I did not want to name. The Wound-Guest sat inside my chest, heavy and pleased, like a guest who had eaten well and now waited to see whether the house would thank him.
+I lay on the white stone with blood cooling under me and sky burning above. My rib moved wrong. My shoulder was torn. My mouth tasted of a thing I did not want to name. The Red sat inside my chest, heavy and pleased, like a guest who had eaten well and now waited to see whether the house would thank him.
 
 I tried to move.
 
@@ -82,7 +82,7 @@ Memory flashed: the pit-man crawling, my hand on his ankle, the heat pulling.
 
 I turned and vomited onto the white stone.
 
-The Wound-Guest disliked that. It curled away from shame as if shame were cold water.
+The Red disliked that. It curled away from shame as if shame were cold water.
 
 Good.
 
@@ -154,7 +154,7 @@ They were not giving me power.
 
 They were putting power around me like a collar and calling it honor.
 
-The Wound-Guest liked the kneeling. It liked Harvek's old scarred mouth. It liked the weapons on stone. It liked being mistaken for a god because gods are allowed to be hungry.
+The Red liked the kneeling. It liked Harvek's old scarred mouth. It liked the weapons on stone. It liked being mistaken for a god because gods are allowed to be hungry.
 
 I pushed myself onto one elbow.
 
@@ -194,7 +194,7 @@ Reminder.
 
 I closed my fingers around it.
 
-The Wound-Guest settled, patient and full.
+The Red settled, patient and full.
 
 That was how I learned the tenth law of the island.
 

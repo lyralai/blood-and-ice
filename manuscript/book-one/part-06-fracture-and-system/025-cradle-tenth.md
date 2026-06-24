@@ -42,7 +42,7 @@ The word still felt wrong on my head. It had teeth under it.
 
 Two Khar Vane men lifted the bar. Old smoke rolled out, thick with fish oil and dried bladderwrack. My stomach clenched before my mind caught up. The boy I had been on the black shore would have crawled over teeth for that smell.
 
-The Wound-Guest liked the smell too.
+The Red liked the smell too.
 
 Not food, it pressed.
 
@@ -92,7 +92,7 @@ Dremm's knot shifted. One boy, red-haired and narrow-eyed, spat into the mud.
 
 "We bled for that store."
 
-The Wound-Guest rose fast.
+The Red rose fast.
 
 So did my shame, because part of me agreed with him.
 
@@ -132,7 +132,7 @@ He said nothing.
 
 "If you spit again," I said, "you clean every cradle frame in Hollow Antler camp with your tongue where mothers can see. Not because they are soft. Because they carried you before you could hold a knife."
 
-The Wound-Guest wanted more. It offered the image of his teeth on stone.
+The Red wanted more. It offered the image of his teeth on stone.
 
 I held still.
 

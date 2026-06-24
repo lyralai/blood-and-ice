@@ -35,7 +35,7 @@
 | Inlet / boat priorities | Storehouse is mixed (Khar raid right + Salt built door + Fen smoked + Hollow blessed). | Explicit: "If we empty it for every cradle claim, the boats do not come and the next tenth is nothing but words." Maren names "the inlet store keeps the boats on the water." Next fines "to oil and root before any war share or guard portion." Four-tribe escort ordered (Salt boat + Fen + Hollow mother). | Maren tight mouth; boat-women with empty baskets watch; Salt boat-woman later gives root bundle ("My own can wait one more day. The inlet will not starve them if the next cart is honest."). Thin trust vs numbers breaking. |
 | Dried root gift (thin trust) | — | Salt boat-woman (cracked hands from oars/salt): small wrapped bundle of "Dried root, the good kind that did not mold fast." Placed on lowest rack. "For the littlest." | Rook registers: "trust, thin as the cloth... heavier than fear... can break when the numbers did not add." Public meaning of open store. |
 | Road fines / wounded / guard shares | — | 7 seal from road fines; 3 seal + 1 oil used for "wounded carriers from the lower pass and the guards who stood the watch." | ch27 road violation (Dorrik/Keff/Runa "road gift") direct tie. "Guards eat from crown store after the tenth." |
-| Public counting language | Maren: three tally boards, charcoal marks. Senn scratches. "Set it aside." | Maren: "Count what is. Name what is not. Aloud." Exact spoken counts. Door left open after. Empty racks visible. | "Not food... Store." (Wound-Guest). "Names have bellies. The counters lie with numbers." (Guest learning). Otta: "One tally." |
+| Public counting language | Maren: three tally boards, charcoal marks. Senn scratches. "Set it aside." | Maren: "Count what is. Name what is not. Aloud." Exact spoken counts. Door left open after. Empty racks visible. | "Not food... Store." (The Red). "Names have bellies. The counters lie with numbers." (Guest learning). Otta: "One tally." |
 | Witnesses / Hollow inventory | Mother Harl (palm on empty cradle frame), Hollow mothers with white masks. | Mother Harl + gray-braid Fen mother + white-cloth Hollow woman. "The tenth brought fish... None of it is on these racks." | Inventory, not accusation. Ties directly to ch24/28 cradle pressure and ch30 Naim inner law. |
 
 **Baseline summary:** All later scarcity must map to these visible items (21 seal after draws, 11 cod with specific prior draws of 3, 4 oil with 1 used + 3 cove-boat spoken, winter root/moss absent and inlet-cart dependent, tenth shares taken publicly, inlet boats as the source that "keeps the boats on the water," frost-delayed cart as the mechanism that makes promises fail). "Thin" or "short" without these specifics is drift.
@@ -44,11 +44,11 @@
 
 ## Chapter-by-Chapter Drift Audit + Proposed Re-anchored Replacements
 
-**Rule for proposals:** Quote the vague instance(s). Propose 1-3 specific replacement sentence(s)/paragraph(s) that insert or substitute the concrete baseline items (smoked seal 21/ tenth 4 / fines 7 / 3 to wounded-guards; cod 11 / 3 drawn; oil 4 / 1 axle-wounded / 3 cove-boats; winter root + moss named by Mother Harl; inlet cart/boats priority; dried root gift; four-tribe open count). Preserve voice, first-person feral suspicion, Wound-Guest learning, public meaning (transparent weakness feeds trust or attack), and existing plot beats. No new quantities. Tie "winter hole," "thin shares," "short rations," "the count," "boards" explicitly back to the open-store reality and inlet.
+**Rule for proposals:** Quote the vague instance(s). Propose 1-3 specific replacement sentence(s)/paragraph(s) that insert or substitute the concrete baseline items (smoked seal 21/ tenth 4 / fines 7 / 3 to wounded-guards; cod 11 / 3 drawn; oil 4 / 1 axle-wounded / 3 cove-boats; winter root + moss named by Mother Harl; inlet cart/boats priority; dried root gift; four-tribe open count). Preserve voice, first-person feral suspicion, The Red learning, public meaning (transparent weakness feeds trust or attack), and existing plot beats. No new quantities. Tie "winter hole," "thin shares," "short rations," "the count," "boards" explicitly back to the open-store reality and inlet.
 
 ### Cross-References ch21-28 (Audit)
 
-- **ch25 (Cradle Tenth) itself:** Anchor chapter. Concrete counts, public tenth share taken in front of Mother Harl, "Maren had taken more than a tenth. She had taken the counting." No drift. Preserve verbatim. (Wound-Guest: "Not food... Store"; Keff confrontation; Maren seizes counting power.)
+- **ch25 (Cradle Tenth) itself:** Anchor chapter. Concrete counts, public tenth share taken in front of Mother Harl, "Maren had taken more than a tenth. She had taken the counting." No drift. Preserve verbatim. (The Red: "Not food... Store"; Keff confrontation; Maren seizes counting power.)
 
 - **ch28 (Vessa's Clean Knife):** Strong pre-echo. "Vessa sends clean wound care (moss, poultice, oil) via Mother Harl, Naim (no staff)..." + "public cradle-store inspection (multi-tribe witnesses, no Vessa words in)." "Maren protests but plans to fill via more road work/fines." Excellent. Minor hygiene: ensure "moss" and "oil" language exactly matches Mother Harl's ch29 inventory phrasing when re-anchored. "Naim's quiet doubt" + "cradle store pressure" sets up ch29-30 perfectly. No vague "thin" that contradicts baseline.
 
@@ -62,7 +62,7 @@
 
 **Minor noted in prior audit (packet-5-audit-ch29.md, preserved here):** Otta characterization slightly detached; Yara silent edge watch excellent. No re-anchor required for scarcity language — this *is* the concrete. Preserve. One light tie-in polish (if re-drafting): in the root bundle beat, one extra sensory (cracked hands + "the inlet will not starve them if the next cart is honest") already strong.
 
-**Wound-Guest learning:** "Not food... Store" (from ch25) escalates to counting language and "names have bellies." Perfect.
+**The Red learning:** "Not food... Store" (from ch25) escalates to counting language and "names have bellies." Perfect.
 
 ### ch30: Naim Without Staff (Low Scarcity Language — No Major Drift)
 
@@ -185,7 +185,7 @@ Night walk: "The small loop on the cord felt heavier than the first time. The ne
 
 4. **Inlet reality as constant:** Every proposal reinforces "the inlet store keeps the boats on the water" (Maren's forced line from ch29) as the source. Frost delay is the mechanism that makes promises fail visibly.
 
-5. **Wound-Guest administrative hunger:** Proposals preserve escalation (ch25 "Not food... Store" → ch29 "Names have bellies... littlest will feed the story" → ch31/33/34/36 "the boards Maren kept when the door stood open," "the inlet cart the frost had stopped," "the hole the crown had counted her into"). Guest learns the *visible* systems without new mechanics.
+5. **The Red administrative hunger:** Proposals preserve escalation (ch25 "Not food... Store" → ch29 "Names have bellies... littlest will feed the story" → ch31/33/34/36 "the boards Maren kept when the door stood open," "the inlet cart the frost had stopped," "the hole the crown had counted her into"). Guest learns the *visible* systems without new mechanics.
 
 6. **Thin trust root bundle (ch29):** Echo in later small-loop / inlet scenes where relevant (e.g., Reed-Bend girl with basket, boat-women remembering public naming). Already strong in ch29; no new invention.
 
