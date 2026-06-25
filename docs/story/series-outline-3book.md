@@ -1,73 +1,74 @@
 # Blood Under Ice — Three-Book Series Outline
 
-**Last updated:** 2026-06-24  
+**Last updated:** 2026-06-25  
 **Status:** Scaffolding (good enough to write from, not locked stone)  
 **Series spine:** Boy → Beast → Great Man  
 **Genre:** Epic fantasy with visceral literary prose  
 **Tonal anchors:** Red Rising urgency · Game of Thrones density · Kingkiller Chronicle craft  
 **POV:** First-person present tense, Rook  
-**Key lore:** Ice power (his family bloodline) + Blood power (the Red) = never before combined. Most magic is gone from the world but has been slowly coming back. The Red hasn't found a host in thousands of years — until Rook.
+**Key lore:** Ice power (his family bloodline) + Blood power (the Red) = never before combined. Most magic is gone from the world but has been slowly coming back. The Red hasn't found a host in thousands of years — until Rook. **Book 1 is set in the tropical south (a Sothoryos-style death-jungle); the ice half of his heritage stays fully dormant there — it has no cold to answer — and surfaces only on colder ground in Books 2-3. Book 1 shows the BLOOD half only: his body shrugs off the fevers, rot, and venom that kill every other human. Book 1 = the Blood; the Ice comes later.**
 
 ---
 
 ## BOOK ONE: WILD BOY
 
-**Premise:** A lone human boy, shipwrecked on a monster-ruled island no human survives, is taken in by the wild things and rises to be their king — until reaching toward his own kind costs him everything.
+**Premise:** A lone human boy, shipwrecked on a tropical death-jungle no human survives, is taken in by the wild things and rises to be their king — until his own kind sail in and bait the one hunger no crown can fill.
 **Target length:** ~75-90k words (~28 chapters, 5 parts)
 **Structure:** Tarzan-of-the-Apes bones (survive → raised by the wild → king → his own kind arrive → the choice), fused with Red Rising's engine (loss forges the climb; capture is the doorway).
 **POV:** First-person present, Rook.
-**Heritage:** MYSTERY only — never named or explained in Book 1. Powers dormant (one faint flicker at the very end). Hints: his impossible survival on a death-island; the three "wrong things" (warm stone; breath that won't smoke + frost that rings him but not his body; wounds healing in days); a relic-sigil he half-knows. The truth surfaces in Book 2.
-**Driving goal:** Belonging. A stolen child the world keeps taking from. The monster-family gives him the first home and crown he has ever had; humanity (slavers, then pirates) baits that exact hunger and takes everything. The beast doesn't need anyone — that's the threat.
+**Heritage:** MYSTERY only — never named or explained in Book 1. Powers dormant (one faint flicker at the very end). The tells are reskinned to the tropics — the cold/ice heritage has no cold to answer here, so Book 1 shows the BLOOD half: **his body shrugs off what kills every other human** — the fevers, the rot in a wound, the venom, the water that drops the slavers and the dead expedition alike. Wounds close in days. Plus a **relic-sigil he half-knows**. The truth surfaces in Book 2.
+**Driving goal:** Belonging. A stolen child the world keeps taking from. The monster-family gives him the first home and crown he has ever had; humanity (the slavers, who come back) baits that exact hunger and takes everything. The beast doesn't need anyone — that's the threat.
 
 ### The World
-- **The death-island:** vast, cold, black-volcanic, lethal — a place no human survives (Sothoryos-style dread), ruled by **humanoid monster peoples** (great-ape-like brutes, deep-one-like things, other wrong-made kin). Rook does NOT know humans aren't supposed to live here; his survival is quietly miraculous to the reader, not to him. These monster peoples are the clans Rook will unite in Book 2.
-- **The pirates:** humans hold smaller isles across the water (slaver-adjacent); they don't come to the death-island. Late in the book Rook crosses to them — first human contact since the slavers — and it ends in betrayal.
+- **The death-jungle:** vast, tropical, lethal — heat, rot, fever, venom, drowning green (Sothoryos-style dread), ruled by **humanoid monster peoples** (great-ape-like brutes, deep-one-like things from the mangrove tide, other wrong-made kin). Humans who land here die — of the fevers and poisons, not the teeth. Rook does NOT know humans aren't supposed to live here; his survival is quietly miraculous to the reader, not to him. These monster peoples are the clans Rook will unite in Book 2.
+- **The slavers:** humans hold smaller isles across the water (a slaving venture, slaver-adjacent). They don't usually touch the death-jungle. **Late in the book a slaving expedition LANDS on Rook's island** to harvest monsters and curiosities — and walks into the death he survived. First human contact since his own enslavement; it ends in betrayal. *(This rhymes with the dead expedition he finds in Part 2: living humans arrive where the last humans died.)*
 - **The Kala:** the monster who takes Rook in — his first family, love without words, across the species line. Her death is his forging wound (his "Eo").
+- **The girl (subverted Jane):** among the slavers is a young human — a **coerced captive/translator**, not a damsel — a *mirror of Rook's own enslavement*. She fills the D'Arnot role (reads his relic-sigil, teaches him human speech). **Light but load-bearing**; romance is a deferred ember for Book 2, not a Book-1 plotline. The monster-family, not she, is the heart.
 - **Rook's buried origin (do NOT reveal in Book 1):** before the slavers, his family was murdered/betrayed and he was fleeing; he was then enslaved and shipwrecked. He has only slaver-fragments and his mother's name (Rook, kept behind three missing teeth). The memory returns in Book 2.
 
-### PART ONE — THE SHORE (ch1-5): he is nothing; he survives.
-1. **Black Shore** — wakes alone; slaver-fragments; the mother's-name; warm stone; the two hungers. The faintest wrongness under the place.
-2. **Hunger Law** — survival; the two hungers; the fast-healing seed on the shelf of wrong things.
+### PART ONE — THE GREEN HELL (ch1-6): alone; he survives what should kill him.
+1. **The Shore** — wakes alone in tidal jungle; slaver-fragments; the mother's-name; the wet heat; the two hungers. The faintest wrongness under the place.
+2. **Hunger Law** — survival; the two hungers; the first fever he shrugs off when he should die (the fast-healing/immunity seed on the shelf of wrong things).
 3. **The First Fire** — fire as his first company.
-4. **The First Shelter** — the den; belonging-to-place.
-5. **First Blood** — first kill and first tools; then the island's first true wrongness — sign of something monstrous he reads as just a hard island.
+4. **The Rot and the Den** — shelter against rot, rain, and biting swarms; belonging-to-place.
+5. **First Blood** — first kill and first tools; then the jungle's first true wrongness — sign of something monstrous he reads as just a hard island.
+6. **The Wreck** — a dead older expedition: a broken ship, bones, journals, charts, a knife, a relic bearing a sigil. Every human here died of the fevers he doesn't feel. He takes the relics; meaning-before-speech begins; the sigil resonates from his drowned-deep memory. He doesn't grasp he is surviving what killed them.
 
-### PART TWO — THE DEAD AND THE WILD (ch6-10): the wreck, the relics, the apex.
-6. **The Wreck** — a dead older expedition: a broken ship, bones, journals, charts, a knife, a relic bearing a sigil. Humans were here; they all died. He doesn't grasp he is surviving what killed them.
-7. **Marks Before Words** — self-education from the relics (meaning before speech); the sigil resonates from his drowned-deep memory.
-8. **The Rival** — first brush with a monstrous apex; driven off, hurt; he is not the apex here.
-9. **The Long Hunt** — he hunts and kills the apex through cunning; learns the island belongs to the monsters.
-10. **The Wrong Silence** — mastery + he has lost his voice and cannot find his own name; king of nothing; in the silence the blood-warmth stirs.
+### PART TWO — TAKEN IN (ch7-12): the monster-people; recognition; the found family. (the heart begins early.)
+7. **The People** — first sight of a monster *people* — a tribe, young, a society. Terror and fascination.
+8. **Taken In** — a Kala monster takes him in / the tribe spares him: they *witnessed* him survive the fever-death, and his wrongness reads as omen or kin. The first being to choose him since his mother.
+9. **Among Them** — he learns their ways and tongue; voice and self return *through the family*; his first word since the silence (no romance — the heart is the family).
+10. **The Weaker, the Smarter** — weaker than the monsters, smarter; he earns his place by intelligence (tools, fire, the noose trick).
+11. **Marks and Meaning** — he self-educates further from the relics; the sigil mystery deepens; the tribe's seer/elder senses something old in his blood (unnamed).
+12. **Belonging** — the high-water mark of family; the only home he's ever had. (the engine, paid in full before it's torn away.)
 
-### PART THREE — THE TRIBE & THE KING (ch11-17): taken in → rises → king. (the heart.)
-11. **The People** — first sight of a monster *people* — a tribe, young, a society. Terror and fascination.
-12. **Taken In** — the Kala takes him in; the first being to choose him since his mother.
-13. **Among Them** — he learns their ways and tongue; voice and self return *through the family*; his first word since the silence (no girl, no romance — the heart is the family).
-14. **The Weaker, the Smarter** — weaker than the monsters, smarter; he earns his place by intelligence (tools, fire, the noose trick).
-15. **Standing** — he earns standing; the brutal monster-king marks him as a threat.
-16. **The Challenge** — open conflict with the king builds past retreat.
-17. **King of the Wild Things** — he defeats the king; becomes a kind of king; his first true home and family. The seer senses something old in him (unnamed).
+### PART THREE — KING OF THE WILD THINGS (ch13-17): rises → challenges the king → king.
+13. **Standing** — he earns standing; the brutal monster-king marks him as a threat.
+14. **The Apex** — a monstrous apex predator threatens the tribe; he is not the apex here, and must face it.
+15. **The Long Hunt** — he hunts and kills the apex through cunning and his wrongness (pain/venom tolerance); the island's law bends to him.
+16. **The Challenge** — open conflict with the monster-king builds past retreat.
+17. **King of the Wild Things** — he defeats the king; becomes a kind of king; his first true home and crown. The seer senses something old in him (unnamed).
 
-### PART FOUR — HIS OWN KIND (ch18-23): he reaches across the water.
-18. **The Far Isles** — he sees humans far across the water; the human-shaped hole the family cannot fill wakes hard.
-19. **The Crossing** — he dares the sea and crosses, leaving the family that made him king.
-20. **The Cove** — the pirate hangout; first human contact since the slavers; alien, magnetic, the slaver-memory rising.
-21. **The One Who Sees** — a figure (D'Arnot analog) draws him in, teaches him human speech, notices his relics.
-22. **The Sigil** — that figure reacts to the sigil: Rook is *something*, worth taking — truth withheld; word spreads; reveal deferred to Book 2.
-23. **The Baited Hunger** — the pirates show him welcome, the belonging humans never gave him; he leans in as the trap closes (dramatic irony).
+### PART FOUR — HIS OWN KIND (ch18-23): living humans land on the death-jungle.
+18. **Smoke on the Water** — ships; humans land where the dead expedition died. The human-shaped hole the family cannot fill wakes hard; he knows the island will eat them.
+19. **The Slavers' Camp** — a slaving expedition harvesting monsters and curiosities; first human contact since the slavers; alien, magnetic, the slaver-memory rising.
+20. **The One Who Sees** — the captive girl (D'Arnot/Jane subversion) draws him in, starts teaching him human speech, notices his relics; a mirror of his own enslavement.
+21. **The Sigil** — she and/or the slaver-captain reacts to the sigil: Rook is *something*, worth taking — truth withheld; word spreads; reveal deferred to Book 2.
+22. **The Baited Hunger** — the slavers show him welcome, the belonging humans never gave him; he leans in as the trap closes (dramatic irony).
+23. **The Two Hungers at War** — torn between the tribe (family) and the humans (his own kind); the girl-mirror complicates it; he is most human, and most exposed, here.
 
 ### PART FIVE — THE TRAP (ch24-28): caught because he cared → the pits.
-24. **The Bait** — the pirates seize the Kala as bait; Rook reads it for the trap it is.
+24. **The Bait** — the slavers seize the Kala as bait; Rook reads it for the trap it is.
 25. **He Goes Anyway** — he springs the trap knowingly to save her; brutal, human-limited fight; taken by numbers and chains, not fooled.
 26. **Property Again** — the Kala dies anyway (his Eo); chained; property again, ringing to the slave ship; what others sensed in him is what damned him.
-27. **The Hold** — hauled toward the pits as cargo (rings to the opening); he does not break — he begins to count; grief becomes fuel.
-28. **The Pit** — thrown into the pits; the buried heritage gives its first flicker; not despair but a vow. Cliffhanger → Book 2.
+27. **The Hold** — hauled toward the pits as cargo (rings to the opening; the girl-mirror also in the hold / freed / lost — a Book-2 thread); he does not break — he begins to count; grief becomes fuel.
+28. **The Pit** — thrown into the pits; the buried heritage gives its first flicker (the Red — blood, warmth — not ice); not despair but a vow. Cliffhanger → Book 2.
 
 ### BOOK ONE — WHAT IT DELIVERS
 - **Belonging engine:** the monster-family gives him the first home/crown he has ever had; humanity baits that hunger and takes it. Taken twice by his own kind.
 - **Tarzan bones, different blood:** survive → raised by the wild → king → his own kind → the choice.
 - **The Kala = his Eo:** the forging wound that powers the Red Rising climb of Books 2-3.
-- **Heritage as mystery:** the reader knows something is wrong/special; it is never named until Book 2.
+- **Heritage as mystery:** the reader knows something is wrong/special (he survives what kills everyone); it is never named until Book 2. Tropics keep the ice dormant — Book 1 is the Blood.
 - **Scale:** incredible on one monstrous island, nobody in the wider world knows or cares yet. Promise, not greatness.
 - **The cliffhanger:** caught because he cared; everything built gone; property again; the pit his next island; the climb begins.
 
@@ -352,7 +353,7 @@
 
 ### The Magic System
 - **Blood power (the Red):** ancient force of vitality, violence, healing, hunger. Parasitic/symbiotic. Chooses hosts under extreme physical stress. Hasn't found a compatible host in thousands of years because human hosts resist and break.
-- **Ice power (his family's line):** ancient force of cold, preservation, stillness. Hereditary. Dormant in the world's bloodlines as magic faded. Rook's family carried it without knowing.
+- **Ice power (his family's line):** ancient force of cold, preservation, stillness. Hereditary. Dormant in the world's bloodlines as magic faded. Rook's family carried it without knowing — a cold/northern line. **It stays fully dormant in Book 1's tropical south (no cold to answer) and surfaces only when the story reaches colder ground in Books 2-3.** In Book 1 his heritage shows only as blood/vitality: he survives the fevers, rot, and venom that kill every other human.
 - **The combination:** never existed. Ice and blood are opposing forces — one preserves, one consumes. Together they create something new: the ability to hold both stillness and hunger, preservation and change. This is why magic left the world — the two traditions warred and destroyed each other. Rook is the first to carry both.
 - **Magic returning:** the world has been slowly waking for centuries. Old sites, old blood, old forces. The Red waking in Rook is a symptom, not a cause. The ice following is the next step. The combination is the signal flare.
 
@@ -371,7 +372,8 @@ Rook is a stolen child. He was taken from family he can't remember — just hand
 ### The Girl — Yara
 
 - Fen-Kin. Old blood (ice resonance). The caller discipline works because her people carry the other half of the ancient tradition.
-- **Name:** Yara. (Old-blood Fen-Kin name; means nothing to Rook yet — he learns it as his first word in Ch14.)
+- **Book 1 introduction (revised):** in Book 1 she is **not** a Fen-Kin tribe member and not a romance. She enters late, **a human captive/translator brought by the slavers** — a mirror of Rook's own enslavement and the one who reads his relic-sigil (the D'Arnot role). His first word returns *through the monster-family* (Ch9), not through her. Whether this Book-1 girl IS Yara (and how she becomes the Fen-Kin caller of Books 2-3) is an **open thread to settle when planning Book 2** — she may be the same person re-met in the pit-world, or the Fen-Kin Yara may be her successor in the role.
+- **Name:** Yara. (Old-blood Fen-Kin name; means nothing to Rook yet.)
 - She is not a love interest in the romance sense. She is *recognition* — the first person who sees Rook as a person, not a beast or a myth or a weapon. The first person who *stayed*.
 - Her role evolves: believer (Book 1) → anchor (Book 2) → partner (Book 3). She is the thread of humanity that survives the beast transformation. She is what belonging looks like when the world keeps taking.
 - Potential lore: her bloodline and Rook's may be connected through the old ice tradition. Not necessarily romantically — ancestrally. Two branches of the same ancient tree.
@@ -382,7 +384,7 @@ Rook is a stolen child. He was taken from family he can't remember — just hand
 - The White Pit: natural chasm used for sacrifice/trial. Carries old resonance — possibly an old magic site that the tribes repurposed.
 
 ### What Survives from Existing Material
-- **Book 1:** Ch1-3 (Black Shore, Hunger Law, First Blood) can be heavily reworked/expanded. The voice work and lore seeds are good. The shore survival material is the right foundation.
+- **Book 1:** the existing 16 chapters are being rebuilt into the 28-ch tropical structure above. Reuse map: current ch1-5 → new ch1-5 (reskin cold→tropical: warm-stone-in-cold becomes cool-shade/water-in-heat; frost/cold seeds become fever/rot/venom seeds); current ch6-7 (rival/long hunt) → new ch14-15 (monster apex); current ch10-12 (watching/legend) → new ch7, 18; current ch13-14 (Yara dictionary/first word) → new ch9 (language returns through the tribe); current ch15-16 (net/capture) → new ch24-26. New prose: ch6 (wreck), ch8 (taken in), ch10-13, ch16-17, ch19-23, ch27-28. The voice work and lore seeds are good; the climate and the heritage tells need a pass.
 - **Book 2:** Ch8-20 material (White Pit, Red awakening, crown, first restraint, tribal introductions, blood snow, caller training) maps onto the new structure. Heavy restructure needed but core scenes survive.
 - **Book 3:** Ch21-36 material (systems, winter ledger, faction politics, live caller test, fracture) maps onto Book 3's consolidation arc. The political machinery and character relationships are reusable.
 - **Key difference:** the new structure separates what was crammed into one book into three, giving each arc room to breathe. The existing 36 chapters contain the raw material for all three books — they just need to be unbound from each other.
