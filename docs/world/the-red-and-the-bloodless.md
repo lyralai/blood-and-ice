@@ -27,11 +27,26 @@ off, a pulse that is not the heart, a certainty without words.
 
 **It is NOT:**
 
-- Ice or winter or weather. There is no ice-magic in this trilogy's magic system.
-  (See §8 for "the Cold" — which is the *absence* of blood, not a climate.)
+- The Ice. The Red is the *blood* half. Rook carries a **second, older inheritance —
+  the Ice (his family's other bloodline)** — but it is **dormant and a deliberate
+  mystery** (Blood + Ice, never before combined in one person). The tropical south has
+  no cold for it to answer; it is never named or explained, and surfaces only on
+  colder ground in Books 2–3. Do not confuse it with weather, with the still-place
+  temperament, or with the Cold/Bloodless (§8). See "The Ice — open mystery," below.
 - A clean superpower. It is gift and curse welded together (§4–5).
 - Anything anyone has correctly named. The peoples each call it something different
   and each is wrong in a different way (§7).
+
+### The Ice — open mystery (hold loosely)
+
+Rook's family carried **two** old bloodlines — **Blood (the Red)** and **Ice** —
+"never before combined." Book 1 shows only the Blood; the **Ice stays fully dormant**
+and is **never explained.** This is deliberate, and it is the trilogy's law for *all*
+the magic (GoT, not a rulebook): **show dread and effect, never mechanics.** Everything
+below — the stages, the ladder, the theories — is *author-facing working scaffolding*,
+not on-page truth, and the **Ice especially is left un-pinned for now:** its nature,
+its rules, and whether it relates to the Bloodless at all are open questions, answered
+later or never.
 
 ### The three unsolved theories (hold ALL, confirm NONE)
 
@@ -212,9 +227,11 @@ a locust's shell, emptied with no wound to mark the road the blood took and not 
 drop spilled. Where they turn their faces the air goes to frost; on warm seas men's
 breath smokes and the heat leans toward them the way water leans toward a drain.
 
-**"Cold" = the absence of blood, not winter.** This is original and absolute — there
-is no ice-magic, no snow as climate, no weather in them at all. The frost is the
-sign of life being pulled out, not of season.
+**"Cold" = the absence of blood, not winter.** The Bloodless are not weather and not
+season — their frost is the sign of life being pulled *out*. (This is distinct from
+Rook's own dormant **Ice** inheritance, a separate and deliberately unsolved mystery;
+whether the two are related at all is an open question held for Books 2–3 — do not
+answer it here.)
 
 - **Nature / dread register:** inexorable, patient, always coming — the
   It-Follows / Terminator engine. They do not hunt out of hunger like a shark. They
@@ -315,4 +332,4 @@ toward it.
   the monster. Keep the Bloodless = far-end-of-the-ladder link UNCONFIRMED on page.
 - **Coldness is armor, anchors are ballast.** The still place and the count let him
   wield it; belonging holds the rage; strip the anchors and the rage gets louder.
-- **"Cold" = absence of blood, not winter.** No ice-magic, no snow-climate, ever.
+- **The Bloodless "cold" = absence of blood, not winter** (not weather/season). Rook's own **Ice** is a separate dormant inheritance — pure mystery, un-pinned, never explained for now; its link to the Bloodless is left open.
