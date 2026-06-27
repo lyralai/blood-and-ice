@@ -1,54 +1,52 @@
-# Blood Under Ice
+# Ice and Blood
 
-An original dark fantasy epic about a feral northern boy, four island tribes, and the old blood-force that wakes when he is thrown into a sacrificial pit.
+An original dark-fantasy trilogy. **Book One — "Wild Boy"** follows a feral, enslaved
+boy wrecked alone on a tropical death-jungle that kills every human but him.
 
-> **Just want to read the current story?**  
-> **[→ BOOK-ONE.md](BOOK-ONE.md)** — Full current draft (36 chapters) in one clean, readable file optimized for GitHub.
-
-This repository is a human-reviewable story foundation and early Book One production package. It is not a finished novel. The purpose of this pass is to turn a raw autonomous draft dump into a clean, white-labeled original project that can support a long manuscript without collapsing into continuity drift.
+> **Just want to read the current story?**
+> **[→ BOOK-ONE.md](BOOK-ONE.md)** — Book One's chapter index (28 chapters + prologue),
+> linking the individual files in [`manuscript/book-one-wild-boy/`](manuscript/book-one-wild-boy/).
 
 ## Core Premise
 
-A fourteen-year-old boy survives alone on a black northern island where hunger is law and tribe is the only shelter. He has the blood of an old mainland people in him, though he does not understand what that means. The island's four tribes see him first as meat, then as leverage, then as an omen.
+A boy who has only ever been property wakes alone on **Saqarro**, a tropical
+death-jungle of heat, rot, fever, and venom, ruled by humanoid monster-peoples
+(Vorth / Mure / Skell). Humans who land here die of the fevers and poisons. He does
+not — and does not know why. The monsters take him in; he rises among them to a kind
+of king and finds the first family he has ever had.
 
-When tribal politics put him in a sacrificial pit, his wounds open a door in his blood. Something ancient answers.
+Then his own kind comes across the water — slavers, a blood-trade — and takes
+everything. Thrown into the pit at the bottom of their world, the old blood-force in
+his veins, **the Red**, stirs for the first time. Across the water, a colder thing
+that hunts his bloodline is already coming.
 
-The boy survives. The thing inside him does more than fight. It laughs, heals, remembers, hungers, and takes over when pain cuts deep enough. The most feared tribe on the island reads the survival as divine proof and begins following him.
+## The trilogy — *Ice and Blood*
 
-That is the beginning of the problem.
+- **Book 1 — Wild Boy** *(this book; draft complete & revised):* survival → taken in →
+  king of the wild things → the trap → the pit.
+- **Book 2 — the blood-city / the pits:** the Red-Rising-style rise from the bottom of
+  a blood-economy; the heritage reveal; uniting the bled.
+- **Book 3 — the Cold comes:** the Bloodless arrive; the blood-tithe fails.
 
-## Project Shape
-
-The long-term ambition is a large-scale first-person dark fantasy series, potentially 500k words across several books. The first deliverable is the foundation:
-
-- original premise and IP-clean setting
-- character and tribe bible
-- blood-and-ice magic rules
-- book one act structure
-- long-series roadmap
-- voice guide
-- opening manuscript sample
+The "Ice" of the title is **the Cold / the Bloodless** — the bloodless pole that hunts
+the blood-line — not a climate. It is introduced in the prologue and pays off across
+the books.
 
 ## Repository Map
 
-- `BOOK-ONE.md` — **Best place to read the current draft** (concatenated, GitHub-friendly)
-- `docs/pitch.md` - concise creative pitch and reviewer framing
-- `docs/source-transform.md` - how the old source was converted into an original project
-- `docs/world/four-tribes.md` - the island power structure
-- `docs/world/blood-and-ice-magic.md` - rules, costs, and limits
-- `docs/characters/protagonist.md` - main character bible
-- `docs/characters/tribal-leaders.md` - political cast
-- `docs/story/book-one-outline.md` - full first-book structure
-- `docs/story/book-one-production-plan.md` - chapter-packet drafting plan
-- `docs/style/voice-guide.md` - original prose and POV rules
-- `docs/continuity/` - timeline, names, cost ledger, banned-term checklist, and next-scene queue
-- `manuscript/book-one/` - split chapter files (for editing)
+- `BOOK-ONE.md` — **Book One chapter index** (start here to read)
+- `manuscript/book-one-wild-boy/` — the canonical Book One manuscript (ch00–ch28)
+- `docs/story/series-outline-3book.md` — the trilogy spine + the mythology
+- `docs/world/` — world & magic bible *(being reconciled to the tropical/blood canon)*
+- `docs/characters/` — character bible
+- `docs/style/voice-standard.md` — prose & POV rules
+- `docs/continuity/` — timeline, names, ledgers, checklists
+- `archive/blood-under-ice-frozen/` — the **superseded frozen draft** (kept as a design
+  quarry for Books 2–3; not current canon — see its `ARCHIVE-NOTE.md`)
 
-## Current Manuscript Status
+## Status
 
-**36 chapters** written (up to Chapter 36: "The Road's Due").
-
-Packet 6 (Winter Ledger / ch33-36) is complete.  
-Next: Peak crisis packet (Chapters 37–38).
-
-See [BOOK-ONE.md](BOOK-ONE.md) to read the story, and [docs/continuity/next-scene-queue.md](docs/continuity/next-scene-queue.md) for the detailed current plan and status.
+**Book One: 28 chapters + prologue (~100k words), draft complete and revised.** The
+project was re-architected from an earlier frozen-island draft ("Blood Under Ice") to
+the tropical *Ice and Blood*; the frozen draft is archived and mined forward for the
+political and structural material of Books 2–3.

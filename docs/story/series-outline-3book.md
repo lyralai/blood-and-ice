@@ -383,15 +383,15 @@ Rook is a stolen child. He was taken from family he can't remember — just hand
 - Potential lore: her bloodline and Rook's may be connected through the old ice tradition. Not necessarily romantically — ancestrally. Two branches of the same ancient tree.
 
 ### The Island
-- The Blackjaw Isles. Hostile, cold, volcanic black rock. Four major tribes: Khar Vane (war), Salt Veyr (trade), Fen-Kin (old blood), Hollow Antler (spiritual).
-- The island is isolated by ice and current. But the world beyond exists — a mainland where magic once walked and is now returning.
-- The White Pit: natural chasm used for sacrifice/trial. Carries old resonance — possibly an old magic site that the tribes repurposed.
+- **Saqarro** — a vast tropical death-jungle (heat, rot, fever, venom, drowning green), ruled by humanoid monster-peoples (**Vorth / Mure / Skell**). Humans who land here die of the fevers and poisons; Rook does not, and does not know why. The world beyond is across the water (the slaver isles; the blood-trade).
+- *(The frozen "Blackjaw Isles / White Pit / four-tribes" conception is retired for Book 1 and archived; its political machine is mined forward into Book 2's blood-city — see below.)*
+- The "Ice" of the series is **no longer the climate** — it is **the Cold / the Bloodless**, the bloodless pole that hunts the blood-line (prologue + Books 2–3).
 
-### What Survives from Existing Material
-- **Book 1:** the existing 16 chapters are being rebuilt into the 28-ch tropical structure above. Reuse map: current ch1-5 → new ch1-5 (reskin cold→tropical: warm-stone-in-cold becomes cool-shade/water-in-heat; frost/cold seeds become fever/rot/venom seeds); current ch6-7 (rival/long hunt) → new ch14-15 (monster apex); current ch10-12 (watching/legend) → new ch7, 18; current ch13-14 (Yara dictionary/first word) → new ch9 (language returns through the tribe); current ch15-16 (net/capture) → new ch24-26. New prose: ch6 (wreck), ch8 (taken in), ch10-13, ch16-17, ch19-23, ch27-28. The voice work and lore seeds are good; the climate and the heritage tells need a pass.
-- **Book 2:** Ch8-20 material (White Pit, Red awakening, crown, first restraint, tribal introductions, blood snow, caller training) maps onto the new structure. Heavy restructure needed but core scenes survive.
-- **Book 3:** Ch21-36 material (systems, winter ledger, faction politics, live caller test, fracture) maps onto Book 3's consolidation arc. The political machinery and character relationships are reusable.
-- **Key difference:** the new structure separates what was crammed into one book into three, giving each arc room to breathe. The existing 36 chapters contain the raw material for all three books — they just need to be unbound from each other.
+### What Survives from Existing Material  *(Option 3 — Wild Boy promoted; frozen draft mined forward)*
+- **Book 1 = "Wild Boy"** (`manuscript/book-one-wild-boy/`): the tropical 28-ch + prologue draft is **complete and revised — this IS Book 1.** The frozen 36-ch draft is **archived** at `archive/blood-under-ice-frozen/` as a design quarry (not current canon).
+- **Book 2 (the blood-city / the pits):** built from the archived draft's Part 3–4 material (White Pit → blood-arena; the four-tribe political machine → blood-city factions; the Red awakening, the crown, the first-restraint) converted to tropical/blood canon, plus the design doc's blood-economy reframe.
+- **Book 3 (the Cold comes):** the archived Part 5–6 systems / ledger / faction material → Book 3's consolidation arc, against the Bloodless threat and the failing blood-tithe.
+- **Key difference:** the old draft crammed Books 1–2 into one frozen volume; the tropical rebuild gives each arc room and re-poles "Ice" as the Cold. The archived 36 chapters remain the raw design material for Books 2–3.
 
 ---
 
