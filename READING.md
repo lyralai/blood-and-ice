@@ -1,65 +1,38 @@
-# Blood Under Ice — Best Way to Read the Current Draft
+# Ice and Blood — How to Read Book One
 
-**Project:** Blood Under Ice (Book One)  
-**Current status:** 36 chapters written (up to "The Road's Due")
+**Project:** *Ice and Blood* (trilogy) — **Book One: "Wild Boy"**
+**Status:** 28 chapters + prologue (~100k words), draft complete and revised.
 
-## Recommended Reading Method (Easiest)
+## Read it
 
-**Use the single combined file:**
+Start with the chapter index:
 
-```bash
-cd /home/alex/.openclaw/workspace/blood-and-ice
+- **[BOOK-ONE.md](BOOK-ONE.md)** — linked table of contents for all 28 chapters + the prologue.
 
-# Best experience in terminal
-less reading-versions/current-draft-full.md
+Chapters are individual files in **[`manuscript/book-one-wild-boy/`](manuscript/book-one-wild-boy/)**,
+first-person present, ~3.5k words each, named `ch00-prologue.md` … `ch28-the-pit.md`
+(prologue first, then in order).
 
-# Or open in your editor
-code reading-versions/current-draft-full.md
-# or
-vim reading-versions/current-draft-full.md
-```
+## Context first (optional)
 
-**Why this is best:**
-- Everything in one file (no jumping between folders)
-- Clean "Chapter X: Title" headings
-- Easy to search (`/Chapter 29` or `/Rook` etc.)
-- 286 KB — comfortable to scroll/search
+1. `README.md` — project overview and the trilogy shape
+2. `docs/story/series-outline-3book.md` — the trilogy spine + the mythology (the Red, the Bloodless, the hunted bloodline)
+3. `docs/style/voice-standard.md` — how the prose is meant to feel
 
-## Reading Order (Context First)
-
-1. `README.md` — quick project overview
-2. `docs/story/book-one-outline.md` — full planned structure
-3. **`reading-versions/current-draft-full.md`** — the actual story (start here for prose)
-4. `docs/continuity/next-scene-queue.md` — **very important** — tells you current frontier, what's been done, and exactly what's coming next (ch37-38 peak crisis)
-5. `docs/style/voice-guide.md` — how the prose is supposed to feel
-
-## Alternative: Browse by Parts (if you prefer folders)
+## Structure (Book One)
 
 ```
-manuscript/book-one/
-├── part-01-wild-boy/           (ch 1-3)
-├── part-02-four-tribes/        (ch 4-7)
-├── part-03-white-pit/          (ch 8-10)
-├── part-04-blood-crown/        (ch 11-20)
-├── part-05-after-crown/        (ch 21-24)
-└── part-06-fracture-and-system/ (ch 25-36)   ← current work
+manuscript/book-one-wild-boy/
+├── ch00-prologue.md                 Slack Water (the Cold / the Bloodless)
+├── Part One — The Green Hell        ch01–06
+├── Part Two — Taken In              ch07–12
+├── Part Three — King of the Wild    ch13–17
+├── Part Four — His Own Kind         ch18–23
+└── Part Five — The Trap             ch24–28
 ```
 
-## Quick Navigation Tips
+## Note
 
-In `less`:
-- `/Chapter 20` → jump to chapter
-- `G` → go to end
-- `?word` → search backwards
-- `q` → quit
-
-In most editors: search for `## Chapter 29`
-
-## Quick Status (as of 2026-06-17)
-
-- Packet 6 (ch33-36, "Winter Ledger") is complete
-- Next major work: ch37-38 (live public wrapped-spear caller test under crisis)
-- Book One target: ~40-42 chapters total
-- Ends with first external/mainland signal as cliffhanger
-
-See `docs/continuity/next-scene-queue.md` for the detailed current plan.
+The earlier frozen-island draft ("Blood Under Ice") is archived at
+`archive/blood-under-ice-frozen/` and is **not** current canon — it is retained as a
+design quarry for Books 2–3.

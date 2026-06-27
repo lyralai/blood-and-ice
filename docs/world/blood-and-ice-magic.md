@@ -1,3 +1,7 @@
+> **[SUPERSEDED — FROZEN MAGIC DOC.]** This file is the old ice/blood-god magic
+> design and is NO LONGER CANON. It is replaced by `docs/world/the-red-and-the-bloodless.md`.
+> Retained un-edited as a Book 2–3 quarry (cold-line / pit-ritual / vessel material to mine later).
+
 # Blood And Ice Magic
 
 The magic in this project should feel old, bodily, expensive, and partially misunderstood. No one should be able to give a clean lecture that explains all of it.

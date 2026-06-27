@@ -1,3 +1,7 @@
+> **DEPRECATED — SUPERSEDED FROZEN WORLD DOC.** This frozen/cold Blackjaw-Isles draft is retired from Book 1.
+> Replaced by `docs/world/saqarro-and-the-peoples.md` (the tropical Saqarro canon) as the single source of truth for Book 1.
+> Retained only as a Book 2–3 quarry — its political-machine/faction logic is carried forward into the blood-city factions (see that doc, §8).
+
 # The Four Tribes Of The Blackjaw Isles
 
 The Blackjaw Isles do not have one people. They have four major tribal powers, each adapted to a different survival strategy. Book one works only if each tribe has a rational reason to exist, fight, bargain, and misread Rook.
