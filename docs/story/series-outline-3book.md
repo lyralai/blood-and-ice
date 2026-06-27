@@ -1,4 +1,4 @@
-# Blood Under Ice — Three-Book Series Outline
+# Ice and Blood — Three-Book Series Outline
 
 **Last updated:** 2026-06-25  
 **Status:** Scaffolding (good enough to write from, not locked stone)  
@@ -78,154 +78,13 @@
 
 ---
 
-## BOOK TWO: THE RED
+## BOOK TWO: THE RED AND THE BLED
 
-**Premise:** The pits make beasts of men. Rook is already halfway there. The Red finishes the job — but Yara planted something the pits can't kill.  
-**Target length:** ~80-100k words  
-**The Red:** Awakens. Rook is the first host in thousands of years because he's already crossed over — there's no wall between boy and beast for the Red to hit. It flows in through the gap.  
-**Arc:** Captive → the Red wakes → beast vs boy → the crown → the war for the island → the thing he becomes.  
-**Timeline:** Rook is ~13-14. Spans months to a year.
+**Premise:** Dropped to the bottom of a city built on blood, the wrong-blooded boy who would not die finds the one place on earth where his blood finally *wakes* — and learns, with his murdered family's memory pouring back through it, that he is the thing the whole vertical machine is built to harvest, the thing its enemy is built to hunt, and the only thing that can hold both off. He climbs from the bled at the bottom toward the blood-courts at the top, turning the city's appetite into law one debt at a time — while the Red learns to wear him, the four factions (arena-masters, blood-brokers, the Temple-of-the-Red, the blood-keeper houses) each make a different weapon of his blood, and out past the walls the Cold the tithe was built to hold begins, for the first time in living memory, to come. The frozen four-tribe political machine is converted into blood-city factions; the crown-with-terms / first-restraint mechanic becomes the leash on his power; the corruption ladder is the cost (every use of the Red is a step toward becoming the Bloodless); *unite the clans* becomes *unite the bled*; the horror shifts from cannibal-hunger to the cold logic of ruling by the count — the Red learning administration. Marrow is the band already two and the human anchor; Voss-Marr is the distant nemesis holding the broken Vorth back on Saqarro; Yara is the deferred ember and the clean name for the Eye-and-Thorn; the Red is kept UNSOLVED. Ends on the failing tithe and the Cold at the walls → Book 3.
 
----
+**Target length:** ~95–110k words (~31 chapters, five parts). **POV:** Rook, first-person present. **Timeline:** Rook ~13–14, months to a year.
 
-### ACT ONE: THE PITS (~30%, ch1-6)
-
-*The beast goes deeper. The boy fights to stay.*
-
-#### Chapter 1: Meat
-- Khar Vane camp. Rook in a cage. They treat him as omen, hostage, and prospective sacrifice all at once.
-- The Khar Vane worldview: strength is divine. Survival of the pit = proof of godhood. They've been waiting for a sign. He's it.
-- Dremm: the believer. Dangerous devotion. Sees Rook as a messiah.
-- Solek: the lawkeeper. Even miracles must obey law. Rook is property until the pit decides.
-- **Voice note:** Sensory overload after the silence of Book 1. Too many sounds, smells, faces. Rook reverts to animal-thinking under stress. The prose tightens.
-
-#### Chapter 2: The White Pit
-- The sacrifice rite. Rook is thrown into the White Pit — a natural chasm used for trials.
-- Below: cold, dark, injury. He's hurt. He bleeds.
-- The blood opens a door. Something ancient in his blood — something that has been waiting, dormant, patient — answers.
-- The Red doesn't erupt. It *seeps*. Warmth in the cold. A pulse that isn't his heartbeat. A feeling like recognition.
-- **Lore seed:** The Red is blood power. His family carried ice power — the cold resistance, the warmth in winter, the frost that bends away. The Red is the other half. Neither has found a host in millennia. Both waking in the same body is unprecedented.
-- **Voice note:** The awakening should feel like the whole book holding its breath. Not explosive. Inevitable. Like something clicking into place.
-
-#### Chapter 3: The Thing That Survived
-- Rook climbs out of the pit. He should be dead. He's not. He's more.
-- The Red is loose — not controlling, not speaking yet, but *present*. Healing. Enhancing. Hungry.
-- Khar Vane sees survival as divine proof. Dremm falls. The war tribe begins to follow him.
-- Rook's first experience of the Red: it's not a voice. It's a pull. Toward violence, toward hunger, toward the beast side he already cultivated on the island.
-- **Voice note:** The feral prose from Book 1 returns but *wrong* — layered with something underneath. Two pulses. Two hungers.
-
-#### Chapter 4: The First Restraint
-- Rook has a chance to kill someone who deserves it. The Red wants it. The beast in him wants it.
-- He stops. Not because he's good — because Yara's voice is in his head. A word. A name. The memory of being seen.
-- The restraint costs him. Dremm sees it as betrayal. Some followers lose faith.
-- **Voice note:** The first time the Red and the boy are in conflict. The prose should feel like two hands pulling in different directions.
-
-#### Chapter 5: The Other Tribes
-- Word spreads. The wild boy who survived the pit. The four tribes must respond.
-- Salt Veyr (traders/logistics): see opportunity. Bargain, don't fight.
-- Fen-Kin (old blood): recognize something. They have old stories about the Red. Asha, Cairn — the ones who will become the check on Rook's power.
-- Hollow Antler (spiritual): Vessa sees pollution, not divinity. Begins plotting containment.
-- **Voice note:** Political complexity enters. But Rook processes it through predator logic — alliances, threats, territory, hierarchy. He's not a politician. He's an animal learning to wear a crown.
-
-#### Chapter 6: The Crown That Bites
-- Khar Vane crowns Rook under constrained law. He's a boy-king with a monster inside him.
-- The central term: the Red is not king. Fen-Kin becomes the check — the caller discipline, old blood that can pull him back.
-- The crown is a new kind of cage. Followers, expectations, law. Everything he escaped on the island, returning in a different shape.
-- **End of Act 1:** He has power. He has followers. He has a leash. And the Red is learning from every restraint.
-
----
-
-### ACT TWO: THE WAR (~40%, ch7-12)
-
-*The beast learns. The boy fights. The island bleeds.*
-
-#### Chapter 7: Blood Snow
-- First major tribal conflict. Not a duel — a battle. Khar Vane's new confidence + Rook's myth vs. a rival coalition.
-- Rook plans using island skills (terrain, weather, predator logic) enhanced by the Red (strength, healing, fear aura).
-- The Red surges in combat. Rook loses control briefly. People die who didn't need to. The cost of the beast.
-- **Voice note:** Combat prose. Visceral. The Red in action for the first time — not whispering, roaring.
-
-#### Chapter 8: The Caller
-- Fen-Kin caller discipline established. Asha (or Cairn) trains Rook in the wrapped-spear technique — name repetition, physical anchors, the old blood counter to the Red.
-- The Red hates it. But it learns. Every training session teaches it the caller's rhythm.
-- Asha names the risk: "Training the thing is teaching it how to wear the crown."
-- **Lore seed:** The wrapped spear carries ice-power resonance — old Fen-Kin blood, cold techniques that predate the tribes. The call works because ice and blood are related forces. Neither side has recognized this yet.
-
-#### Chapter 9: The Fractures
-- Internal politics. Dremm's faction (restraint = weakness). Vessa's containment plots. Salt Veyr's leverage.
-- Rook navigates through systems — counting, debt, law. He's bad at it. The beast doesn't do paperwork. But the boy learns.
-- The girl: she's there, in the Fen-Kin camp. Their relationship is complicated — he's not the ghost on the rocks anymore. He's a crown. A weapon. A danger.
-- **Voice note:** Political complexity, but filtered through Rook's feral lens. He reads power dynamics like predator hierarchy.
-
-#### Chapter 10: The Learning Thing
-- The Red becomes articulate. Not just hunger and pull — it starts thinking. Offering solutions. Strategic violence wrapped in the boy's own logic.
-- Rook realizes the Red is learning from every restraint, every political move, every tool he builds to contain it. The leash is becoming a door.
-- Internal: the first real conversation between Rook and the Red. Not words — feelings, images, impulses. But coherent.
-- **Voice note:** Two voices in one body. The prose needs to distinguish them without gimmicks. The Red is warmer, hungrier, more certain. Rook is colder, more careful, more afraid.
-
-#### Chapter 11: The Pits Again
-- Khar Vane's fighting pits — the ongoing institution. Rook is forced to participate or send others.
-- The pits are the thematic mirror of Book 1's island: a place that turns boys into beasts. But this time it's deliberate, human cruelty, not indifferent nature.
-- Rook in the pits: the Red is strongest here. Violence feeds it. The boy loses ground.
-- **Voice note:** This is where Book 2 earns its name. The pits should be brutal, dehumanizing, and thematically dense.
-
-#### Chapter 12: Yara in the Wreckage
-- The girl makes contact. Real contact — not offerings on rocks, but a conversation. A choice.
-- She sees what the Red is doing to him. She names it. She's not afraid of the beast — she's afraid of what the beast will leave.
-- The thread of humanity: she pulls. The Red pushes. Rook is between them.
-- **Voice note:** Intimate. Quiet in the middle of noise. Two people who met as ghost and believer, now as monster and anchor.
-- **End of Act 2:** The Red is winning. The pits are working. The boy is losing ground. But Yara planted something and it won't die.
-
----
-
-### ACT THREE: THE BREAKING POINT (~30%, ch13-18)
-
-*Will the beast or the boy win?*
-
-#### Chapter 13: Vessa's Knife
-- Hollow Antler makes its move. Containment rite, political fragmentation, or a direct challenge.
-- Rook must respond with crown power or Fen-Kin discipline. The Red offers the easy answer. The boy fights for the hard one.
-- **Voice note:** Escalation. The political and the personal merge.
-
-#### Chapter 14: The Live Call
-- The caller discipline is tested for real. Red-state surge. Asha/Fen-Kin must call him back under the crown term (Fen may call him back; if he does not return, bind or kill).
-- The Red weaponizes the call — turns the discipline back, offers strategic bargains, uses the boy's own tools.
-- Rook holds. Barely. The return carries visible costs — physical, relational, political.
-- **Voice note:** The climax of the Red vs boy tension. The prose should feel like a body tearing itself apart.
-
-#### Chapter 15: The Fracture
-- The cost lands. Someone breaks — Naim (a Hollow Antler ally who's been doubting), Dremm (the believer who feels betrayed), or Yara (who sees how close it came).
-- The fracture is paid publicly. Witnesses. Consequences.
-- **Voice note:** Quiet after the storm. The damage assessment.
-
-#### Chapter 16: The Reckoning
-- Rook confronts what he's become. Not the ghost on the rocks. Not the boy from the ship. Not the king. The beast — with a boy still alive inside, refusing to die.
-- The Red settles. Not defeated — accepted. The boy didn't win. The beast didn't win. They both survived.
-- **Voice note:** Thematic resolution of Book 2's central question. He is the beast — but the boy isn't dead. The tension doesn't resolve. It escalates into Book 3.
-
-#### Chapter 17: The Island Remade
-- Political aftermath. The order holds — barely — through living debt, Fen check, Salt logistics. Not through myth.
-- Rook has followers, enemies, a crown, and a monster that lives inside his bones.
-- The girl: still there. Still the thread. But changed — she's not just a believer anymore. She's the person who decided to stay.
-- **Voice note:** Worldbuilding. The political map after the war.
-
-#### Chapter 18: The Signal
-- The first external signal. A runner, a token, a rumor from the mainland. Someone has heard of "the pit that answers with laughter" or "the blood that woke on the black isles."
-- The island is no longer isolated. The world is coming.
-- **Cliffhanger:** Rook holds the island. The Red is part of him. The world knows he exists. And the cold — his family's cold — is stirring in his blood alongside the Red.
-- **End of Book 2:** He is the beast. But the boy isn't dead. And the world is waking up to what he is.
-
----
-
-### BOOK TWO — WHAT IT DELIVERS
-
-- **The Red awakens:** earned by Book 1's beast transformation, not random
-- **The pits:** thematic mirror of Book 1's island — deliberate cruelty vs indifferent nature
-- **Beast vs boy:** the central tension, paid in full
-- **Political complexity:** crown, tribes, systems — but filtered through Rook's feral lens
-- **The girl:** from believer to anchor to partner (not romance — recognition deepening)
-- **The beast ascendant:** the crown held by power and fear, the boy a thread the pits can't kill
-- **The hook:** the world beyond the island is waking up
+**Full chapter-level outline — faction map, mythology payoffs, cast arcs, and the Book-2 → Book-3 handoff:** see **[`book-two-outline.md`](book-two-outline.md)**.
 
 ---
 
