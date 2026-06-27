@@ -8,27 +8,27 @@ Thirst I can answer. The seep is ten steps and a crawl, and the crawl I can pay.
 
 ---
 
-The hunger starts on the second low, and it does not start in the belly. It starts in the head. A fog. My thoughts are few to begin with — the hurt sees to that, and the long habit of a boy who learned young that thinking too much in a cage only gives the hands more to take — but the fog thins what little there is to almost nothing. It comes up soft the way the vapor comes off the swamp at the low of the light, a thing with no edge to it that is suddenly everywhere. Each crawl to the seep is longer than the last. The rock blurs at its edges, and I stop halfway and put my cheek to the stone and wait for the world to firm up before I trust my hands to find the water.
+The hunger starts on the second low, and it does not start in the belly. It starts in the head. A fog. My thoughts are few to begin with — the hurt sees to that, and the long habit of a boy who learned young that thinking too much in a cage only gives the hands more to take — but the fog thins what little there is to almost nothing. It comes up soft, like vapor off the swamp at the low of the light, a thing with no edge to it that is suddenly everywhere. Each crawl to the seep is longer than the last. The rock blurs at its edges, and I stop halfway and put my cheek to the stone and wait for the world to firm up before I trust my hands to find the water.
 
-By the third low the fog is everything. That should frighten me. Some old true part of me knows it should. But the fog eats fear along with the rest, the same way it eats the edges of the rock, and far down under the soft green of it, the small still part of me that listens knows that too, and pulls.
+By the third low the fog is everything. That should frighten me. Some old true part of me knows it should. But the fog eats fear along with the rest. It eats it the same as it eats the edges of the rock. And far down under the soft green of it, the small still part of me that listens knows that too, and pulls.
 
 ---
 
 There are two hungers in me, and I am slow to learn they are not one.
 
-One is for meat. That one I know. It sits where hunger is supposed to sit, low and plain, a wringing under the ribs, and it speaks the old language the body has always spoken, the language of *eat or end*. I have carried it my whole life. In the cage it was the weather. You did not fight it. You bent under it and waited for the slop that came or didn't. The near mouth.
+One is for meat. That one I know. It sits where hunger is supposed to sit, low and plain, a wringing under the ribs, and it speaks the old language the body has always spoken, the language of *eat or end*. I have carried it my whole life. In the cage it was the weather. You did not fight it. You bent under it and waited for the slop that came or didn't. Call it the near mouth.
 
-The other has no belly to sit in. I go looking for it with the inside of myself, the way the tongue goes looking for the gap where a tooth was, and cannot find where it lives, because it does not live anywhere a hand could point to. It wakes when there is nothing breathing near me — no voice, no body close enough in the dark that I can feel the life come off it. In the cage that one was always full, and I never knew it for a hunger because I never once felt its floor. There were always bodies, the breath of the others going up in the dark. There was even the cruelty, and the cruelty was a kind of feeding too — the hands that hurt me at least knew the shape of me, at least kept the count of me. A thing that is hurt is a thing that is seen. You do not know the floor is there until it is gone and you are still falling.
+The other has no belly to sit in. I go looking for it with the inside of myself, like a tongue going after the gap where a tooth was, and cannot find where it lives, because it does not live anywhere a hand could point to. It wakes when there is nothing breathing near me. No voice. No body close enough in the dark that I can feel the life come off it. In the cage that one was always full, and I never knew it for a hunger because I never once felt its floor. There were always bodies, the breath of the others going up in the dark. There was even the cruelty, and the cruelty was a kind of feeding too — the hands that hurt me at least knew the shape of me, at least kept the count of me. A thing that is hurt is a thing that is seen. You do not know the floor is there until it is gone and you are still falling.
 
-Here there is no one to fill it. It opens in me like a second mouth, low under the first, and it does not close, it will not close. The near mouth I can maybe answer — there is meat in this green, if I can get to it. But the far one — there is nothing in all this drowning green that it eats, and it is the one that takes a man last, and surest, long after the belly has made its peace.
+Here there is no one to fill it. It opens low under the first and does not close. It will not close. The near one I can maybe answer — there is meat in this green, if I can get to it. The far one is harder. Nothing in all this drowning green is what it eats, and it is the one that takes a man last and surest, long after the belly has made its peace.
 
-I pull myself out of the crack. One mouth at a time. The near one first. The far one I carry, because there is no setting it down.
+I pull myself out of the crack. One at a time. The near one first. The far one I carry, because there is no setting it down.
 
 ---
 
 The green has things in it. The eyes took them in across three lows and filed them behind the fog. The hunger makes me look. The hunger is a good teacher. It does not tell me to hide; it tells me to *hunt*, and the body wakes to that older word and leans toward it.
 
-Below the rock the land falls away into standing water, black-green and warm as blood, hung over with vine and the great flat leaves that hold the rain in cups. Things move in it. The water shivers where it should be still. Life crowds the low places the way it crowded the cage — too much of it, packed in, eating each other for want of anywhere else to go.
+Below the rock the land falls away into standing water, black-green and warm as blood, hung over with vine and the great flat leaves that hold the rain in cups. Things move in it. The water shivers where it should be still. Life crowds the low places like it crowded the cage. Too much of it, packed in, eating each other for want of anywhere else to go.
 
 I take a fish with my hands. It costs an hour. I lie on the warm mud at the lip of a root-pool with my arm in the water to the elbow and go still. The hunger makes me patient. I wait until my arm has stopped being mine, until it is only a thing the fish have forgotten to fear. When a pale shape drifts close — a clear fish, near no color at all, only a shadow and a moving — I drive my hand down and shut my fingers and hold, though it thrashes and my whole grip begs to spring open and let the small wet life go.
 
@@ -50,19 +50,19 @@ The dark comes up and takes me before the fever can finish.
 
 I wake.
 
-That is the first wrong thing, and it is a long while before I have head enough to know it for wrong. The light has gone and come again — a whole turning passed while I lay in the mud at the pool's edge with the swamp breathing its rot over me. I am alive. The heat has gone out of me, faster than it came, the way water goes out of a cupped hand, and it has left no mark but the weakness, and the weakness is only hunger in the fever's coat.
+That is the first wrong thing, and it is a long while before I have head enough to know it for wrong. The light has gone and come again — a whole turning passed while I lay in the mud at the pool's edge with the swamp breathing its rot over me. I am alive. The heat has gone out of me, faster than it came, like water out of a cupped hand, and it has left no mark but the weakness, and the weakness is only hunger in the fever's coat.
 
 I take the count the way the body takes it, not in the head first but in the gut and then the head. The belly is wrung out but quiet, the wrongness clean out of it. Whatever climbed out of the fish into my blood and lit the fever is gone, and it took none of me with it.
 
 That is not how the fever goes. I have *seen* how the fever goes. It does not come up in a night and burn out in a night and leave the body whole. It takes a man down a stair at a time, and at the bottom is the going, and most who start down do not climb back. I started down. I felt my foot on the first stair. And here I am at the top again, hollow and shaking but whole, the green still breathing its poison over me and none of it left in me.
 
-The small listening thing in me wakes and pulls at the back of everything, and I do not let it. There is no using it now. Now I need to eat, and I cannot eat the thing that put the fever in me, so I will learn what else this green holds. *The green poisons what is easy to catch. What it lets you take, it takes back another way.*
+The small listening thing in me wakes and pulls at the back of everything. *Why am I still here. Why did it let me up.* I reach for the why of it and my hands close on fog — there is no head in me yet to hold a question that big, only the hollow and the shaking and the green pressing down. The why will have to wait on a body that can stand. Now I need to eat, and I cannot eat the thing that put the fever in me, so I will learn what else this green holds. *The green poisons what is easy to catch. What it lets you take, it takes back another way.*
 
 ---
 
 So I watch the birds.
 
-There are birds in the green — bright, loud, quick, dropping out of the canopy to the water and picking and choosing. I am too weak to do much but watch, so I watch hard, the way I once learned to watch the hands, for what they reach toward and what they leave. They tear at the soft fruit that hangs low and split. They snap up the bright frogs from the broad leaves. They will not touch the clear fish. Not one. They drop beside one drifting plain in the shallows and look at it with one flat eye and leave it, every time. And they keep well clear of the deep still pools where the water sits black and gives off a rot-breath even my fog-dulled nose can find, off water that has forgotten how to move.
+There are birds in the green — bright, loud, quick, dropping out of the canopy to the water and picking and choosing. I am too weak to do much but watch, so I watch hard. I watch them like I once learned to watch the hands, for what they reach toward and what they leave. They tear at the soft fruit that hangs low and split. They snap up the bright frogs from the broad leaves. They will not touch the clear fish. Not one. They drop beside one drifting plain in the shallows and look at it with one flat eye and leave it, every time. And they keep well clear of the deep still pools where the water sits black and gives off a rot-breath even my fog-dulled nose can find, off water that has forgotten how to move.
 
 I do what the birds do.
 
@@ -72,13 +72,13 @@ The soft fruit is sweet going down and stays down. The dull brown frogs stay dow
 
 The water teaches me next, and the water is a harder master than the birds and a fairer one.
 
-There is a rise and a fall in this drowned green, slow, under the day. The far edge of it runs down to where the swamp meets the salt, and there the tide breathes in and out the way the sea breathed once — the only thing in all this world I came knowing. When the salt-water draws back, the low places off the channels are bared, and the things that lived there are caught in the mud until the water comes again.
+There is a rise and a fall in this drowned green, slow, under the day. The far edge of it runs down to where the swamp meets the salt, and there the tide breathes in and out like the sea breathed once — the only thing in all this world I came knowing. When the salt-water draws back, the low places off the channels are bared, and the things that lived there are caught in the mud until the water comes again.
 
 I learn the breath of it. Not by counting — the numbers were never mine — but by the body, the only book I can read here. The look of the light laid on the water. The turn of the smell when the salt is about to change its mind. A falling-off in the steady drip of the green that means the going-out has begun.
 
-Low water is when I eat. I learn to be at the bared mud when it shows, hand already wet, ready. The rest of the time I bank what little strength I have in the crack, the way I once saw a man in the cage hoard a crust against a hunger he knew was coming — because he had learned the cost of being caught with nothing.
+Low water is when I eat. I learn to be at the bared mud when it shows, hand already wet, ready. The rest of the time I bank what little strength I have in the crack. I once saw a man in the cage hoard a crust against a hunger he knew was coming. He had learned the cost of being caught with nothing. So have I.
 
-The best low places are the farthest out, the ones the water bares only on the lowest of the lows. Those hold bigger things. Slow crabs, heavy and dark, that I take two and three before they wake to me. And a fat tide-thing, a pale eel-bodied life that buries in the warm mud, with a smell to its flesh, a smell of *something* instead of nothing. I eat it braced for the knotting and the bile and the climbing heat, and the knotting does not come. It stays down. It sits warm and real in the belly, and the near mouth gives one step backward — only one — but it is the first ground I have taken since the green woke me, and I take it and hold it, the way I hold the name behind my teeth. Small and hard and mine.
+The best low places are the farthest out, the ones the water bares only on the lowest of the lows. Those hold bigger things. Slow crabs, heavy and dark, that I take two and three before they wake to me. And a fat tide-thing, a pale eel-bodied life that buries in the warm mud, with a smell to its flesh, a smell of *something* instead of nothing. I eat it braced for the knotting and the bile and the climbing heat, and the knotting does not come. It stays down. It sits warm and real in the belly, and the meat-hunger gives one step backward — only one — but it is the first ground I have taken since the green woke me, and I take it and hold it close, the way I hold the name behind my teeth. Small and hard and mine.
 
 ---
 
@@ -98,20 +98,22 @@ The leg is mending in turnings what should have eaten moons. And in this wet, in
 
 I look at my hands. The gashes the sharp rock tore in my palms that first morning are gone — closed to clean lines, the kind a hand carries a week after the hurt, that have stopped being wounds and started being only marks. They are three lows old. I turn my palms up in the green light, and the listening thing in me goes very quiet.
 
-I put it where the body puts what it cannot use yet. On a shelf at the back, behind the hurt and the hunger, where a boy in a cage learns to put everything he cannot afford to feel. The fever that came to take me and went out of me in a night and left no mark. The rot-air I sleep in that drops every other body and does nothing to mine. And now the wounds that close too soon in a wet that should make them fester. A small dark shelf of wrong things, all of a kind, all of them facts about this body that the body did not agree to. I do not understand them and I do not try to. I set them on the shelf, and I do not turn them over.
+I want to know. That is the new thing, and it surprises me. I lie over the mending leg and I *push* at it. The fever that came to take me and went out of me in a night and left no mark. The rot-air I sleep in that drops every other body and does nothing to mine. And now the wounds that close too soon in a wet that should make them fester. They are all of a kind. Facts about this body that the body did not agree to. I turn them this way and that, looking for the seam where they fit together, and there is no seam I can find — no word for what makes a boy mend like this, no thought big enough to hold it. I reach and reach and my hands come back empty every time.
 
-Not now. Now I need to eat.
+So I do what a boy in a cage learns to do with a thing he cannot use yet. I put it on a shelf at the back, behind the hurt and the hunger, where it will keep. Not because I do not want it. Because I cannot carry it and eat at the same time, and eating comes first.
+
+Now I need to eat.
 
 ---
 
 The close pools run thin. I have cleaned them out, and the nearest mud with anything left in it is far enough down the green that the round trip eats most of a low.
 
-So I widen. I watch the green the way I watched the birds — not for food now but for the law under it. I find the broad-leaf vines that bleed a milk that itches the skin, and leave them. I find, in a back channel where the mangrove roots make a cage of their own, more of the fat tide-eels, more meat on them than the crabs and no sickness after. Fruit and eels and crabs are the meat that keeps. The clear fish and the still black pools are the meat that turns. I build the law of this green one stay-down and one sickness at a time, writing it in the only book that takes ink here, which is the body.
+So I widen. I watch the green like I watched the birds — not for food now but for the law under it. I find the broad-leaf vines that bleed a milk that itches the skin, and leave them. I find, in a back channel where the mangrove roots make a cage of their own, more of the fat tide-eels, more meat on them than the crabs and no sickness after. Fruit and eels and crabs are the meat that keeps. The clear fish and the still black pools are the meat that turns. I build the law of this green one stay-down and one sickness at a time, writing it in the only book that takes ink here, which is the body.
 
-The near mouth does not leave. But it pulls back. It stops being the thing that drives me and becomes a thing I carry — present, low, mine, the body's rent paid out daily for the keeping of a life. I can stand under it now. I can think over the top of it.
+The hunger for meat does not leave. But it pulls back. It stops being the thing that drives me and becomes a thing I carry — present, low, mine, the body's rent paid out daily for the keeping of a life. I can stand under it now. I can think over the top of it.
 
-The second mouth does not pull back. Not by a step. Not by a breath. I feed myself. I drink myself full. I wash my own wound, I learn the breath of the tide — and none of it reaches the far one. It sits open in the dark under everything, where no eel or crab or fruit will ever drop, waiting on a thing this green does not have to give.
+The second mouth does not pull back. Not by a step. Not by a breath. I feed myself. I drink myself full. I wash my own wound, I learn the breath of the tide. None of it reaches the far one. It sits open in the dark under everything, where no eel or crab or fruit will ever drop, waiting on a thing this green does not have to give.
 
 I can feed myself now. I can hold the warm dark of the crack around me at night and sleep without the fog. By every measure the cage taught me to count by, I am winning.
 
-It is not enough. The near mouth I have fed. The far one only listens, and goes on listening, for a breathing thing that is not there. And lying in the dark, full and whole and alone, I begin to see the thing the cage never let me learn: that a body can win every count there is, and still go on dying of the other hunger, the one no green will ever feed.
+It is not enough. The belly I have fed. The far one only listens, and goes on listening, for a breathing thing that is not there. And lying in the dark, full and whole and alone, I begin to see the thing the cage never let me learn: that a body can win every count there is, and still go on dying of the other hunger, the one no green will ever feed.
