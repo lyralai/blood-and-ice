@@ -6,20 +6,7 @@
 > things — then his own kind comes across the water and takes everything. At the
 > bottom of the pit, the old blood-force in his veins stirs for the first time.
 
-*Book 1 of the **Ice and Blood** trilogy. The "Ice" is the **Cold** — the bloodless
-thing that hunts his line — glimpsed in the prologue and waiting across the books to
-come.*
-
----
-
-## Status
-
-| | |
-|---|---|
-| **Book 1 (Wild Boy)** | 28 chapters + prologue, ~100k words — **draft complete & revised** |
-| **Setting** | Saqarro, a tropical death-jungle of monster-peoples (Vorth / Mure / Skell) |
-| **Series** | *Ice and Blood* — Bk 2: the blood-city / the pits · Bk 3: the Cold comes |
-| **Frozen draft** | superseded, archived at [`archive/blood-under-ice-frozen/`](archive/blood-under-ice-frozen/) (design quarry for Bks 2–3) |
+*Book 1 of the **Ice and Blood** trilogy. Draft complete — 28 chapters + prologue, ~100k words.*
 
 ---
 
@@ -67,8 +54,3 @@ first-person present, ~3.5k words each.
 - [26. Property Again](manuscript/book-one-wild-boy/ch26-property-again.md)
 - [27. The Hold](manuscript/book-one-wild-boy/ch27-the-hold.md)
 - [28. The Pit](manuscript/book-one-wild-boy/ch28-the-pit.md)
-
----
-
-See [`docs/story/series-outline-3book.md`](docs/story/series-outline-3book.md) for
-the trilogy spine and the mythology (the Red, the Bloodless, the hunted bloodline).
