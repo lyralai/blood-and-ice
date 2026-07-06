@@ -6,11 +6,11 @@ Working title. Series: The Keeper's Blood.
 
 The sea lies flat for three days.
 
-No wind. No chop. No white on the water. Only heat, haze, and a silence so complete we all begin to speak softly without knowing why.
+No wind. No chop. No white on the water. Heat presses the voices out of us until even Vell gives orders under his breath.
 
 On the third day, the lookout sees a ship.
 
-She comes out of the glare bow-first, sails hanging dead from the yards, hull black against the bright water. No wake trails her. No hand moves at her rail. She drifts as if the sea has forgotten to finish sinking her.
+She comes out of the glare bow-first, sails hanging dead from the yards, hull black against the bright water. No wake trails her. No hand moves at her rail. She drifts without hurry, a black thing the sea has not yet decided to swallow.
 
 I am sixteen, which is young enough to be sent where older men prefer not to go. I stand at the rail beside the mate and watch the stranger slide nearer.
 
@@ -22,9 +22,9 @@ He says it like prayer.
 
 The word moves through the crew. Men straighten. Fear loosens under the smell of profit. A dead ship can mean rot, sickness, pirates, or a curse. It can also mean cargo with no owner left to argue.
 
-Rusk kisses two fingers and touches the little charm sewn to his cap. Tam grins too widely and says a dead captain spends no wages. No one laughs, but several men look toward Vell, and Vell looks at the dead ship as if it has already made him richer.
+Rusk kisses two fingers and touches the little charm sewn to his cap. Tam grins too widely and says a dead captain spends no wages. No one laughs, but several men look toward Vell, and Vell looks at the dead ship as though it has already made him richer.
 
-I try to imagine what my sister would say if she stood beside me. She was twelve when I left and clever enough to see lies before they reached the mouth. She would say, Coll, nothing comes free across water. Then she would steal a sweet from the galley and ask whether curses paid in silver.
+My sister would have seen the lie in it. She was twelve when I left, all elbows and sharp eyes, clever enough to hear a trap before the hinge moved. Coll, she would say, nothing comes free across water. Then she would steal a sweet from the galley and ask whether curses paid in silver.
 
 The thought almost makes me smile.
 
@@ -52,9 +52,7 @@ That is the first wrong sign. I have seen wrecks. A wreck tells its story openly
 
 The captain's door stands open. Inside, a chair has been pushed back from a small table. A quill lies beside an uncorked inkpot, the ink black and frozen solid. On the table sit three coins stacked with a careful thumb's-width between each one, as if the captain has been counting them when the cold reaches him and means to come back after a breath.
 
-I hate that thought.
-
-No. I hate it.
+My hand tightens on the doorframe.
 
 Panic leaves mess. Storm leaves mess. Men leave mess when death enters a room.
 
@@ -68,7 +66,7 @@ Tam lifts one bowl and makes a choked sound.
 
 Inside, a child's milk teeth are set in a ring.
 
-No child sits at the table. No small bones lie near the stove. Only the teeth, cleaned and placed with care, as if saved for counting.
+No child sits at the table. No small bones lie near the stove. Only the teeth: cleaned, placed in their little ring, saved for a counting no living mouth should know.
 
 Vell takes the bowl from Tam and sets it down with a hand that is not steady.
 
@@ -1764,9 +1762,7 @@ The other hunger is not.
 
 It watches from under my ribs, awake and unsatisfied.
 
-Near midnight the jungle goes silent.
-
-Not quiet. Silent.
+Near midnight the jungle cuts off.
 
 The flies lift from the meat. The frogs stop. Even the leaves seem to hold their breath.
 
@@ -2852,7 +2848,7 @@ The small ones fall into each other.
 
 I laugh until my chest hurts.
 
-Kala makes the stern sound from the dead shelf, but her mouth is tucked in at the corner. I see it. Marrow sees it too and bows toward her with both hands spread, one crooked and one clean, as if he has offered the tribe a great kill.
+Kala makes the stern sound from the dead shelf, but her mouth is tucked in at the corner. I see it. Marrow sees it too and bows toward her with both hands spread, one crooked and one clean, as though he has offered the tribe a great kill.
 
 I lie there under a sky full of green leaves and smoke and Vorth laughter, and nothing bad happens.
 
@@ -2888,7 +2884,7 @@ The tower stands.
 
 The small ones go silent.
 
-Marrow looks at his hand as if it has betrayed him by being useful.
+Marrow looks at his hand as though it has betrayed him by being useful.
 
 Then he lifts his chin and struts the length of the fire shelf.
 
@@ -3528,7 +3524,7 @@ Not leavings.
 
 Not my human sound.
 
-Some Vorth mark for him, old enough that no mouth has used it aloud where I can hear. Marrow stares at the ash as if he has found a pool showing a face he had never been allowed to own.
+Some Vorth mark for him, old enough that no mouth has used it aloud where I can hear. Marrow stares at the ash as though he has found a pool showing a face he had never been allowed to own.
 
 Then the seer wipes the mark away.
 
@@ -3842,7 +3838,7 @@ Two older young ones take his food one morning and toss it between them, high ov
 
 I step between them.
 
-The fire shelf goes still in small degrees. First the little ones. Then the nearest adults. Then Voss-Marr, who is sitting above us with one knee up and both hands loose, as if he has been waiting for a lesson someone else would start.
+The fire shelf goes still in small degrees. First the little ones. Then the nearest adults. Then Voss-Marr, who is sitting above us with one knee up and both hands loose, as though he has been waiting for a lesson someone else would start.
 
 I hold the strike back. I take one of my own strips of liver and put it in Marrow's curled hand. Then I look at the two older ones and eat the stolen piece they meant to throw next.
 
@@ -4050,7 +4046,7 @@ The lesson comes anyway.
 
 At first light, the one-clouded female finds the shell.
 
-Her grief-sound is small and sharp. Not for the dead child. For the wrongness beside it. She lifts the shell between two fingers as if it has slime on it and turns toward the fire shelf. Heads rise. Sleep falls away. Kala stands slowly.
+Her grief-sound is small and sharp. Not for the dead child. For the wrongness beside it. She lifts the shell between two fingers as though it has slime on it and turns toward the fire shelf. Heads rise. Sleep falls away. Kala stands slowly.
 
 The old female holds the shell where everyone can see.
 
@@ -4542,9 +4538,7 @@ The high stones answered by giving that standing an enemy.
 
 # Chapter 15: The Apex
 
-The jungle goes silent before the Hesh comes.
-
-Not quiet. Silent.
+The jungle empties itself of sound before the Hesh comes.
 
 The insects lift from the meat. Birds vanish into the high green. Even the Skell leave their midden piles and crawl into dark places. A hole opens in the sound of the island, and every living creature knows the shape of what belongs there.
 
@@ -4554,7 +4548,7 @@ That is what frightens me.
 
 I have seen them hungry, angry, grieving. I have seen young males cuff each other bloody beside the fire and females bare teeth over meat. I have not seen the tribe afraid.
 
-Now fear moves through them like cold smoke.
+Now fear moves through the tribe without a raised voice.
 
 Small ones are gathered up. Half-grown hunters leave the lower paths. Torn-Ear will not go beyond the first bank. Even Voss-Marr stands quieter, contempt pressed over something he does not want anyone to see.
 
@@ -4616,7 +4610,7 @@ The Hesh does not fall. It is too old a killer to spend balance foolishly. It on
 
 The Hesh waits after that.
 
-Not confused. Not angry in the way Vorth anger is loud and immediate. It waits as if the stone has made an argument and the Hesh is considering how long hunger can sit beside insult. Its eyes hold on Torn-Ear. Then, slowly, they slide along the bank.
+Not confused. Not angry in the way Vorth anger is loud and immediate. It waits, head low on the mud, old enough to let hunger sit beside insult. Its eyes hold on Torn-Ear. Then, slowly, they slide along the bank.
 
 Over the roots.
 
@@ -4724,7 +4718,7 @@ Strength cannot answer a mouth that turns strength into meat.
 
 He tries to make one anyway.
 
-At moonrise he sends three hunters down the old stone throat toward the first bank. Voss-Marr goes with them. Of course he does. His ribs are not yet opened by any boar. His pride is whole enough to be loud. They carry heavy spears with fire-hardened points and slabs of river-pig fat wrapped in leaves. Bait and courage. The tribe watches them go as if watching men walk into weather.
+At moonrise he sends three hunters down the old stone throat toward the first bank. Voss-Marr goes with them. Of course he does. His ribs are not yet opened by any boar. His pride is whole enough to be loud. They carry heavy spears with fire-hardened points and slabs of river-pig fat wrapped in leaves. Bait and courage. The tribe watches them go the way sailors watch a black line of weather cross open water.
 
 Kala's arm tightens around me.
 
@@ -4750,7 +4744,7 @@ The point bites.
 
 It breaks.
 
-The Hesh turns its head with the broken shaft standing in the hide above one eye. It looks at Voss-Marr as if he has touched it with a reed.
+The Hesh turns its head with the broken shaft standing in the hide above one eye. It looks at Voss-Marr as though he has touched it with a reed.
 
 Then it takes the river-pig fat and sinks.
 
@@ -5192,7 +5186,7 @@ For him, that may be a kind of help.
 
 At the last, when the head finally parts and drops heavy into the mud, he puts one hand under the lower jaw before I can. He lifts for one breath, no more, just long enough for me to get the vine under it.
 
-Then he lets go as if he has touched fire.
+Then he lets go as though he has touched fire.
 
 I leave thanks buried. Every sound I could make would turn the moment sour.
 
@@ -5704,7 +5698,7 @@ He stands with one hand pressed to the place where the boar opened him. His bloo
 
 The tribe comes to the lip.
 
-Torn-Ear first. He stands beside me and faces the green. Others follow. Hunters. Mothers. Half-grown males with uncertain eyes. The discarded ones come too: the limping, scarred, crooked, too-small bodies the old order pushed toward the edges. Marrow climbs last, using one hand and his teeth where the rock is steep, and plants himself at my side as if he has always stood there.
+Torn-Ear first. He stands beside me and faces the green. Others follow. Hunters. Mothers. Half-grown males with uncertain eyes. The discarded ones come too: the limping, scarred, crooked, too-small bodies the old order pushed toward the edges. Marrow climbs last, using one hand and his teeth where the rock is steep, and plants himself at my side as though he has always stood there.
 
 Then come the disputes.
 
@@ -6124,7 +6118,7 @@ Not kin, Marrow's body says beside me.
 
 He is right again.
 
-The captain turns toward the jungle as if he has heard us thinking.
+The captain turns toward the jungle as though he has heard us thinking.
 
 We flatten into the wet green. My cheek presses mud. Marrow's breath stops. For three long counts the man with the eye-and-thorn studies the line of trees above the spit.
 
@@ -10118,7 +10112,7 @@ The beast is fast in the first three strides and stupid in the fourth.
 
 # Chapter 30: The Hand Opens
 
-Not stupid in the mind. Its mind is closed to me. Stupid in the body, the way every body becomes stupid when pain and hunger have been used on it for too long. It expects the world to answer one way because men have made its world small enough to teach only that answer.
+The beast is not stupid. Its mind is shut to me, but its body has been taught a narrow lesson by pain and hunger, and narrow lessons can be used. It expects the world to answer one way because men have made its world small enough to teach only that answer.
 
 Charge.
 
@@ -10158,9 +10152,9 @@ Its digging claws strike iron where earth should be. One claw catches through a 
 
 The crowd roars because falling looks like victory to those too high above the ground to read it.
 
-It is not victory.
+One breath.
 
-It is one breath.
+That is all.
 
 I spend it.
 
@@ -10170,7 +10164,7 @@ Pain blooms.
 
 The Red answers under it.
 
-Heat. Teeth. The clean wish to push both hands deeper until the scream becomes silence and the crowd learns the sound a body makes when its monster chooses back.
+Heat. Teeth. The wish to drive both hands deeper until the scream stops and the crowd learns what it has bought.
 
 No.
 
@@ -10180,7 +10174,7 @@ I hook one arm over the head plate and shout to Marrow.
 
 "Left!"
 
-The word is human and Vorth and neither. He understands anyway.
+The word comes out rough, half human, half Vorth. Marrow understands the part that matters.
 
 Marrow darts in, small under the beast's blind side, and kicks the caught claw free of the chain.
 
@@ -10250,7 +10244,7 @@ Not enough.
 
 But some.
 
-The wild boy is valuable. The monster is valuable. A creature that can turn the pit into a question is another kind of risk. I see him weigh it even through fever: sell quickly and lose the larger price, hold longer and maybe lose the hand.
+The wild boy has a price. The monster has a price. A creature that can make the pit look badly built has a different kind of price. I see him weigh it even through fever: sell quickly and lose the larger price, hold longer and maybe lose the hand.
 
 For the first time since the high stones, Drevan looks less like the man setting traps and more like one standing inside a trap he built too well.
 
@@ -10460,7 +10454,7 @@ Useful, her face says.
 
 The pale man nods.
 
-Drevan looks as if he has swallowed a hook.
+Drevan grips the rail with both hands. The hook has gone into him at last, only no one can see where.
 
 The pit hands leave us chained to the wall while men drag the wounded beast away. It is still alive. I hear it scraping in the passage, hear the wet plea inside its breath. No one in the stands hears that part. They are buying sweet cakes now. Arguing over the next match. Wearing our survival as a story while we stand in the stink of its cost.
 

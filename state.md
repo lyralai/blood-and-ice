@@ -17,11 +17,11 @@ This is the continuity state after the revised draft pass. It records chapter-by
 
 ### ch01
 
-- **Location/time:** Flight / sea memory.
-- **Who knows what:** Rook learns/acts on: The hidden name survives where people do not.
-- **Injuries/deaths:** Tracked in scene; permanent injuries carry forward when named.
-- **Promises/names:** Hidden true name remains unspent unless explicitly stated.
-- **Continuity hook:** The sea/green takes him onward.
+- **Location/time:** Dead ship at sea, before Rook's Saqarro survival line begins.
+- **Who knows what:** Coll witnesses the Bloodless/Cold threat as a one-time prologue POV; Rook does not know these details yet.
+- **Injuries/deaths:** Salvage crew enters an arranged killing ground; prologue deaths do not carry as active cast injuries.
+- **Promises/names:** Coll is named in the cold open; Rook's hidden true name remains unspent.
+- **Continuity hook:** The Cold threat exists beyond Saqarro and can reach living blood.
 
 ### ch02
 

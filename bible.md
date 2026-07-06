@@ -135,6 +135,7 @@ A public economy of ownership. It converts wild bodies, captives, beasts, handle
 
 ## POV Structure
 
-- **Primary POV:** Rook only.
+- **Primary POV:** Rook.
+- **Cold-open exception:** Chapter 1 uses Coll, a doomed salvage sailor, as a one-time prologue witness to the Cold/Bloodless threat. This exception is structural foreshadowing, not a second ongoing POV.
 - **Mode:** intimate first person, present tense.
-- **Discipline:** the reader may infer more than Rook understands, but the narration never steps outside his senses, judgments, language, or earned conceptual reach.
+- **Discipline:** after the cold open, the reader may infer more than Rook understands, but the narration does not step outside his senses, judgments, language, or earned conceptual reach.

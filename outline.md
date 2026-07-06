@@ -26,12 +26,12 @@ Captured and carried across water, Rook becomes property again in a more sophist
 
 ### ch01
 
-- **POV:** Rook
-- **Location:** Flight / sea memory
-- **Scene goal:** Establish stolen name, bloodline dread, and the Cold hunting his family
-- **Conflict:** Survival terror and memory fracture
-- **Turn/reversal:** The hidden name survives where people do not
-- **Hook out:** The sea/green takes him onward
+- **POV:** Coll, one-time cold-open witness
+- **Location:** Dead ship at sea
+- **Scene goal:** Establish the Bloodless/Cold threat without explaining it
+- **Conflict:** Salvage greed meets an arranged, impossible absence
+- **Turn/reversal:** The dead ship is not abandoned; it is bait and warning
+- **Hook out:** The cold reaches living blood
 
 ### ch02
 
