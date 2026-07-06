@@ -1,7 +1,3 @@
-# Blood and Ice
-
-Working title. Series: The Keeper's Blood.
-
 # Chapter 1: Prologue
 
 The sea lies flat for three days.
@@ -240,7 +236,7 @@ The jungle watches without eyes.
 
 I find the first body under a fan of broad leaves.
 
-He lies face-down, half in the mud, one arm twisted under him. I know him. Not his name. The ship had not left us names. Names are wasted on cargo. But I know the shape of his shoulders and the scar on the back of his neck where a collar rubbed him raw.
+He lies face-down, half in the mud, one arm twisted under him. I know him. Not his name. The ship had not left us names. Names are wasted on cargo. But I know his shoulders and the collar scar rubbed raw at his neck.
 
 He was older than me. Stronger. He had cursed the slavers once in a language I did not know and lost two teeth for it.
 
@@ -250,7 +246,7 @@ White mushrooms grow from the corner of his mouth.
 
 One hand is closed around mud. I pry the fingers open because hunger makes even the dead into questions. There is nothing there but a bit of leaf crushed to pulp. His nails are packed black. He died holding the island, and the island did not care enough to hold him back.
 
-I know better than to speak over him. The hold taught silence around the dead. A man dies, the slaver kicks his feet apart, and everyone else looks small so death will not be counted as laziness. Still, I find myself wanting a word.
+The hold taught silence around the dead. A man dies, the slaver kicks his feet apart, and everyone else looks small so death will not be counted as laziness. Still, I want a word.
 
 Not a prayer. I have no god that ever answered.
 
@@ -488,7 +484,7 @@ The large one makes a sound.
 
 Not a roar. Not a word I know.
 
-The shape of it is almost a question.
+It watches like it has asked a question.
 
 I show my teeth.
 
@@ -686,7 +682,7 @@ By midday I find the grubs. Fat white curls under dead bark where the birds have
 
 The grubs stay down.
 
-That becomes the shape of the day. Watch. Test. Wait. Eat more if the body does not rebel.
+That becomes the day. Watch. Test. Wait. Eat more if the body does not rebel.
 
 Fruit. Grub. Rainwater. A brown frog the birds take whole from a leaf. I break its neck against a stone and eat it raw, fighting the slide of it in my throat. It stays down too.
 
@@ -1200,7 +1196,7 @@ The fish stays down.
 
 Fire changes the law.
 
-By midnight I know three new truths.
+By midnight I know three things.
 
 Smoke keeps the biting clouds away.
 
@@ -2100,7 +2096,7 @@ These choose.
 
 I flatten against the stone.
 
-The old fear comes fast. Hands. Chains. A voice making a command out of my flesh. People are the shape of want, but they are also the shape of ownership. I learned both in the hold, where every voice belonged to someone stronger.
+The old fear comes fast. Hands. Chains. A voice making a command out of my flesh. People want. People own. In the hold, the difference only mattered to the hand on the key.
 
 My legs want the den.
 
@@ -2136,7 +2132,7 @@ No one ever lifted me that way after the hold.
 
 The dead have a place among them.
 
-On the highest clean shelf, where the sun lays its first white hand, they set the dead out in rows. Not abandoned. Not eaten. Set. A big gray female sits beside them for hours, touching one still face, then another. Her shoulders move with a sound I cannot hear from so far, but I know grief when I see the shape of it.
+On the highest clean shelf, where the sun lays its first white hand, they set the dead out in rows. Not abandoned. Not eaten. Set. A big gray female sits beside them for hours, touching one still face, then another. Her shoulders move with a sound I cannot hear from so far, but I know grief at a distance.
 
 They keep fire.
 
@@ -2616,7 +2612,7 @@ Almost right is more dangerous than wrong.
 
 The old seer gives me weight I did not ask for. The keeper gives me warmth I have not learned how to carry. The young gleaner gives me a shell. The king gives me nothing.
 
-All of them are gifts. I keep my hands closed around that truth because gifts have bitten me before.
+All of them are gifts. I keep my hands closed because gifts have bitten me before.
 
 That night, the kept fire burns low and red. I lie against the keeper's side while the tribe settles around us. Their voices move through the dark, rough and living. The small ones sleep in knots. The dead rest on the high stone. Smoke climbs into the stars.
 
@@ -2754,7 +2750,7 @@ It is only foolishness, and for that reason it feels rarer than meat.
 
 After that they decide I am allowed to lose.
 
-The smallest ones come at me with games as if games are raids. A round-bellied child called Nomi by the others brings smooth stones and sets them in a crooked line. A long-armed boy called Brak knocks half of them aside and howls when she bites him for it. Luta, who has one white splash over her eye, explains the rules in a flood of sound, realizes I understand none of it, and explains again louder.
+The smallest ones come at me with games and raid-serious faces. Nomi, round-bellied and solemn, brings smooth stones and sets them in a crooked line. Brak knocks half of them aside and howls when she bites him for it. Luta, with one white splash over her eye, explains the rules in a flood of sound, sees my blank face, and explains again louder.
 
 Marrow watches my face with grave disappointment.
 
@@ -2820,7 +2816,7 @@ The tribe has a sound for him. Short. Flat. Thrown downward.
 
 Leavings.
 
-I know that sound before I know its meaning. I have worn names that pushed me out of the circle.
+I know that sound before I know its use. I have worn names that pushed me out of the circle.
 
 The crooked small one does not fear me. He rides my chest and names the world into my face, waiting for me to take each sound. When I stay silent, he gives another. Fire. Stone. Hand. Eye. Kala. My name holds still behind my teeth, silent and hidden, while this small wrong-made creature fills the air between us with names.
 
@@ -2962,7 +2958,7 @@ On the high stones, I am something that can be moved.
 
 Good.
 
-A hard truth can be used.
+A hard fact can be used.
 
 The Vorth hunt with weight. They pour down both sides of a channel, drive swine and deer toward the arms waiting below, and close around the prey like a fist. Their strength is terrible. A blow from one adult can break a neck clean. Their hands can tear roots from mud that would hold me all day.
 
@@ -3880,7 +3876,7 @@ Not praise.
 
 Not insult.
 
-Something worse. A truth neither of us can own.
+Something worse. A wound neither of us can own.
 
 For a moment I see what he might have been without me: hard, proud, maybe cruel, but capable. The tribe's future, trained into his bones.
 
@@ -3934,7 +3930,7 @@ He says very little.
 
 He does not need much.
 
-His hand points to the high shelf, then down to the scree, then out toward the black channels. One line. Above. Below. Away. His meaning is clear even to the children.
+His hand points to the high shelf, then down to the scree, then out toward the black channels. One line. Above. Below. Away. Even the children go still.
 
 I hate that my body understands him.
 
@@ -4190,7 +4186,7 @@ My path alone would have left Torn-Ear drowning. Marrow's hand alone would have 
 
 My hands tighten on the vine. Mud squeezes between my fingers.
 
-He does not only protect the tribe with the truth. He loops it around my throat and pulls.
+He does not only protect the tribe with what happened. He loops it around my throat and pulls.
 
 Gull-Marr descends then.
 
@@ -4386,7 +4382,7 @@ The high stones answered by giving it an enemy.
 
 The jungle empties itself of sound before the Hesh comes.
 
-The insects lift from the meat. Birds vanish into the high green. Even the Skell leave their midden piles and crawl into dark places. A hole opens in the sound of the island, and every living creature knows the shape of what belongs there.
+The insects lift from the meat. Birds vanish into the high green. Even the Skell leave their midden piles and crawl into dark places. A hole opens in the sound of the island, and every living creature knows what walks into it.
 
 The Vorth know before I do.
 
@@ -4664,7 +4660,7 @@ Not mercy. Not kinship. Edges.
 
 The Hesh hates white birds. It snaps at their reflections even when no meat waits beneath them. It will not cross fallen ironwood unless rain has darkened the bark. It sleeps with its head toward the channel and its tail in the reeds, always leaving one path for retreat, though nothing on Saqarro is large enough to make it retreat.
 
-It marks its ground without lifting a leg like a tree-cat or dragging claws like a Skell. The whole low country marks for it. Crushed reed. Stripped mud. Trees polished smooth where its hide has rubbed away moss and beetle nests. Pools emptied of frogs. Paths where even flies are fewer. Wherever it rests, the green gives way and then grows back wrong, bent toward the shape of its passing.
+It marks its ground without lifting a leg like a tree-cat or dragging claws like a Skell. The whole low country marks for it. Crushed reed. Stripped mud. Trees polished smooth where its hide has rubbed away moss and beetle nests. Pools emptied of frogs. Paths where even flies are fewer. Wherever it rests, the green gives way and then grows back wrong, bent along the track it left.
 
 Once I find a pile of dung high as my knee and full of little white bones.
 
@@ -6086,7 +6082,7 @@ I hate the owners.
 
 I want them to see me.
 
-Both truths sit in the same skin, not fighting, which makes them worse.
+Both things sit in the same skin, not fighting, which makes them worse.
 
 Near the center of camp, men raise a pole and hang a strip of black cloth from it. The eye-and-thorn is stitched there in pale thread. The symbol lifts in the sea wind, opens, closes, opens again.
 
@@ -7870,7 +7866,7 @@ The name is not beautiful because of its sound.
 
 It is beautiful because it is hers.
 
-I have seen men throw meat to earn a step. I have seen Drevan lay bait and call it welcome. This is not that. Or it is, and braver too, and the two truths cross until I cannot tell wound from gift.
+I have seen men throw meat to earn a step. I have seen Drevan lay bait and call it welcome. Yara's gift does not sit cleanly on either side.
 
 Then she turns and walks toward camp.
 
@@ -7972,13 +7968,11 @@ I cannot.
 
 He is using the truth.
 
-Every trip down has pulled human attention closer. Every offering eaten has taught Drevan where to lay the next one. Every word Yara gave me has given the camp a road back into my wanting. Voss-Marr twists those truths toward his own hunger for the lip, but the truths remain sharp.
-
-That is what makes him dangerous.
+Every trip down has pulled human attention closer. Every offering eaten has taught Drevan where to lay the next one. Every word Yara gave me has given the camp a road back into my wanting. Voss-Marr twists the blade toward his own hunger for the lip, but the edge stays sharp.
 
 Not lies.
 
-Truth without love.
+A true knife in the wrong hand.
 
 Marrow lunges before I can move. He goes for Voss-Marr with teeth bared and crooked hand hooked like a claw. Two young males block him. He is small, but fury gives him speed. For a breath I see the whole shelf tilt toward violence.
 
@@ -8044,7 +8038,7 @@ If Drevan has read the line all the way back to home, staying may only mean wait
 
 That thought might be true.
 
-It might be hunger wearing truth's face.
+It might be hunger wearing a useful mask.
 
 I cannot tell anymore.
 
@@ -8200,7 +8194,7 @@ Not him. The trace of him. A broken young slaver near the west run, throat opene
 
 He fought.
 
-That truth does not absolve him.
+That does not absolve him.
 
 It makes the rest harder.
 
@@ -8470,7 +8464,7 @@ Throat.
 
 Heat under skin.
 
-The Red takes all the tangled pain and makes one clean line from my hand to the next body. It feels like mercy because thought hurts more. It feels like truth because it asks no question I cannot answer with teeth.
+The Red takes all the tangled pain and makes one clean line from my hand to the next body. It feels like mercy because thought hurts more. It feels clean because it asks no question I cannot answer with teeth.
 
 It frightens me because it makes monstrosity restful.
 
@@ -8886,9 +8880,9 @@ His hand flexes once on empty air. Then it closes.
 
 If he comes, he may die and the tribe loses another strong body. If he stays, I am taken, the human trouble leaves, and the lip becomes his by absence.
 
-All those names will have truth in them.
+He can name all of it duty.
 
-None will be the whole truth.
+None of the names will hold the whole wound.
 
 The lip is his now.
 

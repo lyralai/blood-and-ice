@@ -90,3 +90,26 @@ Remaining weaknesses:
 Unresolved canon conflicts:
 
 - None known. Chapter 1 remains the documented Coll cold-open exception; the main novel remains Rook's first-person present POV.
+
+## Local AI-Tell And Voice Pass
+
+This pass treated AI-detection as a style audit, not a truth oracle. I did not upload the manuscript to an external detector. Instead, I ran a local scan for high-risk generated-prose signals: repeated "shape/truth/meaning" phrasing, balanced thesis sentences, "as if/as though" cadence, abstract explanation after visible action, and long paragraphs that scored high on those patterns.
+
+Final chapter-file word count: 73,708 words across 30 chapter files.
+
+Major changes:
+
+- Removed or rewrote the highest-scoring detector-style passages after the submission-quality cut.
+- Replaced abstract "shape/truth" language with Rook-specific ownership, hunger, body, key, wound, and hand imagery.
+- Preserved intentional Vorth terminology such as meaning-sound where it functions as canon rather than generic abstraction.
+- Tightened remaining polished explanation around Yara's gift, Voss-Marr's choices, the Red's cleanness, and Rook's early fear of being owned.
+- Rebuilt `manuscript.md` from final chapter files.
+
+Remaining weaknesses:
+
+- No local paragraph now scores above the chosen detector-style threshold, but that does not make the book "undetectable." AI detectors are unreliable and can flag human prose.
+- The manuscript is less AI-smelling after this pass, but a true human final still needs a careful read-aloud copyedit for cadence, music, and taste.
+
+Unresolved canon conflicts:
+
+- None introduced. This pass was line-level voice work only.

@@ -266,3 +266,9 @@ This is the continuity state after the revised draft pass. It records chapter-by
 - Kala remains dead on the high stones; Rook and Marrow remain chained in the pit city; Yara remains owned/compromised; Drevan remains alive but fevered and losing leverage; the pale patron remains interested.
 - Red/passenger debt is now more relational: Marrow can smell/fear what the Red wants, and Rook's refusals leave visible bodily cost.
 - The final ending now points to concrete escape pressure: links, guards, keys, Yara's rope, Marrow's injured hand, and the Red's remaining appetite.
+
+## Local AI-Tell Pass Continuity Notes
+
+- No deaths, locations, promises, injuries, or chapter outcomes changed.
+- The pass was line-level voice work: abstract detector-prone phrasing was replaced with concrete Rook perception, ownership math, body cost, and visible social pressure.
+- Canon remains unchanged; final chapter-file word count is 73,708.
