@@ -64,3 +64,29 @@ Remaining weaknesses after this pass:
 - A truly final literary pass would still need chapter-by-chapter read-aloud rhythm work across the whole manuscript.
 - Some invented Vorth terminology, especially meaning-sound, remains intentionally repeated for continuity but may need a later style decision.
 - The draft is stronger now, but publication-quality would require another full continuity read after Lyra opens the real repo PR.
+
+## Submission-Quality Editorial Cut And Payoff Pass
+
+This pass addressed the remaining "strong draft, not undeniable yet" weaknesses: rhythm, explanation, over-visible structure, Red/passenger debt, and the emotional payoff around Kala/Yara/Marrow/Drevan.
+
+Final chapter-file word count: 73,751 words across 30 chapter files.
+
+Major changes:
+
+- Cut 3,083 words from the prior 76,834-word branch without removing plot beats.
+- Compressed repeated explanatory narration, motif-heavy language, and chapter-level thesis lines.
+- Tightened the opening island chapters so Rook's survival voice lands through action, not commentary.
+- Cut bulk from the Vorth politics, human camp, crossing, and pit-city setup while preserving public pressure and leverage.
+- Strengthened Red/passenger cost by making appetite socially visible: Marrow now reacts to what the Red wants, and Rook's body pays for refusal.
+- Sharpened final-act emotional pressure around Kala's death, Yara's compromised agency, Marrow's injured loyalty, Drevan's fevered loss of leverage, and the pale patron's interest.
+- Rebuilt `manuscript.md` from final chapter files.
+
+Remaining weaknesses:
+
+- This is a much tighter second draft, but it is still not final-copyedited prose.
+- A human read-aloud pass would still help sentence music and scene-by-scene breath.
+- The sequel-facing ending is stronger, but the larger series promise still depends on Book Two paying off the pit economy, Yara's debt, Voss-Marr's claim, and the Red's relational cost.
+
+Unresolved canon conflicts:
+
+- None known. Chapter 1 remains the documented Coll cold-open exception; the main novel remains Rook's first-person present POV.

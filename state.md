@@ -259,3 +259,10 @@ This is the continuity state after the revised draft pass. It records chapter-by
 
 - Exact calendar durations remain deliberately approximate because Rook does not track formal dates.
 - Book Two must preserve the pit economy, Yara's compromised agency, Drevan's fevered loss of leverage, and Voss-Marr's unresolved claim.
+
+## Submission-Quality Pass Continuity Notes
+
+- No deaths, locations, or major plot outcomes changed in the final editorial cut.
+- Kala remains dead on the high stones; Rook and Marrow remain chained in the pit city; Yara remains owned/compromised; Drevan remains alive but fevered and losing leverage; the pale patron remains interested.
+- Red/passenger debt is now more relational: Marrow can smell/fear what the Red wants, and Rook's refusals leave visible bodily cost.
+- The final ending now points to concrete escape pressure: links, guards, keys, Yara's rope, Marrow's injured hand, and the Red's remaining appetite.
