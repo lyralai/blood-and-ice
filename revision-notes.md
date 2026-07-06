@@ -113,3 +113,22 @@ Remaining weaknesses:
 Unresolved canon conflicts:
 
 - None introduced. This pass was line-level voice work only.
+
+## Submission Package And Query Readiness Pass
+
+This pass focused on market-facing readiness rather than broad manuscript expansion.
+
+Final chapter-file word count: 73,711 words across 30 chapter files.
+
+Major changes:
+
+- Corrected reader-facing package metadata from stale *Ice and Blood* / 28-chapter / ~100k language to **Blood and Ice**, 30 chapters, and current word count.
+- Updated `README.md`, `BOOK-ONE.md`, `READING.md`, and `_config.yml` so the current branch no longer points readers at superseded chapter paths.
+- Added a submission package under `docs/submission/`: readiness audit, query letter, one-page synopsis, pitch set, and agent research starter list.
+- Made one small final-line adjustment to Chapter 30 so the ending points more cleanly into Book Two.
+- Rebuilt `manuscript.md` from current chapter files after the Chapter 30 edit.
+
+Submission verdict:
+
+- Do not mass-query yet.
+- Suitable for a controlled first query batch after one read-aloud pass on Chapters 1-2 and final choice between prologue-first vs Rook-first sample pages.
