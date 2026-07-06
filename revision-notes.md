@@ -133,3 +133,20 @@ Submission verdict:
 
 - Do not mass-query yet.
 - Suitable for a controlled first query batch after one read-aloud pass on Chapters 1-2 and final choice between prologue-first vs Rook-first sample pages.
+
+## Controlled First-Query Batch Preparation
+
+This pass did not send external queries. It prepared the next outbound step for approval.
+
+Major changes:
+
+- Added prologue-first and Rook-first sample-page packets under `docs/submission/`.
+- Verified current public submission guidance/status for the first-batch agent list.
+- Added `first-query-batch.md` with send order, sample strategy, sources, and hold/do-not-query notes.
+- Added `per-agent-query-drafts.md` with personalization lines and draft query openings.
+- Updated `README.md` to expose the full submission package.
+
+Outbound status:
+
+- No agent queries have been sent.
+- The package is ready for human approval before any external outreach.

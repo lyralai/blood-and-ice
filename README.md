@@ -37,3 +37,7 @@ not a climate. It is seeded in the prologue and pays off across all three books.
 - [One-page synopsis](docs/submission/one-page-synopsis.md)
 - [Pitch set](docs/submission/pitch-set.md)
 - [Agent research starter list](docs/submission/agent-research-list.md)
+- [First query batch plan](docs/submission/first-query-batch.md)
+- [Per-agent query drafts](docs/submission/per-agent-query-drafts.md)
+- [Sample pages — prologue first](docs/submission/sample-pages-prologue-first.md)
+- [Sample pages — Rook first](docs/submission/sample-pages-rook-first.md)
