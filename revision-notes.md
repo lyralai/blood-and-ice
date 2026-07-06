@@ -25,7 +25,7 @@ This package incorporates the completed high-craft literary epic fantasy rewrite
 
 ## Word Count
 
-Final manuscript word count: 76,967 words across 30 chapter files. Supporting docs add bible, outline, state ledger, and revision notes.
+Final manuscript word count: 76,834 words across 30 chapter files. Supporting docs add bible, outline, state ledger, and revision notes.
 
 ## Human-Quality Pass
 
@@ -46,3 +46,21 @@ Remaining weaknesses to target in a true next pass:
 - Several political turns are clear in function but could use more scene-level social pressure and fewer explanatory sentences.
 - The Red's costs are present, but the draft would benefit from one more pass making every surge leave a specific relational or bodily debt.
 - Some chapter transitions still feel packaged rather than inevitable; the strongest future work is causality and escalation, not expansion.
+
+## Middle-Book Causality And Voice Pass
+
+This pass targeted Chapters 10-24, where the draft most visibly drifted into explanatory or packaged narration. The goal was to make the middle feel less generated and more embodied without adding bulk.
+
+Major changes:
+
+- Reworked repeated thesis-style beats around truth, shape, meaning, power, and choice into concrete bodily perception and scene consequence.
+- Tightened Vorth political causality: names, mercy, useful weakness, standing, and rule now land more through public reaction and material stakes.
+- Sharpened Rook's voice toward survival math, body memory, and tactical reading of ground, silence, hunger, hooks, hands, and debt.
+- Cut several explanatory summary lines in the human camp sequence so Drevan/Yara/camp power read through behavior instead of narration explaining the theme.
+- Reduced word count rather than expanding; middle-book edits were aimed at pressure and texture, not new material.
+
+Remaining weaknesses after this pass:
+
+- A truly final literary pass would still need chapter-by-chapter read-aloud rhythm work across the whole manuscript.
+- Some invented Vorth terminology, especially meaning-sound, remains intentionally repeated for continuity but may need a later style decision.
+- The draft is stronger now, but publication-quality would require another full continuity read after Lyra opens the real repo PR.

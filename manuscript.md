@@ -2752,7 +2752,7 @@ I learn the high stones the way I learned the jungle.
 
 First with my feet.
 
-There are places I may stand and places I may not. The dead have the highest clean shelf, where the morning sun strikes first. No living foot goes there except the keeper's and the old seer's. The king has a bare lip of stone above the fire, and the air around it is as clear as if a wall stands there.
+There are places I may stand and places I may not. The dead have the highest clean shelf, where the morning sun strikes first. No living foot goes there except the keeper's and the old seer's. The king has a bare lip of stone above the fire. No one crosses the air around it.
 
 I learn that by crossing it once.
 
@@ -2760,7 +2760,7 @@ A great arm comes down across my chest. Not a blow. A boundary. The Vorth who st
 
 The king watches from above.
 
-Gull-Marr. I learn the sound later. At first he is only weight and old silver hide, a scarred muzzle, flat eyes that do not warm. He does not snarl at me. He does not welcome me. He looks at me as he might look at a strange bone washed up by rain, something to be left where it lies until its use or danger proves itself.
+Gull-Marr. I learn the sound later. At first he is only weight and old silver hide, a scarred muzzle, flat eyes that do not warm. He does not snarl at me. He does not welcome me. He looks once and leaves me where I stand, like a bone rain washed into camp. Use or danger can announce itself later.
 
 Kala chose me.
 
@@ -3060,11 +3060,11 @@ It is also alive.
 
 Voss-Marr hears the children say it.
 
-His face gives away nothing. His eyes give away enough. A name that spreads without the heir's leave is not a child's game. It is a small law growing roots.
+His face gives away nothing. His eyes give away enough. A name spreading without the heir's leave is not a child's game. It is a little law with teeth in the dirt.
 
 I wanted to lift Marrow.
 
-I did not understand I was also teaching the tribe that names can come from me.
+Only later do I understand what Voss-Marr heard: a name can come from my mouth and survive him.
 
 # Chapter 11: The Weaker, the Smarter
 
@@ -3400,9 +3400,9 @@ Warning.
 
 The Mure have noticed our traps.
 
-This changes more than meat. If something in the water learns fiber and loop, then low tide is no longer only ours. If the Skell can warn us, then waste may guard what strength cannot see.
+The cut branch weighs almost nothing. It changes the whole shore. If the Mure learn our loops, low tide is no longer ours. If the Skell warn us, then the discarded can guard what strength cannot see.
 
-When I bring the cut branch back at dawn, Voss-Marr is the first to understand.
+At dawn, I carry the branch up myself. Voss-Marr is the first to understand.
 
 He takes it from me. Smells the wet end. Looks toward the channel.
 
@@ -3414,9 +3414,9 @@ This time it is not only for me.
 
 His eyes flick to the scree where the Skell hide from morning.
 
-Useful has become wider.
+Useful has widened.
 
-That is how trouble grows. Not from one mercy. From mercy proving practical.
+Trouble does not need a shout. Sometimes it starts with one mercy proving practical.
 
 # Chapter 12: Marks and Meaning
 
@@ -3432,7 +3432,7 @@ I know they mean.
 
 I cannot make them speak.
 
-That loss is different from hunger. Hunger claws and demands. This sits behind my eyes and aches. There was a time when marks might have opened for me. I feel the shape of that skill the way the tongue feels the space of a missing tooth.
+That loss is different from hunger. Hunger claws and demands. This sits behind my eyes and aches. My thumb follows the marks. My mouth works at sounds it cannot find. Once, maybe, these rows would have opened. Now they stay shut.
 
 Once, maybe, I could read.
 
@@ -3562,7 +3562,7 @@ When she feels it, her face changes.
 
 The old eyes sharpen. She looks from my pulse to the mark, from the mark to the map, from the map back to me. She sees a pattern I cannot reach: the green that kills men and leaves me standing, the eye carved in old stone, the disc that stirs my lost memory, the dead expedition, the blood under her finger.
 
-I want to seize her and shake meaning from her mouth.
+My hands ache to seize her shoulders and shake the answer loose.
 
 Instead I hold still.
 
@@ -3590,7 +3590,7 @@ No piece explains the whole, but they are pieces of the same whole. I feel that 
 
 I roll the skins carefully and bind them again.
 
-A mark made to mean does not stop meaning because the reader is broken.
+The mark does not care that I am broken. It keeps its meaning.
 
 One day I will read it.
 
@@ -3664,7 +3664,7 @@ Taking.
 
 The words are not exact in me. I know enough to feel the disagreement inside them. She is not explaining. She is naming three doors and refusing to open any one.
 
-The meanings come to me as broken images. A mouth in the stone. A family mark turning sick in the blood. A hand taking red life from something too large to die quickly.
+The meanings come in pieces. Mouth in stone. Family mark gone sick in blood. A hand taking red life from something too large to die quickly.
 
 The seer lays her palm flat over the carved eye.
 
@@ -3794,7 +3794,7 @@ This night, I leave them uncounted.
 
 There is no between.
 
-That frightens me when I notice it.
+The old part of me notices and reaches for a knife that is not there.
 
 When I was alone, distance kept me alive. Every want had space around it. Every sound could be tested before it reached me. Here, Kala's breath warms the back of my neck, Marrow's toes are wedged under my ribs, and some sleeping child has one hand tangled in my hair. I could not run without waking half the tribe.
 
@@ -3912,7 +3912,7 @@ Every Vorth goes still.
 
 Kala does not remove her hand.
 
-The king stands above us, immense and old, the gray in his hide bright under the new sun. This is his tribe. His stone. His dead. I am a soft-skinned stranger with a mark no one will explain, kneeling in a place that says I belong past death.
+The king stands above us, immense and old, the gray in his hide bright under the new sun. This is his tribe. His stone. His dead. I am a soft-skinned stranger with an unexplained mark, kneeling where his people promise to remember their own.
 
 His eyes move from me to Kala, from Kala to the empty place, from the empty place to the eye-and-thorn on my chest.
 
@@ -4128,11 +4128,9 @@ He bumps my fingers away, embarrassed by gratitude.
 
 By evening, three more small gifts rest on the memory step: a red leaf, a cracked nut, and one tiny fish bone placed there by Nomi for no reason she can explain. The one-clouded female removes none of them. She only sets them in a straighter line.
 
-That is how a law begins here.
+By evening, no one has moved them.
 
-Not by kindness alone.
-
-By argument surviving morning.
+A law can begin that quietly: not by kindness, but by an argument surviving morning.
 
 # Chapter 14: Standing
 
@@ -4140,7 +4138,7 @@ The rot-thicket takes Torn-Ear at midday.
 
 He should have waited.
 
-He knows it before the mud takes him. I see that in the quick flattening of his ears, in the little turn of his head toward me when the wallowing beast breaks from cover. Pride moves faster than wisdom. Hunger faster than both.
+He knows it before the mud takes him. His ears flatten. His head turns a finger-width toward me when the wallowing beast breaks cover. Then hunger moves through him faster than wisdom.
 
 The old male has followed my tracks for weeks, learning which moss lies, which root mat holds, where the black water waits under green skin. But strength has its own pride. A wallowing beast breaks cover within scenting distance, fat and slow, and Torn-Ear goes after it before I can read the ground.
 
@@ -4514,7 +4512,7 @@ I am angry.
 
 I am also relieved.
 
-Power that only feeds pride is a hook. Power turned into rule can hold a child back from mud.
+Power that feeds only pride is a hook. A rule can hold a child back from mud.
 
 Voss-Marr looks at me once more before he climbs away. Not grateful. Never that. But the look has changed by a hair.
 
@@ -4524,17 +4522,11 @@ I am resource.
 
 Among Vorth, a resource can be guarded, used, stolen, or broken so no one else can use it.
 
-Something comes.
+Something has started.
 
-Not now.
+Not now. Not tomorrow. But it has seen me, and I have seen it.
 
-Not tomorrow.
-
-But it has seen me, and I have seen it.
-
-I earned standing today.
-
-The high stones answered by giving that standing an enemy.
+I earned standing today. The high stones answered by giving it an enemy.
 
 # Chapter 15: The Apex
 
@@ -4828,11 +4820,9 @@ I hunt with patience.
 
 For three days I sharpen nothing, throw nothing, strike nothing. I watch. I lie in warm mud downwind while the Hesh sleeps with only its eyes above the rot pool. I learn where it basks, where it turns, where it drags its belly between water and bank. It is strongest in the soft edge and almost useless on stone.
 
-Watching makes a person of a monster.
+Watching gives the monster edges.
 
-Not human. Never that.
-
-But pattern is a kind of self.
+Not mercy. Not kinship. Edges.
 
 The Hesh hates white birds. It snaps at their reflections even when no meat waits beneath them. It will not cross fallen ironwood unless rain has darkened the bark. It sleeps with its head toward the channel and its tail in the reeds, always leaving one path for retreat, though nothing on Saqarro is large enough to make it retreat.
 
@@ -4872,7 +4862,7 @@ The Mure do not come for the body. They come to be seen not coming. That is a ki
 
 Every strength is tied to a ground.
 
-Change the ground, and strength becomes a weight.
+Change the ground, and strength can drown.
 
 Marrow comes with me on the second day. I try to send him back. He bares his little teeth and follows anyway. He is light enough for the rot skin and quick enough to vanish when the Hesh lifts its eyes. More important, he sees what I see before I finish showing it.
 
@@ -4888,7 +4878,7 @@ One breath is all we need.
 
 We are wrong the first time.
 
-That is the part songs would cut away if the Vorth made songs the way men do. Songs like clean teeth and clean victories. The island does not.
+If the Vorth made songs the way men do, this is the part they would cut away. Songs like clean teeth and clean victories. The island keeps the rot in.
 
 Our first snare lies too high. I think of Vorth ankles and Hesh forelegs. I forget the belly.
 
@@ -5012,7 +5002,7 @@ As if I am the one who licked poison-healed skin.
 
 I love him then.
 
-The thought arrives clean and simple and almost knocks the breath from me.
+The thought lands clean enough to steal my breath.
 
 Not hunger. Not use. Not debt.
 
@@ -5130,7 +5120,7 @@ Voss-Marr crawls onto true ground and does not run.
 
 He watches the two smallest creatures in the green hold the apex under.
 
-Mud covers him to the ribs. It has taken the beauty from him, the clean sure shape of the heir, and left a young male with terror in his teeth and shame bright in his eyes. He sees me see it.
+Mud covers him to the ribs. It has stripped the heir-shape from him and left a young male with terror in his teeth. He sees me see it.
 
 That wound will last longer than the mud.
 
@@ -5282,7 +5272,7 @@ Being unkind does not make them wrong.
 
 That is a harder law than mud.
 
-Voss-Marr does not speak first. He lets them bring the edges of the argument. Then he stands behind those edges and becomes their shape. He is good at it. Better than I want him to be. He can make his silence feel like injured order. He can make his wounds visible without seeming to beg. He can make the tribe remember that before I came, every body knew where to stand.
+Voss-Marr does not speak first. He lets them carry the argument out where everyone can smell it. Then he stands behind them, wounded ribs wrapped, mouth shut. He is good at silence. Better than I want him to be. His quiet makes the old order look injured. It reminds the tribe that before I came, every body knew where to stand.
 
 I have brought meat and paths and Hesh teeth.
 
@@ -5328,7 +5318,7 @@ Grist stares at the meat. Red-Shoulder stares at me.
 
 It is not enough for anyone.
 
-That is how I know it may hold.
+No one cheers. That is how I know it may hold.
 
 Grist takes the meat and backs to the outer ring. Red-Shoulder spits into the ash but does not strike. Kala lowers herself slowly. The blind-eyed female stays standing one breath longer than Kala, long enough to make sure the tribe sees she chooses to lower herself, not obey.
 
@@ -5402,7 +5392,7 @@ So are the five who have made a weather around him.
 
 Red-Shoulder's mouth opens, then closes when Bent-Jaw's hand touches his arm. The blind-eyed female makes a soft click in her throat. The two scarred brothers look at Voss-Marr first, not Gull-Marr.
 
-That is the true insult.
+The insult is not that I may stand there. The insult is that Voss-Marr must watch me be allowed.
 
 The seer has not only skipped Voss-Marr.
 
@@ -5454,7 +5444,7 @@ The part of me that survived the hold knows how. Yield. Flatten. Make no shape. 
 
 But the home behind me is not lent anymore. Kala gave me a place among the dead. Torn-Ear lifted my wrist. The tribe followed my marks. Marrow carries my name for him like a coal.
 
-If I step back, all of that becomes something I borrowed.
+If I step back, the lip was never mine. Only lent.
 
 I touch my name behind my teeth.
 
@@ -5836,7 +5826,7 @@ That is why I know it can be taken.
 
 For three days after Gull-Marr yields, the island gives me peace.
 
-Not safety. The green never gives that. Safety is a word men invented for places they have not read closely enough. The island still has teeth under leaves, fever in the mud, water that looks sweet until the gut cramps around it. But the tribe turns when I move. The young ones watch me openly now. The scarred and crooked ones come nearer the fire. Even the strong males who used to look through me have learned to look at the ground first and then at my face.
+Not safety. The green never gives that. Safety is what men call a place before it opens its mouth. The island still has teeth under leaves, fever in the mud, water that looks sweet until the gut cramps around it. But the tribe turns when I move. The young ones watch me openly now. The scarred and crooked ones come nearer the fire. Even the strong males who used to look through me have learned to look at the ground first and then at my face.
 
 I sit on the lip where Gull-Marr sat.
 
@@ -5844,9 +5834,7 @@ It is only stone. Wet in the morning, warm at noon, slick with old ash near the 
 
 Men taught me power by putting a hand on the back of my neck.
 
-The Vorth teach me a different shape. A look can turn a quarrel aside. A piece of meat set down in front of the weakest can shame a stronger hand away from it. A silence can weigh more than a blow if everyone knows the blow is waiting behind it.
-
-I am learning.
+The Vorth teach me a different count. A look can turn a quarrel aside. Meat set before the weakest can shame a stronger hand away from it. Silence can weigh more than a blow if everyone knows the blow is waiting behind it.
 
 Learning costs more than winning.
 
@@ -5992,9 +5980,9 @@ On the fourth morning I climb the seaward stack to read the tide for river-pig.
 
 Marrow comes with me because he comes when I go, high shoulder raised against the wind, curled hand tucked near his chest. Below us the mangrove mouth opens into pale water. The low tide has drawn the flats bare in long shining ribs. White birds stab at pools. Farther out, haze blurs the line between sea and sky until the world looks unfinished.
 
-I almost miss the shapes because I am happy.
+I nearly miss the boats because I am happy.
 
-That is the danger of happiness. It puts softness over the eye.
+Happiness puts warmth over the eye.
 
 Marrow sees first. His body goes still beside me, so completely that the air seems to move around him and not through him. The curled hand opens once, closes, opens again.
 
@@ -6180,7 +6168,7 @@ Yes, I think.
 
 And something else.
 
-But I have no words for the else. Not in Vorth. Not in the broken human scraps left to me. So I say nothing while the smoke from the water clings to my skin, and the human voices keep moving inside my head long after the camp has gone quiet.
+I have no word for it. Not in Vorth. Not in the broken human scraps left to me. So I say nothing while smoke clings to my skin and human voices keep moving inside my head long after the camp goes quiet.
 
 # Chapter 20: The Slavers Camp
 
@@ -6208,7 +6196,7 @@ I lie under cut brush and make my skin stop crawling.
 
 The camp moves by rules.
 
-That is the first truth I read once the fear settles enough to let my eyes work. Not chaos. Not just many men. Rules. Owners walk slowly, hands mostly empty, as if weight itself is beneath them. Owned men carry crates, poles, water skins, bundles of net, iron hooks wrapped in hide. If an owner turns his head, an owned man moves before the order is finished. If an owned man slows, a lash touches the air near his back. Not always the skin. Often near it.
+Once fear loosens enough for my eyes to work, I see no chaos. Owners walk slowly, hands mostly empty, as if weight itself is beneath them. Owned men carry crates, poles, water skins, bundles of net, iron hooks wrapped in hide. If an owner turns his head, an owned man moves before the order is finished. If an owned man slows, a lash touches the air near his back. Not always the skin. Often near it.
 
 That is worse in its way. A blow teaches pain. The near blow teaches the body to carry pain before it arrives.
 
@@ -6248,21 +6236,17 @@ Two men carry a body past the slate while he writes. The body is wrapped in sail
 
 Cost.
 
-The word has not come to me yet.
+The word has not come to me yet, but I know the hand around its throat.
 
-I know the shape.
-
-The body becomes a mark in charcoal. The mark becomes part of whether the camp stays or goes. A life has been changed into a number that can argue with profit.
+The body becomes charcoal. Charcoal joins the slate. A life has been made small enough to argue with profit.
 
 Men do not only cage bodies.
-
-They cage meaning until it stops crying out.
 
 I touch the scar at the back of my neck and remember a different cage, built of planks, rope, stink, and dark. The shape changes. The lesson does not.
 
 Men are caged too.
 
-That makes something in me go colder than fear.
+Cold moves under my fear.
 
 The men inside the bars have the same hands as the men outside. Same mouths. Same eyes that understand what iron means. The difference is not shape. It is only who holds the key.
 
@@ -6304,7 +6288,7 @@ Only for half a heartbeat. Only one corner of the mouth. It is gone before anyon
 
 It still reaches me.
 
-There. Not all men are the hand on the neck. Not all human mouths laugh at cages. Some catch a bucket. Some share one hidden breath in the middle of owning.
+There. A hand catches the bucket. A breath passes between owned men while hooks hang nearby. The sight gets under my ribs before I can harden against it.
 
 The wanting opens again, worse because it has kindness in it.
 
@@ -6360,7 +6344,7 @@ The captain smiles.
 
 Not because he is pleased with her. Because a locked box has made a noise and he has found the key.
 
-Power, I am learning, does not always need strength. Sometimes it is the shape of the space everyone leaves around one man.
+Power does not always lift a hand. Sometimes it is the empty ground everyone leaves around one man.
 
 The captain points to the Mure's throat, then to a slate in another man's hand. The man writes. Points to the drying skin. More writing. Points toward the water. An order follows. Two owned men lift the cage and carry it under shade.
 
@@ -6490,7 +6474,7 @@ She is not owner and not fully owned.
 
 At first I read only the wrongness of her position. She moves among owners without belonging to them. She carries bundles, but no chain links her to the collared men. She eats from a wooden bowl near the marked tents, not with the caged and not at the captain's fire. When an owner speaks to a prisoner, she steps forward and gives the meaning back in another tongue. When the caged Mure clicks wetly through its drying throat, she listens, flinches, and turns the sound into human words.
 
-She carries meaning across.
+She carries words across.
 
 My breath catches.
 
@@ -6530,7 +6514,7 @@ Maybe herself. Maybe the caged. Maybe the monster in the trees she only half bel
 
 The captain knows she is trimming the truth. He lets her.
 
-That is worse than catching her. A patient hunter lets the trail run until it leads home.
+Worse than catching her. A patient hunter lets the trail run until it leads home.
 
 My mouth goes dry.
 
@@ -6594,7 +6578,7 @@ She goes still.
 
 Not like prey. Like someone whose guess has become a door.
 
-Her eyes find the frond. Then the root shadow above it. Then the deeper dark where I hold my breath. She should run. She should call the watch. She should be afraid of the monster in the trees because that is the sensible shape of the moment.
+Her eyes find the frond. Then the root shadow above it. Then the deeper dark where I hold my breath. She should run. She should call the watch. She should be afraid of the monster in the trees. Any sensible body would be.
 
 Instead she points to the shell again and repeats the word.
 
@@ -6692,7 +6676,7 @@ I give no answer.
 
 The first rule of the camp is that sound carries iron behind it. A voice from the green would bring watchers, nets, hooks, and men with orders to burn what they cannot cage. So I lie in shadow and take her words like stolen food.
 
-Yara seems to understand the bargain. She never asks for my voice at first. She builds the road one stone at a time and pretends not to see the shape hiding at the other end.
+Yara seems to understand the bargain. She never asks for my voice at first. She builds the road one stone at a time and pretends not to see me at the other end.
 
 Camp.
 
@@ -6750,13 +6734,13 @@ She says a word over the stone, then a different word over the mud beyond it. I 
 
 The road is not only hers now.
 
-I learn quickly because hunger teaches. A starving mouth remembers the path to meat. A starving mind remembers the path to meaning. Soon I know when she points to water and when she warns me from it. I know the difference between fire for warmth and fire as threat. I know the word for rope. For net. For iron. For owned.
+I learn quickly because hunger teaches. A starving mouth remembers the path to meat. A starving mind remembers the path to words. Soon I know when she points to water and when she warns me from it. I know the difference between fire for warmth and fire as threat. I know the word for rope. For net. For iron. For owned.
 
 That last one makes her look away.
 
 Marrow hates every lesson.
 
-He waits above the line with his shoulder low and his crooked hand tight against his chest. Some evenings he brings pieces of home and sets them near my elbow: a river snail, a strip of roasted meat wrapped in broad leaf, a shard of bright shell from the high stones, once a little twist of dried moss from Kala's sleeping place. He does it without drama. That is worse than complaint.
+He waits above the line with his shoulder low and his crooked hand tight against his chest. Some evenings he brings pieces of home and sets them near my elbow: a river snail, a strip of roasted meat wrapped in broad leaf, a shard of bright shell from the high stones, once a little twist of dried moss from Kala's sleeping place. He does it without drama. Complaint would be easier.
 
 Remember, each gift says.
 
@@ -6764,7 +6748,7 @@ I eat the meat.
 
 I keep watching Yara.
 
-She has rules of her own. Never the same path twice. Never more than a handful of words when the watch is fresh. Never fear on her face where the camp can read it. Around the owners she lowers her eyes. Around the caged she softens her voice. Around the captain she becomes so still that stillness itself looks obedient.
+She has rules of her own. Never the same path twice. Never more than a handful of words when the watch is fresh. Never fear on her face where the camp can read it. Around the owners she lowers her eyes. Around the caged she softens her voice. Around the captain she goes still enough to pass for obedient.
 
 But at the mud line, when the dark hides her mouth from camp, she changes.
 
@@ -6786,7 +6770,7 @@ She answers.
 
 She lies.
 
-I know because she points to a false rise, one that floods at high tide and could hide nothing heavier than crabs. The captain watches her finger. He says something. She answers again. Her hand moves closer to the true path, not on it, not away. A hunter's almost.
+She points to a false rise, one that floods at high tide and could hide nothing heavier than crabs. The captain watches her finger. He says something. She answers again. Her hand moves closer to the true path, not on it, not away. Close enough to feed his hunger. Far enough to keep mine alive.
 
 My stomach knots.
 
@@ -6806,7 +6790,7 @@ Higher.
 
 Nearer.
 
-He has learned from the shape of her lie.
+He has learned from the part of her lie she could not hide.
 
 Yara knows it too. I see it in the tightness of her shoulders as she walks back to the cages. She does not look at my hiding place. That mercy is almost cruel.
 
@@ -7074,7 +7058,7 @@ Small.
 
 Certain.
 
-The stone was a gift. In his hand it becomes a measure.
+The stone was a gift. In his hand it is a ruler laid against my throat.
 
 She has told him.
 
@@ -7186,7 +7170,7 @@ No watcher stays in the open.
 
 That makes it worse.
 
-Bait does not always need teeth showing.
+Bait can smile with no teeth showing.
 
 I know bait. A noose under leaves. A crying animal tied near a thicket. Easy meat on ground too clean. The lesson is simple: when the world gives freely, it means to close around the taking hand.
 
@@ -7194,7 +7178,7 @@ I lie in the roots until full dark.
 
 The meat cools. The smell does not. Smoke, fat, salt, human fire. My belly pulls toward it. That hunger I understand and can master. Hunger is honest. It wants, and if denied it curses, weakens, waits.
 
-This is not only belly-hunger.
+Belly-hunger is not the dangerous part.
 
 Marrow knows it too.
 
@@ -7252,7 +7236,7 @@ Friend is the ugliest word in the sentence.
 
 They leave the food and take Yara back with them. She does not look over her shoulder. She does not need to. Her warning remains in the mud where her fingers drew it and then smoothed it away.
 
-Marrow presses a strip of dried Vorth meat into my hand that night when we return to the high stones. His own portion, I think. He gives it angrily, as if kindness disgusts him but not as much as letting me hunger after camp scraps.
+Marrow presses a strip of dried Vorth meat into my hand that night when we return to the high stones. His own portion, I think. He gives it angrily, kindness souring his mouth but hunger after camp scraps souring it more.
 
 I take it.
 
@@ -7612,7 +7596,7 @@ When he leaves, Marrow makes a sound behind me that is almost a whimper and almo
 
 I wait until the camp is quiet to eat.
 
-That is what I tell myself, as if waiting changes the shape of the act.
+That is what I tell myself, though waiting does not clean the act.
 
 At dawn I return to the high stones with salt on my tongue and poison broken in my blood.
 
@@ -7624,7 +7608,7 @@ Voss-Marr watches from the far fire, eyes bright with the first clean hope I hav
 
 The human king is taking human bait.
 
-Let him.
+Let him choke on it.
 
 The thought moves through the tribe like wind through grass.
 
@@ -7672,9 +7656,9 @@ I eat the meat.
 
 Each time the poison fails. Each time I tell myself I have learned something useful: how long the watchers wait, which man shifts too soon in the brush, how Drevan changes bait when the last one does not work, how much he knows of me and how much he guesses.
 
-The worst truth is that I am learning him too.
+The worst part is that I am learning him too.
 
-He is patient, but not calm. The difference matters. Calm has no need under it. Drevan's patience is need held on a tight rein. The island is killing his men. The cages are filling slowly. The mark in the green has become the largest prize because it keeps refusing to become cargo.
+He is patient, but not calm. The difference matters. Calm has no need under it. Drevan's patience is need held on a tight rein. The island is killing his men. The cages are filling slowly. The mark in the green is the largest prize because it keeps refusing the cage.
 
 That should please me.
 
@@ -7738,7 +7722,7 @@ Cruelty remains.
 
 So does need.
 
-That is the trouble with people. They do not stay one shape long enough for hatred to rest.
+That is the trouble with people. They will not hold still long enough for hatred to sleep.
 
 The boy with the salt is called Nerin.
 
@@ -7772,7 +7756,7 @@ As if I can step from the green and lay hands on fever like a king lays hands on
 
 I stay hidden.
 
-That is the truth beneath every noble thought.
+Under every noble thought waits the same ugly want.
 
 Nerin dies on the third morning.
 
@@ -7854,7 +7838,7 @@ Instead it knots the roads tighter.
 
 If I wait, the green may take Yara. It may take the Mure who still lifts its head when she clicks softly through the bars. It may take the collared men who look like me and not like me. It may take the words before I learn enough to ask what I am.
 
-This is the lie the hunger tells best:
+This is the hunger's best lie:
 
 Go down now, or lose the answer forever.
 
@@ -7960,7 +7944,7 @@ Still the down road pulls.
 
 That is the war.
 
-Not tribe against men. Not green against iron. Not wild against camp.
+Not tribe against men. Not green against iron.
 
 The war is inside the breastbone.
 
@@ -7970,7 +7954,7 @@ Both roads are real.
 
 Both roads are mine.
 
-That is what makes choosing feel like cutting off a living part.
+Choosing feels like cutting off a living part.
 
 Near dawn, I wake in Kala's arm with my name behind my teeth.
 
@@ -8016,7 +8000,7 @@ The mark. Drevan Sool. Yara's words. The dead expedition. The men sickening in t
 
 All true.
 
-Truth can still be a lie if it hides the larger truth behind it.
+A true thing can still hide the wound.
 
 I go down because I want to.
 
@@ -8030,7 +8014,7 @@ Because some part of me still believes a hand from my own kind might stay unclos
 
 That part is a fool.
 
-It is also me.
+It is mine.
 
 The camp is quiet when we reach the roots. Too quiet. No low argument near the water barrels. No owner's laugh. No caged Skell scraping at the wood. Even the swarms seem to hold farther back from the fires, black knots circling without landing.
 
@@ -8074,7 +8058,7 @@ Captain.
 
 Come.
 
-That last one lands badly. Not command. Not exactly. A question with rope under it. A plea sharpened into a hook. Maybe she has been ordered to say it. Maybe she means it. Maybe both are true, and she has been given a knife with no clean handle.
+That last one lands badly. Not command. Not exactly. A question with rope under it. A plea with a hook hidden in the soft part. Maybe she has been ordered to say it. Maybe she means it. Maybe both are true, and she has been given a knife with no clean handle.
 
 Her hand, low in the mud, draws the closing fist again.
 
@@ -8146,7 +8130,7 @@ The name is not beautiful because of its sound.
 
 It is beautiful because it is hers and she is afraid when she gives it.
 
-I have seen men throw meat to earn a step. I have seen Drevan lay bait and call it welcome. This is not that. Or it is, and it is also braver than that, and the two truths cut across each other until I cannot separate wound from gift.
+I have seen men throw meat to earn a step. I have seen Drevan lay bait and call it welcome. This is not that. Or it is, and braver too, and the two truths cross until I cannot tell wound from gift.
 
 Then she turns and walks toward camp.
 
@@ -8272,7 +8256,7 @@ Voss-Marr sees it best.
 
 His almost-gentle look deepens.
 
-He has found the clean place to put his anger. Not in a blow, where I can answer. Not in a challenge, where the tribe would remember the lip and the Hesh and the day Gull-Marr stepped aside. He puts it in the tribe's oldest fear.
+He has found the clean place for his anger. Not a blow, where I can answer. Not a challenge, where the tribe would remember the lip and the Hesh and the day Gull-Marr stepped aside. He puts it in the tribe's oldest fear.
 
 Human trouble belongs with humans.
 
@@ -8324,9 +8308,9 @@ High stones?
 
 If Drevan has read the line all the way back to home, staying may only mean waiting for the hand to close around everyone instead of me.
 
-That thought might be truth.
+That thought might be true.
 
-It might be the hunger wearing truth's face.
+It might be hunger wearing truth's face.
 
 I cannot tell anymore.
 
@@ -8348,7 +8332,7 @@ I tell myself I am choosing before Drevan chooses for me.
 
 Maybe that is true.
 
-Maybe bait becomes choice if you walk into it with open eyes.
+Maybe bait can feel like choice when your eyes are open.
 
 Or maybe that is what every trapped animal tells itself in the last breath before the noose pulls tight.
 
@@ -8418,9 +8402,7 @@ We walk without speaking.
 
 After a while his shoulder brushes my leg once. Hard enough to be an accusation. Soft enough to be company.
 
-That is Marrow's mercy.
-
-It does not absolve.
+Marrow's mercy does not absolve.
 
 It stays.
 
