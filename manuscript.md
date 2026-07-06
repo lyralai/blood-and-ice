@@ -8,17 +8,17 @@ On the third day, the lookout sees a ship.
 
 She comes out of the glare bow-first, sails hanging dead from the yards, hull black against the bright water. No wake trails her. No hand moves at her rail. She drifts without hurry, a black thing the sea has not yet decided to swallow.
 
-I am sixteen, which is young enough to be sent where older men prefer not to go. I stand at the rail beside the mate and watch the stranger slide nearer.
+I am sixteen, young enough to be sent where older men prefer not to go. I stand at the rail beside the mate and watch the stranger slide nearer.
 
 I have been aboard the Mercy Bell for seven months and still own almost nothing: a spare shirt patched at both elbows, a bone comb with three teeth missing, and a copper button my sister pressed into my hand before I sailed. I keep the button tied inside my sleeve where dice and debt cannot find it. When the dead ship appears, my fingers go to that hidden lump without asking me.
 
 "Salvage," Vell says.
 
-He says it like prayer.
+He says it like a prayer.
 
 The word moves through the crew. Men straighten. Fear loosens under the smell of profit. A dead ship can mean rot, sickness, pirates, or a curse. It can also mean cargo with no owner left to argue.
 
-Rusk kisses two fingers and touches the little charm sewn to his cap. Tam grins too widely and says a dead captain spends no wages. No one laughs, but several men look toward Vell, and Vell looks at the dead ship as though it has already made him richer.
+Rusk kisses two fingers and touches the little charm sewn to his cap. Tam grins too widely and says a dead captain spends no wages. No one laughs, but several men look toward Vell, and Vell looks at the dead ship like it has already made him richer.
 
 My sister would have seen the lie in it. She was twelve when I left, all elbows and sharp eyes, clever enough to hear a trap before the hinge moved. Coll, she would say, nothing comes free across water. Then she would steal a sweet from the galley and ask whether curses paid in silver.
 
@@ -44,7 +44,7 @@ We make the chains and climb.
 
 The deck is neat.
 
-That is the first wrong sign. I have seen wrecks. A wreck tells its story openly: snapped rope, broken spars, blood dried where men have crawled, cargo spilled like guts. This ship tells nothing. Lines are coiled. A cup stands upright on a hatch cover, with a skin of frozen tea inside it. Frost clings to the brass near the wheel.
+The neatness is the first wrong sign. I have seen wrecks. A wreck tells its story openly: snapped rope, broken spars, blood dried where men have crawled, cargo spilled like guts. This ship tells nothing. Lines are coiled. A cup stands upright on a hatch cover, with a skin of frozen tea inside it. Frost clings to the brass near the wheel.
 
 The captain's door stands open. Inside, a chair has been pushed back from a small table. A quill lies beside an uncorked inkpot, the ink black and frozen solid. On the table sit three coins stacked with a careful thumb's-width between each one, as if the captain has been counting them when the cold reaches him and means to come back after a breath.
 
@@ -54,7 +54,7 @@ Panic leaves mess. Storm leaves mess. Men leave mess when death enters a room.
 
 This ship has been arranged by patience.
 
-The second wrong sign is the galley.
+The galley gives the next.
 
 The stove is cold, but not long cold. A pan sits on the iron with onions inside, white and hard as little stones. Four bowls wait beside it. A spoon lies on the floor below one of the benches. Someone dropped it and never bent to pick it up.
 
@@ -70,7 +70,7 @@ Vell takes the bowl from Tam and sets it down with a hand that is not steady.
 
 No one answers.
 
-The third wrong sign is the smell.
+The smell is worse.
 
 There should be rot. In this heat, dead men swell and burst and turn the air sweet enough to taste.
 
@@ -176,9 +176,9 @@ Heat wakes me.
 
 Not sunlight. Not fire. Heat with weight. It lies over my face and chest like a wet hand, presses the breath back into me, and fills my mouth with the taste of rot.
 
-For a while I lie still.
+I do not move until the thing at my wrist bites deeper.
 
-Mud holds my back. Roots press through my shirt. Something small crawls over my wrist, stops at the blood there, and begins to feed.
+Mud holds my back. Roots press through my shirt. A small black insect crawls over my wrist, stops at the blood there, and begins to feed.
 
 I open my eyes.
 
@@ -194,7 +194,7 @@ I remember the sound men make when they do not care whether a boy lives, only wh
 
 Then the memories break apart. The sea has taken some. Pain has taken the rest.
 
-I make an inventory because inventory keeps fear from owning the whole room.
+I make an inventory because inventory keeps fear from taking all of me.
 
 Right hand: slow, but it closes.
 
@@ -216,7 +216,7 @@ I push myself to my knees.
 
 The world swings. I wait it out with one hand locked around a root. The root is slick as an eel and strong as bone. When my sight clears, I see water below me.
 
-Not sea. A brown channel, still on top, moving underneath. Roots reach down into it like fingers. Something slides just below the surface and leaves a line that opens and closes without a ripple.
+Not sea. A brown channel, still on top, moving underneath. Roots reach down into it like fingers. A dark back slides just below the surface and leaves a line that opens and closes without a ripple.
 
 I keep away from it.
 
@@ -228,7 +228,7 @@ Those are not thoughts in words. Not at first. They are old lessons stored in sc
 
 I stand.
 
-The heat hits harder upright. It fills my shirt, runs down my spine, gathers under my arms. I breathe through my mouth and taste flowers, mold, and something dead nearby. Too much life packed too close becomes another kind of death.
+The heat hits harder upright. It fills my shirt, runs down my spine, gathers under my arms. I breathe through my mouth and taste flowers, mold, and dead meat nearby. Too much life packed too close becomes another kind of death.
 
 I climb away from the channel, one hand on roots, one foot testing before weight. The mud wants my boots. Twice it takes one and I have to drag it free with both hands. A fly as long as my thumb lands on my cheek. I slap it and my palm comes away red. Mine or its. I cannot tell.
 
@@ -270,7 +270,7 @@ When the meat is gone, I search him again. Still no knife. No flint. No cord wor
 
 I take it because the dead do not need luck and I have none.
 
-Something calls above me.
+A low call moves above me.
 
 Not a bird. Too low. Too wet.
 
@@ -320,7 +320,7 @@ That frightens me more than fever would have.
 
 Fever I understand.
 
-This has no shape I know.
+This obeys no law I know.
 
 I touch the copper token at my neck. It is warm from my hand, stamped with a mark I cannot read. The dead boy kept it hidden under his shirt. Maybe it was his god. Maybe his mother. Maybe only a scrap he could call his own.
 
@@ -390,7 +390,7 @@ The laugh comes easier than the first one. Still ugly. Still cracked. But it bel
 
 I wipe the mess with leaves and keep one eye on the sky. Small disrespect is safer than large mercy. I almost thank the bird for reminding me of that.
 
-On the far side of the rock, I find shells caught in a rain hollow. Not sea shells. These are thin as fingernails and blue inside, each one no wider than a coin. They lie in a crescent on dry stone with no water near them. Something brought them here to crack and eat.
+On the far side of the rock, I find shells caught in a rain hollow. Not sea shells. These are thin as fingernails and blue inside, each one no wider than a coin. They lie in a crescent on dry stone with no water near them. A mouth brought them here to crack and eat.
 
 I crouch.
 
@@ -440,7 +440,7 @@ This does not.
 
 I crouch behind the stone and look down through a curtain of wet leaves.
 
-A shape steps into the clearing.
+A body steps into the clearing.
 
 It is not a man.
 

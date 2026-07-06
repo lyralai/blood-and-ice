@@ -2,7 +2,7 @@
 
 **[→ Start at the chapter index: BOOK-ONE.md](BOOK-ONE.md)**
 
-Chapters live in [`chapters/`](chapters/) — first-person present, 30 chapters, 73,711 words.
+Chapters live in [`chapters/`](chapters/) — first-person present, 30 chapters, 73,718 words.
 
 ```
 Prologue                      ch01

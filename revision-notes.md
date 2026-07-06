@@ -118,7 +118,7 @@ Unresolved canon conflicts:
 
 This pass focused on market-facing readiness rather than broad manuscript expansion.
 
-Final chapter-file word count: 73,711 words across 30 chapter files.
+Final chapter-file word count: 73,718 words across 30 chapter files.
 
 Major changes:
 
@@ -126,6 +126,7 @@ Major changes:
 - Updated `README.md`, `BOOK-ONE.md`, `READING.md`, and `_config.yml` so the current branch no longer points readers at superseded chapter paths.
 - Added a submission package under `docs/submission/`: readiness audit, query letter, one-page synopsis, pitch set, and agent research starter list.
 - Made one small final-line adjustment to Chapter 30 so the ending points more cleanly into Book Two.
+- Ran a narrow read-aloud polish on Chapters 1-2 to remove generic first-page phrasing and smooth the prologue/Rook handoff.
 - Rebuilt `manuscript.md` from current chapter files after the Chapter 30 edit.
 
 Submission verdict:

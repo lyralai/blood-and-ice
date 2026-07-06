@@ -5,7 +5,7 @@ An original dark-fantasy trilogy.
 **Book One — "Wild Boy"** follows a feral, enslaved boy wrecked alone on a tropical
 death-jungle that kills every human but him.
 
-> **[→ Start reading Book One](BOOK-ONE.md)** — linked table of contents, 30 chapters, 73,711 words.
+> **[→ Start reading Book One](BOOK-ONE.md)** — linked table of contents, 30 chapters, 73,718 words.
 
 ---
 

@@ -6,7 +6,7 @@
 > things — then his own kind comes across the water and takes everything. At the
 > bottom of the pit, the old blood-force in his veins stirs for the first time.
 
-*Book 1 of the **Blood and Ice** trilogy. Draft complete — 30 chapters, 73,711 words.*
+*Book 1 of the **Blood and Ice** trilogy. Draft complete — 30 chapters, 73,718 words.*
 
 ---
 

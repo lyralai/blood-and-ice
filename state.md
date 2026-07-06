@@ -271,5 +271,5 @@ This is the continuity state after the revised draft pass. It records chapter-by
 
 - No deaths, locations, promises, injuries, or chapter outcomes changed.
 - The pass was line-level voice work: abstract detector-prone phrasing was replaced with concrete Rook perception, ownership math, body cost, and visible social pressure.
-- Canon remains unchanged; final chapter-file word count after the submission-package pass is 73,711.
+- Canon remains unchanged; final chapter-file word count after the submission-package and first-pages polish pass is 73,718.
 - Front-facing package files now use **Blood and Ice**, 30 chapters, and current `chapters/` paths. Older internal/historical docs may still reference prior titles as archive context.
