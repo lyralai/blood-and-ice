@@ -5,7 +5,7 @@
 **Series spine:** Boy → Beast → Great Man  
 **Genre:** Epic fantasy with visceral literary prose  
 **Tonal anchors:** Red Rising urgency · Game of Thrones density · Kingkiller Chronicle craft  
-**POV:** First-person present tense, Rook  
+**POV:** Close third-person past tense (Rook primary, ~70%)  
 **Key lore:** Ice power (his family bloodline) + Blood power (the Red) = never before combined. Most magic is gone from the world but has been slowly coming back. The Red hasn't found a host in thousands of years — until Rook. **Book 1 is set in the tropical south (a Sothoryos-style death-jungle); the ice half of his heritage stays fully dormant there — it has no cold to answer — and surfaces only on colder ground in Books 2-3. Book 1 shows the BLOOD half only: his body shrugs off the fevers, rot, and venom that kill every other human. Book 1 = the Blood; the Ice comes later.**
 
 ---
@@ -15,7 +15,7 @@
 **Premise:** A lone human boy, shipwrecked on a tropical death-jungle no human survives, is taken in by the wild things and rises to be their king — until his own kind sail in and bait the one hunger no crown can fill.
 **Target length:** ~75-90k words (~28 chapters, 5 parts)
 **Structure:** Tarzan-of-the-Apes bones (survive → raised by the wild → king → his own kind arrive → the choice), fused with Red Rising's engine (loss forges the climb; capture is the doorway).
-**POV:** First-person present, Rook.
+**POV:** Close third-person past tense (Rook primary, ~70%). Multiple POVs allowed (Kala, tribe members, slavers, the girl) when the scene demands it.
 **Heritage:** MYSTERY only — never named or explained in Book 1. Powers dormant (one faint flicker at the very end). The tells are reskinned to the tropics — the cold/ice heritage has no cold to answer here, so Book 1 shows the BLOOD half: **his body shrugs off what kills every other human** — the fevers, the rot in a wound, the venom, the water that drops the slavers and the dead expedition alike. Wounds close in days. Plus a **relic-sigil he half-knows**. The truth surfaces in Book 2.
 **Driving goal:** Belonging. A stolen child the world keeps taking from. The monster-family gives him the first home and crown he has ever had; humanity (the slavers, who come back) baits that exact hunger and takes everything. The beast doesn't need anyone — that's the threat.
 
@@ -38,13 +38,13 @@
 5. **First Blood** — first kill and first tools; then the jungle's first true wrongness — sign of something monstrous he reads as just a hard island.
 6. **The Wreck** — a dead older expedition: a broken ship, bones, journals, charts, a knife, a relic bearing a sigil. Every human here died of the fevers he doesn't feel. He takes the relics; meaning-before-speech begins; the sigil resonates from his drowned-deep memory. He doesn't grasp he is surviving what killed them.
 
-### PART TWO — TAKEN IN (ch7-12): the monster-people; recognition; the found family. (the heart begins early.)
-7. **The People** — first sight of a monster *people* — a tribe, young, a society. Terror and fascination.
-8. **Taken In** — a Kala monster takes him in / the tribe spares him: they *witnessed* him survive the fever-death, and his wrongness reads as omen or kin. The first being to choose him since his mother.
-9. **Among Them** — he learns their ways and tongue; voice and self return *through the family*; his first word since the silence (no romance — the heart is the family).
-10. **The Weaker, the Smarter** — weaker than the monsters, smarter; he earns his place by intelligence (tools, fire, the noose trick).
-11. **Marks and Meaning** — he self-educates further from the relics; the sigil mystery deepens; the tribe's seer/elder senses something old in his blood (unnamed).
-12. **Belonging** — the high-water mark of family; the only home he's ever had. (the engine, paid in full before it's torn away.)
+### PART TWO — THE KALA AND THE TRIBE (ch7-12): the first bond, the capture, the ritual, the berserk. (the heart begins early, then breaks and deepens.)
+7. **The People** — first sight of a monster *people* — a tribe, young, a society. Terror and fascination. He avoids them.
+8. **The Kala** — a solitary monster (the Kala) finds him. Not the tribe — her alone. She is separate, maybe exiled, maybe simply lone. She takes him in: the first being to choose him since his mother. Bond, trust, a fragile found-family of two. She teaches him survival the jungle way.
+9. **The Capture** — the tribe captures Rook. He is taken during a hunt or patrol; Kala is not there. She returns to find him gone — no body, no sign of death, but the jungle does not give back what it takes. She searches. (POV shift: Kala's perspective — searching the jungle, fearing he is dead, the first being she chose in years and now possibly gone.)
+10. **The Ritual** — the tribe performs a customary ritual on all captives/outsiders. This is a universal practice — every people in this world does it, as unremarkable as binding a wound or marking a kill. It is not magic. It is custom. But when they perform it on Rook, something goes catastrophically wrong. For reasons no one can explain, it triggers a **berserk state** in him and only him. His blood heritage wakes — violently, terrifyingly. (POV: the tribe watching this happen. The horror of a captive boy doing something impossible.)
+11. **Fear and Respect** — the tribe does not understand what happened, but they know what it means: this boy is *something*. They fear him. They respect him. He becomes significant — not prey, not captive, but an omen, a danger, a thing to be kept close and watched. The seer/elder senses something old in his blood (unnamed). Rook himself does not remember the berserk clearly — fragments, heat, the taste of copper.
+12. **Reunion** — the Kala finds him again. She searched, she feared him dead, and now she finds him alive but *different* — something woke in him that neither of them understands. The reunion is the emotional high-water mark of Part 2: the only home he's ever had, returned to him, but changed. (The engine — belonging — paid in full before it's torn away in Part 5.)
 
 ### PART THREE — KING OF THE WILD THINGS (ch13-17): rises → challenges the king → king.
 13. **Standing** — he earns standing; the brutal monster-king marks him as a threat.
@@ -72,9 +72,9 @@
 - **Belonging engine:** the monster-family gives him the first home/crown he has ever had; humanity baits that hunger and takes it. Taken twice by his own kind.
 - **Tarzan bones, different blood:** survive → raised by the wild → king → his own kind → the choice.
 - **The Kala = his Eo:** the forging wound that powers the Red Rising climb of Books 2-3.
-- **Heritage as mystery:** the reader knows something is wrong/special (he survives what kills everyone); it is never named until Book 2. Tropics keep the ice dormant — Book 1 is the Blood.
+- **Heritage as mystery:** the reader knows something is wrong/special (he survives what kills everyone; the berserk at the ritual); it is never named until Book 2. Tropics keep the ice dormant — Book 1 is the Blood. The ritual berserk is the first dramatic awakening; the pit at the end is the deepening.
 - **Scale:** incredible on one monstrous island, nobody in the wider world knows or cares yet. Promise, not greatness.
-- **The cliffhanger:** caught because he cared; everything built gone; property again; the pit his next island; the climb begins.
+- **The cliffhanger:** caught because he cared; everything built gone; property again; the pit his next island; the climb begins. The Red that woke in the berserk is now a presence — unnamed, not understood, but there.
 
 ---
 
@@ -82,7 +82,7 @@
 
 **Premise:** Dropped to the bottom of a city built on blood, the wrong-blooded boy who would not die finds the one place on earth where his blood finally *wakes* — and learns, with his murdered family's memory pouring back through it, that he is the thing the whole vertical machine is built to harvest, the thing its enemy is built to hunt, and the only thing that can hold both off. He climbs from the bled at the bottom toward the blood-courts at the top, turning the city's appetite into law one debt at a time — while the Red learns to wear him, the four factions (arena-masters, blood-brokers, the Temple-of-the-Red, the blood-keeper houses) each make a different weapon of his blood, and out past the walls the Cold the tithe was built to hold begins, for the first time in living memory, to come. The frozen four-tribe political machine is converted into blood-city factions; the crown-with-terms / first-restraint mechanic becomes the leash on his power; the corruption ladder is the cost (every use of the Red is a step toward becoming the Bloodless); *unite the clans* becomes *unite the bled*; the horror shifts from cannibal-hunger to the cold logic of ruling by the count — the Red learning administration. Marrow is the band already two and the human anchor; Voss-Marr is the distant nemesis holding the broken Vorth back on Saqarro; Yara is the deferred ember and the clean name for the Eye-and-Thorn; the Red is kept UNSOLVED. Ends on the failing tithe and the Cold at the walls → Book 3.
 
-**Target length:** ~95–110k words (~31 chapters, five parts). **POV:** Rook, first-person present. **Timeline:** Rook ~13–14, months to a year.
+**Target length:** ~95–110k words (~31 chapters, five parts). **POV:** Close third-person past tense (Rook primary). **Timeline:** Rook ~13–14, months to a year.
 
 **Full chapter-level outline — faction map, mythology payoffs, cast arcs, and the Book-2 → Book-3 handoff:** see **[`book-two-outline.md`](book-two-outline.md)**.
 
@@ -105,7 +105,7 @@
 #### Chapter 1: The Ledger
 - Winter aftermath. Systems strained. Food, debt, roads, small tribes. The political machinery Rook built in Book 2 is barely holding.
 - He needs to feed people, hold alliances, and prepare for what's coming from the mainland.
-- **Voice note:** Competence under pressure. Rook has learned to think in systems — but the beast in him hates it.
+- **Voice note:** Competence under pressure. Rook has learned to think in systems — but the beast in him hates it. (Close third-person past, Rook POV.)
 
 #### Chapter 2: The Faction
 - Dremm's old faction (or its remnants) pushes for old Khar Vane ways. Violence. Sacrifice. "Useful" answers to scarcity.
@@ -261,7 +261,7 @@ Rook is a stolen child. He was taken from family he can't remember — just hand
 - Book 3 draws on the systems/political chapters but reframed as consolidation/conquest.
 - Yara (the girl) is the emotional spine of all three books. Named. Introduced in Book 1 Ch13. First word Rook speaks in Ch14.
 - The lore (ice + blood, magic returning) needs to be seeded subtly in Book 1 and paid off across Books 2-3.
-- Voice consistency is critical: feral first-person throughout, with the prose itself reflecting Rook's mental state (wordless → sharp → layered → fractured → whole).
+- Voice consistency is critical: feral close third-person past throughout, with the prose itself reflecting Rook's mental state (wordless → sharp → layered → fractured → whole).
 
 ---
 

@@ -6,19 +6,25 @@
 
 ## Format & POV
 
-**Primary POV: First-person present tense (Rook). Immersive. No narrator looking back.**
+**Primary POV: Close third-person past tense (Rook). Tight narrative distance — the camera sits just behind Rook's eyes.**
 
-The reader IS Rook. Every sensation is felt now. Every choice is made blind. No safety net of reflection.
+The reader is inside Rook's experience without the constraint of "I." Every sensation is felt through his body. The narrative voice channels his vocabulary, his rhythm, his feral attention — but uses "he" not "I," and past tense not present. This keeps the immersion of first-person while opening the story to multiple POVs when the plot demands it.
 
-**Multiple POVs allowed.** Not every chapter must be Rook. Other characters can carry chapters when:
-- Rook is absent from a scene that matters (political maneuvering between tribes)
-- A scene is more powerful seen from outside Rook (someone watching the Red take over)
+**Why close third past (not first-person present):**
+- Epic fantasy readers and reviewers expect and settle into third-person past. First-person present reads as YA/dystopian to much of the adult fantasy audience.
+- Audiobook narration flows naturally in past tense. Present tense is exhausting over long-form audio.
+- Multiple POVs are structurally necessary (Kala searching for Rook, the tribe witnessing the berserk, the slavers' perspective). Close third handles this cleanly; first-person locks you to one viewpoint per scene.
+- Almost nothing is lost: the body-first, sensory immersion carries over perfectly. The narrative distance is near-zero when done right.
+
+**Multiple POVs.** Not every chapter must be Rook. Other characters can carry chapters when:
+- Rook is absent from a scene that matters (Kala searching the jungle for him, thinking he's dead)
+- A scene is more powerful seen from outside Rook (the tribe witnessing the berserk; someone watching the Red take over)
 - A character's interiority reveals something the plot needs (a slaver weighing his catch; Yara reading the sigil; the seer's dread)
 - It creates dramatic irony (the reader knows something Rook doesn't)
 
 **Secondary POV rules:**
-- Any non-Rook POV is also first-person present tense (consistency of format)
-- Each POV character must have a distinct voice — a slaver thinks in prices, Yara in escape-routes, the seer in omens
+- All POVs are close third-person past tense (consistency of format)
+- Each POV character must have a distinct voice — a slaver thinks in prices, Kala in scent and movement, Yara in escape-routes, the seer in omens
 - The POV switch must be obvious within the first sentence (named character, their context)
 - Rook should carry at least 70% of the book's chapters — he is the spine
 - The Red never gets its own POV. It is only ever felt from inside someone else
@@ -36,7 +42,7 @@ Emotion is physical. Always. The reader feels the fist before they understand th
 - Every chapter ends on a hook — a question, a revelation, a threat
 - Momentum above all. The reader should never want to put the book down
 
-**Rule:** If a feeling isn't physical, cut it. "I was afraid" is banned. Show the body.
+**Rule:** If a feeling isn't physical, cut it. "He felt afraid" is banned. Show the body.
 
 ### 2. Rothfuss — The Craft
 
@@ -152,7 +158,7 @@ A line that is beautiful but does nothing is the most dangerous kind of line in 
 ## What This Book IS
 
 - **Epic fantasy** — secondary world, magic system, tribes, politics, scale
-- **Red Rising engine** — propulsive first-person intensity, emotional gut-punches, rising from nothing
+- **Red Rising engine** — propulsive intensity, emotional gut-punches, rising from nothing (adapted to close third-person past)
 - **Game of Thrones world** — moral complexity, real consequences, factions that make sense, no one is safe
 - **Kingkiller Chronicle prose** — beautiful, intimate, layered. Magic that feels deep. The gap between myth and man
 - **The series spine:** Boy → Beast → Great Man. Every voice choice serves this arc
@@ -163,7 +169,7 @@ A line that is beautiful but does nothing is the most dangerous kind of line in 
 ## Revision Standard
 
 When revising a chapter, check:
-1. Is it first-person present tense with no narrator reflection?
+1. Is it close third-person past tense with tight narrative distance on the POV character?
 2. If non-Rook POV, is the voice distinct and the switch clear?
 3. Is every emotion physical (Brown)?
 4. Do metaphors recur and deepen (Rothfuss)?
