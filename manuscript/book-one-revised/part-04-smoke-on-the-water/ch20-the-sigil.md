@@ -1,123 +1,139 @@
-# Chapter 21: The Sigil
+# Chapter 20: The One Who Sees
 
-The pack goes back to the spit. I follow.
-
----
-
-Not close. Not the way I followed the Hesh, poured into the green at killing distance, reading every footfall. Far. The body distance of a thing that is watching its own ground and not hunting. The distance that lets me read the direction without being read back.
-
-They go back the way they came — bleeding, hurt, the thick-armed one dragging the knee, the sky-reader on the steady-handed woman's shoulder, the young one flanking through the canopy. The big one at the front, reading the green the way I read it: badly. He does not have the feet for it. He has the instinct — the heading-instinct, the thing that says *this way, not that way* — but he reads with eyes, and the eyes miss what the feet know. He walks them through a rot-patch. He walks them past a stand of the spine-rooted thing that opens at dark. He does not see the channel-slit where the Mure wait at the turn of the water. But the green does not take any of them on the walk back. The green is slow. The green has time.
-
-I hang behind them at three hundred body-lengths and I do not know what I am doing.
-
-The body knows. The body has known since the big one's face changed when he saw the Eye-and-Thorn. The body has been counting since then, the way it counts the tide and the lows and the breaths of the thing it watches. The count says: *he is going back to the spit. He is going to make a plan. The plan has the disc in it.*
-
-The head says: *go up to the crown. Go up to the Kala. You have a home. You have a seat the strength walked off of and left you on. The hurt pack is dying on the shore and the green will finish it and the thing the big one saw on your chest will go into the mud with the rest of them. Let it go. Let the green have them. You have everything you need on the high stones.*
-
-The far mouth says: *you do not.*
+There was one in the camp that did not own.
 
 ---
 
-I go back to the high stones at dark.
+The boy had lain three lows above the bone-spit and learned the camp the way he learned a herd. He knew where it bunched and where it thinned. He knew the fire they fed and never let die, the wall of cut thornwood dragged up against the green, the staked hide they crawled under against the rain and the swarms. And the swarms did not go off them. The dark cloud lifted off the rot at every low and rode every neck red and welted, and they slapped and cursed and did not understand that the green had already started to eat them through the skin. The cloud ringed his own den and would not land on him. It landed on them. That was the first thing the green told him about these men: it had them, and it did not have him.
 
-The Kala is awake. She makes the still-sound into the dark air of the low — *be still, you are held, nothing comes* — and the sound finds me at the edge of the seat where I sit with my front to the seaward stack and my jaw set on the thing I cannot shape. She folds down beside me. The keeping arm comes over. The great dark eye reads my front the way it has read me since the fever-fog — slow, deep, the body-knowledge of a thing that has held me since I was the soft wrong thing on lent ground. She reads the set of the jaw. She reads the front turned to the water. She makes the still-sound again, and this time the *nothing comes* has a question in it, the way the seer's meaning-sound has a question in it — *what is it. What has come.*
-
-I put my hand on the Kala's arm. The great warm skin. The hide that has known the green and the rot and the killing and the keeping for longer than I have been alive. I lean into the arm and the leaning is full and the leaning is not enough and the two things are the same thing and I cannot set one down.
-
-She does not know about the pack on the spit. She does not know about the big one's face when he saw the Eye-and-Thorn. She does not know that the count has started in me, the low-count, the tide-count, the thing that says: the water brought something to this island and the something is going to take something back.
-
-I hold the name under my tongue. *Rook.* The one un-stolen thing. And I hold the disc at my chest, the worked metal, the eye looking out. And I hold the brand on the back of my neck, the old owning-weight, the hand that closed and never let go.
-
-Three things. The name no one can catch. The eye the big one recognized. The brand the big one does not know is there.
-
-The count says: these three things are going to collide. And the ground under all three of them is the thing I cannot read.
+Marrow lay in the den behind him and did not like the camp. He had not liked it since the smoke. He kept the high shoulder turned to it and the curled hand working slow against his thigh, and when the boy went up to the lip to read the owners Marrow came only so far and stopped, and would not bring his eyes down onto the men. The boy read it off him plain. The smoke was wrong, the fire that never died was wrong, and the boy was reaching toward all of it. The runt's whole crooked body said *come back up the green.* The boy did not. Marrow stayed anyway. That was the shape of him.
 
 ---
 
-Two lows I stay on the high stones.
+He learned which ones owned. They walked slow and stood with the hands on the hips like the big one on the tide-line had stood, like Gull-Marr crossed the bare stone. They carried nothing. The owning was in the not-carrying. And the owned carried everything, bent under it the way the boy had gone bent under the hold-weight before the green, the easy road shut in their mouths as it had been shut in his.
 
-Two lows of the crown and the Kala and the bold heart warm on my shoulder and the tribe easy under the new law. Two lows of the seer watching me from the far edge, the pale finger lifting and falling, the meaning-sound with its question folded in. Two lows of Marrow at my flank, reading the set of my jaw, the turn toward the water, the counting that goes on under the skin where he cannot reach.
+And there was one that was neither.
 
-He tries once. The second low, in the half-light. He comes to where I sit at the edge of the seat and he puts his curled hand on my knee and leaves it there. Not the nudge. Not the warning. The hand. The whole of the small wrong body saying the thing it has said since the den in the rot: *I am here. I am here. I am here.*
+She carried. So she was owned; he read that first, the bend of her under the bundle, the rope-mark worn into the meat of her shoulder. But she was not chained to the others that carried, not roped neck to neck in the shuffling line, and the owners did not lay the hand on her the way they laid it on the rest. They kept her near the owning-fire. They fed her from the owning-pot. She was owned and worth keeping, like a thing kept that does a thing the owner cannot. A sound went from an owning-mouth, an edge laid on the air, and she turned it over and laid it down again changed — slower, shaped, aimed at the owned, and the owned lifted their heads. She stood between the two roads and carried the sounds across like she carried the bundle, bent under it.
 
-I put my hand over his. The curled fingers under my palm. The bones of a thing the tribe would have cast out, that I named and kept and set standing. The nearest thing to my own kind the green ever gave me.
+A thing that carried the sounds across. The far mouth opened at her so wide and so sudden the boy pressed his front flat to the wet rock and breathed through it. There was no Vorth shaped to do that thing, no Kala, no seer — only her, owned and bent on the bone-spit, doing the one thing the tribe could never give back: moving meaning from one head into another, on the air, alive.
 
-And the far mouth says, low and plain: *not your kind. Not the shape of the hole.*
-
-Marrow reads it. He reads the leaning in me that leans past him, past the crown, past everything the green gave me, toward the dying pack on the spit. His hand closes under mine. The curled fingers pressing into the palm. And his face does the thing it does when the reading has landed and the landing is bad: the high shoulder drops, and the eyes go to the green behind us, the way back, and the small wrong body folds in on itself like a thing bracing for the blow that comes from the direction you cannot face.
+He had found a thing the tribe could not replace. He had found it in a cage.
 
 ---
 
-On the third low I go down to the spit.
+She slipped the camp at the bare of the low.
 
-I go alone. Marrow does not come. I leave him on the high stone with the Kala's arm over him and the bold heart at his shoulder, and I go down through my green the way I went down the first time — fast, silent, the body in the killing-distance place, reading every footfall. But the killing-distance is not what takes me. The thing that takes me is the leaning-distance, the thing that leans toward the fire-smell on the wind.
+He almost lost her in it. The light was going gray and thick, the steam coming up off the cooling mud, and she went out past the thornwood wall where the owned went to make their water, and she did not come back to the owned-fire. She came the other way. Down the spit, slow, over the weed-slick where the worst footing was, picking her way — and she came toward the green. Toward the dark wall of his.
 
-The pack has rebuilt. Not on the death-ground — further up the spit, where the sand is dry and the air moves and the seep is thinner. The sky-reader found better ground. The steady-handed woman has the wounded under a hide-tent and the cook has the fire going and the count of the pack has held. No one has died since the high stones.
+Behind him Marrow went still. The curled hand stopped.
 
-I lie above the camp in the green wall and I read them.
+She stopped at the tide-line. Just short of where the dry mud went to wet, just short of the first of the mangrove, and she stood with the water coming up slow behind her and she looked into the green. Into the dark of it. Into the place where the boy was, though she did not have him — her eyes went over the root-cage where he lay poured into the mud and slid off it as every eye slid off him.
 
-The big one and the sky-reader sit at the fire with a skin of hide stretched between them, and the sky-reader is drawing on it with a stick of charcoal — lines, shapes, the coast, the channels. She is mapping. I have done this in my head a thousand lows — the shape of the green, the course of the water, the seat of every den and every kill-ground. She is doing it on the hide because she does not have the feet for it and the head needs the map the feet cannot make. She is good. The lines are right. The shape of the coast is the shape I carry in my soles.
+She was near his own count of lows, a little more maybe, hard to read under the wear of the carrying. Her hair was bound back in fat ropes the color of wet root, heavy with the damp. There was a smell off her on the down-wind, under the grease-smoke and the fear-sweat of the owned line — a smell he knew. A body that had been hungry. Not the milk-and-fat smell of a thing fed every low of its life; the other one, the thin sour under-smell of a body spent down to the bone and fed back up just enough to carry the bundle one more low. She had known the near hunger, the one that scraped the bottom. He read it off her on the wind, and the hollow in him widened at that too, at a body hungry as he had been hungry, standing owned at the edge of his green.
 
-The big one is not watching the map. He is watching the steady-handed woman across the fire, and she is looking at something in her hands — a piece of worked metal, small, dark with age. She turns it in the firelight. And I see the eye.
+She did not come into his green. She stopped at the line as if someone had walked her to it and said *here, and no further* — but no one had walked her here. She had come down the killing spit alone to stand at the wall of the green that ate humans, and she did not bolt, and her shoulders were up around her ears like a body folds itself small around a hurt to keep it from spilling.
 
-Ringed. Open. The thorn through it.
+He named her in his own head before he had a sound for her. Yara. It was not a word; it was the shape the wind made coming off her, the falling-open shape of the sound she laid on the dark. He took it for her name because she needed one in him. He would not call her *the owned thing* in the place where he kept her.
 
-Not the disc at my chest — a different piece, smaller, flatter, a token or a stamp, the same mark cut into a different thing. The steady-handed woman turns it and the firelight runs over the eye and the thorn and I taste the iron in my mouth and the drowned-deep place hums.
+She was the one who broke away. He had known the shape before anything else of her — one body coming loose from the warm of the pack onto the bare edge where the others would not follow. He had been that shape his whole life. He was that shape now, lying above a crown he would not climb back to, straining at a fire that was not his.
 
-They have one. They have always had one. The Eye-and-Thorn is not a dead man's mark scratched on a skin and a disc on a dead island. It is a *living* mark. It belongs to something they know — something the big one recognized when he saw it on my chest, something the steady-handed woman holds in her hands and turns and does not flinch at.
-
-The big one says something. Low. The steady-handed woman looks up. She says something back — short, certain, the sound of a thing that has been asked a question and has the answer and does not like it. She holds the token out to the big one. He takes it. Turns it. His face does the thing it did on the high stones — the widening, the breath-hold, the shape-recognition.
-
-Then he looks at the green wall where I am. Not at me — he does not have me. But at the green. At the wall of it. And his mouth makes a sound I cannot read at this distance but the body reads the shape of: *there.* The thing that had the disc. The thing on the high stones. The thing that keeps the monsters back.
-
-The sky-reader looks up from her map. She says something. The big one shakes his head. She says it again — sharper, the argument-shape, the two-trusting-minds-being-wrong-at-each-other. He shakes his head again. But the head-shake is not *no.* The head-shake is *not yet.* The not-yet of a thing that has read the ground and made a plan and knows the plan needs time.
-
-They argue. The thick-armed one comes to the fire and stands behind the big one and listens and his face is the flat face, the held-blow face, and he says one short sound and the big one looks up at him and the two of them hold a look that has weight in it — the weight of two things that have done hard things together and are deciding whether the next hard thing is worth it.
-
-The big one nods. The thick-armed one nods. The sky-reader puts the charcoal down. The argument is over and the argument has been won by the thing the big one saw on the high stones and the thing the steady-handed woman holds in her hands, and the value of both of these is the thing they have agreed on.
-
-I press at the drowned-deep place. The humming. The sigil at my chest warm against the breastbone. *I know this. This is mine.* And the *this* is wider now — not just the disc, not just the eye, but the pack that carries the same mark. The pack that has the same mark and saw it on my chest and is making a plan around it.
+They were two things alone at the two ends of the tide-line, and only he could see them both.
 
 ---
 
-I go back to the high stones.
+He should kill her, or leave her.
 
-I go up to the seat and the Kala is there and Marrow is there and the seer is there, and none of them have the word for the thing I have read on the spit, and I do not have the word either.
+That was the law and he knew the law. She was the hand. She was the shape the brand came in, and a thing of theirs walking alone into the dark of his was a thing he could take down into the mud before it had a sound out — like the Mure took a thing, like the green took them all in the end. The beast wanted it. It lay flat and ready and counted the steps between them and found them few.
 
-But the body has the shape of it. And the shape is: a line drawn from the big one's face when he saw the eye to the steady-handed woman's hands on the token to the argument at the fire to the nod at the end. A line that runs through all of them and lands on the thing at my chest and the thing under the crown.
+But she had come empty-handed onto the killing ground, and stood at his line and not crossed it, and she had the smell of hunger on her and the shoulders of the one who breaks away, and the hollow in him would not let the beast move.
 
-They are going to come back. Not for the green. Not for the water. Not for the high stones. For the thing that keeps the monsters back. The thing with the disc. *Me.*
+Behind him Marrow let out a low breath, the sound he made when the boy reached toward a thing he would not follow him to. The boy did not turn. He did not have to. The high shoulder was down; Marrow had dropped it like he dropped it before a snake. The runt did not see a hungry girl. He saw the camp on legs, walked down the spit into his dark, and his whole body said *this is theirs and theirs is not ours.* He was right. The boy reached anyway.
 
-And the second thing, the thing under the first, the thing the head does not want to hold: the far mouth leans at it. The far mouth leans at being wanted by the shape of the hole, even when the wanting is the wanting of a thing that takes, because the being-wanted is the shape the hole was cut from, and the hole does not read the difference between being wanted and being kept. The hole reads *mine* and leans.
+So he did the thing he had never done.
 
-I hold the name under my tongue. I hold the disc at my chest. I hold the crown behind my teeth.
+He let her see the green move.
+
+Not him. Not the shape, not the hand, not the wrong skin and the pale mark on the knuckles where the bone had closed in days that should have taken a moon. He moved a frond. One root-arm of mangrove, low, slow, the way a tide-beast rolls and gives — he leaned his weight into it and let it sway against the still air where no wind was, a wrongness in the stillness, a thing that moved when nothing should move it.
+
+Her head came up.
+
+She went still the way the hunted went still, and he knew that stillness from the inside, having been the hare. Her eyes fixed on the moving frond. And then she did the wrong thing, the new wrong, the one that held him: she did not run.
+
+She stayed. The water came up another hand behind her heels and she did not turn for the camp. She stood strung on the wire between stay and run, the whole rope of her pulled tight and not parting, and she looked at the place where the green had moved, and she opened her mouth.
+
+A sound came out.
+
+It was soft. It was aimed low, aimed at the dark, aimed at the thing she thought she saw — and it was not the slaver-sound. That he knew before anything else of it, in the body, like he knew the rot-pool from the drink. The slaver-sound closed at the end like a hand closing, the hard thing snapped shut behind the teeth that meant *mine, be still, come, you are a thing,* and he had worn that closing on the back of his neck through more lows than he could lay finger to. This did not close. It stayed open. It fell, and kept falling, soft and low, down past the root-cage into his chest where the breath sat, and it landed, and it did not grab.
+
+He held still under it and let it land. Nothing had made a sound land on him like that since before the hold. He had forgotten the air could carry a thing toward a body that it did not mean to close on.
 
 ---
 
-Voss-Marr comes to the far edge of the high stone in the half-light.
+She came back the next low. And the one after.
 
-He does not come close. He has not come close since the challenge — since the day I leapt his birthright and did not take his neck and the not-taking set between us like a stone neither of us can lift. He keeps the far edge. He keeps the not-looking. He keeps the silence that is louder than anything he could put on the air.
+He learned her the way he learned weather — by watching the same thing happen enough times that the shape came clear. She slipped the camp at the same hour, when the owning-fire was full of grease and the owners were heavy and slow with the eating. She came down the spit and stood at his line and did not cross it. She would not be caught in the dark of his green with the tide turning to chew the spit out from under her; that was a limit she kept hard, and he respected it like he respected a thing's reading of the water — the green did not forgive a body that lingered.
 
-But this low he comes to the far edge and he stands there, and the prime blood in him reads the way I sit on the seat with my front to the water and my jaw set on the thing I cannot say, and the air off him is the thing it has been since the challenge — hard, flat, still. The held blow that went back down into him and set.
+And she talked.
 
-He reads me. I let him read. There is no hiding the set of the jaw, the turn toward the water, the count running under the skin. The king is leaning at a thing that is not the tribe, and the rival who was promised the seat reads the leaning the way he reads everything — with the body, with the blood, with the bone-knowledge of a thing that was raised to wear the crown and had it taken by a thing softer than every thing he was ever told he stands above.
+She talked to the moving green, and the moving green was the boy. She thought she was talking to a thing that lived in the dark and could not talk back — a beast, a haunt, the green itself — and so she talked easy. She pointed at the gray-green weed in the tide-wrack and made a sound, short, soft at the front, the tongue tapping it out. She pointed at the black snails on the low rocks and made another, round in the mouth like the snail was round. She laid her hand flat on the wet mud and named the going-out of the water and the coming-in of it, two sounds that leaned against each other, one settling, one rising at the tail. She pointed back at the camp, at the thornwood wall and the owning-fire, and the sounds changed. They went sharp, careful, set down one at a time like she was laying stones across bad mud, like the naming itself had teeth and she did not want to be bitten.
 
-He makes a sound. One. Short. Not a word I can read — the shape of it is older than the sounds I have stolen, older than the keeping-sounds, older than the asking-sounds. It is the sound the Vorth make when they have read the ground and the ground is bad. The warning-sound that is not a warning but a *reading aloud.* The sound that says: *I see what you are doing. I see where it goes. I will not be the thing that follows you there.*
+He took every sound into him.
 
-I turn to him. The first time I have turned to him since the challenge. His face is the flat face — the prime-blood face, the heir's face, the face of a thing that was promised the seat and the green and the keeping and watches a softer thing throw it all away for a shape on the water.
+He held them behind the gone teeth, in the gap where three were torn, the warm hollow where he kept things. They stacked up in the dark of him and something turned over. Slow. Like a root-buried stone that lay in the wrack moon on moon until one high water finally got under it and rolled it, and the wet underside came up to the air, pale and strange. Something in him like that.
 
-I read him. The thing under the flat. Not the anger — the anger is the surface, the anger is the easy reading. The thing under the anger is harder. It is the thing I did not let myself read on the challenge day because the reading would have cost me the crown. It is this: he is afraid. Not of the boats. Not of the pack on the spit. He is afraid of the leaning. He has read the leaning in me the way Marrow reads it — the thing that pulls the king toward the water, toward the shape of the hole, toward the thing the green cannot close — and he knows where it goes. He knows because he was raised to wear the crown and the crown's first law is *the tribe is the thing* and the thing on the water is not the tribe and the king who leans at the not-tribe is the king who loses the tribe.
+He had had this once. The turning stone showed him. Before the green, before the hold, before the deck and the closing hand, there had been a mouth that made sounds at him and he had made them back, and the making-back had meant they were two and not alone. The tribe had given him a voice — the rasp, the falls, the still-sound, the two-falls he made to the Kala — but it could not give him back the easy road, the one that laid a name clean on the air for another head to catch and throw back. Only the upright pack had the road. And now one of them laid it down at his feet, one stone at a low, naming the world to a thing she thought could not answer. He was stealing the stones, building back across the gap in his teeth a thing he had lost the shape of, with another body's names.
 
-He is not wrong.
+Up in the dry Marrow watched him steal them. The runt did not know what he was taking, only that the boy lay at the lip every low now with his whole front turned to a thing of theirs. He brought a snail once, in the curled hand, set down by the elbow without a sound — a thing he did when he wanted the boy back in the den and had no words to say so. The boy ate it to ease him. Then he turned back to the girl. Marrow went still behind him, the long still, and the boy felt it on his neck the whole low: the whole of him saying what no sound could — that he was crawling out over water that would not hold him.
 
-The far mouth leans at the water and the near part of me knows — has known since the boats — that the leaning is the thing that will undo everything the high stones gave me. The crown, the Kala, the bold heart, Marrow. The leaning is the hand reaching in across the water, and the hand does not give back what it takes.
+---
 
-Voss-Marr reads the leaning in me and stands at the far edge with the prime blood gone quiet and the flat face saying the thing the held blow has been saying since the challenge: *I will not follow you into this. The tribe is the thing. You are forgetting the thing. And the forgetting will cost us all.*
+He did not answer. The beast kept his throat shut and he let it keep it. A sound from the green would turn her face the wrong color, set her feet to running at last, call the owners down the spit with their fire and their hands. So he stayed shut, and he was full to the back of the teeth with her words, and the hollow in him — the one no fish had ever filled, the one the tribe had filled with everything but its own exact shape — took the words too, and held them, and did not let them fall straight through. Not enough. Never enough. But it closed a little around them, and that was new.
 
-He turns. He goes to the sleeping-shelf with the prime blood. He does not look back.
+She was the shape of the hole, and the hole pulled.
 
-And the body holds the reading the way it holds everything Voss-Marr gives it — set down beside the crown, beside the challenge, beside the neck I did not take. The rival who saw it coming. The one who will not come when the water brings the thing it brings, and whose not-coming will be the thing I earned the day I leapt his birthright and left him whole.
+He had a crown three lows behind him and the Kala's arm in the easy sleep and a home with no between in it, and the hollow had been full — he had felt it go full on the king's seat, all the way down. And it reached anyway, strained at the owned girl naming snails to the dark, because she had the road, and the road was the exact shape torn out of him before the green. Nothing on all his green closed it but the thing the green was going to eat.
 
-Because the thing the water will bring is the shape of the hole. And the shape of the hole is the only shape the green could not close. And Voss-Marr knows it, and stands at the far edge of the tribe, and will not cross the distance between us to warn me again.
+The boy did not have the word for it. The tribe was the home. The girl was the mirror. And the body could not tell the difference between a thing that filled the hollow and a thing that fit it — because the fitting felt like filling, and the fitting was the older need, and the older need did not answer to the crown.
 
-The count runs under the skin. The number is going down.
+---
+
+She found the relic.
+
+It was the worst low and the best one. She came at the bare of the low as always, and the rain came early, the fat warm rain that fell straight down through the still air and turned the spit to running mud, and she did not go back. She crouched at his line with her root-rope hair gone black and streaming, and she did not name anything; she only looked into the green where the frond moved, closer than she had been, near enough that the down-wind brought the rain off her skin.
+
+And the boy leaned out.
+
+He did not mean to. The hollow moved the body with it, out of the root-cage, up onto the haunches in the streaming dark, and the Eye-and-Thorn swung forward off his chest on its gut-cord — the relic he had dragged off the dead ones in the mud, the open eye and the curved thorn crossing it. It swung out into the gray light at the edge of the green, wet, catching what little the dying low gave it.
+
+She saw it.
+
+He felt her see it the way he felt a tide turn. Her body fixed on it like it had fixed on the moving frond that first low — gone still, strung tight — but this was a different fix. The first had been fear. This was the other thing. Her breath went out of her in a sound with no shape, and she did not look at the dark around the relic, at the thing that wore it. She looked at the relic. Only at the relic. And her hand came up off the mud, slow, and her fingers drew the shape on the wet air between them — the eye, and the thorn crossing it — and then she laid a sound on it, set careful and low, the way a body sets a name on a thing it knows.
+
+She knew it.
+
+The owned girl knew the shape on the relic the dead ones had died wearing, the shape that lived in his drowned-deep below all the green, and she drew it on the air and named it, and her face was not the beast-fear and not the easy talking-to-the-dark. It was the face of a thing finding a piece of its own gone world in the mouth of the green that ate it.
+
+And the boy wanted it. Hard, all at once, harder than he had wanted anything since the hold. He wanted the sound she had just laid on the shape. He wanted to know what it said. She had the answer in her mouth — a clean name for the means-wrong thing that turned in his drowned-deep — and she was three of his body-lengths off across the rain and he could not reach for it. He had no mouth to ask with. No word to throw back to draw the rest out of her. The beast held his throat and the green held his shape, and the one head on all the drowning world that carried the answer crouched at his line not knowing she carried it. He strained at the gap between them and it did not close. The shape he could not file away and leave turned face-down had a sound now, her sound, laid careful on the air, and he still could not get under it to roll it over.
+
+He drew the relic back against his chest. The beast hauled him down into the root-cage and he let it. His heart went against the mud like a hunted thing.
+
+There were two of them who knew the shape, on all the drowning world. The one who wore it and could not say it, and the one who could say it and did not know who wore it.
+
+---
+
+She did not come the next low.
+
+The owners kept her in. The boy lay above the camp and watched through the gray, and she was at the owning-fire with the big one standing over her, his mouth going, the edge laid hard on the air, and twice the hand came up and twice it did not fall, held over her like the hand had held over the boy in the hold before it closed. The owning. The keeping-close. She had done a thing the owner had not sent her to do, and the owner had found it out, and she stood owned under the lifting hand and took the edge of the sounds on her bent neck.
+
+And the thing the boy lay still and felt be new was this: he had a name for what she was now, and he had not learned it from her. He had learned it from his own neck. She had gone out under the lifting hand toward a green that could take her down into the mud in a breath, to name snails to the dark — because she was alone in the middle of the owned and the owning both. Alone as the boy had known the tide long before he could name a single part of it. In the body, in the bone, before the word.
+
+She was owned, and she was the road, and she was the one who broke away, and she carried on her bent neck the thing the green had torn out of him and given back in her mouth. She was not the Kala. The Kala had filled the hollow full; the Kala was the home with no between. Yara was not home. Yara was the mirror — the owned thing on the killing ground, naming the world to the dark — and a body could look in a mirror and not be looking at a home.
+
+Behind him, all this while, Marrow had not slept. The boy felt him at the den-mouth in the streaming gray, the high shoulder down, watching him watch the camp. The runt knew only that the boy lay at the lip of a thing that ate them, straining forward, and that his warning had run out of body to make. There was nothing left in him to drop, no shoulder, no hand. He just kept the watch with the boy, over a fire that was not theirs, on a spit that wanted them dead, because the boy would not leave it and Marrow would not leave him. He was not the shape of the hole. He was only the thing that loved the boy, a different keeping, and tonight the boy was too full of her stolen stones to feel how much it was.
+
+The far mouth did not know mirror from home. It only knew shape. And she was the shape. The boy lay above the camp in the streaming gray, the king of the wild things who would not go up to his crown, and he held her stolen words behind his teeth in the gap where three were torn — the weed-sound, the snail-sound, the two leaning water-sounds, the careful sharp camp-sounds with the teeth in them — and he laid them down beside the name no one could catch and the brand he would give back someday across the water, and the warm came up slow and lay down around all of it together.
+
+There were three things behind his teeth now. The name that was his and answered nothing. The brand that was theirs and meant *you are a thing.* And the new one, the gathering one, the road laid down one stone at a low by an owned girl who did not know she was teaching him to throw the name at last —
+
+and he did not know yet that the shape she had named on the air would be the thing the owners came to take him for, nor that the road she was laying him would run, in the end, straight to the net. Marrow knew. Marrow had known since the smoke. He could not say it, and the boy would not read it, and that was the whole of what was wrong with the boy, lying warm at the lip of the trap with his mouth filling up.

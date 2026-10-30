@@ -1,16 +1,16 @@
 # Chapter 10: The Weaker, the Smarter
 
-I am the weakest thing on the high stones.
+He was the weakest thing on the high stones.
 
-This is the first law I learn among them. The body learns it before the head. It learns it the morning a half-grown one — younger than me, barely come into its strength — takes my wrist to move me off a warm rock it wants, and moves me, the way I move a stone off its seat at the channel, no thought in it, no malice in it, the whole of my weight nothing to the arm that lifts it. I am set down a body's length off and the young one is already not looking at me. I crouch where it set me with the wrist still ringing. And I understand, all the way down, the thing I have come up among.
+That was the first law he learned among them. The body learned it before the head. It learned it the morning a half-grown one — younger than he, barely come into its strength — took his wrist to move him off a warm rock it wanted, and moved him the way he moved a stone off its seat at the channel, no thought in it, no malice in it, the whole of his weight nothing to the arm that lifted it. He was set down a body's length off and the young one was already not looking at him. He crouched where it set him with the wrist still ringing. And he understood, all the way down, the thing he had come up among.
 
-I am the longest tooth in my green. I am the thing the green could not eat. Here I am the small one. Here I am the one that gets moved.
+He was the longest tooth in his green. He was the thing the green could not eat. Here he was the small one. Here he was the one that got moved.
 
-The shore taught me one shape of being and the high stones teach me the other. Down in my green I am the longest tooth. Up here strength walks past me on two legs and four. It hangs off the rock by one arm with a young one gripped to its chest. It brings down the fat-meat beast with a blow I could not throw if I threw my whole body behind it. Among the Vorth I am soft. I am slow. The hand that breaks a thing's neck on the shore would not turn a Vorth's head a finger's width.
+The shore had taught him one shape of being and the high stones taught him the other. Down in his green he was the longest tooth. Up here strength walked past him on two legs and four. It hung off the rock by one arm with a young one gripped to its chest. It brought down the fat-meat beast with a blow he could not throw if he threw his whole body behind it. Among the Vorth he was soft. He was slow. The hand that broke a thing's neck on the shore would not turn a Vorth's head a finger's width.
 
-So. I am the weakest thing on the high stones.
+So. He was the weakest thing on the high stones.
 
-Good. Let me find the other thing I am.
+Good. Let him find the other thing he was.
 
 ---
 
@@ -22,21 +22,21 @@ But strength runs out where the green goes thin and high. Up in the canopy, wher
 
 The Vorth go hungry past those edges. I have seen a whole hand of them stand at the lip of a rot-thicket where a fat-meat beast went down to wallow, and not follow, because the ground will not hold them, and go back up empty while the beast wallows a spear-throw off — fat and stupid and safe behind nothing but the soft ground.
 
-The green is thin in the exact places strength is no use. And I am light. I am the thing that learned the channel-flats in the dark with no one to show me, the thing that reads which stone hides a meal worth the reaching.
+The green was thin in the exact places strength was no use. And he was light. He was the thing that had learned the channel-flats in the dark with no one to show him, the thing that read which stone hid a meal worth the reaching.
 
-The body knows it before the head does. There is a place here shaped for me. Not the strong place. The other one.
+The body knew it before the head did. There was a place here shaped for him. Not the strong place. The other one.
 
 ---
 
-And there is one other thing here shaped wrong, like me.
+And there was one other thing here shaped wrong, like him.
 
-I have given him a name. Marrow — laid on him in the human tongue, the second word I have ever chosen and set on a thing on purpose. The rich thing the strong crack the bone for and leave behind. The leavings. He is a runt the tribe nearly culled at birth; he lives on his wits the way I live on mine. One shoulder rides high and uneven on him. One hand is curled and will not open all the way. He goes with a rocking, crooked gait — and then he is across the rock before you have read the gait, quick, quicker than the big ones, a quickness they have never once needed to fear.
+He had given him a name. Marrow — laid on him in the human tongue, the second word he had ever chosen and set on a thing on purpose. The rich thing the strong crack the bone for and leave behind. The leavings. He was a runt the tribe nearly culled at birth; he lived on his wits the way he lived on his. One shoulder rode high and uneven on him. One hand was curled and would not open all the way. He went with a rocking, crooked gait — and then he was across the rock before you had read the gait, quick, quicker than the big ones, a quickness they had never once needed to fear.
 
-The tribe means to be done with him.
+The tribe meant to be done with him.
 
-I read it before I have the words for it. A low comes when the big ones turn their backs to him at the meat, all together, the way they turn from a thing already half outside the many. The dismissing sound lands on him and does not lift. They are driving him to the edge — out past the high stones, down to where the Skell are, the gray scuttling under-things that take what the strong grind off the bone and drag it down into the wet dark. The Skell get the leavings. And Marrow is the leavings, and the tribe has begun to hand him over the edge a little at a time, the way you let go of a thing you do not want to be seen dropping.
+He read it before he had the words for it. A low came when the big ones turned their backs to him at the meat, all together, the way they turned from a thing already half outside the many. The dismissing sound landed on him and did not lift. They were driving him to the edge — out past the high stones, down to where the Skell were, the gray scuttling under-things that took what the strong ground off the bone and dragged it down into the wet dark. The Skell got the leavings. And Marrow was the leavings, and the tribe had begun to hand him over the edge a little at a time, the way you let go of a thing you did not want to be seen dropping.
 
-I will not let the green have him. Not this one. Not the only thing up here that is shaped wrong the same way I am.
+He would not let the green have him. Not this one. Not the only thing up here that was shaped wrong the same way he was.
 
 ---
 
@@ -96,7 +96,7 @@ Their fire is kept — fed, banked, tended on the high gray, the held red light 
 
 So when theirs is dying in the wet, I go down into my green and bring up the dry. The dead heart-wood of the fallen giant. The fat-soaked fiber. The rendered fat of the fat-meat beast — the things that take the flame and hold it through the wet. I feed their dying red slow, from the heart out, and the red stands up off the gray ash and burns high and clean, the highest it has burned in lows, and the warmth lays on all of us up on the high stones in the wet dark.
 
-And the heads, all of them, even the king's, high on the bare gray — the heads tip toward the man-shape that made the dead red live. Not like they tip toward the strong one. A new way. The way a thing tips its head toward something it does not understand and wants.
+And the heads, all of them, even the king's, high on the bare gray — the heads tip toward the man-shape that made the dead red live. Not like they tip toward the strong one. A new way. The way a thing tips its head toward something it does not understand and wants. Gull-Marr does not come down from his stone. He lets the fire burn high and lets the tribe see the weak thing that fed it. But the watching is the blade again. The king has never needed fire to hold his place. The strong take the meat the green gives and the many follow because the arm is long and the blow is sure. Now a thing the arm cannot reach has been handed to them by the one the green could not eat. The king weighs it the way he weighs a new young one come into strength — not with the eyes, with the weight it will put on the stone he sits on. If the man-shape grows too useful, the king loses the right to move him off the warm rock without cost. If the man-shape fails, the king loses nothing and the tribe learns again that wit is no shield against the arm. The blade stays flat between his hands. The tribe reads it. The runt at the man-shape's heel reads it too, and the crooked gait takes him closer to the fire, not away.
 
 I have given them the one thing the strong cannot take by strength. You cannot be strong at fire. The fat-meat beast will not yield to a blow. There is no main-strength way to make the dead red live in the wet, and I have made it live — the weak thing, the small one that gets moved off the warm rock. And the warm rock is mine now, the low after the fire, because the young one that would have moved me looks at me first, and does not.
 
@@ -122,6 +122,6 @@ But there is a low pale line worn in the mud at the channel-edge where the cleve
 
 I lay the law down behind my teeth, in the gap where the name was, beside the stolen sounds and the gentling sound that is not mine and the warm that chose to hold me. And the second mouth — the one no kill ever fed, that opened wide and empty over all that drowning green and would not close on meat or water — lies quiet under my ribs now. Full. Because they have stopped looking past me. They have begun to look at me. Not the longest tooth. The other thing. The thing only I can hand them.
 
-The weaker, the smarter. On the shore the law was hand and tooth, and the strongest thing keeps the ground. Here is the new law, laid beside the old: *the strong takes what it can reach; the weak learns to make the green hand over the rest.* And the rest is the larger part. The rest is everything past the edge of the arm.
+The weaker, the smarter. On the shore the law was hand and tooth, and the strongest thing keeps the ground. Here the new law lies beside the old: *the strong takes what it can reach; the weak learns to make the green hand over the rest.* And the rest is the larger part. The rest is everything past the edge of the arm.
 
 It is enough to be known by. It is more than enough. And beside me, where the firelight reaches, the small wrong-made thing I would not hand to the Skell sleeps with his curled hand open, glad, in the warm I fed.

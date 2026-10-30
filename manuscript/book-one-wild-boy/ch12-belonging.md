@@ -1,113 +1,113 @@
 # Chapter 12: Belonging
 
-There is a low that comes when the rains break.
+There was a low that came when the rains broke.
 
-It comes after the long season of the standing water, when the green has drowned itself to the chest and every low is the same drowned green low as the one before it, the warm rain coming and coming until the body forgets there was ever a thing that was not falling water. Then one dark the rain thins. And the next it stops in the deep of the night, between two breaths, like a heart stopping, and I wake in the kept warm against the Kala with my ear to the great slow tide of her, and I do not know what woke me, and then I know. It is the quiet. The rain has gone off the high stones and left them dripping and steaming, and through the broken roof of the green the lights come back, far and small and many, the lights I counted alone in my green low after low when there was no other thing to count.
+It came after the long season of the standing water, when the green had drowned itself to the chest and every low was the same drowned green low as the one before it, the warm rain coming and coming until the body forgot there was ever a thing that was not falling water. Then one dark the rain thinned. And the next it stopped in the deep of the night, between two breaths, like a heart stopping, and Rook woke in the kept warm against the Kala with his ear to the great slow tide of her, and he did not know what woke him, and then he knew. It was the quiet. The rain had gone off the high stones and left them dripping and steaming, and through the broken roof of the green the lights came back, far and small and many, the lights he had counted alone in his green low after low when there was no other thing to count.
 
-I do not count them this dark.
+He did not count them this dark.
 
-That is the thing I learn, lying still in the steam with the lights come back. I have stopped counting them. The whole drowned world breathes out below us, and the lights between go uncounted, because I am not in the between. For the first time in all my counting there is no between.
-
----
-
-The break of the rains is a thing the whole tribe knows in the body, the same as I knew the turn of the tide.
-
-They wake all down the shelf in the steaming dark, the big ones lifting their great dark-hided heads, the small ones stirring out of the piles of warm where they sleep heaped like a litter of one thing. And they make a sound I have not heard before, low, going from mouth to mouth down the rock — a long even sound with the gladness folded into it, the sound a body makes when the killing thing has lifted off it and not taken it this time. The rains are a killing thing. The standing water brings the wet rot up into the small ones' chests, and the season takes some of them. And now the rains have lifted.
-
-The tribe pours down off the high stones into the steaming green to take what the lifted rains have left.
+That was the thing he learned, lying still in the steam with the lights come back. He had stopped counting them. The whole drowned world breathed out below them, and the lights between went uncounted, because he was not in the between. For the first time in all his counting there was no between.
 
 ---
 
-I go down with them, and this low I do not go down behind them.
+The break of the rains was a thing the whole tribe knew in the body, the same as he had known the turn of the tide.
 
-This is the new thing, and the body knows it before the head can name it. There was a long season when I went down after them, the soft slow weak thing trailing the strong, kept on borrowed stone — going down to set my loops in the runs the heavy foot could not follow, to take the clever meat off the bared flats the Vorth go hungry past, and carry it up in my two hands to the fire. That taking bought me my place a day at a time, borrowed back off the killing ground and pouring out the moment the hand opens. But this low when the tribe pours down, a big one waits at the head of the run.
+They woke all down the shelf in the steaming dark, the big ones lifting their great dark-hided heads, the small ones stirring out of the piles of warm where they slept heaped like a litter of one thing. And they made a sound he had not heard before, low, going from mouth to mouth down the rock — a long even sound with the gladness folded into it, the sound a body makes when the killing thing had lifted off it and not taken it this time. The rains were a killing thing. The standing water brought the wet rot up into the small ones' chests, and the season took some of them. And now the rains had lifted.
 
-It waits for me.
-
-It is the heavy old male with the torn ear, the one that stood a whole season at the lip of the rot-thickets and went up empty because the soft ground would not hold him. He has seen the man-shape go out light over the skin of the rot where his own weight goes through into the soup beneath, read the run, bring back the wallowing fat-meat beast the soft ground hid from him. And this low he waits with his small dark patient eyes, and when I come he makes the asking-sound, the rising one, *where, where* — and tips his great head down the bank toward the thicket where the ground will not hold him.
-
-He is asking the weakest thing on the high stones to read him the country his strength cannot cross.
-
-I go ahead of him. Down the bank, out onto the skin of the rot where I am light and he is not, reading the run with my soles, and he comes behind me set in my track, foot for foot where I have shown the ground will hold. I am the eye and he is the hand. I find the thing and he closes on it, the great arm doing in one blow what my whole weight could not. We bring it up between us, his kill on my reading.
-
-I am not trailing the strong anymore. The strong is set in my track.
+The tribe poured down off the high stones into the steaming green to take what the lifted rains had left.
 
 ---
 
-The bold small one is mine now. The whole tribe knows it.
+He went down with them, and this low he did not go down behind them.
 
-It started in the firelight, the small dark quick one that took to me like a thing takes to warm, that rode my chest and laid the world's names on me one at a time. I take them still. But it is more than the names now. It comes up the line of my torn voice when I throw the asking-sound, *here, here,* quicker than it goes to any big one, and when the half-grown ones cuff it to teach it the order of the stone, it does not run to the Kala. It runs to me. It puts the man-shape between it and the cuffing, and the half-grown one draws up short — not because I could turn its head a finger's width, I could not — but because the man-shape stands between, and that means *kept,* and the half-grown one reads it and turns away.
+This was the new thing, and the body knew it before the head could name it. There had been a long season when he went down after them, the soft slow weak thing trailing the strong, kept on borrowed stone — going down to set his loops in the runs the heavy foot could not follow, to take the clever meat off the bared flats the Vorth went hungry past, and carry it up in his two hands to the fire. That taking bought him his place a day at a time, borrowed back off the killing ground and pouring out the moment the hand opened. But this low when the tribe poured down, a big one waited at the head of the run.
 
-There is a low it does a thing I have no read for. It has watched me feed the fire low after low, watched the wet wood go in and steam and not catch and watched me curse it in the torn voice. So this low it brings me a gift. It comes rocking up the rock with a thing held proud in the curled small hands and lays it at the fire-edge for me, grave, a keeper bringing a keeper's gift — and it is a fat green frog-thing, alive, blinking, the best thing it owns, brought to the man-shape to put on the fire.
+It waited for him.
 
-I look at the frog-thing. The frog-thing looks at me. The small one looks between us, glad, waiting for me to be glad.
+It was the heavy old male with the torn ear, the one that had stood a whole season at the lip of the rot-thickets and gone up empty because the soft ground would not hold him. He had seen the man-shape go out light over the skin of the rot where his own weight went through into the soup beneath, read the run, bring back the wallowing fat-meat beast the soft ground hid from him. And this low he waited with his small dark patient eyes, and when he came he made the asking-sound, the rising one, *where, where* — and tipped his great head down the bank toward the thicket where the ground would not hold him.
 
-And a thing comes up in me that has no name in the green and no use — it comes up my chest and out the torn throat in a bark, broken and ugly and *good,* the first one of its kind I have ever made, and the small one startles back, and then it makes it too, learning it off me the same as it learns the still-sound, the two of us barking the wrong glad sound at each other over a frog while the fat thing hops free into the dark and neither of us moves to stop it. The body did not know it could. It is not hunger and it is not the deep leaning-out either. It is a third thing, light, that a small one brought up out of me with a frog. And I am twelve lows of standing into a life that has held nothing like it.
+He was asking the weakest thing on the high stones to read him the country his strength could not cross.
 
-I do not put the small one's gift on the fire. That is its own kind of keeping, and the small one rides my shoulder up to the warm that dark prouder than if I had.
+He went ahead of him. Down the bank, out onto the skin of the rot where he was light and the other was not, reading the run with his soles, and the old male came behind him set in his track, foot for foot where he had shown the ground would hold. He was the eye and the Vorth was the hand. He found the thing and the Vorth closed on it, the great arm doing in one blow what his whole weight could not. They brought it up between them, the Vorth's kill on his reading.
 
----
-
-The Kala lays me with the squared dead.
-
-I do not understand it the low it happens, the same as I did not understand the seer's finger on my throat. The high clean shelf where the sun strikes first is the keeper's ground, hers and the seer's and no other living foot's — the still ones lie there, squared and faced to the sun, the gifts set with them, brought up out of the green and laid down to mean. I have watched her tend them from below the whole season. No foot of mine has gone up there. The body learned it the same way it learned the king's bare stone — by being stopped at the edge of it.
-
-But this low she does not stop me at the edge. This low she takes me up.
-
-There is a small one gone in the night — the wet rot took it out of one of the heaped litters, the way the lifting rains take the last of them even as they lift. She comes off the high shelf in the steaming dark and gathers it up, the still small thing, and then she takes my hand in her great dark hand, sure and soft, and turns and goes up, and does not let my hand go. So I go up after her onto the clean ground where the dead are faced to the sun, my hand in hers. I go up stiff, the body braced for an arm to come down across my chest and turn me, the same arm that turned me off the king's stone the first low — but no arm comes.
-
-She kneels at a clear place among the squared dead and lays the still small one down. And then she does a thing I do not look away from. She takes my two hands in hers and sets them on the small body with her own over them, and shows them, slow, how to square a gone thing — how to fold the small limbs straight, how to turn the face up to where the sun will strike, how the hands go flat and order the small clean shape of it into the line of the kept. My hands under her hands, doing the keeping. The first thing I have ever done with my hands on this ground, and it is this. She makes the long meaning-sound over it as we work, low, and I learn the shape of that too, the work and the sound together, a thing laid down and meant.
-
-When it is squared and faced she does not let me go down. She moves my hands to a bare clear place beside the small one, an empty squared place at the sun-struck edge, and lays her great dark hand flat on it, and then lays my hand on it beside hers, and makes the meaning-sound again. The one for the kept. The small dark eyes come down to my face, close, reading me the way she read me the first low, and I understand it at last, the body first and the head a long way after.
-
-She is showing me my place among the laid-down. She is telling me, in the only tongue there is between us, that when the gone-low comes for me however it comes, this is where I go. Up here. On the clean ground. Squared and faced to the sun with the kept. She has laid the man-shape into the deepest order the Vorth have, the one that says *this was ours, this we keep even gone* — and there is a place in it now shaped to me, and her hand is on it, and mine under hers.
-
-The far mouth does not widen at this. It is past widening. It goes still the same way it went still the first time against her warm, a deep stillness I have no word for. To be given a place among the kept dead is to be given a place among the living that does not pour away when the hand opens. It is the un-borrowed stone, the first ground I have stood on since before the black that is not lent by a hand that can take it back.
-
-I have never had a place to be laid down. The hold makes a thing and throws it over the side when it stops being meat; the green eats what falls and squares nothing. To be a thing that will be laid down squared and kept — that is to be a thing that *was.* And I kneel on the keeper's clean ground with my hand under the Kala's on the place she cut for me, the squared small one beside us still warm, and I think this is the bottom of it. I think the deep hunger, that no kill ever fed, is full.
+He was not trailing the strong anymore. The strong was set in his track.
 
 ---
 
-The king comes up onto the clean shelf.
+The bold small one was his now. The whole tribe knew it.
 
-It is the one thing that should not happen, and it happens slow, like the worst weather comes slow, bone-sure before the sky shows it. The gentling goes out of the high stones. The small ones feel it first, the bold one slipping off my shoulder and away. And Gull-Marr comes up off his broken lip and climbs onto the high clean shelf where the dead are faced, the clear bare stone moving up with him, and he stops over the Kala and the man-shape with its hand on the squared place, and looks down at us, and his flat eyes do not warm and do not tip.
+It had started in the firelight, the small dark quick one that took to him like a thing takes to warm, that rode his chest and laid the world's names on him one at a time. He took them still. But it was more than the names now. It came up the line of his torn voice when he threw the asking-sound, *here, here,* quicker than it went to any big one, and when the half-grown ones cuffed it to teach it the order of the stone, it did not run to the Kala. It ran to him. It put the man-shape between it and the cuffing, and the half-grown one drew up short — not because he could turn its head a finger's width, he could not — but because the man-shape stood between, and that meant *kept,* and the half-grown one read it and turned away.
 
-I brace for the arm. I have braced for it the whole season. The king has not chosen me, and here I am on the keeper's clean ground with my hand on a cut place among his dead, the soft slow weak wrong thing laid into the order that is the tribe's own marrow, and the king has come up to turn me off it. The body knows the arm is coming. It has known a hand was coming the whole of its life. The hand on the back of the neck. The closing. The brand. I kneel with my hand under the Kala's and the old barb turns behind my teeth, the ugly hold-word that did not leave, *mine, be still, come, you are a thing* — and I wait for the king to lay it on me in his own flat tongue.
+There was a low when it did a thing he had no read for. It had watched him feed the fire low after low, watched the wet wood go in and steam and not catch and watched him curse it in the torn voice. So this low it brought him a gift. It came rocking up the rock with a thing held proud in the curled small hands and laid it at the fire-edge for him, grave, a keeper bringing a keeper's gift — and it was a fat green frog-thing, alive, blinking, the best thing it owned, brought to the man-shape to put on the fire.
 
-The Kala does not move her hand off mine.
+He looked at the frog-thing. The frog-thing looked at him. The small one looked between them, glad, waiting for him to be glad.
 
-She lifts her head to the king, the great heavy silver-shot head, and she holds his flat eyes, and she does not make the keeping-sound she threw across the bare stone the first low. She makes nothing. She only holds his look with her hand flat on my hand on the squared place, the whole still vast bulk of her unmoving between the king and the thing she has laid among her dead. And there is a thing in it I had not let myself read until now, kneeling under her hand with the king above us — that she is set against him over me, and he is the king, and the standing she gives me she gives out of her own bulk, against his weight. She would not move that hand if he raised the arm. The thought goes through me warm and wrong both, a strange gladness with a barb in it I cannot find the end of, and I set it down half-read because the seer is coming up the stone.
+And a thing came up in him that had no name in the green and no use — it came up his chest and out the torn throat in a bark, broken and ugly and *good,* the first one of its kind he had ever made, and the small one startled back, and then it made it too, learning it off him the same as it learned the still-sound, the two of them barking the wrong glad sound at each other over a frog while the fat thing hopped free into the dark and neither of them moved to stop it. The body had not known it could. It was not hunger and it was not the deep leaning-out either. It was a third thing, light, that a small one had brought up out of him with a frog. And he was twelve lows of standing into a life that had held nothing like it.
 
-The seer comes slow up onto the clean shelf on the king's far side, the old pale-furred head low, and lifts one long dark finger and points it — not at me, at the eye bound at my chest, the ringed looking and the thorn driven through it — and makes the long meaning-sound, the one for a thing that comes from before and means.
-
-And the king looks from the mark to the cut place to the Kala's hand on my hand, and the flat eyes go over the whole of it, slow. A thing that should not be, and is, and stands there being it. And he does not lay the brand on me. And he does not turn me off the stone.
-
-He makes a sound. Low, and short, and flat — but the teeth are out of it. Not the careful one he made the first low, the *what is this, why is this on my stone.* Shorter than that, and flatter, with a thing in it I know in the body before the head can find it, the thing a strong one lays on a thing it has weighed and will let stand — not chosen, not warmed-to, but *allowed.* He turns his great heavy body and goes back down off the clean shelf, the bare stone going with him, and he does not turn me off the keeper's ground.
-
-The king has let it stand.
-
-The Kala kept by her own choosing, low after low, against his sufferance — and this low he has stopped suffering it and started letting it stand, which turns borrowed ground into ground that *is.* The seer marked me. The Kala cut me a place among her dead and set herself between me and the king to keep it. And the king weighed the whole of it and let it stand. Three of them. I am laid into the order of the tribe at every height there is — from the small one that runs to me to be held, up through the keeper who would put her bulk between me and the law, up to the king whose word is the law of the stone.
-
-I do not see, this low, the shape that is also in it. That I have a height to want now. The man-shape has been read off the king's own tongue as a thing that can stand on the high clean shelf, and a thing that can stand can climb, and the body has already started to want the climb the same as it wanted the run the old male could not cross. But the Kala set herself against the king to keep me where I am — *kept,* low and safe under her hand among her dead. The keeping and the climbing are not the same want. I do not feel them pull against each other yet. They will.
+He did not put the small one's gift on the fire. That was its own kind of keeping, and the small one rode his shoulder up to the warm that dark prouder than if he had.
 
 ---
 
-I lie in the warm that dark with the rains gone and the lights come back through the broken green, and I do not count them.
+The Kala laid him with the squared dead.
 
-The bold small one is heaped against my chest, half asleep, learning the still-sound after the Kala and me, throwing the clumsy wrong shape of it up at the warm. The Kala folds down beside us, the great warm silver-shot bulk, and lays the arm over me, sure, the keeping arm, and makes the still-sound, soft, falling, *be still, you are held, nothing comes.* And I make it back, low and torn, soft-then-softer, two falls, scraping over the gap where three teeth were torn — and the small one makes it after us both, and the three of us throw the one soft sound back and forth between us in the steaming dark above the drowning green, around and around, and no part of it closes like a hand.
+He did not understand it the low it happened, the same as he had not understood the seer's finger on his throat. The high clean shelf where the sun struck first was the keeper's ground, hers and the seer's and no other living foot's — the still ones lay there, squared and faced to the sun, the gifts set with them, brought up out of the green and laid down to mean. He had watched her tend them from below the whole season. No foot of his had gone up there. The body had learned it the same way it learned the king's bare stone — by being stopped at the edge of it.
 
-The far mouth is full.
+But this low she did not stop him at the edge. This low she took him up.
 
-I do not have a head for it. I have only the body, and the body has never known the thing before. The belly-hunger I have filled a thousand times, low after low; it empties again with the next low and you go and fill it again. But the deeper one — the hunger that no kill ever answered, that has leaned out of me toward a thing to turn and see me and make me a thing worth a sound, since before the black, since the mouth that made sounds at me in the dark went down into the deep water — that one is full. Not the near edge of it. The whole drowned-deep of it, where the lost name lies and the buzzing turns over in its sleep. Full, and warm, and still.
+There was a small one gone in the night — the wet rot took it out of one of the heaped litters, the way the lifting rains took the last of them even as they lifted. She came off the high shelf in the steaming dark and gathered it up, the still small thing, and then she took his hand in her great dark hand, sure and soft, and turned and went up, and did not let his hand go. So he went up after her onto the clean ground where the dead were faced to the sun, his hand in hers. He went up stiff, the body braced for an arm to come down across his chest and turn him, the same arm that had turned him off the king's stone the first low — but no arm came.
 
-I have a name behind the teeth that no one has spoken, the one un-stolen thing, my mother's gift, held under the tongue. I have the brand beside it, the ugly closing-hand sound that did not leave, that I will give back someday across the water to the ones it belongs to. And now a third thing lies in the warm dark with them, laid down the deepest I have ever laid a thing: *this is filled, and the name for it is here, this, mine, kept.*
+She knelt at a clear place among the squared dead and laid the still small one down. And then she did a thing he did not look away from. She took his two hands in hers and set them on the small body with her own over them, and showed them, slow, how to square a gone thing — how to fold the small limbs straight, how to turn the face up to where the sun would strike, how the hands went flat and ordered the small clean shape of it into the line of the kept. His hands under her hands, doing the keeping. The first thing he had ever done with his hands on this ground, and it was this. She made the long meaning-sound over it as they worked, low, and he learned the shape of that too, the work and the sound together, a thing laid down and meant.
 
-I do not have their word for it. I have all of the weather of it. A thing turned and saw me and made me a thing worth a sound, and then a tribe did, at every height there is, and the hunger that leaned out of me my whole life into nothing found the whole of a home.
+When it was squared and faced she did not let him go down. She moved his hands to a bare clear place beside the small one, an empty squared place at the sun-struck edge, and laid her great dark hand flat on it, and then laid his hand on it beside hers, and made the meaning-sound again. The one for the kept. The small dark eyes came down to his face, close, reading him the way she had read him the first low, and he understood it at last, the body first and the head a long way after.
 
-I lie in the warm with the small one's heart going quick against my chest and the Kala's going slow and vast under my ear, the quick and the slow, and the going-on is not the thing I do anymore to get to the next low. The going-on is the thing I do to stay in this one.
+She was showing him his place among the laid-down. She was telling him, in the only tongue there was between them, that when the gone-low came for him however it came, this was where he went. Up here. On the clean ground. Squared and faced to the sun with the kept. She had laid the man-shape into the deepest order the Vorth had, the one that said *this was ours, this we keep even gone* — and there was a place in it now shaped to him, and her hand was on it, and his under hers.
 
-I would do it again. I do not know yet what it will cost me to have learned it — that the home, once given, is a thing that can be taken, all at once, by a hand reaching in across the water; that the fullest it has ever been is the exact measure of how much there is now to take. I do not know yet that of all the things I love, the great silver-shot bulk that folds down over me each dark is the one any watching thing would read first and easiest, the loudest of my keepings, the one a hand would close on to make me come. I only know, this low, that the leaning-out is over.
+The far mouth did not widen at this. It was past widening. It went still the same way it had gone still the first time against her warm, a deep stillness he had no word for. To be given a place among the kept dead was to be given a place among the living that did not pour away when the hand opened. It was the un-borrowed stone, the first ground he had stood on since before the black that was not lent by a hand that could take it back.
 
-I am held. Nothing comes.
+He had never had a place to be laid down. The hold made a thing and threw it over the side when it stopped being meat; the green ate what fell and squared nothing. To be a thing that would be laid down squared and kept — that was to be a thing that *was.* And he knelt on the keeper's clean ground with his hand under the Kala's on the place she had cut for him, the squared small one beside them still warm, and he thought this was the bottom of it. He thought the deep hunger, that no kill ever fed, was full.
 
-I let the far mouth keep it, and I sleep in the warm, the lights uncounted over the high stones, and for this one low the world is the home and the home is the world, and there is no between.
+---
+
+The king came up onto the clean shelf.
+
+It was the one thing that should not happen, and it happened slow, like the worst weather came slow, bone-sure before the sky showed it. The gentling went out of the high stones. The small ones felt it first, the bold one slipping off his shoulder and away. And Gull-Marr came up off his broken lip and climbed onto the high clean shelf where the dead were faced, the clear bare stone moving up with him, and he stopped over the Kala and the man-shape with its hand on the squared place, and looked down at them, and his flat eyes did not warm and did not tip.
+
+He braced for the arm. He had braced for it the whole season. The king had not chosen him, and here he was on the keeper's clean ground with his hand on a cut place among his dead, the soft slow weak wrong thing laid into the order that was the tribe's own marrow, and the king had come up to turn him off it. The body knew the arm was coming. It had known a hand was coming the whole of its life. The hand on the back of the neck. The closing. The brand. He knelt with his hand under the Kala's and the old barb turned behind his teeth, the ugly hold-word that had not left, *mine, be still, come, you are a thing* — and he waited for the king to lay it on him in his own flat tongue.
+
+The Kala did not move her hand off his.
+
+She lifted her head to the king, the great heavy silver-shot head, and she held his flat eyes, and she did not make the keeping-sound she had thrown across the bare stone the first low. She made nothing. She only held his look with her hand flat on his hand on the squared place, the whole still vast bulk of her unmoving between the king and the thing she had laid among her dead. And there was a thing in it he had not let himself read until now, kneeling under her hand with the king above them — that she was set against him over him, and he was the king, and the standing she gave him she gave out of her own bulk, against his weight. She would not move that hand if he raised the arm. The thought went through him warm and wrong both, a strange gladness with a barb in it he could not find the end of, and he set it down half-read because the seer was coming up the stone.
+
+The seer came slow up onto the clean shelf on the king's far side, the old pale-furred head low, and lifted one long dark finger and pointed it — not at him, at the eye bound at his chest, the ringed looking and the thorn driven through it — and made the long meaning-sound, the one for a thing that came from before and meant.
+
+And the king looked from the mark to the cut place to the Kala's hand on his hand, and the flat eyes went over the whole of it, slow. A thing that should not be, and was, and stood there being it. And he did not lay the brand on him. And he did not turn him off the stone.
+
+He made a sound. Low, and short, and flat — but the teeth were out of it. Not the careful one he had made the first low, the *what is this, why is this on my stone.* Shorter than that, and flatter, with a thing in it he knew in the body before the head could find it, the thing a strong one laid on a thing it had weighed and would let stand — not chosen, not warmed-to, but *allowed.* He turned his great heavy body and went back down off the clean shelf, the bare stone going with him, and he did not turn him off the keeper's ground.
+
+The king had let it stand.
+
+The Kala had kept by her own choosing, low after low, against his sufferance — and this low he had stopped suffering it and started letting it stand, which turned borrowed ground into ground that *was.* The seer had marked him. The Kala had cut him a place among her dead and set herself between him and the king to keep it. And the king had weighed the whole of it and let it stand. Three of them. He was laid into the order of the tribe at every height there was — from the small one that ran to him to be held, up through the keeper who would put her bulk between him and the law, up to the king whose word was the law of the stone.
+
+He did not see, this low, the shape that was also in it. That he had a height to want now. The man-shape had been read off the king's own tongue as a thing that could stand on the high clean shelf, and a thing that could stand could climb, and the body had already started to want the climb the same as it had wanted the run the old male could not cross. But the Kala had set herself against the king to keep him where he was — *kept,* low and safe under her hand among her dead. The keeping and the climbing were not the same want. He did not feel them pull against each other yet. They would.
+
+---
+
+He lay in the warm that dark with the rains gone and the lights come back through the broken green, and he did not count them.
+
+The bold small one was heaped against his chest, half asleep, learning the still-sound after the Kala and him, throwing the clumsy wrong shape of it up at the warm. The Kala folded down beside them, the great warm silver-shot bulk, and laid the arm over him, sure, the keeping arm, and made the still-sound, soft, falling, *be still, you are held, nothing comes.* And he made it back, low and torn, soft-then-softer, two falls, scraping over the gap where three teeth were torn — and the small one made it after them both, and the three of them threw the one soft sound back and forth between them in the steaming dark above the drowning green, around and around, and no part of it closed like a hand.
+
+The far mouth was full.
+
+He did not have a head for it. He had only the body, and the body had never known the thing before. The belly-hunger he had filled a thousand times, low after low; it emptied again with the next low and you went and filled it again. But the deeper one — the hunger that no kill ever answered, that had leaned out of him toward a thing to turn and see him and make him a thing worth a sound, since before the black, since the mouth that had made sounds at him in the dark went down into the deep water — that one was full. Not the near edge of it. The whole drowned-deep of it, where the lost name lay and the buzzing turned over in its sleep. Full, and warm, and still.
+
+He had a name behind the teeth that no one had spoken, the one un-stolen thing, his mother's gift, held under the tongue. He had the brand beside it, the ugly closing-hand sound that had not left, that he would give back someday across the water to the ones it belonged to. And now a third thing lay in the warm dark with them, laid down the deepest he had ever laid a thing: *this is filled, and the name for it is here, this, mine, kept.*
+
+He did not have their word for it. He had all of the weather of it. A thing had turned and seen him and made him a thing worth a sound, and then a tribe had, at every height there was, and the hunger that had leaned out of him his whole life into nothing found the whole of a home.
+
+He lay in the warm with the small one's heart going quick against his chest and the Kala's going slow and vast under his ear, the quick and the slow, and the going-on was not the thing he did anymore to get to the next low. The going-on was the thing he did to stay in this one.
+
+He would do it again. He did not know yet what it would cost him to have learned it — that the home, once given, was a thing that could be taken, all at once, by a hand reaching in across the water; that the fullest it had ever been was the exact measure of how much there was now to take. He did not know yet that of all the things he loved, the great silver-shot bulk that folded down over him each dark was the one any watching thing would read first and easiest, the loudest of his keepings, the one a hand would close on to make him come. He only knew, this low, that the leaning-out was over.
+
+He was held. Nothing came.
+
+He let the far mouth keep it, and he slept in the warm, the lights uncounted over the high stones, and for this one low the world was the home and the home was the world, and there was no between.

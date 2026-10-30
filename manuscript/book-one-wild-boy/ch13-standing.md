@@ -1,143 +1,143 @@
 # Chapter 13: Standing
 
-There is a low when the rot-thicket eats one of the strong.
+There was a low when the rot-thicket ate one of the strong.
 
-It is the heavy old male with the torn ear, the one that set himself in my track when the rains lifted, the one whose strength the soft ground would not hold. He does not wait for me this low. The fat-meat beast has come down into the deep rot to wallow, and the old male is sure of his own great weight, sure as the strong are always sure, and he goes down the bank ahead of me, out onto the skin of the rot, without the eye that reads the ground.
+It was the heavy old male with the torn ear, the one that had set himself in Rook's track when the rains lifted, the one whose strength the soft ground would not hold. The fat-meat beast had come down into the deep rot to wallow, and the old male was sure of his own great weight, sure as the strong were always sure, and he went down the bank ahead of Rook, out onto the skin of the rot, without the reading for it.
 
-I am behind him on the bank when the ground tells him the truth.
+Rook was behind him on the bank when the ground told the truth.
 
-I read it in the soles before the eye — the give coming up under his foot, the dark vein of soup working under the mat of root and rot-leaf. I throw the asking-sound at his torn ear, the rising one, *back, back.* But he is in the rush of his own strength and the beast is a spear-throw off and fat and his, and he does not come back. He sets the whole of his weight down where the ground is a lie.
+He read it in the soles first — the give coming up under the old male's foot, the dark vein of soup working under the mat of root and rot-leaf. He threw the asking-sound at the torn ear, the rising one, *back, back.* But the old male was in the rush of his own strength and the beast a spear-throw off, fat, his, and he did not come back. He set the whole of his weight down where the ground was a lie.
 
-And the ground opens.
-
----
-
-It takes him to the chest before the rot-leaf has finished closing over the place his foot went through.
-
-I have read the deep rot's mouths since my first season in the green. The still soup under the green skin knots and pulls and does not give back what it swallows. The fat-meat beast wallows in it gladly, broad-footed where a heavy hard thing only sinks. The old male is not made for it. The rot reads his weight and his thrashing, and pulls, and he goes down to the chest, the great arms beating the soup to froth, and the more he fights the deeper the wet takes him. Strength makes the law worse.
-
-The tribe is on the bank. They have poured down after the beast and stopped at the lip of the thicket where the ground turns to lie, and they do not go out onto the skin of it. They know the rot. They have stood at this exact lip and watched it take things and not followed, because to follow is to be taken with it. They make the low sound, the one with the gone-thing folded into it. He is in the soup to the chest and they are already squaring him in the head, faced to the sun, gone.
-
-I am the lightest thing on the bank.
-
-Marrow is beside me. He came down at my heel as he always comes, the high shoulder riding up, the curled hand tucked, the rocking gait quick over the bank-stones. He reads my face. Then he reads the rot, and the old male in it, and the firm root-mat I am already eyeing, and the curled hand opens once at his side — *go, then.* He does not warn me off. He knows the ground too, the small wrong-made of us do, we who live by the eye and not the arm. He only sets himself at the lip to mind the green at my back, the way he minds it, so the one thing he can give me is given.
+And the ground opened.
 
 ---
 
-There is no place in me where the deciding sits. The body has it before the head, and the body goes.
+It took him to the chest before the rot-leaf had finished closing over the place his foot went through.
 
-I go out onto the skin of the rot at a run, low, my weight thrown wide and quick — you cross the give before the give can read you, foot finding the root-mat and gone off it before the mat can know a foot was there. The Vorth cannot do this. Their weight is their whole strength, and out here their whole strength is the thing that kills them. Mine is the one thing the deep rot has no law for. I am too light to pull.
+Rook had read the deep rot's mouths since his first season in the green. The still soup under the green skin knotted and pulled and did not give back what it swallowed. The fat-meat beast wallowed in it gladly, broad-footed where a heavy hard thing only sank. The old male was not made for it. The rot read his weight and his thrashing, and pulled, and he went down to the chest, the great arms beating the soup to froth, and the more he fought the deeper the wet took him. Strength made the law worse.
 
-I do not go straight. Straight is the soft line his thrashing has churned to soup. I find the firmer mat where the old root runs under, the same reading I lay on a run in the mud, and come to him along it, the long way, the light way, my feet spread on the last of the ground that holds.
+The tribe was on the bank. They had poured down after the beast and stopped at the lip of the thicket where the ground turned to lie, and they did not go out onto the skin of it. They knew the rot. They had stood at this exact lip and watched it take things and not followed, because to follow was to be taken with it. They made the low sound, the one with the gone-thing folded into it. He was in the soup to the chest and they were already squaring him in the head, faced to the sun, gone.
 
-He has stopped beating now. That is the worst thing. He has gone to the deep stillness, the soup to the throat, the torn ear back, the small dark eyes rolled to me — the stillness of a thing that has weighed the stronger thing that holds it and stopped its own body. I know that stillness. I have been it, on a deck, in a hold, with the hand closed on the back of the neck. I feel it come off him into me and set my teeth on what it wakes.
+Rook was the lightest thing on the bank.
 
-I cannot pull him. If I take his hand he will not come up; he will only take me down, the two of us squared in the soup together. The strong cannot reach him. The weak has no arm.
-
-So I do not pull him. I make the green pull him.
+Marrow was beside him. He had come down at Rook's heel as he always came, the high shoulder riding up, the curled hand tucked, the rocking gait quick over the bank-stones. He read Rook's face. Then he read the rot, and the old male in it, and the firm root-mat Rook was already eyeing, and the curled hand opened once at his side — *go, then.* He did not warn him off. He knew the ground too, the small wrong-made did, they who lived by the reading and not the arm. He only set himself at the lip to mind the green at Rook's back, the way he minded it, so the one thing he could give was given.
 
 ---
 
-I have the loop at my belt. I always have the loop at my belt.
+There was no place in Rook where the deciding sat. The body had it before the head, and the body went.
 
-But a loop is for the neck of a thing that runs, and there is no green branch out here sprung and waiting. There is only the half-drowned giants the rot has not yet eaten, and the vine.
+He went out onto the skin of the rot at a run, low, his weight thrown wide and quick — you crossed the give before the give could read you, foot finding the root-mat and gone off it before the mat could know a foot was there. The Vorth could not do this. Their weight was their whole strength, and out here their whole strength was the thing that killed them. His was the one thing the deep rot had no law for. He was too light to pull.
 
-The vine is the thing. The drowned green is roped through with it, the long woody runners that climb the dead giants and bind the canopy down, thick as my arm, the thing I have climbed and swung on in a green that meant to drop me. I find the nearest great runner where it comes down off a leaning giant along the firm mat, get a turn of it in my two hands, and throw the end out across the churned soup to the old male.
+He did not go straight. Straight was the soft line the old male's thrashing had churned to soup. Rook found the firmer mat where the old root ran under, the same reading he laid on a run in the mud, and came to him along it, the long way, the light way, his feet spread on the last of the ground that held.
 
-He does not understand it. He is a thing of the arm and the blow and there is no blow in a thrown vine. The end of it lands across his shoulder and the great froth-churned arms do not come up to take it. He only looks at me, the torn ear back, going down.
+The old male had stopped beating. That was the worst thing. He had gone to the deep stillness, the soup to the throat, the torn ear back, the small dark eyes rolled to Rook — the stillness of a thing that had weighed the stronger thing that held it and stopped its own body. Rook knew that stillness. He had been it, on a deck, in a hold, with the hand closed on the back of the neck. He felt it come off the old male into him and set his teeth on what it woke.
 
-I make the sound. Not a Vorth sound — I have none for *take it, hold it, I will not pull, the green will pull.* I make the sound the shore made in me, the one with no word in it, the one a body throws across a closing distance that means *here, this, now, live* — and I shake the vine so it slaps his arm, the whole of my want in the shaking, *take it, take it* — and some old thing in him under the strength reads the want if not the word, and the great hand comes up out of the soup and closes on the vine.
+He could not pull him. If he took the old male's hand he would not come up; he would only take Rook down, the two of them squared in the soup together. The strong could not reach him. The weak had no arm.
 
-And now I make the green the arm.
-
----
-
-I take my turn of the vine to the great leaning giant and run the runner over the high stub of a broken limb, the same as I run a loop over a bent branch — over and down, so the limb is the seat the strength turns on, so a pull on my end is a lift on his. I learned it on the shore, with stones too heavy to lift: a weight over a high seat, a long pull, and the thing too heavy to lift comes up.
-
-And then I call the strong.
-
-I throw the asking-sound back at the bank, the rising one, *come, come,* and show them the vine, the turn of it over the high stub, the old male hung on the far end of it — and the big ones read it. They cannot read the ground; that is why they are on the bank and he is in the soup. But a vine in two hands that wants pulling, that they can read, and they pour out — not onto the rot, onto the firm root-mat I have crossed, set foot for foot behind me where the ground will hold — and they take the vine up the line, hand over great hand, the whole main-strength of them laid at last onto a thing it can use.
-
-I am the eye. They are the arm. I have made the place where the two meet.
-
-The vine goes taut over the high seat and groans, and the deep rot pulls back the way the rot always pulls, and for a breath nothing moves, the soup and the strong holding against each other across the dead limb. Then the soup gives him up. Slow. Sucking. The wet climbing off him a hand's width at a time, and the seat lifts and the rot loses its law, and the old male comes up out of the mouth of the green that meant to keep him — hung on a vine the weak thing threw, lifted by a strength the weak thing aimed.
-
-They drag him over the firm mat to the bank and he lies there heaving, the soup pouring off him, the torn ear flat, alive.
+So he did not pull him. He made the green pull him.
 
 ---
 
-The whole tribe is on the bank, and the whole tribe saw it.
+Rook had the loop at his belt. He always had the loop at his belt.
 
-This is the thing that is different. The loop, the fed fire — those were gifts I handed them, the weak thing's small things laid down for the strong to take or leave. This they watched. The deep rot took the strongest among them, and the strong stood on the bank and could not follow, and the weakest thing went out where the strong could not go and brought him back. Not by being strong. By being light, by reading the ground, by making the green the arm. They watched the weak thing do the thing the strong could not, with their own strength in its hands.
+But a loop was for the neck of a thing that ran, and there was no green branch out here sprung and waiting. There was only the half-drowned giants the rot had not yet eaten, and the vine.
 
-The old male gets his legs under him, shaking, the soup drying gray on his hide, and comes to me. He stands over me, the great torn-eared bulk of him, his small dark eyes going over my face as the Kala's went over the loop, and makes a sound — low, slow up out of the great chest, with a thing in it I have the whole shape of: the thing a strong one lays on a thing that has kept it from the gone-low. Not the gentling, not the asking, not the dismissing sound that followed me the first season. The sound a body makes to the thing that stood between it and the squared dead. He bows the great head. The strong one bows its head to the weak. And then he does the thing I have no shelf for: he takes my wrist in his great hand — the hand that could close and end me, that has only ever moved me off a rock with no thought in it — and he does not move me. He holds the wrist up and shows it to the tribe, the dark scarred small thing in his great fist, lifted for the others to see, and makes the sound again, plain, laid on me where they all can read it.
+The vine was the thing. The drowned green was roped through with it, the long woody runners that climbed the dead giants and bound the canopy down, thick as Rook's arm, the thing he had climbed and swung on in a green that meant to drop him. He found the nearest great runner where it came down off a leaning giant along the firm mat, got a turn of it in his two hands, and threw the end out across the churned soup to the old male.
 
-He is naming me to them. He is saying, in the only tongue there is, *this one. This is the one that did it.*
+The old male did not understand it. He was a thing of the arm and the blow and there was no blow in a thrown vine. The end of it landed across his shoulder and the great froth-churned arms did not come up to take it. He only looked at Rook, the torn ear back, going down.
 
-Marrow has come down off the lip to my other side. He does not crow. He is not made to crow. But the curled hand has come open and rests light against my arm, and the high shoulder has dropped, the way it drops when the thing he was minding has come good, and that is the whole of what he gives and it is plenty.
+Rook made the sound. Not a Vorth sound — he had none for *take it, hold it, he would not pull, the green would pull.* He made the sound the shore had made in him, the one with no word in it, the one a body throws across a closing distance that means *here, this, now, live* — and he shook the vine so it slapped the old male's arm, the whole of his want in the shaking, *take it, take it* — and some old thing in the male under the strength read the want if not the word, and the great hand came up out of the soup and closed on the vine.
 
----
-
-The far mouth stands all the way up.
-
-It is not the near edge of it that the loop fed, that the fire fed, that the seer's bowed head fed. It is deeper. To be handed up before the whole tribe by one of the strong, the wrist lifted, the sound laid plain — *this one* — is to be made a thing worth a sound by more than the one warm bulk that chose me. The whole tribe is turning, the strong with them, reading the weak thing as the thing that kept their strongest from the gone.
-
-I do not have their word for it. I have all the weather of it. I came up among them the soft weak wrong thing on lent ground that poured away the moment a hand opened — and this low the ground does not pour away. The strong itself has set foot in my track. I have stood on a thing and it has held my weight. I have earned a standing that is not lent.
-
-The Kala is on the high bank above us, the great gray-silver bulk, her small dark eyes on me, the keeping thing in them turned new, turned proud — the look a thing gives the thing it chose when the choosing comes good before all the others. She chose me before there was a thing to choose me for, in the fever-fog, in the rot she folded off me, when I was only a wrong thing the green could not finish. The bank lifts my wrist now. She lifted it first, when it was worth nothing.
+And then he made the green the arm.
 
 ---
 
-And on the high stones the king's son watches, and I feel the watching before I find it.
+Rook took his turn of the vine to the great leaning giant and ran the runner over the high stub of a broken limb, the same as he ran a loop over a bent branch — over and down, so the limb was the seat the strength turned on, so a pull on his end was a lift on the old male's. He had learned it on the shore, with stones too heavy to lift: a weight over a high seat, a long pull, and the thing too heavy to lift came up.
 
-Voss-Marr. The prime blood of Gull-Marr, got of the king's own strong on the king's own stone, the strongest thing of my own season — bigger already than males twice his lows, the hide on him clean and unscarred because nothing has stood to him long enough to mark it. He is the thing the tribe was made to make. When the old king goes black-tongued and slow, it is this one the stone is held for. He was poured into the world to take it. He has known the shape of the crown his whole life without thinking it, a thing that simply *is* his, waiting.
+And then he called the strong.
 
-He has come to the lip to watch a fat-meat beast die and the strong take it. Instead he has watched the weak thing aim the strong like a thrown stone, and the old male bow its great head, and the wrist go up.
+He threw the asking-sound back at the bank, the rising one, *come, come,* and showed them the vine, the turn of it over the high stub, the old male hung on the far end of it — and the big ones read it. They could not read the ground; that was why they were on the bank and the old male was in the soup. But a vine in two hands that wanted pulling, that they could read, and they poured out — not onto the rot, onto the firm root-mat Rook had crossed, set foot for foot behind him where the ground would hold — and they took the vine up the line, hand over great hand, the whole main-strength of them laid at last onto a thing it could use.
 
-He does not come down. He stands on the broken stone with the high green at his back and weighs me, and there is no hot in it, no blow gathering. It is worse than a blow. A blow is a thing done to a thing beneath you. This is the look one strong lays on another across a stone they both want — the look the great cat laid on me out of the dark the night I learned what I was strong enough to do. He marks me as the strong mark the thing on their stone they must deal with before the stone is sure again.
+Rook was the eye. They were the arm. He had made the place where the two met.
 
-The weather comes off him and it has a shape. The wrong-blood, the soft-skinned thing that came up out of the sea half-dead, has gone where he could not, and made the strong do its bidding, and the bank has turned. And the bank he stands to inherit is the bank now turning to me.
+The vine went taut over the high seat and groaned, and the deep rot pulled back the way the rot always pulled, and for a breath nothing moved, the soup and the strong holding against each other across the dead limb. Then the soup gave him up. Slow. Sucking. The wet climbing off him a hand's width at a time, and the seat lifted and the rot lost its law, and the old male came up out of the mouth of the green that meant to keep him — hung on a vine the weak thing threw, lifted by a strength the weak thing aimed.
+
+They dragged him over the firm mat to the bank and he lay there heaving, the soup pouring off him, the torn ear flat, alive.
 
 ---
 
-The gentling goes out of the high stones, the small ones feeling it first. Voss-Marr crosses the lip and comes down the broken stair of rock to the bank, the clear bare ground moving with him because the strong open before the strong, and stops over me where the old male's naming still goes round, and looks down.
+The whole tribe was on the bank, and the whole tribe saw it.
 
-I brace for the arm. I have braced for it the whole season — the arm that turns the weak thing off the ground, the hand that closes, the brand laid in the flat tongue, *mine, be still, come, you are a thing.* The old barb turns in the warm dark behind my teeth.
+This was the thing that was different. The loop, the fed fire — those were gifts Rook had handed them, the weak thing's small things laid down for the strong to take or leave. This they watched. The deep rot took the strongest among them, and the strong stood on the bank and could not follow, and the weakest thing went out where the strong could not go and brought him back. Not by being strong. By being light, by reading the ground, by making the green the arm. They watched the weak thing do the thing the strong could not, with their own strength in its hands.
 
-But the arm does not come. The bank has named me; the Kala has kept me; the seer has marked me. He cannot lay the strong's hand on a thing his whole tribe just turned toward, not in front of the turning. He is young in his strength but not stupid in it; the stupid ones do not live to inherit.
+The old male got his legs under him, shaking, the soup drying gray on his hide, and came to Rook. He stood over him, the great torn-eared bulk of him, his small dark eyes going over Rook's face as the Kala's had gone over the loop, and made a sound — low, slow up out of the great chest, with a thing in it Rook had the whole shape of: the thing a strong one laid on a thing that had kept it from the gone-low. Not the gentling, not the asking, not the dismissing sound that had followed him the first season. The sound a body made to the thing that had stood between it and the squared dead. He bowed the great head. The strong one bowed its head to the weak. And then he did the thing Rook had no shelf for: he took Rook's wrist in his great hand — the hand that could close and end him, that had only ever moved him off a rock with no thought in it — and he did not move him. He held the wrist up and showed it to the tribe, the dark scarred small thing in his great fist, lifted for the others to see, and made the sound again, plain, laid on Rook where they all could read it.
 
-So he does the thing that is worse, and quieter, and I read it whole the moment he does it.
+He was naming Rook to them. He was saying, in the only tongue there was, *this one. This is the one that did it.*
 
-He looks at the old male, alive on the weak thing's reading, and at the wrist the old male lifted. And he makes a sound — not at me, at the old male. Low, and short, and flat, the teeth back in it. The old male hears it and the torn ear flattens and the great head goes down, and the naming-sound dies in his chest half-made, and he steps back off me, the proud thing gone out of him.
+Marrow had come down off the lip to Rook's other side. He did not crow. He was not made to crow. But the curled hand had come open and rested light against Rook's arm, and the high shoulder had dropped, the way it dropped when the thing he was minding had come good, and that was the whole of what he gave and it was plenty.
 
-Voss-Marr has not turned me off the ground. He has reminded the strong whose ground it is. Whose ground it will be.
+---
 
-Then the flat young eyes come back to me and hold me, long, the narrow weighing, no warmth in it and no letting-stand. The seer half-read a thing in the side of my head, a worth or a threat the old one could not name. Voss-Marr cannot read it. But he can read what it did on this bank — take the strong from him for a breath and give it to me — and a thing that can do that to him once can do it on the day the stone comes free.
+The far mouth stood all the way up.
 
-He does not need a word for *threat.* He has the whole shape of it, and so do I. I lay it down behind my teeth with the rest, in the gap where the name was, the hardest law the high stones have taught me yet:
+It was not the near edge of it that the loop fed, that the fire fed, that the seer's bowed head fed. It was deeper. To be handed up before the whole tribe by one of the strong, the wrist lifted, the sound laid plain — *this one* — was to be made a thing worth a sound by more than the one warm bulk that had chosen him. The whole tribe was turning, the strong with them, reading the weak thing as the thing that had kept their strongest from the gone.
+
+Rook did not have their word for it. He had all the weather of it. He had come up among them the soft weak wrong thing on lent ground that poured away the moment a hand opened — and this low the ground did not pour away. The strong itself had set foot in his track. He had stood on a thing and it had held his weight. He had earned a standing that was not lent.
+
+The Kala was on the high bank above them, the great gray-silver bulk, her small dark eyes on him, the keeping thing in them turned new, turned proud — the look a thing gave the thing it chose when the choosing came good before all the others. She had chosen Rook before there was a thing to choose him for, in the fever-fog, in the rot she folded off him, when he was only a wrong thing the green could not finish. The bank lifted his wrist. She lifted it first, when it was worth nothing.
+
+---
+
+And on the high stones the king's son watched, and Rook felt the watching before he found it.
+
+Voss-Marr. The prime blood of Gull-Marr, got of the king's own strong on the king's own stone, the strongest thing of Rook's own season — bigger already than males twice his lows, the hide on him clean and unscarred because nothing had stood to him long enough to mark it. He was the thing the tribe was made to make. When the old king went black-tongued and slow, it was this one the stone was held for. He had known the shape of the crown his whole life without thinking it, a thing that simply was his, waiting.
+
+He had come to the lip to watch a fat-meat beast die and the strong take it. Instead he had watched the weak thing aim the strong like a thrown stone, and the old male bow its great head, and the wrist go up.
+
+He did not come down. He stood on the broken stone with the high green at his back and weighed Rook, and there was no hot in it, no blow gathering. It was worse than a blow. A blow was a thing done to a thing beneath you. This was the look one strong laid on another across a stone they both wanted — the look the great cat had laid on Rook out of the dark the night he learned what he was strong enough to do. He marked Rook as the strong marked the thing on their stone they must deal with before the stone was sure again.
+
+The weather came off him and it had a shape. The wrong-blood, the soft-skinned thing that had come up out of the sea half-dead, had gone where Voss-Marr could not, and made the strong do its bidding, and the bank had turned. And the bank Voss-Marr stood to inherit was the bank now turning to Rook.
+
+---
+
+The gentling went out of the high stones, the small ones feeling it first. Voss-Marr crossed the lip and came down the broken stair of rock to the bank, the clear bare ground moving with him because the strong opened before the strong, and stopped over Rook where the old male's naming still went round, and looked down.
+
+Rook braced for the arm. He had braced for it the whole season — the arm that turned the weak thing off the ground, the hand that closed, the brand laid in the flat tongue, *mine, be still, come, you are a thing.* The old barb turned in the warm dark behind his teeth.
+
+But the arm did not come. The bank had named him; the Kala had kept him; the seer had marked him. Voss-Marr could not lay the strong's hand on a thing his whole tribe had just turned toward, not in front of the turning. He was young in his strength but not stupid in it; the stupid ones did not live to inherit.
+
+So he did the thing that was worse, and quieter, and Rook read it whole the moment he did it.
+
+Voss-Marr looked at the old male, alive on the weak thing's reading, and at the wrist the old male had lifted. And he made a sound — not at Rook, at the old male. Low, and short, and flat, the teeth back in it. The old male heard it and the torn ear flattened and the great head went down, and the naming-sound died in his chest half-made, and he stepped back off Rook, the proud thing gone out of him.
+
+Voss-Marr had not turned Rook off the ground. He had reminded the strong whose ground it was. Whose ground it would be.
+
+Then the flat young eyes came back to Rook and held him, long, the narrow weighing, no warmth in it and no letting-stand. The seer had half-read a thing in the side of Rook's head, a worth or a threat the old one could not name. Voss-Marr could not read it. But he could read what it did on this bank — take the strong from him for a breath and give it to Rook — and a thing that could do that to him once could do it on the day the stone came free.
+
+He did not need a word for *threat.* He had the whole shape of it, and so did Rook. Rook laid it down behind his teeth with the rest, in the gap where the name was, the hardest law the high stones had taught him yet:
 
 *To earn a standing on a strength-stone is to become the one thing the strong cannot let stand — and the one they raised to own the stone hates it sharpest of all.*
 
 ---
 
-He turns his great young body and goes back up onto the broken lip, the bare stone going up with him, and he does not look back, and the not-looking is its own kind of marking.
+Voss-Marr turned his great young body and went back up onto the broken lip, the bare stone going up with him, and he did not look back, and the not-looking was its own kind of marking.
 
-High above him, where the old king's stones run highest, Gull-Marr has not moved through any of it. The heavy flat-eyed bulk of him stands black against the green, not gleaning, not working, only watching — the weak thing, the vine, the strong aimed and the wrist held up, and then his own prime blood come down off the lip to lay the law on it. He watches it the slow way he watches everything. He does not come down. He does not need to. That is a low further on, and the body knows it before the head will hold it.
+High above him, where the old king's stones ran highest, Gull-Marr had not moved through any of it. The heavy flat-eyed bulk of him stood black against the green, not gleaning, not working, only watching — the weak thing, the vine, the strong aimed and the wrist held up, and then his own prime blood come down off the lip to lay the law on it. He watched it the slow way he watched everything. He did not come down. He did not need to. That was a low further on, and the body knew it before the head would hold it.
 
-The bank breaks up slow. The old male will not meet my eye now; Voss-Marr's small flat stone of a sound is on him, and he carries it. The others go up off the bank, and the turning toward me is still in them, the *this one,* but it is quieter, gone careful under the thing the heir laid down.
+The bank broke up slow. The old male would not meet Rook's eye; Voss-Marr's small flat stone of a sound was on him, and he carried it. The others went up off the bank, and the turning toward Rook was still in them, the *this one,* but it was quieter, gone careful under the thing the heir laid down.
 
-Marrow stays. Of course Marrow stays. He squats at the lip of the rot with the curled hand working slow at a stone, not looking up at the heir on the high green — which is its own reading. He will not look at the thing I am stood against, the same as he will not look at a green he does not trust. He knows what came down off that lip and what it weighed. He says nothing because he is not made for saying. But he stays at my heel, the first of the small wrong-made who will gather to me, and the staying is the whole of it.
+Marrow stayed. Of course Marrow stayed. He squatted at the lip of the rot with the curled hand working slow at a stone, not looking up at the heir on the high green — which was its own reading. He would not look at the thing Rook was stood against, the same as he would not look at a green he did not trust. He knew what had come down off that lip and what it weighed. He said nothing because he was not made for saying. But he stayed at Rook's heel, the first of the small wrong-made who would gather to him, and the staying was the whole of it.
 
 ---
 
-I stand a while on the bank over the drowned thicket where the rot works its slow mouth in the wet.
+Rook stood a while on the bank over the drowned thicket where the rot worked its slow mouth in the wet.
 
-I have earned a thing this low that no low gave me before — a standing the ground did not lend, a place I set my weight on and it held, before the whole tribe. And in the same turning I have been marked by the one raised to own the stone I stood on, marked the new way, the *could* and not the *is.* The body knows what the head is slow to hold: the thing that turned the tribe toward me is the exact thing that turned the heir against me. I could not have the one without the other.
+He had earned a thing this low that no low had given him before — a standing the ground did not lend, a place he set his weight on and it held, before the whole tribe. And in the same turning he had been marked by the one raised to own the stone he stood on, marked the new way, the *could* and not the *is.* The body knew what the head was slow to hold: the thing that turned the tribe toward him was the exact thing that turned the heir against him. He could not have the one without the other.
 
-The Kala comes down when the bank has cleared. She folds down beside me at the lip of the rot, the great gray-silver bulk, and lays the keeping arm over me, sure, and makes the still-sound, soft, falling, *be still, you are held, nothing comes.* And I make it back, low and torn, two falls, scraping over the gap where three teeth were gone. But I make it looking up at the broken lip, where the clean unscarred shape of the heir stands turned to the small scarred thing the strong followed down into the rot — and above him, higher, the heavy flat shape of the king that made him.
+The Kala came down when the bank had cleared. She folded down beside him at the lip of the rot, the great gray-silver bulk, and laid the keeping arm over him, sure, and made the still-sound, soft, falling, *be still, you are held, nothing comes.* And Rook made it back, low and torn, two falls, scraping over the gap where three teeth were gone. But he made it looking up at the broken lip, where the clean unscarred shape of the heir stood turned to the small scarred thing the strong had followed down into the rot — and above him, higher, the heavy flat shape of the king that made him.
 
-*Nothing comes,* the Kala says, soft, falling.
+*Nothing comes,* the Kala said, soft, falling.
 
-Something comes. It is coming off that lip toward me as sure as the tide comes up the channel — not this low, not the next, but coming, weighed and marked and bone-sure. I lie in the warm with the still-sound going around, and I do not tell her the thing the body already knows.
+Something came. It was coming off that lip toward Rook as sure as the tide came up the channel — not this low, not the next, but coming, weighed and marked and bone-sure. He lay in the warm with the still-sound going around, and he did not tell her the thing the body already knew.
 
-I have learned to stand. The high stones have answered the only way a strength-stone can: they have made a thing with flat young eyes and clean unscarred hide and the whole law of the strong behind it, set up there in the high green, marking the place where the weak thing learned to stand — and waiting for the low when standing is not enough.
+He had learned to stand. The high stones had answered the only way a strength-stone could: they had made a thing with flat young eyes and clean unscarred hide and the whole law of the strong behind it, set up there in the high green, marking the place where the weak thing learned to stand — and waiting for the low when standing was not enough.

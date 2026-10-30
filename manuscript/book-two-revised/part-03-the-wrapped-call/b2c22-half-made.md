@@ -1,0 +1,173 @@
+# Book Two, Chapter 22: Half-Made
+
+The tide took the flat back a finger at a time, and the blood went with it.
+
+He watched it go in the first light, standing where the road of firm sand met the wrack-line, and the watching was a thing the body did while the head stood elsewhere. The red columns on the pale sand thinned under the sheeting water. Thinned, and spread, and went. By the time the flat lay under the gray mirror of the morning's high water, there was nothing on it to say that sixty men had been read there and two men finished — nothing but the prints cracked in the mud where he had crossed at a speed the mud had never been asked to carry, and the shoulder's gap where the sling-line had bent, and the two bodies laid above the wrack-line under sacking, waiting for the count.
+
+The city kept its dead the way it kept its sums. It did not hide them and it did not hold them. It spoke them.
+
+They spoke them at the second light, on the sand above the wrack-line, with the tide high and the sump's whole waking tier looking down from the galleries, and the rite was the count's rite, which was no rite at all: speak what is.
+
+The Skell carried the one of the five down to the sand and laid him out, and the laying-out was done with a care the amber eyes had spent seasons paying for — the heels set together, the arms set true, the face left as it was. The face was the hard thing. The counting face was still on it. The flat patience that had measured every body the tiers had priced had gone into the mud mid-measure, and death had not thought to change it, and so the five's last was the five's always: a face adding.
+
+"Say him," the boy said, because it was his to say.
+
+The clerk stood at the edge of the sacking with the tablet, and the dry voice gave the column flat and whole. Taken in the seventh's floors. Bled eleven seasons. Sworn under the count at the cords. Held the fifth gate at the twenty-ninth low. Opened under the chin by a bond-man's hook through a gap three bodies wide. The clerk paused once, at the gap, and the shelving eyes came up off the tablet and went to the right shoulder and came back down, and the pause was the loudest thing the clerk had ever said in the sump.
+
+"The gap is in the column," the boy said. "Write it. The count does not carry clean sums. It carries true ones."
+
+The clerk wrote it.
+
+Then the young one. The freed-but-owing had him laid beside the five, and the oath cord was still on his wrist, six lows old, the knots still sharp-edged from the tying, not yet worn to the wrist's shape. Six lows. The wrist had not had time to take the cord's shape. The boy stood over that longer than he stood over anything, and the standing was physical, the way all the true things were physical: a pressure behind the eyes, a thickness in the throat that swallowed and did not go, the palm wanting the gap where the three teeth were gone and being kept at the side by a decision that cost more than the wanting.
+
+"Say him."
+
+Wrong-blood from the working tier. Six seasons in the city. Sworn under the count two lows after the cords came down. Opened across the chest through the same gap. The oath not yet old enough to have a single payment in it.
+
+"There is no column for him," the clerk said. It was not protest. It was the tablet's own grief, the grief of a thing built for numbers facing a number that would not come. "The oath owes nothing yet. Nothing was paid in. The line is empty."
+
+"Then write what is," the boy said. "The count held him two lows. The count was holding him when the gap opened. The column is ours, and it is empty, and it stays in the tablet empty, and every low the tablet opens, the empty line is there. That is the cost. We pay it in the open."
+
+The bled heard it. He could not stop the bled from hearing it; the count's law was speak-what-is, and he had spoken a thing that was. And the faces on the tier and the faces on the sand did the sum the way he had taught them, every pair of eyes, and the sum was not grief, or not only grief. Under the grief, in the younger faces, in the freed-but-owing, in the working-tier wrong-bloods who had never been looked at by anything above them before the cords came down — under the grief the sum was the other reading. The one he had been running from since the throat's galleries.
+
+*Like the answer. Like the largest thing that will let them come near.*
+
+He set it on the shelf with everything else, and the shelf did not give anything back, and the morning after had only begun.
+
+---
+
+Kade had not moved from the sand.
+
+He knelt where he had knelt at the graying, between his kill and his dead, and the tide had come to within a hand's width of his knees and gone out again, and the body had not moved. The brightness was still in him. It had gone somewhere lower, the way fire goes into a banked thing, but it was there, and the kneeling had kept it fed all night in the dark.
+
+"Say the sentence," Kade said, when the boy stood over him. The voice was the seventh cage's voice, low, counted, even. The evenness of a body that had already sentenced itself and was waiting for the count to agree. "I know the asking comes after. I know the shape of it. I broke the shoulder. The shoulder cost two. Say it, and I will stand up into it."
+
+*He asks for it,* said the thing behind the door, and the words came gently, in the count's own grammar, the way all its worst words came now. *A column for a column. Two columns. The arithmetic is clean, and it is even merciful — he wants it, the wanting was in him before the flats, you did not put it there. Spoken aloud. Witnessed. Clean.*
+
+The sinew cut at both temples, thin and warm, the three knots' law made good — the wearer bleeds first — and the pain was a rope in the fist and he held it, and the door stayed shut, and the shut cost was the cut, and the cut was the cheapest thing the morning had charged him so far.
+
+He counted the morning after first. He stood on the pale sand with the tide going out and did what Marrow had told him, counted the morning after before the door, and the counting changed nothing, and he counted it anyway.
+
+Kill Kade, and what crossed the flat next? A corpse with the brightness stopped in it. The freed-but-owing had followed the brightness the way water finds a crack. Stop it, and the water does not stop — it finds the shape of the stopping and runs in that. A dead devotee is a finished thing, and finished things do not teach. But a *spent* devotee —
+
+He had seen it before. He had seen it in the cage, in the green, in the hold: the hands that hurt were not the danger. The danger was the body you kept alive at a cost it could not pay, because a debt stayed open, and what stayed open could be filled by anything.
+
+He went down the galleries before the sentencing and crouched at Marrow's cage, because the body knew where the counting worked before the head did.
+
+"Death closes him," Marrow said, before the boy had spoken a word of it. The runt's hand was out through the bars and on his wrist, and the old hold was under the new one, the still-here under the counting. "You can see that. Everybody can see that. A closed thing is done, and done things get mourned and get left." The thumb moved once over the pulse it had never needed. "Whatever you leave open in him — watch what the young ones do with it. They're not following his brightness, boy. They're following the *shape* the brightness burns. Leave him a martyr's shape and you've minted it. Leave him a debt's shape and it's still yours to hold."
+
+"Hold how," the boy said. "He cut a man to pieces through his own raised hands."
+
+"Yes," Marrow said. "And then he knelt down beside the pieces and waited all night for you to say so." The hand tightened once. "That's the whole of what he is, and it's the whole of the problem, and it's why the answer isn't in him. It's in what you send out of him."
+
+---
+
+The sentencing was done on the sand, in the open, at the third light, with the bled on the tiers and the sworn on the flats and the tablet on the clerk's forearms, because the count's law was speak-what-is and a sentence spoken in the dark taught the dark.
+
+"Kade. Freed of the seventh's floors, owing under the count." He said it flat, and the flatness was the crown's weight in it, the words coming out older than the low. "You broke the shoulder. The shoulder cost two. The two are spoken, and the columns stay in the tablet, one filled and one empty, and they are mine, and I carry them, because the count does not drop what it carries. That is the whole law. Say it back."
+
+"The count does not drop what it carries," Kade said.
+
+"The seventh's master was not yours to kill. He was a column in a count. You spent the count's kill for a private debt, and paid for it with two of ours, and the price of a private debt is that you go back to being useful in the open where everybody can watch you pay. You will not die for this. You will not kneel for it past this morning. You will *carry* it."
+
+He had them bring it then: the master's body, wrapped since the graying in the sacking the wrack-line had given, the scheduler's tablet hung at the wrapped neck where the counting-hands lay folded, the forty-three floor-cuts written on the wood in the master's own figures, each weighed, each priced, each low. The bled on the tiers saw the tablet and the seeing moved through them tier by tier like wind through standing rope.
+
+"The kill is the count's. The count returns what is its own. At the next dead-low you will carry him across the flat, alone, unarmed, up the firm road and through the drowned gate to the bond's line, and you will put the count's kill into the hands that bought the warrant, and you will say: *the count does not spend what it does not carry.* And then you will stand there, and take back whatever they give you, and carry that back to me. That is the sentence. It has no end in it and no forgiveness in it. It is a delivery."
+
+The thing behind the door attended without pushing. It had wanted the clean arithmetic, and the clean arithmetic had been refused, and it did not sulk — it *filed*, he could feel the filing happen, the patient notching of a refusal into a place where refusals were kept — and the notching was worse than the pushing, because the pushing he knew how to hold and the learning he only knew how to watch.
+
+Kade knelt through all of it without moving, and when it was done the brightness came up in him to be looked at, and the boy watched devotion do the thing he had watched devotion do on the flats and in the cages and at every standing Kade had ever been given: take the sentence, and re-cut it, and hand it back as faith.
+
+Not as it had before. Not whole. There was a beat — one breath's width — where the re-cutting did not take, where Kade's eyes came up off the sand and found his and asked, with everything the seventh cage had left in them, for the one sentence that closes.
+
+He did not give it. That was the sentence under the sentence, and both of them stood in it, and neither said it, and the tier saw the not-saying.
+
+"The delivery is mine," Kade said finally, and the voice had a new grain in it, low and counted and even, and wrong in a way that had no column yet. "The carrying is mine."
+
+The freed-but-owing heard it on the tiers, and their faces took the mold.
+
+---
+
+Asha-kel came down at the next dark, to the drowned gate, alone.
+
+He felt the leash before he saw it — no. That was the thing wanting to be felt, wanting its importance registered in the body, and he had begun to know the difference between the sump's telling and the thing's claiming. The plain truth: he heard the boots on the seaward stair, and there was nothing in the hearing, and that was the telling. The leash came down wrapped, oiled sinew over the whole length of it, one end bare, carried low along the stone the way it had been carried along the tier's edge in the graying, and Asha-kel stood in the drowned gate's dark throat with the wrapped thing in both hands and gave no bow and asked no leave, because the houses did not work that way, and had not, he understood now, ever worked that way.
+
+"You held it at the half," Asha-kel said. "The houses watched you hold it. The sinew bled. That is the only reason this is still wrapped."
+
+"The leash was shown," the boy said. "Shown is a word the houses spent on purpose."
+
+"Yes." No denial, and no pride in the denial's place. The voice was dry as the clerk's and heavier, a voice with salt in the grain of it, an old voice that had spent its loudness somewhere years of lows ago. "Shown, not spent. Learn the difference better than the tiers will. The houses do not spend what showing will carry. Neither, I think, do you." The wrapped end shifted in the leathered hands, and the shift was small, and he read it the way he read all bodies now: the hands had held the thing through the whole of the flats, at the wall, in the dark, one end bare, and the hands had not wanted it, and the hands had not been sure — that was the face the caller had not shown the waking sump, and it was on the hands instead, where the truth of a body usually kept itself. "You bled first. The leash is for the door. It was never for the man. I would have struck it on the stone if the door had come all the way up, and I have struck one before, and I have never once stopped being glad it was not needed, and I have never once let the gladness choose."
+
+*The gladness,* said the thing behind the door, with an attention he did not like, *carried by the hand that holds the name. Remember that. Names come out of hands like that.*
+
+He held the door. The sinew cut, thin, both temples. Asha-kel's eyes went to the blood the way the clerk's eyes went to a wrong figure — noted, columned, kept.
+
+"The term," Asha-kel said. "Say it back to me, so the tiers can say you were told. If the door passes the half — not at the flats, not at a wall, anywhere, any low, any dark — the houses strike the wrapped end on the tithe-stone, and your name is spoken into the striking, three times, in the old way the stone carries. And what stands in you then will come to the stone, or the stone will close what stands." The old voice did not rise. It did not need to; it carried the way clean things carried in a place built for blood. "That is not a threat. It is the city's oldest column, and you are in it now, and so am I, and the leash does not care which of us it grieves."
+
+"Say it back," the boy said. "So the houses can say I asked."
+
+And Asha-kel said it back, word for word, in the drowned gate's dark, and the saying of it was the strangest thing the dark had held that night: the hand that would do it and the hand it would be done to, speaking the one sentence to each other, each with a body that had bled already and did not want the other's blood, and neither able to put the wanting anywhere the column would hold.
+
+The leash went back up the seaward stair, wrapped, one end bare.
+
+---
+
+The dead-low came in its hour, and the sea gave the flat back a piece at a time, and Kade went out onto it carrying the count's kill.
+
+Unarmed. The sacking on his shoulders, the wrapped weight bound high where a pack rides, the scheduler's tablet swinging at the wrapped neck with the forty-three figures face-out, so the bond's line would read who was coming and what was coming with him before the mud gave them his shape. Up the firm road between the rock shoulders, at the pace the road allowed, alone.
+
+The boy stood the right shoulder with plain eyes.
+
+That was the whole of his standing: plain eyes. The half-door stayed shut — shut by the sentence, shut by the term now spoken at the drowned gate, shut by the sinew's cut and the morning-after count and the two columns in the tablet, one filled and one empty — and with the door shut, the flat was only a flat. Pale sand. Black mud. Pools going still. The dark at the gate's throat only dark. He did not know the far end's iron. He did not know the footing. He did not know what the bond's line had been told or what it would spend on a lone unarmed carrier or what the masters had priced an example at. The ground did not tell him. The ground was just ground.
+
+The not-knowing sat in the body like cold water in the boots. He had stood on ground that did not tell him once before — the first weeks of the green, before he learned its language — and the body remembered the shape of that ignorance at the soles and the wrists, and the memory was physical, and it was the price of the shut door, and he stood in the price without a word, because Kade's sentence was Kade's and his blindness was his own and the count held both.
+
+*Open the half,* the thing said. It did not push. It offered, patient as arithmetic, in the tone of a body laying a tool where a working hand would find it. *Reading is not taking. You held the half on the flats and it was yours, your choosing, your mercy, your count. The half is the door with a hand on it. I am asking you to put your hand on it. Only your hand.*
+
+"No," he said, aloud, on the shoulder, in the dark, and the sworn nearest him did not ask what the no answered, because the sworn had learned some of what the flat's silences held.
+
+Torchlight moved at the gate's throat. Small from the shoulder's distance. The dark took shapes in and out of it. The watching was all there was, and the watching was at the distance where eyes lie — he could not read the meeting, could not read the putting of the kill into the bond's hands, could not read the standing-after. The tide's foot came in across the far mud and closed the road behind Kade, the way the tide closed every road, in its hour, without arithmetic.
+
+The Skell stood the shoulder with him and said nothing, and the amber eyes stayed on the gate's throat, and the shoulders did the feeding-shape and held it, and the holding was the Skell's whole sentence about what was being watched.
+
+Kade came back on the road's last firm sand with the tide at his heels.
+
+He came slowly, and the slowness was not pace. The right sleeve was wrong. It hung the way cloth hangs when the thing it was cut for is no longer the shape under it, and the end of it was bound in the same sacking that had carried the master, wound tight, wound by hands that were not the hand's own, and the arm ended at the wrist.
+
+The bond's answer rode in the left hand: a tally-stick, sealed in the masters' wax, the counter-mark of the warrant's cost. They had taken the cutting hand. Payment, and message, and example, priced and weighed and entered in their columns: *the bond collects its own.* They had taken it and burned the taking, and sent the body that owed them back across the flat at the tide's edge, carrying the bill.
+
+The bled came down out of the sump.
+
+They had not been called down. That was the thing the tide's turn could not undo afterward: nobody called them. They came down the tiers and out the drowned gate in the graying light, dozens, then more, the sworn and the freed-but-owing and the cages' bled with the cords still on their wrists, and they stood back from the road and watched Kade walk the last of it — the sleeve wound wrong, the tally-stick in the left hand, the walking of a body that had been out to the enemy's line and come back less a hand and not less a step — and the faces did not do grief and did not do fear.
+
+They did the other sum. The one he had been running from. The young ones of the freed-but-owing watched the wrong sleeve the way the working tier had watched the flats' blood-columns: *like the answer.*
+
+Kade stopped before him at the road's end, in the blood-showing sand, and held out the tally-stick in the left hand, and knelt — one knee, the knee that did not need to, the knee of a body choosing its own shape — and the brightness was in him still, and it was changed. It had a shape now. It had gone all night and all dark being a hunger the low could not feed, and the bond's line had cut a hand off it, and what had come back was not a hunger anymore.
+
+His mutilation had done what mercy had not. It had given him shape.
+
+The boy took the tally-stick, and the wax seal was cold, and the cold of it went in through the palm and met the cold behind the ribs, and the two colds knew each other.
+
+"Rise," he said. "The count does not kneel what it carries."
+
+Kade rose.
+
+---
+
+The copying began before the next low's dark.
+
+He heard of it the way the count heard everything, off bodies: a young one of the freed-but-owing, working-tier wrong-blood, seventeen seasons old, found at the cages with his own right hand wrapped wrist-to-fingertip in oath-cord, the knots tied one-handed, badly, tied again — vowing, when the sworn asked him what the wrapping was, to carry his hand unspent until the count said otherwise. *Unspent.* The word had not existed in the sump two lows ago. It was in the sump now. By the second dark there were three more, and by the third the wrapping had a name, the way all the sump's truest things got their names — not given, found: *the unspent hand.*
+
+He stood on the platform stone in the dark with the tablet under his hand and the tally-stick beside it, the masters' seal unbroken, the counter-mark of the warrant's cost waiting for the morning to open it, and he counted the morning after, and the morning after was larger than the flats, the way every morning after was larger than the time before.
+
+Kade he had refused to close, and the refusing had minted a shape. The shape was walking the sump with a wrong sleeve and a grain in the voice that had no column, and the young were taking the mold of it hand by hand, and the mold was his — his restraint, his mercy, his sentence — wearing the bled like the count had never worn them.
+
+*See what shape does,* said the thing behind the door. Gently. Reasonably. In the count's own grammar, in the filing voice, the voice that had never once pushed where a notch would serve. *Shape is how a thing is kept. You have known it since the green — the den, the fire, the name, the count, the crown. They kept you by giving you shape. He is shaped now. They are shaping. I only note it. I only hold the door with the hand you trust.*
+
+The sinew cut. Thin, both temples, the wearer bleeding first, and the door stayed shut, and out in the city, above the sump, above the courts' sealed clay, the tithe-stone stood in its dark where it had always stood, and the leash was wrapped for it, one end bare, and his name was waiting in an old mouth to be spoken three times into the striking.
+
+The morning after had a column. It was filling from both ends now.
+
+He put his hand over the gap where the three teeth were gone, and the cold behind the ribs did not stop for the palm, and the shape of things waited for the light.
+
+*End of Chapter 22*

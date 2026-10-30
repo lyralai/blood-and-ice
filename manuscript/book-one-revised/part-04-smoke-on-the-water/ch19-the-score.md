@@ -1,111 +1,163 @@
-# Chapter 20: The Score
+# Chapter 19: The Slavers' Camp
 
-They find the high stones.
-
----
-
-I knew they would. The sky-reader had the heading and the young one had the instinct, and the green thins around the high stones the way it thins nowhere else on the island — the canopy opening, the air moving, the light coming down in sheets through the break. It is the first good ground the hurt pack has walked since they beached. I watch them feel it. The big one stops at the tree line where the green opens and puts his hands on his hips and reads the cleared ground and the standing stones, and the breath that comes off him is the breath of a thing that has been drowning and found a pocket of air.
-
-They do not see the tribe. The tribe sees them.
-
-I am in the canopy above the high stones when the pack breaks the tree line. I am already too late to stop what is coming, because the Vorth were watching before I was. The old male with the torn ear has the lookout today — he is up on the far stack, the great scarred body turned toward the new smell on the wind, and I read him from a hundred body-lengths: the head up, the nostrils wide, the flat old eyes fixed on the tree line where the two-legged pack is emerging.
-
-He has never seen a human up close. The tribe has the smell of the old dead expedition on the far shore, the smell that means *wrong-shape, danger,* and they have the memory of me — the first two-legged thing they took in, the soft wrong thing that became the king. But these are not me. These are the pack the smell came from. The old male reads them and the reading lands in the old place: *threat.*
-
-I go down from the canopy fast. Not fast enough.
+They had built where the dead built.
 
 ---
 
-The Vorth send three.
+The boy knew it before he was close enough to read a single body. The green here was wrong the way a wound was wrong — the canopy hacked back off the old high-water flat where the Wreck lay rotting in the mangrove, the rot-thicket cut and dragged and the bare mud opened to the sky. Nothing of his green opened the canopy. The green closed. It grew down over every hole the way the tide came back over a print, and left no scar. Nothing stayed opened. Only men opened a thing and held it open. He read the held-open from a long way off, downwind, low in the drowned roots, and the far mouth pulled up tight and hard under his breastbone.
 
-Three prime-blood warriors, moving through the green toward the tree line the way the Hesh moved through the green — low, fast, the great bodies poured through the undergrowth without sound. They have the hand-axes. They have the killing weight.
+Marrow was at his shoulder. He had come this far and no further, and the body of him said it.
 
-The hurt pack does not see them. The big one is at the edge of the clearing, reading the standing stones with the face of a thing that has found something it does not understand. The sky-reader is beside him. The thick-armed one is at the back of the pack, the axe on his hip, his face still flat, still afraid — but not of the green now. Of the clearing. Of the open ground. A thing that has been hunted reads open ground as the place the arrow finds you.
+He was small against the root, one shoulder riding high. The curled hand drawn in tight against his chest. He had gone still — not the still of a hunter holding a line, the other still, the one that meant a thing had read death ahead and would not walk into it. The high shoulder dropped, slow. That was how he meant *no* when he had no sound big enough to lay over the *no.* He would not look at the cut clearing. He looked at the boy, and then at the green behind them, the way back, and then at the boy again. The curled hand worked against his chest, opening, closing, opening. That was the whole of what he had to say, and he said it as loud as a kill-cry: *not this. Not toward this.*
 
-He is right.
-
-The first Vorth comes out of the green at the thick-armed one. Not a charge — a taking. The great gray-silver arm sweeps low, the hand-axe aimed at the knee, and the thick one goes down hard, the axe on his hip clanging off the stone, and the sound he makes is the sound of a thing that has been hit by something it cannot read. The second Vorth is at the sky-reader, and the third is flanking the pack to cut the retreat, and the green has gone from cleared ground to killing ground in the space of a breath.
-
-But the thick-armed one is not done.
-
-He gets the axe up from the stone. Not the pretty swing of a trained fighter — the ugly, short, desperate swing of a thing that is on its back with a Vorth warrior on top of it and one chance to stay alive. The axe catches the Vorth in the shoulder, and the Vorth makes a sound I have never heard one of the tribe make — surprise, pain, the rage of a thing that expected the two-legged prey to fold — and the thick one rolls, bleeding, and gets his feet under him.
-
-The big one moves. He does not freeze. The body notes it — the way the holding-center reads the attack and does not go to pieces, the way his hands find the short iron at his belt and he puts himself between the sky-reader and the second Vorth. He will not win this. No human on this island wins a close fight with a prime Vorth warrior. But he puts his body in the way with the same set his face had when the dying went bad on the spit: *I drew the line, and the thing that is coming has to come through the line first.*
-
-The Vorth sweeps the short iron aside and bowls the big one over. The sky-reader goes down under the back-swing.
-
-And then I am there.
+The boy read it. He read it whole. And he went on anyway, low under the cut stumps, and Marrow did not.
 
 ---
 
-I come out of the canopy onto the killing ground between the tribe and the pack, and the sound I make is the sound I have not made since the challenge — the rasp, the cough with the growl riding its back, the full deep-chest killing-sound the still place holds back. I do not hold it back this low. I let the whole of it out, and it goes across the high stones the way the thunder goes, and every Vorth on the ground goes still.
+They had landed where the last men died.
 
-The three warriors read me. The king. The crown. The thing on the lip that the strength walked off of and left standing. They do not know why the king is between them and the two-legged prey, and the not-knowing stops them. The old male on the far stack is up, the scarred head turned, reading the thing on the ground that is the king standing in front of the threat. The seer will be reading it too, from wherever the seer keeps its watch. The whole high-stone tribe has stopped to read the thing I am doing, and I do not have a word for it, and I am doing it anyway.
+They had cut a clearing in the rot that had eaten the others and they had not smelled the dying still on it. Men had no nose for the thing that took them. The boy had read the bones of the dead expedition under the mangrove — the ones the fever took, the ones he did not feel — and the living had set their fires on the same ground, in the same fever-air, and did not know they were already meat.
 
-I put myself between the Vorth and the pack.
+The green did not hurry. It had them, and had had them since the first foot came off the boat. He went in close on the low, and as he crossed the warm shallows where the Mure rose he read a thing the men could not: the air over the cut mud had the seep in it. The slow rot-breath, the same wet sweetness that hung off the dead expedition's bones. It was in their water. They drank it down and laughed and did not taste it. He had tasted it on the Wreck and had not sickened. They would taste nothing until it was in the blood. Then it would come all at once, late and sudden, the way it had come for the dead ones — a clearing full of strong men, and the green eating them from the inside while they thought they had won.
 
-The first warrior — the one the thick-armed one axed in the shoulder — reads my front and backs off. Low. The head down. Not the submission of a thing that has lost, the *reading* of a thing that knows the king is the king and the king has said *stop.* The second warrior is slower. It has the sky-reader on the ground and the big one is trying to get up between them, and I step into the Vorth's front the way I stepped into Gull-Marr's front — low, inside the reach, reading where it stands.
-
-I make the still-sound. The gentling. The Kala's sound, the one that says *be still, nothing comes.* Not to the pack. To the warrior. The way the Kala made it over me when the fever-fog took me under. The warrior reads it. The great dark eyes reading the king who holds the line the Kala taught — *nothing comes* — and the warrior backs off the sky-reader, slow, the way a thing backs off a kill it has been told to leave.
-
-The third warrior flanking the retreat goes still. Reads the other two. Reads me. Turns and goes back into the green, silent, the way the tribe came.
-
-I stand on the killing ground between the tribe and the pack and the breath goes through me like a tide.
+He laid that against the shelf and went on, into the smell of them.
 
 ---
 
-The hurt pack lies on the stone. The thick-armed one has the axe up, bleeding from the knee the Vorth swept, his face white, the flat gone to a thing past flat — past fear, into the place where the body stops reading and starts dying. But the axe is up. The thick one is the kind of thing that holds the axe up inside the dying.
+The smell landed behind his teeth before his eye found the first shape, and the smell was the hold.
 
-The big one is on his feet. He got up between the sky-reader and the Vorth and stayed up. His face has blood on it — hers or his, I cannot tell — and he is reading me. Reading the thing that came out of the canopy and stopped the killing. The thing that stands between him and the great gray-silver warriors the way he stood between the sky-reader and them.
-
-His eyes are wide. Not with fear. With the thing that comes after fear, when the fear reads something it does not have a shape for and the body goes still to let the head catch up.
-
-The young one is in the tree above. He went up when the Vorth came — the climbing instinct, the runner's fast answer to the ground going bad — and he is pressed to a branch with his face white and his hands dug into the bark and he is looking down at the thing on the stone that is shaped like him and is not him and is standing between the pack and the monsters.
-
-The steady-handed woman has the sky-reader. She is on the ground beside her, hands moving, reading the wound where the Vorth's back-swing caught the head. The sky-reader is breathing. The blood is scalp-blood — the kind that looks worse than it is, the kind that runs and runs from a cut that is not deep. She will live.
-
-I stand on the stone and let the big one read me.
-
-He sees the scars. He sees the body that does not match the island — too light, too scarred, too wrong for the green that made it. He sees the disc at my chest, the Eye-and-Thorn bound in worked metal, and his eyes change. The change is small and the body catches it because the body catches everything: the pupil widening, the breath holding, the thing that happens in a face when it sees something it has seen before — not this, not here, but the *shape* of this, the shape of the disc, the shape of the eye.
-
-He has seen the Eye-and-Thorn before.
-
-I do not have time to press at this. The Vorth are in the green, reading, and the tribe is on the high stones, reading, and I am standing on the killing ground between them with a pack of hurt two-legged things that the green is eating and the tribe is hunting, and the count of things I have to hold is going up faster than I can hold them.
-
-I turn to the big one. I put my front to him. I do the thing the body does when it has no words — I set the jaw, I turn toward the green wall, I turn back to him, and the meaning is the only meaning I have: *not here. Not this ground. This ground is taken.*
-
-He reads it. I do not know how — the body says he reads it, the way the old male read the wrist lifted on the bank, the way the tribe reads everything, body to body, the meaning under the sound. He reads the king on the killing ground telling him *go* and he does not understand it and he understands it.
-
-He gets the pack up.
+Tar. Smoke that was fed and tended and did not go out. The hot iron-stink of a forge kept small and close. And under all of it, threaded through all of it, the close-packed reek of bodies held where they could not move — the piss and the sour breath and the open sores of the kept. The smell of a thing that was owned. He had not had that smell in his nose since the dark of the hold, since the wet wood sweating salt and the boy warm against his side. The body wore it again now in one breath, and the skin on the back of his neck crawled and tried to get away from a hand that was not there, the slow sure grip that had owned the whole of him in the one hold. He lay in the mud under a cut stump and he made the crawling stop, and he looked.
 
 ---
 
-They go.
+There were more of them than the tribe.
 
-They go bleeding and hurt and looking back at the thing on the stone that is shaped like them and turned the monsters aside, and the thick-armed one goes with the axe up the whole way, the knee dragging, and the young one drops from the tree and is at the big one's side with his hand on the big one's arm, and the steady-handed woman has the sky-reader's arm over her shoulder and the blood in her hair, and they go back the way they came, toward the green, toward the shore.
+He counted the haul of them low and sure, learning where it bunched thick and where it thinned and went soft. Many tens. They went on two legs, all of them, and they handled things — the endless handling that only men did, setting down and taking up and setting down. The boxes. The lashed bundles. The long hooked iron stacked in racks. They had made their dens out of cut hide stretched over poles, set close, all turned in to the kept fires in the middle, the red glowing low in the seams.
 
-I watch them off the high stones. The Vorth watch them from the green. Nobody follows. I have said *stop* and the stop holds, the way it held when the seer's finger came down on the lip, the way it holds for the king.
+A pack. A herd of men, gathered, warm, tending its own.
 
-But the big one looked back. At the clearing. At the high stones. At the thing that stood between his pack and the killing. And the look was not the look of a thing that is leaving.
+The far mouth opened for it. It did not care what they were. It pulled him up out of the mud toward the many-bodied warm, toward a warm that had once chosen to hold him — and in the same breath the near part of him flattened and the lip wanted to peel off the teeth. Because hands. Because hold. Because the smell was the smell of the thing that had made him a thing. Toward in the chest. Away in the legs. The two of them in the one skin hauling at each other until the pull sang.
 
-It was the look of a thing that has found the thing it was looking for.
+He had a tribe now. He had a home with no between in it and a seat the strength had walked off of and left him on. He told the pull that. *You are full. You do not need the fires. You have the high stones.*
+
+The pull did not hear him. Because the warm down there was the warm of his own kind, the same shape walking, and there was a hole in him shaped like that warm that the high stones could not fill, that the Kala's arm over him could not fill — a man-shaped hole worn smooth by a thing that used to sit there and sat there no longer. The tribe had filled the far mouth. It had not filled this. It was the worst thing he had learned since the gap behind his teeth came up empty: that he had two holes in him and had only known the one.
+
+And up the slope behind him, in the dark of the drowned roots, Marrow had not moved. The boy felt the *no* of him laid against his back like a hand, steady, refusing to come down. The runt did not know the words the boy was full of. He knew only that the boy was crawling toward men, and that men were the thing that owned. The runt the strong had meant to cull was the one thing on this island that would not leave him to the fires — and the fires were his own kind, and Marrow was not. He lay in the mud and could not get that to sit right in his chest.
 
 ---
 
-I go up to the high stones when the pack is gone.
+They were not here for the green.
 
-The seer is there. The pale finger is up before I reach the seat, and it does not point at the green where the pack went. It points at me. At the blood on my arms where the Vorth's reach scraped the skin coming through — already closing, the edges pulling shut, the wrong-fast closing the seer has read and wondered over.
+A pack that wanted the green would take meat and water and go, the way the dead expedition had taken and could not keep. These took the wrong things. He watched them haul a shape up the mud from the channel-mouth on poles — gray-silver and gone slack — and the gut dropped out of him because for one breath he read it as Vorth. But it was a drowned-one. A Mure. A big one, web-fingered hands lashed and the pale wet skin going dull. They had taken it alive off the warm shallows and broken it, and they caged it. Not killed it. Caged it. The hooked iron was for taking a live thing and not letting it run, and he had the whole shape of it now: they hunted the green not to eat it but to keep it — to carry it off across the water in the dark of a hold, the way they had carried him.
 
-The meaning-sound is low and has the question folded into it, and the question is not *why did you stand between.* The seer has read that from the body. The question is older.
+He saw the cages then, set back where the smell was thickest. Wood and lashed iron, low, too low for the things in them to stand. The lashed Mure in one, its breath whistling wet and wrong through the web of its throat. A Skell in another, the jackal-coding broken, lying on its side in its own waste, the lean ribs going and coming too fast. He knew the Mure off the warm shallows and the Skell off the scree — had read both alive and free and dangerous — and now they lay in the iron going dull, and the dull was the same dull.
 
-*What are you.*
+And there were men in the cages too.
 
-I do not have the word. The seer does not have the word. The finger lifts off my chest and the seer looks at me long and folds down, and we keep the wondering on our separate shelves, the way we have always kept it.
+He lay very still when he read that.
 
-But the thing that set its jaw in me when the big one looked back at the high stones is harder than the wondering. The body reads it plain, the way the body reads everything, before the head can shape it.
+Men keeping men. The same shape on both sides of the iron — the hand that closed and the neck the hand closed on — and only the iron between them saying which was which. And he knew which the iron had made him. He had worn the inside of it. He had never once, in all the lows since the sea spat him up, let himself think the men who held him were men. He had made them a weather without a face. And here was the face. Tens of faces around the kept fires, warm, tending their own — and the men in the warm did not turn their heads to the men in the iron.
 
-He will come back. The big one with the holding-center and the face that changed when he saw the Eye-and-Thorn. He will come back, and not for shelter, and not for water. He has seen the thing that keeps the monsters back. He has seen the value of it. And the body reads, with the bone-sure knowledge that has kept me alive on this island since the first low, that the thing the big one wants is not the thing the big one will say he wants, and the difference between the two is the thing I will have to read before he comes.
+---
 
-The tribe settles. The Kala folds down beside me on the seat and the keeping arm comes over and the still-sound falls, and I lean into it, and the leaning is full and the leaning is not enough, and outside the high stones the green holds a hurt pack that is walking back toward the shore with the thing they found on the high stones behind them and the value of it in front of their eyes.
+The leader he read last.
 
-The count has started. I can feel it in the set of my own jaw, the way Marrow feels it in mine. The lows between now and the thing the water has not shown me yet are numbered, and the number is going down.
+He did not handle things. He stood and the handling moved around him. He was not the biggest — it was never the biggest — but the others bent toward him without being struck, the way a tribe leaned to the king before the king had done a thing. He had the still of a thing that did not have to hurry to what it was going to take. The boy had stood under that still on a deck and in a hold. The body knew the slow certain coming-on, and it knew this man was made of it.
+
+He wore a mark.
+
+It was on the breast of him, worked into the hide he wore, and on the iron of the long blade at his hip, and burned into the wood of the cages — the same mark in all the places, the mark that said *mine* to anything that could read a mark. And he could read it. It came up out of his drowned-deep where no word lived, and the whole skin of him drew tight.
+
+The Eye-and-Thorn.
+
+The sigil off the relic he had taken from the Wreck. The one the seer had laid the meaning-sound over. The one that lived in him from a place older than the island and older than the hold — the eye, and the thorn through it, the watching and the keeping-by-pain bound into one shape. The dead expedition had borne it. He had it bound at his own chest this low, under the Kala's keeping and the crown he had won. And the living men who had landed where the dead men died wore it burned into the iron of their cages.
+
+The dead had borne his sigil. The living bore it. And they wore it to mean *owned.*
+
+He pressed at it. He wanted it open. He lay in the mud and tried to make the head close on the one thing he most needed to know — how the mark the seer read as kin-omen over his blood could be the same mark burned on the cages these men would drag across the water. How it could be his and theirs at once. He reached for it the way he reached for a print going faint in the mud, straining to lift the next thing out of it.
+
+It would not come. The head had no purchase. The fever-air and the dark and the no-word-for-it crowded in and shut him out, and he was left holding only the wanting-to-know, laid bare and aching. He set the shape of it down only because he could not lift it, and kept his eyes on the leader of the men.
+
+---
+
+The wrongness stirred.
+
+Not the far mouth — that pulled toward the pack because the pack was shaped to the hole. The wrongness was something else. It had been still since the crown, drawn tight against the bone. Now it turned toward the cut mud the way a dog turns toward a voice it has been beaten for answering — slow, unable to help itself. Not the hunt-attention it had brought to the swine. Not the crouch it had shown the apex. Something older than either. The old thing lifting its head because the smell of the pack was the smell of the iron, and the iron was the smell of the cage, and the cage was where the wrongness had been *made.*
+
+The boy felt it turn, and the turning was worse than the pull. The far mouth drew toward the pack because it was empty. The wrongness drew toward the pack because it *remembered.* The cage had poured the iron into his mouth and the wrongness had drunk it, and the drinking had given it a taste for the thing that poured, and the thing that poured was down there behind the kept fires with the brand on its iron.
+
+He pushed it down. It went the way a dog goes back to the heel — grudging, watchful, not cowed. The crown had settled it once. The crown was a long way up the stone from here, and the wrongness knew the difference between a thing that had been pushed down and a thing that had been fed. The cage had fed it. The pack fed it now without knowing it. And the thing that has been fed does not stay down the way the thing that has been pushed stays down.
+
+The shelf held the two hungers — the far mouth pulling and the wrongness turning — and the weight of them settled into the wood the way a foot settles into mud that gives and gives and does not firm. Eight things on it now, eight wrongs, and the shelf did not break. It only bent.
+
+---
+
+The captain came to the Mure-cage, and the pack made a path for him, and he looked at the drowned-one the way the seer looked at the squared dead — reading it, weighing it, laying it into some order the boy could not see. He said a thing. The sound carried low and flat and edged, sounds set against sounds, a word, maybe a name — and a smaller man near him answered with the quick bend of a body that answered because it must.
+
+And the man-shaped hole pulled so hard at the sound of men making words that it hurt worse than the gut ever hurt. Because that was the thing he had lost. Not meat. The easy road of it — from down where the want lived, up the throat, out, laid clean on the air, thrown to a body that would catch it and throw one back. Marrow gave him an answer even now, all in the body, the high shoulder and the working hand throwing him *no* across the dark. But it was not this. It was not men speaking to men in the shapes his mother had spoken over him before the ship. He dug his pads into the mud and held his own shape down by force against the pull toward the very men who would burn the Eye-and-Thorn on the cage they had bent him into.
+
+The captain turned from the cage, and his still face passed across the green, across the cut stumps, across the dark drowned roots where the boy lay — and it did not stop on him. It could not. He was one dark shape in a green of dark shapes and the wind held true. But the weighing look passed over him, the slow certain reading, and the back of his neck crawled under it as it had crawled under the hand. This man was the hold come walking. Come across the water onto two legs into his green, with the hooked iron and the burned brand, to fold over the world the way the hand had folded over his neck and made him a thing.
+
+His name would be a thing the boy learned. The kept would give it to him, low, behind the teeth, in the dark — *Drevan Sool,* the captain, the still one whose hand all the other hands answered to. But he did not have it yet. This low the captain was only the shape, and the shape was enough.
+
+---
+
+A thin sound came from one of the cages.
+
+The boy had been reading the captain, and the sound pulled his eye the way a movement pulls the eye in a still field — not loud, not sudden, just *wrong* in the register of the camp the way the wrongness was wrong in the register of his body. A small sound. A human sound. One of the men in the cages had shifted, and the shift had found a wound, and the sound had come out before the man could close his mouth on it.
+
+The sound was the boy's own sound. The one he had made in the cage when the cracked-nail hand laid itself on him in the dark. The small involuntary thing that escaped before the training shut the mouth. He knew the shape of it the way he knew the shape of his own breathing — a sound made by a body that had learned to be quiet and had not quite managed it.
+
+The steady-handed woman — not the captain's steady-handed woman, a different one, thinner, darker, with the cage-dull on her — turned her head toward the sound. She was in the next cage. She could not reach the man. She put her hand through the iron and her fingers found his wrist and held it, and the holding was the quietest thing the boy had read on the cut mud. It said nothing and meant everything. *I am here. You are not alone in the iron.*
+
+The far mouth cracked open at the wrists of the woman. Not the pull of the pack-fire, not the draw of the many-bodied warm. A different thing. A cruder thing. The specific hunger for one body's warmth against another in the dark — the thing the Kala gave him, the thing the bold heart gave him, the thing he had believed the tribe had closed. And here was a woman he did not know, reaching through iron for a man he did not know, and the reaching was the same shape as the Kala's arm in the dark, and the hunger for it had a ferocity that belonged to the beast and not the boy.
+
+He looked away. The looking away took something from him he could not name.
+
+---
+
+He should go.
+
+Every fast part of him said it. The whole body of Marrow up the slope said it. A thing this many, this armed, that walked into the death he survived and caged what it did not kill — it would burn the brand on everything that could be dragged to a boat. He had a tribe to guard. A Kala. A bold heart that rode his shoulder. A high stone full of small ones. The men were not here for them yet; they were here for the easy green, the channel-mouth, the warm shallows. But the channel was a hand's reach from the high stones, and a thing that held the green open did not stop at the line a beast bled across the stone. It learned the line, and then it crossed it. He read it off the spread of them already — the cutting-parties fanning out from the fires with the hooked iron, going into the rot-thicket.
+
+He should take the tribe deep. Up into the high broken stone and the fever-fog where men died and he did not, where no boat reached and no brand burned. The seep was in their water already. He could go up the stone and wait, and the fever would do the whole of it for him, and he would never once lay his shape where the captain's weighing-look could cut it from the green.
+
+He did not go.
+
+He lay in the warm mud with the smell of the hold in his nose and the Eye-and-Thorn burning on the cages, and he did not pull back into the deep green. Because the men were his own shape, and the captain wore his own sigil on his iron, and he had to know. What the mark meant. Whose it was. Why it lived in him and in the captain both. A thing that found a new hole in itself could not stop turning toward the only thing shaped to fill it, even when the thing was the hand and the brand.
+
+---
+
+He stayed until the light went.
+
+He watched the kept fires come up red on the cut mud when the green half-light died — fat and fed and tended, warm in the killing green. He watched the men throw their shapes at each other, the easy road, the call caught and thrown back, and the hollow in him ached at every sound. He watched the cages where the kept did not get the fire — the Mure going dull, the broken Skell on its side, the men in the iron who were the same shape as the warm.
+
+And he watched one of the warm ones stand up from a fire and sway. A big man, strong, well-fed. He put a hand to his head, and another laughed at him, and he sat back down. It was nothing to them. The boy had read this on bones; he was reading it now on a living man who did not yet know he was meat. The count started under his ribs, the slow sure count the green kept and the men could not hear: so many lows, and then the swaying, and then the cages full of the dull, and then the warm ones dull too.
+
+---
+
+Night came down on the cut mud and the fires burned red in the seams of the hide-dens, and the boy lay behind the stump with his hand over his own mouth.
+
+The old clap. Learned long lows ago, to keep the rasp in — the killing-sound the still place held back, the thing that would drag every cutting-party in the camp down on him in the dark. He pressed the hand there and held it, and under the hand the name sat in the gap where three teeth were gone.
+
+It was there. It was always there. Held down hard in the hollow, and the warmth came up slow and lay around it, and the name was his and whole. *Rook.* The one un-stolen thing. The one the slavers had never known to reach for and so had never taken. He wanted to throw it across the cut mud at the fires of his own kind, the way the young one had thrown its name up the shore.
+
+But the throwing of it was the thing they had torn out.
+
+The hands that had owned him had taken the road from the head to the mouth and left him the name and no way to lay it on the air — the name held full in the dark behind his teeth, and no one on the whole drowning island shaped to catch it who was not also the hand.
+
+He took his hand off his mouth. There was no sound to keep in. He had the name, and no one to throw it to.
+
+---
+
+He went back up the slope in the full dark, and Marrow was where he had left him.
+
+He had not moved the whole night. He had waited. The high shoulder was still down, still saying *no,* and when he saw the boy come clear of the cut stumps the curled hand opened once and closed, and that was all — no kill-cry, no relief thrown up loud. Just the body easing a hair. The small ease of a body when the thing it dreaded had not, this low, come to be. He did not crow that he had been right about the fires. He turned, quick on the rocking gait, and went up ahead of the boy into the green, putting himself between the boy and the way down.
+
+And the boy understood the whole of what Marrow's body had been telling him all night and could not say in any tongue: *your own kind is not your kin. The kin is the runt going up the rocks ahead of you, the one who would not leave you to the fires of the men who are your shape.*
+
+The boy went up after him, toward the Kala and the bold heart and the home that was his. And the man-shaped hole reached behind him the whole way, back toward the red fires, toward the brand burned on the iron. Full of the tribe. Reaching anyway. A body that had everything still reached toward the one thing that had almost killed it.
+
+He knew, the way the body knew a tide before the sky showed the moon, that he would go back down to the fires. Not this low. But he would go — down to the brand and the cages and the still captain who wore his own mark on his iron. And the green would be at its work the whole time, counting the men down while the men counted their haul. The hollow had learned the road to the only thing shaped to fill it, and a hole like that did not unlearn a road. It only counted the lows until it could walk it.
+
+And behind him on the rocks, Marrow's body said, as plain as a body could say a thing, that he already knew the boy would go. And that when he did, he would be at his shoulder. And that he was afraid.

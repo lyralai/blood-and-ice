@@ -1,131 +1,141 @@
 # Chapter 7: The People
 
-There are things in the green that walk like me.
+There were things in the green that walked like him.
 
----
+He was up on the broken ridge when he learned it. The high stones, where the canopy broke and the bare rock came through the green like bone through a wound — sun-scoured and pale, where a body could sit with the whole sweep of the low country under him and read it before going down into it. He came up there to read the green before a hunt — the lay of the canopy, the dark rivers of shade where the fat-meat beasts moved, the rot-thickets where the water lay still and bad. The heat lay on everything like a wet hide dragged over the world. The green went on and on, drowning-green, steaming. And down in it, where a slow brown channel cut the trees and the mangrove drowned its own roots, there was movement that sat the green wrong.
 
-I am up on the broken ridge when I learn it. The high stones, where the canopy breaks and the bare rock comes through the green like bone through a wound, sun-scoured and pale, and a man can sit with the whole sweep of the low country under him and read it before he goes down into it. I come up here to read the green before a hunt — the lay of the canopy, the dark rivers of shade where the fat-meat beasts move, the rot-thickets where the water lies still and bad. The heat lies on everything like a wet hide. The green goes on and on, drowning-green, steaming. And down in it, where a slow brown channel cuts the trees and the mangrove drowns its own roots, there is movement that sits the green wrong.
+Shapes that held their line. Nothing in the green held its line. They did.
 
-Shapes that hold their line. Nothing in the green holds its line. They do.
+He had read this country a thousand mornings since the shore spat him up. The fat-meat beast wallowed and gave to the mud, became part of the mud, the green never the worse for it. The carrion-swarm poured where the death was, dumb, pushed by the smell. These did neither. They moved with will in them. They went where they were pointed and came out the far side of the thicket still pointed, and a thing that held its line against the green had a head, and a head chose.
 
-I have read this country a thousand mornings since the shore spat me up. The fat-meat beast wallows and gives to the mud, part of the mud, the green never the worse for it. The carrion-swarm pours where the death is, dumb, pushed by the smell. These do neither. They move with their will in them. They go where they are pointed and come out the far side of the thicket still pointed, and a thing that holds its line against the green has a head, and a head chooses.
-
-The word comes up out of me. Up from far down, up from under the long silence I have packed over everything that was before the black water, and it comes up whole.
+The word came up out of him. From far down, from under the long silence he had packed over everything that was before the black water, and it came up whole.
 
 People.
 
-The whole skin of me draws tight at once, the small hairs lifting along the arm, the gut clenching to a fist. The body knows the word before the head can turn it. The body wore the word.
+The whole skin of him drew tight at once — the small hairs lifting along the arm, the gut clenching to a fist. The body knew the word before the head could turn it. The body had worn the word.
 
-They go on two legs. Most of them. Big — bigger than me, bigger than the dead men I found in the wreck, heavy through the shoulder and long in the arm, and the arm comes down sometimes to the ground and takes the weight and they go three-legged a stride and then up again, easy, a thing that owns both ways of going. Dark hide, matted, slick with the wet. They move down both sides of the brown channel at once, the same shape doing the same work, and one lifts its head and the heads come up, all of them, together. I have watched a herd turn as one body without a name for what turned it. Now I have it. A pack. A pack of the upright thing, big-armed, heavy, pouring slow and sure along the channel where the green is thickest, and the green that has tried to kill me every day opens for them and lets them through.
+They went on two legs. Most of them. Big — bigger than him, bigger than the dead men he had found in the wreck, heavy through the shoulder and long in the arm, and the arm came down sometimes to the ground and took the weight and they went three-legged for a stride and then up again, easy, a thing that owned both ways of going. Dark hide, matted, slick with the wet. They moved down both sides of the brown channel at once, the same shape doing the same work, and one lifted its head and the heads came up, all of them, together. He had watched a herd turn as one body without a name for what turned it. Now he had it. A pack. A pack of the upright thing, big-armed, heavy, pouring slow and sure along the channel where the green was thickest, and the green that had tried to kill him every day opened for them and let them through.
 
-The iron floods my mouth though I have bitten nothing. My own blood, the taste of it, sudden and bright on the back of the tongue without a wound to give it — some old seam in me opening to put the taste of danger where I will not miss it. Blood without a cut. Fear-blood. I have not tasted it since the hold.
-
----
-
-I am off the high stones before I know the body has chosen to move.
-
-Low. Belly to the rock. I go down it blind the way I take a fat-meat beast down a known road — hand to the next root, the next ledge, no part of me lifted up where a watching eye could cut my shape out of the green. My heart goes against the stone like a hunted thing in a fist. And it is not the pack my heart runs from. It is what comes up behind the word for them.
-
-Cages. The dark of the hold, the wet wood sweating, the close stink of too many bodies packed where they could not stand. The big hand closing on the back of my neck from behind, slow, sure, owning the whole of me in the one grip — and the low ugly sound made behind the teeth that went with the hand, the sound that meant come, that meant be still, that meant you are a thing and the thing is mine. The hand and the sound were one. I feel it now as a weight on the back of the neck, and the skin there crawls and tries to get away from a hand long years gone down into the deep.
-
-That is what the shapes mean. That is what a pack means.
-
-I go down off the ridge into the deep of my green, into the broken country I have bled into being mine a day at a time, where I know every pinch and root-throw and drop, and a thing that does not know them puts a foot wrong and the green takes it. I know them. I go fast and silent and I come to the rot-hollow under the fallen giant, the seam in the dead wood worn to the shape of my own curled body, and I fold myself into it and press my spine to the soft warm rot.
-
-The flies that boil over every dead and living thing in this country ring the hollow and do not land on me. They never do. A clean hand's-width of bare skin all around my body where the swarm will not come, and the rot under me seething with them. I want to know why. I have wanted to know why a long time — why the flies hold off, why the fever walks through me and leaves me whole, why the bad water cannot drop me. The body that wears these wrong things has no mouth to ask them with and no one ever told me. I set it on the back shelf with the rest and I do not turn it over, because turning it over has never once given an answer back. The warmth of the rot leans into my back, and I am small in the dark with the dead wood holding me, and still my breath comes fast.
-
-And then the other thing wakes.
-
-The far mouth. The hunger no meat has ever been shaped to feed. It does not run with the rest of me. It lifts its head wide in the dark under my ribs and it turns the wrong way — back, toward the channel, toward the shapes I have just fled, toward the hands. It leans me up out of the hollow toward the very thing the fast part of me is breaking its body to escape. Away in the legs and toward in the chest, the two of them in the one skin, pulling till the pull sings.
-
-I make myself stay. I dig my soles into the rot and I make the body keep its shape. One light dies green over the canopy and the dark comes down loud with the night-things. Two. I do not climb back to the stones. I am the longest tooth in my green. I am the thing the green has not eaten, the thing the swarms spare, the thing the bad water cannot drop. I say it in the set of the jaw, in the lock of the back teeth, because there is no mouth left in me to say it out loud. The black water took the other. I felt it go.
-
-And on the third light I am back up on the broken ridge on my belly. The pull has won. I cannot not look.
+The iron flooded his mouth though he had bitten nothing. His own blood, the taste of it, sudden and bright on the back of the tongue without a wound to give it — some old seam in him opening to put the taste of danger where he would not miss it. Blood without a cut. Fear-blood. He had not tasted it since the hold.
 
 ---
 
-They have not gone. They have stayed.
+He was off the high stones before he knew the body had chosen to move.
 
-Up on the high stones across the low country — not my ridge, a farther one, a great shelf of broken pale rock that stands up out of the canopy with the green hanging off its sides — there is the dark stir of them now, plain in the morning steam.
+Low. Belly to the rock. He went down it blind, the way he took a fat-meat beast down a known road — hand to the next root, the next ledge, no part of him lifted up where a watching eye could cut his shape out of the green. His heart went against the stone like a hunted thing in a fist. And it was not the pack his heart ran from. It was what came up behind the word for them.
+
+Cages. The dark of the hold, the wet wood sweating, the close stink of too many bodies packed where they could not stand. The big hand closing on the back of his neck from behind, slow, sure, owning the whole of him in the one grip — and the low ugly sound made behind the teeth that went with the hand, the sound that meant *come*, that meant *be still*, that meant *you are a thing and the thing is mine*. The hand and the sound were one. He felt it now as a weight on the back of the neck, and the skin there crawled and tried to get away from a hand long years gone down into the deep.
+
+That was what the shapes meant. That was what a pack meant.
+
+He went down off the ridge into the deep of his green, into the broken country he had bled into being his a day at a time, where he knew every pinch and root-throw and drop, and a thing that did not know them put a foot wrong and the green took it. He knew them. He went fast and silent and he came to the rot-hollow under the fallen giant, the seam in the dead wood worn to the shape of his own curled body, and he folded himself into it and pressed his spine to the soft warm rot.
+
+The flies that boiled over every dead and living thing in this country ringed the hollow and did not land on him. They never did. A clean hand's-width of bare skin all around his body where the swarm would not come, and the rot under him seething with them. He wanted to know why — the flies, the fever, the bad water. He had no way to ask. He set it on the shelf with the rest and did not turn it over, because turning it over had never once given an answer. The warmth of the rot leaned into his back, and he was small in the dark with the dead wood holding him, and still his breath came fast.
+
+And then the other thing woke.
+
+The far mouth. The hunger no meat had ever been shaped to feed. It did not run with the rest of him. It lifted its head wide in the dark under his ribs and it turned the wrong way — back, toward the channel, toward the shapes he had just fled, toward the hands. Not the way it turned toward the blood of the swine, not the iron-bright leaning that wanted the spilling. Something else. Something he had not felt from the thing under his ribs before. It leaned him up out of the hollow toward the very thing the fast part of him was breaking its body to escape, and the leaning had no hunger-shape he could read. Away in the legs and toward in the chest, the two of them in the one skin, pulling till the pull sang.
+
+That was worse than the iron taste. The blood-hunger he knew. The blood-hunger he could fight, because it wanted a thing he could name and naming it gave him the edge to hold. This was not that. This leaned toward the shapes the way he leaned toward the fire — toward warmth, toward a thing held and kept — and he could not name it, and the not-naming left nothing to set his back against.
+
+He made himself stay. He dug his soles into the rot and held the body in its shape. One light died green over the canopy and the dark came down loud with the night-things. Two. He did not climb back to the stones. He was the longest tooth in his green. He was the thing the green had not eaten, the thing the swarms spared, the thing the bad water could not drop. He said it in the set of the jaw, in the lock of the back teeth, because there was no mouth left in him to say it aloud. The black water had taken the other. He had felt it go.
+
+And on the third light he was back up on the broken ridge on his belly. The pull had won. He could not not look.
+
+---
+
+They had not gone. They had stayed.
+
+Up on the high stones across the low country — not his ridge, a farther one, a great shelf of broken pale rock that stood up out of the canopy with the green hanging off its sides — there was the dark stir of them now, plain in the morning steam.
 
 A whole shore of them. A people.
 
-I lie still as the rock I lie on, and I watch them the way I watch a herd before I choose — counting, learning where it bunches thick, where it thins. They are up in the high stones and out along the broken ridge and up in the great trees that lean against the rock, and they move between the three like a thing that owns the place, hand over hand through the high green, down the bare rock, the heavy bodies easy in it all.
+He lay still as the rock he lay on, and he watched them the way he watched a herd before he chose — counting, learning where it bunched thick, where it thinned. They were up in the high stones and out along the broken ridge and up in the great trees that leaned against the rock, and they moved between the three like a thing that owned the place, hand over hand through the high green, down the bare rock, the heavy bodies easy in it all.
 
-And one by one they come apart from the mass for me, the way a herd comes apart once you have lain on it long enough.
+And one by one they came apart from the mass for him, the way a herd came apart once you had lain on it long enough.
 
-There is one high on the bare stone, the biggest, gray through the muzzle, a great old slab of a thing, and it does not climb and does not glean — it sits, and the others sit below it and around it, and even across all that green I can read the thing that sits highest. The heads tip toward it. The line bends around it. The longest tooth. A king.
+There was one high on the bare stone, the biggest, gray through the muzzle, a great old slab of a thing, and it did not climb and did not glean — it sat, and the others sat below it and around it, and even across all that green he could read the thing that sat highest. The heads tipped toward it. The line bent around it. The longest tooth. A king.
 
-There is one near it with a pale rip down the dark hide of its chest, an old wound healed crooked, and it holds itself half a stride off the king and watches the king's hands and not the green — the next tooth, or a tooth that wants to be.
+The king did a thing he did not expect. The dragging one — the one with the bad leg — made its slow way up the rock toward where the king sat, setting the ruined limb with care, and the king turned its head and watched it come. Not the way a herd-watcher watches. The king reached out a hand when the dragging one was close and laid it on the bad leg, just laid it there, and held it, and the dragging one leaned into the touch for a breath and then went on past, and the king's hand came away slow. He had seen the cage-hands use a grip like that — the slow possessive closing, the *you are mine* in it. This was not that. The hand did not close. It touched and it opened and the opening was not release. It was the whole of the gesture. The king had checked the wounded one's leg the way he checked his spear-point before a hunt — not because the leg was his to own, but because the leg was his to keep.
 
-There is one that drags a leg. It comes down the rock slower than the rest, sets the bad leg with care, and the others do not turn it out, do not pull away. They make the slow place for it. I have seen a herd leave the dragging one for the dark. These do not leave it.
+Nothing in his green had ever touched him like that. Nothing in the hold had. He did not have a word for a hand that opened instead of closed. Only the hole where the word would go.
 
-There is a lean one, quick, that goes up a trunk and down it for no kill I can see, only to be high and then to be low, the way a young thing burns off what it cannot hold still.
+There was one near the king with a pale rip down the dark hide of its chest, an old wound healed crooked, and it held itself half a stride off the king and watched the king's hands and not the green — the next tooth, or a tooth that wanted to be. While the king sat with the dragging one, the pale-rip one moved closer and laid its head against the king's shoulder and worked its fingers through the gray muzzle, quick, busy, the grooming of a thing that knew where to press. The king let it. The king's eyes half-closed under the grooming, the big body going slack, and the pale-rip one groomed and groomed, and its eyes moved — to the king's seat, to the space below the king where the others sat, measuring the distance, reading the line of power the way he read a channel for what hid under the stones. Then the king's head came up and the pale-rip one dropped its eyes fast and went on grooming, and the moment passed. He knew that gesture. He had worn it. The quick dropping of the eyes when the hand turned back. He had done it in the hold a thousand times, and the pale-rip one did it now on the bare stone, and the green did not care whose eyes were down.
 
-Not a mass. Not one big animal made of many. A people made of ones, each one its own, each one read off its own body — and the green lets them all through.
+And wherever the dragging one went, the others made the slow place. They did not turn it out, did not pull away. He had seen a herd leave the slow one for the dark. These did not leave theirs.
 
-Some are smaller. And some — the breath stops flat in my chest — some are very small, and they do not work, they cling. They ride the backs and the fronts of the big ones, small dark things gripped to the matted hide, carried up the rock and never set down. When one is set down it goes quick and crooked between the legs of the big ones, all dart and stumble, and a big one comes after it and scoops it up off the rock and folds it in against the warm of itself and holds it there.
+There was a lean one, quick, that went up a trunk and down it for no kill he could see, only to be high and then to be low, the way a young thing burned off what it could not hold still.
 
-Nothing in my green has ever lifted me. The rot holds my back. The stone holds my back. They do not lift me. They cannot bend.
+Not a mass. Not one big animal made of many. A people made of ones, each one its own, each one read off its own body — and the green let them all through.
 
-And the dead. High on the cleanest shelf of the bare rock, up where the sun strikes it first, they have laid things out. Squared. Faced. Dark shapes set in rows with the same care all down the line, set so they face the same way, set down to stay set down and be come back to. One of the big ones crouches by the still ones and does not eat and does not work — only crouches, and lays a hand on a still thing and takes it away and lays it back. I have left a hundred dead things where they fell for the swarm to pour over. These carry their dead up to the high clean stone and lay them in the light and sit with them. A people that keeps its dead has a thing I do not have a word for. Only the hole where the word would go.
+Some were smaller. And some — the breath stopped flat in his chest — some were very small, and they did not work, they clung. They rode the backs and the fronts of the big ones, small dark things gripped to the matted hide, carried up the rock and never set down. When one was set down it went quick and crooked between the legs of the big ones, all dart and stumble, and a big one came after it and scooped it up off the rock and folded it in against the warm of itself and held it there.
 
-A pack. A people. A king and the kept young and the laid-out dead, gathered, warm, tending its own, up in the high stones out of the reach of the drowning green that eats everything else.
+Nothing in his green had ever lifted him. The rot held his back. The stone held his back. They could not bend. They could not pick him up off the killing ground and fold him in. The thing in his chest — not the far hunger, not the wrong thing, the other thing, the boy-thing under everything — reached toward the scooping-up with a force that bucked the ribs. He pressed his forehead to the hot stone and breathed through the gap in his teeth and made the reaching go down, because the reaching had no name and the thing it reached for had been taken years ago by the black water, and the reaching would not bring it back.
 
-The shape of the thing I had before the hold turns over far down in me, under the silence, under all the years of black. I cannot reach the thing itself. I want to. I press at it the way I press at a stone I cannot lift, and it does not lift, and I am left with only the shape of its hole. I have lived against the smooth edge of that hole the same way I live against the smooth of the rot-seam worn to my back — worn down by a thing that used to sit there and sits there no longer.
+And the dead. High on the cleanest shelf of the bare rock, up where the sun struck it first, they had laid things out. Squared. Faced. Dark shapes set in rows with the same care all down the line, set so they faced the same way, set down to stay set down and be come back to. One of the big ones crouched by the still ones and did not eat and did not work — only crouched, and laid a hand on a still thing and took it away and laid it back. He could smell them, even across the green — not the reek of the bar where the dead men rotted open, not the swarm-smell of torn meat. Smoke. The dead smelled like smoke, and under the smoke something green, something bruised and sweet, a thing laid over the body the way the hand had been laid over the bad leg. They prepared their dead. They laid them on clean stone in the sun and covered them with the smell of burned green things and sat with them. He had left a hundred dead things where they fell for the swarm to pour over. These carried theirs up to the high clean stone and tended them after the life was out. A people that kept its dead had something he did not have a word for. Only the hole where the word would go.
+
+A pack. A people. A king and the kept young and the laid-out dead, gathered, warm, tending its own, up in the high stones out of the reach of the drowning green that ate everything else.
+
+The shape of what was his before the hold turned over far down in him, under the silence, under all the years of black. He could not reach the thing itself. He pressed at it the way he pressed at a stone he could not lift, and it did not lift, and he was left with only the shape of its hole. He had lived against the smooth edge of that hole the same way he lived against the smooth of the rot-seam worn to his back — worn down by a thing that used to sit there and sat there no longer.
 
 Tribe.
 
 ---
 
-I should go. Every fast part of me says go, go deep, go where the hands cannot reach. A thing this big, this many, will sweep my green clean and not notice the sweeping. The longest tooth is still only one tooth, and I have seen what the many do to the one. I wore it on the neck. I wore the hand, and the three teeth they tore from the front of my mouth trying for everything else I would not give. The many are how the one is unmade. I know this in the meat.
+He should have gone. Every fast part of him said *go, go deep, go where the hands cannot reach.* A thing this big, this many, would sweep his green clean and not notice the sweeping. The longest tooth was still only one tooth, and he had seen what the many did to the one. He had worn it on the neck. He had worn the hand, and the three teeth they tore from the front of his mouth trying for everything else he would not give. The many were how the one was unmade. He knew this in the meat.
 
-But I do not go.
+But he did not go.
 
-I lie on the hot rock and the sun files down on the bare arm and the sweat runs and the swarm rings me close and does not land, drawing its clean bare line around the limb, and I lie in the killing heat that should bring the shaking-sickness and does not, and I watch.
+He lay on the hot rock and the sun filed down on the bare arm and the sweat ran and the swarm ringed him close and did not land, drawing its clean bare line around the limb, and he lay in the killing heat that should have brought the shaking-sickness and did not, and he watched.
 
-I watch the small ones run between the legs of the big ones. And the want opens so wide it hurts worse than the gut ever hurt — not down in the belly where meat goes, but high, up under the breastbone, a pull, a leaning, the whole weight of me tipping toward that far high shelf. Warm to warm. I want. I want to be the thing scooped up off the rock and folded in. I want the high clean stone and the heads all tipped one way. I want the bending and the lifting up, the being taken off the killing ground against a warm that chose to hold me.
+He watched the small ones run between the legs of the big ones. And the want opened so wide it hurt worse than the gut ever hurt — not down in the belly where meat went, but high, up under the breastbone, a pull, a leaning, the whole weight of him tipping toward that far high shelf. Warm to warm. He wanted. He wanted to be the thing scooped up off the rock and folded in. He wanted the high clean stone and the heads all tipped one way. He wanted the bending and the lifting up, the being taken off the killing ground against a warm that chose to hold him.
 
-And in the same breath the beast in me draws back hard. Flattens. The lip peels up off the teeth at the shape of them, a low thing starting in the chest, because hands, because hold, because the weight on the back of the neck and the ugly sound that owned me. Want and away, both at the full, hauling me two ways at once until I think the thing that holds them in one body must split and spill.
+And in the same breath the beast in him drew back hard. Flattened. The lip peeled up off the teeth at the shape of them, a low thing starting in the chest, because *hands*, because *hold*, because the weight on the back of the neck and the ugly sound that had owned him. Want and away, both at the full, hauling him two ways at once until he thought the thing that held them in one body must split and spill.
 
-I watch until the light goes green and then thick and then gone. And on the high shelf, when the dark comes down, a thing wakes that I did not look for. Red. Low and held. A fire. Fed, banked, kept up in the high stones above the drowning green — a held light in all the dark that a thing makes and tends and does not let go out.
+And under both — under the want and under the fear — the far hunger did the thing he could not forgive. It leaned toward them. Not toward blood. Not the iron taste. It leaned toward the fire-light and the scooping-up and the heads tipped one way with the same quality of attention it brought to the taste of spilled blood in the mud. As if the warmth were a thing to be consumed. As if belonging were a meal. And he could not fight it the way he fought the blood-want, because this lean wore the shape of the thing he wanted too, and the boy and the thing under his ribs both reached for the same light on the same high stone, and the not-knowing of which reach was his and which was the other's was the worst thing the green had done to him yet.
 
-I keep a coal. In its wet fist of bound fiber, breathing slow, banked low so it lives and never flames, my one warmth in all the green that I made and did not find. The nearest thing to a fire I have ever managed to hold alone. And there across the country, up in the high stones, is a kept red light, fat and tended, and a coal in fiber is to it what the bones I lick are to the running herd.
+He watched until the light went green and then thick and then gone. And on the high shelf, when the dark came down, a thing woke that he had not looked for. Red. Low and held. A fire. Fed, banked, kept up in the high stones above the drowning green — a held light in all the dark that a thing made and tended and did not let go out.
 
-I do not have it. They do. And the not-having of it opens a new place in me, and this one wants only the high red light and the warm that makes it, and no kill in all my green will ever close it.
+He kept a coal. In its wet fist of bound fiber, breathing slow, banked low so it lived and never flamed, his one warmth in all the green that he had made and not found. The nearest thing to a fire he had ever managed to hold alone. And there across the country, up in the high stones, was a kept red light, fat and tended, and a coal in fiber was to it what the bones he licked were to the running herd.
+
+He did not have it. They did. And the not-having of it opened a new place in him, and this one wanted only the high red light and the warm that made it, and no kill in all his green would ever close it.
 
 ---
 
-There is one comes down alone.
+There was one that came down alone.
 
-Not the smallest. Young, but coming into its strength, long in the arm, and it comes down off the high stone and into the green of the low country, down toward the slow brown channel where the tide of the swamp pulls back and leaves its stones — down into the very country I have bled into being mine.
+Not the smallest. Young, but coming into its strength, long in the arm, and it came down off the high stone and into the green of the low country, down toward the slow brown channel where the tide of the swamp pulled back and left its stones — down into the very country he had bled into being his.
 
-It moves through the green the way I move through it. Low when low is needed. Quiet. Reading the ground. And at the channel-edge it crouches, and it does a thing I know.
+It moved through the green the way he moved through it. Low when low was needed. Quiet. Reading the ground. And at the channel-edge it crouched, and it did a thing he knew.
 
-It works the bared mud with its hands. Turns the stones off their seats, reaches quick into the wet black hollow under, before the things there can fold and dart. Gleaning the low water. The pale clear-glass things, the crabs that fold sideways, the soft things the swamp leaves behind. The same crouch I taught my own body in the dark with no one to show me. The same patience. The same reading of which stone hides a thing worth the reaching and which hides only bad mud. One of the upright people, big-armed, young, doing alone at the channel the exact work I clawed out of the green to keep myself alive.
+It worked the bared mud with its hands. Turned the stones off their seats, reached quick into the wet black hollow under, before the things there could fold and dart. Gleaning the low water. The pale clear-glass things, the crabs that folded sideways, the soft things the swamp left behind. The same crouch he had taught his own body in the dark with no one to show him. The same patience. The same reading of which stone hid a thing worth the reaching and which hid only bad mud. One of the upright people, big-armed, young, doing alone at the channel the exact work he had clawed out of the green to keep himself alive.
 
-And a sound comes across the low country.
+He watched it work and the body understood a thing the head was slow to hold. He had not invented the gleaning. He had not invented the crouch or the patience or the reading of the mud. He had dug it out of himself alone, in the dark, and thought it was his — the one thing he had made that no one had given him. And here was another body doing the same work on the same mud with the same hands, and the doing of it was not his alone. It was older than him. It belonged to the hands and the water and the mud, and every body that had ever been hungry by a low channel had found it, and he was one of a line of them, not the first, not the last. The line reached back further than the drowned-deep place, further than the name, into a thing the body carried before the body knew it had a name.
 
-Worn down by all that green to almost nothing, the ghost of itself, a smell from very far. A voice. Up from the high stones — a call thrown down the country, and the young one at the channel lifts its head and answers, throws a sound back up toward the high stone, a sound with shape in it, with edges, sounds set against sounds — from down in the head where the wanting lives, up the throat, out through the mouth, laid clean on the steaming air. A thing as easy to it as breath. And up in the stones a sound comes back, and the young one answers again, the two of them throwing it back and forth across all that green, the line of sound that runs from the high warm fire down to the lone one at the bad water and says you are still ours, come back up, we have you.
+The far hunger leaned toward the young one. He set his jaw against it. The young one was not his. The young one was not food. The far hunger did not care about the difference, and that was the thing he carried and could not put down.
 
-Something turns over in me so hard the body makes a sound on its own — and the sound that comes out is the rasp, the cough with the growl riding its back, the thing the throat makes now where words used to be made. I clap my hand over my mouth in the wet green dark, the way I have learned, to keep the rest of the sound in, to keep my shape from giving itself up.
+And a sound came across the low country.
 
-And under the hand I want a sound to set against that far clear call. One sound. Mine. The one that means me and not a thing, to throw back across the green the way the young one threw its answer up the stones. So I do the old thing. I go in behind the teeth, into the gap where three are torn out, the dark hollow where the one true thing has always lived — the name my mother set on me before the ship, before the hands, the name they never knew to reach for and so never took. I go in to find it and throw it.
+Worn down by all that green to almost nothing, the ghost of itself — a sound on the wet air, coming the way the smell came, from very far. A voice. Up from the high stones — a call thrown down the country, and the young one at the channel lifted its head and answered. Threw a sound back up toward the high stone, a sound with shape in it, with edges, sounds set against sounds — from down in the head where the wanting lived, up the throat, out through the mouth, laid clean on the steaming air. A thing as easy to it as breath. And up in the stones a sound came back, and the young one answered again, the two of them throwing it back and forth across all that green, the line of sound that ran from the high warm fire down to the lone one at the bad water and said *you are still ours, come back up, we have you.*
 
-And the gap is empty.
+Something turned over in him so hard the body made a sound on its own — and the sound that came out was the rasp, the cough with the growl riding its back, the thing the throat made now where words used to be made. He clapped his hand over his mouth in the wet green dark, the way he had learned, to keep the rest of the sound in, to keep his shape from giving itself up.
 
-It is warm and it is dark and there is nothing in it shaped like the name. I run the tongue along the scarred edge of the gum, the hard ridges where the slavers' work healed over fast and clean, into the smooth hollow where the word lived ten thousand nights, and there is no word in it. Only the gap. Only the warmth that comes up slow from the deep of me and lies down full in the place the name used to be — the shape of the thing that is gone and nothing like it.
+And under the hand he wanted a sound to set against that far clear call. One sound. His. The one that meant *him* and not a thing, to throw back across the green the way the young one threw its answer up the stones. So he did the old thing. He went in behind the teeth, into the gap where three were torn out, the dark hollow where the one true thing had always lived — the name his mother had set on him before the ship, before the hands, the name they had never known to reach for and so never taken. He went in to find it and throw it.
 
-The black water took it. Not the men. The men never reached it. And tonight I learn again what the taking costs me — that I have nothing to send back, no shape to set against a young thing calling easy up a slope of bare stone to a fire that is fed.
+And the gap was empty.
 
-I take my hand off my mouth.
+It was warm and it was dark and there was nothing in it shaped like the name. He ran the tongue along the scarred edge of the gum, the hard ridges where the slavers' work had healed over fast and clean, into the smooth hollow where the word had lived ten thousand nights, and there was no word in it. Only the gap. Only the warmth that came up slow from the deep of him and lay down full in the place the name used to be — the shape of the thing that was gone and nothing like it. The warmth had the exact weight of the word. The body remembered the shape of the name the way the rot-hollow remembered the shape of his curled body — worn in, pressed deep, and empty.
 
-There is no sound to keep in. I have none to throw.
+The black water had taken it. Not the men. The men had never reached it. And tonight he learned again what the taking cost him — that he had nothing to send back, no shape to set against a young thing calling easy up a slope of bare stone to a fire that was fed.
 
-Down across the low country the young one gathers its gleaning up against its chest and turns, and climbs — up out of the bad water, up the green, up the bare rock to the high stones where the red fire holds and the heads are tipped one way and the small ones get scooped up off the rock against the warm. It goes up to the thing that waits, fed, that does not go out.
+He took his hand off his mouth.
 
-It does not look down at my green. It is too far, and the light is dead, and I am one dark shape pressed into a country of dark shapes, the longest tooth on the whole low country gone flat and small and still to hide from a people.
+There was no sound to keep in. He had none to throw.
 
-But the swamp will pull back from these same stones at the same hour. And the young one comes down to the bared mud on the same string as the tide. And the second mouth in me, the one with no name left behind it to feed it, the one that leans and leans toward the warm across the green and finds nothing to lean on —
+Down across the low country the young one gathered its gleaning up against its chest and turned, and climbed — up out of the bad water, up the green, up the bare rock to the high stones where the red fire held and the heads were tipped one way and the small ones were scooped up off the rock against the warm. It went up to the thing that waited, fed, that did not go out.
 
-it has already started counting the lights between.
+It did not look down at his green. It was too far, and the light was dead, and he was one dark shape pressed into a country of dark shapes, the longest tooth on the whole low country gone flat and small and still to hide from a people.
+
+But the swamp would pull back from these same stones at the same hour. And the young one would come down to the bared mud on the same string as the tide. And the second mouth in him, the one with no name left behind it to feed it, the one that leaned and leaned toward the warm across the green and found nothing to lean on —
+
+it had already started counting the lights between.

@@ -1,211 +1,191 @@
 # Chapter 0: The Beach
 
-The sound comes from under the hull.
+The sound came from under the hull.
 
-Not a rock. Not a reef. I know the sound a reef makes — the scrape and the shudder and the tilt. This is not that. This is the sound of something *pulling.* A slow, deliberate pulling, the sound of hands — not hands, *things* — taking hold of the wood from below and pulling it apart the way you pull a cooked thing apart at the joint. The hull groans. The planks go wrong. And then the water comes in, and the water is wrong, and the water is the last thing before the beach.
+Not a rock. Not a reef. The boy knew the sound a reef made — the scrape, the shudder, the slow tilt of the deck before the timber gave. This was not that. This was the sound of something pulling. Slow. Deliberate. The sound of things — not hands, nothing so human as hands — taking hold of the wood from below and pulling it apart the way you pull a cooked thing apart at the joint.
 
----
-
-## Before the water
-
-We were five when we left the house. Five and the dark.
-
-My sister pulled me from the bed when the hallway went bright. She is seventeen and she is stronger than she looks and she has been pulling me out of things my whole life — out of the canal when I was seven, out of the fight at the market when I was nine, out of the room when our father's face went the face that meant the bad days were back. She pulled me out of the hallway and the heat was on us and the sound was on us and the Big One was at the back door with the blood on his arm and the Old One was behind him with the satchel — the waterproofed one, the one with the charts and the papers and the ink — and we ran.
-
-The Big One killed the gate-guard. One blow. The gate-guard was a man I had known my whole life and the Big One hit him once and he went down and did not get up and we went over him and out. The Old One said a sound over him — not a word, a sound, the old sound — and then we were in the road and the road was dark and my sister's hand was on the back of my neck. Not the closing hand. The warm hand. The hand that says *I am here. Run.*
-
-We ran for six days. The Big One knew the back roads — the hunting tracks, the game trails, the paths the carters use when the king's road is watched. The Old One knew the charts. My sister knew the safe houses — the three between the house and the coast, the ones our father built for the night the house burned. The house did not burn by accident. The safe houses were not built by accident. My sister knew them the way she knew the back ways out of the hallway: because our father taught her, because our father knew the night would come, because the Eye-and-Thorn on our necks was not a decoration.
-
-We made the coast on the seventh day. The Big One found the boat — a fishing skiff with a shallow draft and a ragged sail, the kind that does not look worth stealing. The Old One set the heading. South. Past the last light. Past the trade routes and the patrol routes and the charted water. Into the water nobody crosses because the water nobody crosses runs past the island nobody survives.
-
-Not a plan. A desperation. The roads were closed. The ports were watched. The faces on the walls were ours — my sister's and mine, the Eye-and-Thorn below the chin in the rough-cut style that means *wanted.* We could not land anywhere with people. So we aimed for the place no one would follow.
+The hull groaned. The planks went wrong. And then the water came in, and the water was wrong, and the water was the last thing before the beach.
 
 ---
 
-## The split
+They had been five when they left the house. Five and the dark.
 
-It happens on the fourth day at sea.
+His sister pulled him from the bed when the hallway went bright. She was seventeen, stronger than she looked, and she had been pulling him out of things his whole life — out of the canal when he was seven, out of the market fight when he was nine, out of the room when their father's face went the face that meant the bad days were back. She pulled him into the hallway and the heat was on them and the sound was on them and the Big One was at the back door with blood on his arm and the Old One was behind him with the satchel — the waterproofed one, the charts and the papers and the ink — and they ran.
 
-We are in the shallows — warm water, flat, the green line of the island on the southern horizon. Close. A day's sailing, maybe less. And my sister reads the water behind us and her face goes the working face.
+The Big One killed the gate-guard. One blow. The guard went down and did not get up and they went over him and out. The Old One said a sound over the body — not a word, a sound, low and steady — and then they were in the road and the road was dark and his sister's hand was on the back of his neck. Not the closing hand. The warm hand. The hand that said *I am here. Run.*
+
+They ran for six days. The Big One knew the back roads — the hunting tracks, the game trails, the paths the carters used when the king's road was watched. The Old One knew the charts. His sister knew the safe houses — the three between the compound and the coast, the ones their father had built for the night the walls came down. The walls had come down. The safe houses held.
+
+The boy's tongue found the gaps in his teeth. Three. Two below, one at the side, the gums healed smooth where the iron had been. The body carried the shape of the cage in ways the head did not manage: the flinch when a boot fell heavy on stone, the shoulders drawing up in a doorway, the automatic quiet — low, the weight on the flat of the foot, the breath through the nose. The cage had trained these things into the muscle, and the muscle did not forget just because the cage was gone. The cage had made him a tool, and the sharpening had cost him everything, and here he was — sharp, and running.
+
+They made the coast on the seventh day. The Big One found the boat — a fishing skiff with a shallow draft and a ragged sail, the kind that did not look worth stealing. The Old One set the heading. South. Past the last light. Past the trade routes and the patrol routes and the charted water. Into the water nobody crossed because the water nobody crossed ran past the island nobody survived.
+
+Not a plan. A desperation. The roads were closed. The ports were watched. The faces on the walls were theirs — his sister's and his — the mark below the chin in the rough-cut style that meant *wanted.* They could not land anywhere with people. So they aimed for the place no one would follow.
+
+---
+
+The split came on the fourth day at sea.
+
+They were in the shallows — warm water, flat, the green line of the island on the southern horizon. Close. A day's sailing, maybe less. And his sister read the water behind them and her face went the working face.
 
 Sail.
 
-One sail. Far north, coming south. The kind of sail that does not fish and does not trade. The kind of sail that follows.
+One sail. Far north, coming south. The kind that did not fish and did not trade. The kind that followed.
 
-My sister reads it and she makes the call. She is seventeen and she makes the call the way our father made the call the night he taught her the safe houses. Fast. Final. The voice that is not asking.
+She read it and she made the call. She was seventeen and she made the call the way their father had made the call the night he taught her the safe houses. Fast. Final. The voice that was not asking.
 
 *We split.*
 
-The Big One reads the sail and reads the water and reads my sister's face and he nods. One nod. The Old One does not nod — the Old One argues, low, steady, the old voice making the case for staying together. My sister does not argue back. She listens. She respects him. Then she says the thing that ends it:
+The Big One read the sail and read the water and read her face and he nodded. One nod. The Old One did not nod. He argued — low, steady, the old voice making the case for staying together. His sister listened. She respected him. Then she said the thing that ended it.
 
 *They want the blood. Both of us carry it. If they take one boat they get one of us. If they take both they get both. We split and at least one of us makes the island.*
 
-The blood. Our father's blood. The thing the house was burned for. The thing the Eye-and-Thorn means. I do not understand it — not then, not on the boat, not in any words a twelve-year-old has. But the body reads it. The body reads the weight of the word *blood* in my sister's mouth and knows it is the weight of the thing that has killed everyone I have and will kill more before it is done.
+The blood. Their father's blood. The thing the walls had come down for. The thing the mark on their necks meant. The boy did not understand it — not then, not on the boat, not in any words a twelve-year-old had. But the body read the weight of the word *blood* in his sister's mouth and knew it for the weight of the thing that had killed everyone he had known and would kill more before it was done.
 
-I say no.
+He said no. He said it the only way he could — her name. Not the name the world knew. The small name, the one that was theirs. And the saying was the protest and the protest was the whole of him pushing against the thing he could feel coming.
 
-I say it in the only word I have for it — her name. Not the name the world knows. The name I have called her since I could speak, the small name, the one that is ours. I say it and the saying is the protest and the protest is the whole of me pushing against the thing I can feel coming.
+She took his face in her hands. Both hands. The warm hands. And the boy's body flinched — not from her, never from her, but from the shape of a hand on a face. The cage had used that shape for other things. A cracked nail. The hand that hit and the hand that fed, the same hand, the same act, and the boy had never been able to sort it into the clean piles the body wanted. His sister's hands were not those hands. His sister's hands were the warm hands, and the warmth of them undid the flinch before it could set, and the boy let himself be held.
 
-She takes my face in her hands. Both hands. The warm hands. She puts her forehead against mine the way she did when I was small and the dark was too big. And she hums. Our mother's sound. The low one. The one that means *be still, nothing comes.*
+She put her forehead against his the way she had done when he was small and the dark was too big. She hummed. Their mother's sound. The low one. The one that meant *be still, nothing comes.*
 
-*Listen,* she says. *Listen to me. You go with the Big One. You go with the Old One. They will get you to the island. The island is the place they cannot follow. You survive. You survive and you keep the disc and you keep the name and you keep the blood and you do not let anyone take any of it off you.*
+*Listen,* she said. *You go with the Big One. You go with the Old One. They will get you to the island. The island is the place they cannot follow. You survive. You survive and you keep the disc and you keep the name and you keep the blood and you do not let anyone take any of it off you.*
 
-*The blood remembers,* she says. *The eye and the thorn. Your father's mark. Don't let anyone read it who hasn't earned it.*
+*The blood remembers,* she said. *The eye and the thorn. Your father's mark. Don't let anyone read it who hasn't earned it.*
 
-She puts the disc around my neck. The Eye-and-Thorn on the leather cord. The worked metal is warm — my warmth, not hers. She has been wearing it and it has taken my sister's warmth and now it goes on my chest and the warmth is between us, moving, and the putting-on is the thing I will hold longer than any word she said.
+She put the disc around his neck. The Eye-and-Thorn on the leather cord. The worked metal was warm — her warmth, not his. She had been wearing it and it had taken her body's heat, and now it went on his chest and the warmth was between them, passing from her skin to the metal to his skin, and the putting-on was the thing the boy held longer than any word she said.
 
-She looks at the Old One. She looks at the Big One. The Big One nods again. The Old One does not nod but he goes, because going is the thing the call demands and the Old One has spent his life serving the call.
+She looked at the Old One. She looked at the Big One. The Big One nodded again. The Old One did not nod but he went, because going was the thing the call demanded, and the Old One had spent his life serving the call.
 
-She steps back. She is in the other boat now — the skiff we took from the second safe house, the smaller one, the one without the sail. She has the oars. She has the knife. She has nothing else and she needs nothing else because she is the clever one and the clever one survives.
+She stepped back. She was in the other boat — the smaller skiff, the one without the sail. She had the oars. She had the knife. She had nothing else and she needed nothing else because she was the clever one and the clever one survived.
 
-She rows north. Toward the sail. Between us and the sail. She puts herself between the boy and the thing that follows the boy the way the Big One put himself between the boy and the gate. She is the shield. She is the decoy. She is the thing the sail sees first so the sail turns toward her and not toward us.
+She rowed north. Toward the sail. Between the boy and the thing that followed the boy, the way the Big One had put himself between the boy and the gate. She was the shield. She was the decoy. She was the thing the sail would see first so the sail would turn toward her and not toward them.
 
-I watch her row. I watch the small boat get smaller. I watch my sister's back — the straight back, the working back, the back that has carried me since the hallway — get small against the flat water. She does not look back. She does not look back because looking back is the thing that breaks the working face and the working face is the thing between her and the sail.
+She disappeared. Not all at once. Slowly. The flat water and the bright air and the heat-haze taking her by degrees — the oars first, then the shoulders, then the straight back, then the dark head, then the shape, then nothing. The sea took her the way the green would take everything on this island. One piece at a time. And the thing that was left was the hole where she had been.
 
-She disappears.
-
-Not all at once. Slowly. The flat water and the bright air and the heat-haze taking her by degrees — the oars first, then the shoulders, then the straight back, then the dark head, then the shape, then the nothing. The sea takes her the way the green takes everything on this island. One piece at a time. And the thing that is left is the hole where she was.
+The boy stood in the bow with the disc warm at his chest and the hole opened behind his ribs and he did not have a name for it. Not hunger — he knew hunger, the body knew it from the cage, the wringing under the ribs that said *eat or end.* This was not that. This was further in and further down, a room the near hunger could not reach, and it was empty, and the empty went on.
 
 ---
 
-## The water
+Two hours after his sister disappeared, the sound came back.
 
-The Mure come two hours after my sister disappears.
+The Big One heard it first. His hand went to the tiller and his body went still — the still of a man who had heard a sound he knew in a place he did not. He looked at the water. He looked at the Old One. The Old One looked at the water.
 
-The Big One is sailing. The Old One is reading the chart. I am sitting in the bow with the disc at my chest and the hole where my sister was and I am not crying because the crying stopped when the working face went on. Twelve-year-olds can wear the working face too. It is not a thing that belongs to adults. It is a thing the world puts on you when the world takes enough.
+The Old One's face went white.
 
-The sound comes from under the hull.
+*Hold onto something,* the Old One said. Low. The voice of a man who had read about a thing in old books and had just heard the thing under his feet.
 
-The Big One hears it first. His hand goes to the tiller and his body goes still — the still of a man who has heard a sound he knows in a place he does not. He looks at the water. He looks at the Old One. The Old One looks at the water.
+The hull broke. Not fast. Slow. The patient, joint-by-joint pulling of something taking the boat apart from below with its hands. The planks groaned. The seams opened. And the water came in, and the water was wrong.
 
-The Old One's face goes white.
+Wrong-cold. The water should have been warm — they were in the warm latitudes, the water had been warm every day, warm as bath-water, warm as skin. But the water where the hull broke was cold. Not sea-cold. Not deep-cold. A cold that had shape — a cold that reached. It went through the skin and into the chest and pulled at the warmth there, the way a mouth pulls at a cup. And the boy felt the warmth in him lean toward the cold the way water leans toward a drain. The cold wanted. The cold was thirsting. And the cold had shapes in it.
 
-*Hold onto something,* the Old One says. Low. The voice of a man who has read about a thing in old books and has just heard the thing under his feet.
+He saw one. Under the surface, in the dark where the hull was going down. A shape — pale, wet, wrong, longer than a man and not shaped like a man anymore but shaped like a man's memory of one. The shape had its mouth on the hull and the mouth was open and the open was the cold. The cold came from the mouth. The cold was the mouth. And there were more. More shapes in the water around the hull, pale and wrong, web-fingered hands on the wood — long pulling fingers — and the Big One went past him.
 
-The hull breaks.
+Into the water. Not falling — going. The way he had gone through the gate-guard: forward, down, between. Between the boy and the shapes. His body in the water between the boy and the things under the hull. And the shapes took him.
 
-Not fast. Slow. The sound of the pulling — the deliberate, patient, joint-by-joint pulling of something that is taking the boat apart from below with its hands. The planks groan. The seams open. And the water comes in, and the water is *wrong.*
+Not fast. Not clean. The Big One fought — he was strong, the man who had killed the gate-guard and carried the boy the first mile and known the back roads — and the shapes held. The web-fingered hands on his arms, his legs, his chest. The mouths. The cold. And the Big One's face — the boy saw it. The water left him that memory. The Big One went grey. Went light. Went still.
 
-Wrong-cold. The water should be warm — we are in the warm latitudes, the water has been warm every day, warm as bath-water, warm as skin. But the water where the hull breaks is cold. Not sea-cold. Not deep-cold. A cold that has *shape* — a cold that reaches. It goes through the skin and into the chest and pulls at the warmth there, *pulls,* the way a mouth pulls at a cup. And I feel the warmth in me lean toward the cold the way water leans toward a drain. The cold wants. The cold is thirsting. And the cold has shapes in it.
+The Old One pulled the boy to the surface. Old and not fast, but a reader — he had read the wrong-cold and read the shapes and gone up before the shapes could read him. He had the boy by the collar and his other hand had the satchel, the waterproofed satchel, the papers, because the Old One was the kind of man who held onto the papers while the water took the world.
 
-I see one. Under the surface. In the dark where the hull is going down. A shape — pale, wet, wrong, longer than a man and not shaped like a man anymore but shaped like a man *remembers* — and the shape has its mouth on the side of the hull and the mouth is open and the open is the cold. The cold comes from the mouth. The cold *is* the mouth. And there are more. More shapes in the water around the hull, pale and wrong, their hands on the wood — web-fingered hands, I see the webbed fingers, the long pale pulling fingers — and the Big One goes past me.
+They broke the surface. The air was warm. The dawn was on the water and the water was flat and golden and the shapes were gone. Gone or full. The Big One had been enough. He had fed them and they had sunk and the water was flat and the dawn was gold and the Big One was not anywhere.
 
-He goes into the water. Not falling — going. He goes the way he went through the gate-guard: forward, down, between. Between me and the shapes. His body in the water between the boy and the things under the hull. And the shapes take him. Not fast. Not clean. The Big One fights — the Big One is strong and the Big One is the man who killed the gate-guard and carried me the first mile and knew the back roads — and the shapes hold. The web-fingered hands on his arms, his legs, his chest. The mouths. The cold. And the Big One's face — I see the Big One's face. I see it. The water does not take this memory. The water leaves me this one.
-
-The Big One goes grey. The Big One goes light. The Big One goes still.
-
-The Old One pulls me to the surface. He is old and he is not fast but he is a reader — he read the wrong-cold and he read the shapes and he went *up* before the shapes could read him. He has me by the collar and he is pulling and his other hand has the satchel, the waterproofed satchel, the papers, because the Old One is the kind of man who holds onto the papers while the water takes the world.
-
-We break the surface. The air is warm. The dawn is on the water and the water is flat and golden and the shapes are gone. Gone or full. The Big One was enough. The Big One fed them and they sank and the water is flat and the dawn is gold and the Big One is not anywhere.
-
-The wrong-cold is in my chest. Still. Pulling. And then — it lets go. It flinches off me the way a hand flinches off a hot iron. The cold *spits me out.* The warmth rushes back in — my warmth, the warmth I have always had and never thought about — and I am gasping and the gasping is the first free thing.
+The wrong-cold was in the boy's chest. Still. Pulling. And then — it let go. It flinched off him the way a hand flinches from a hot iron. The cold spat him out. The warmth rushed back in — his warmth, the warmth he had always had and never thought about — and he was gasping, and the gasping was the first free thing.
 
 ---
 
-## The beach
+Black mud and green and the smell — rot and bloom and the wet heat of a place that had too much living in it and all of it dying at once. The Old One dragged the boy up the mud and the boy was coughing and the island was around them and above them and the smell was the first thing and the heat was the second thing and the green was the third thing and all three were the same thing. The island, saying *you are mine now.*
 
-Black mud and green and the smell — rot and bloom and the wet heat of a place that has too much living in it and all of it dying at once. The Old One drags me up the mud and I am coughing and the island is around us and above us and the smell is the first thing and the heat is the second thing and the green is the third thing and all three of them are the same thing: the island, saying *you are mine now.*
+They were two on the beach. The Old One and the boy. Two and the body of the Big One that washed up two tides later on the far side of the mud-flat — grey and wrong, the skin drawn tight, the eyes dry stones, the body light. Too light. Light as a bundle of reeds. The warmth gone. All the warmth gone. The Mure had taken it and left the husk and the sea had given the husk back.
 
-We are two on the beach. The Old One and me. Two and the body of the Big One that washes up two tides later on the far side of the mud-flat — grey and wrong, the skin drawn tight, the eyes dry stones, the body light, too light, light as a bundle of reeds, the warmth gone, all the warmth gone. The Mure took it. The Mure took the warmth and left the husk and the sea gave the husk back.
+The boy stood over the Big One and thought of the gate-guard. One blow. The Big One had put a man down with one blow and now the Big One was down and the thing that had put him there did not have a face the boy could hit and did not have a gate he could run through and did not have a road he could take. The thing was under the water. The thing was the water.
 
-I stand over the Big One and I think of the gate-guard. One blow. The Big One hit a man I had known my whole life and the man went down and did not get up. And now the Big One is down and the thing that put him down does not have a face I can hit and does not have a gate I can run through and does not have a road I can take. The thing is under the water. The thing is the water.
+The Old One said the old sound over the Big One. The boy bowed his head. He did not know the sound but he knew the shape of it — the shape of a thing said over the gone. His sister would have known the words. His sister was not there.
 
-The Old One says the old sound over the Big One. I bow my head. I do not know the sound but I know the shape of it — the shape of a thing said over the gone. My sister would know the words. My sister is not here.
-
-We do not bury him. The mud is too soft. The Old One gets a shallow scrape behind the tideline and the green is creeping over the edges before we have finished. The island does not wait for burial. The island starts taking back the moment the body is still.
+They did not bury him. The mud was too soft. The Old One scraped a shallow hollow behind the tideline and the green was creeping over the edges before they had finished. The island did not wait for burial. The island started taking back the moment the body was still.
 
 ---
 
-## The first days
+The Old One kept the boy alive.
 
-The Old One keeps me alive. He is not a survival man — he is a book man, a chart man, a reader — but he reads the island the way he reads everything: carefully, slowly, with the patience of a thing that has spent its life turning pages. He finds the seep on the second day — a thin thread of clear water weeping out of the rock. He builds the shelter wrong twice and right the third time. He makes fire with the flint from the satchel and the fire is the first warm thing that is not my own body and the Old One sits by it and talks.
+He was not a survival man — he was a book man, a chart man, a reader — but he read the island the way he read everything: carefully, slowly, with the patience of a thing that had spent its life turning pages. He found the seep on the second day — a thin thread of clear water weeping out of the rock. He built the shelter wrong twice and right the third time. He made fire with the flint from the satchel and the fire was the first warm thing that was not the boy's own body or the disc at his chest, and the Old One sat by it and talked.
 
-He talks the way a fire burns — steady, low, not because someone is listening but because the talking is the thing that keeps the dark out. The songs. The Eye-and-Thorn. The things the papers say. The stories of our house — the old house, the house before the burning, the house that carried the mark. He tells me things I am too young to hold and too cold to let go. The blood. The line. The thing our father knew and the thing the Old One has spent his life keeping.
+He talked the way a fire burned — steady, low, not because someone was listening but because the talking was the thing that kept the dark out. The songs. The mark — the Eye-and-Thorn. The things the papers said. The stories of their house — the old house, the house before the walls, the house that had carried the mark. He told the boy things he was too young to hold and too cold to let go. The blood. The line. The thing their father had known and the thing the Old One had spent his life keeping.
 
-*The blood remembers,* he says. *Your father's blood. His father's blood. The line goes back further than the books. The eye and the thorn — the eye watches, the thorn draws. The blood watches and the blood draws. Do you understand?*
+*The blood remembers,* he said. *Your father's blood. His father's blood. The line goes back further than the books. The eye watches and the thorn draws. The blood watches and the blood draws. Do you understand?*
 
-I do not understand. I am twelve and I am cold and I am hungry and my sister is gone and the Big One is dead and I do not understand. But I hold the disc at my chest and the disc is warm and the warmth is mine and I hold it.
+The boy did not understand. He was twelve and he was cold and he was hungry and his sister was gone and the Big One was dead and he did not understand. But he held the disc at his chest and the disc was warm and the warmth was his and he held it.
+
+The Old One was not the cage. The Old One was not the cracked-nail hand. The Old One's voice in the dark was the first voice that had ever spoken to the boy as if the boy were a thing worth speaking to — not property, not cargo, not the small body in the hold. The Old One spoke to the boy the way he spoke to the papers: with care. With weight. As if the words were the only inheritance the line had left and the boy was the only vessel the line had left and the speaking was the transfer of one into the other. And the boy held the words the way he held the disc — tight, warm, behind the ribs, in the room where the near hunger could not reach.
 
 ---
 
-## The Old One
+He sat down in the shade on the sixth day and he did not get up.
 
-He sits down in the shade on the sixth day and he does not get up.
+The boy read it before he knew he was reading it — the change in the breathing, the color of the face, the way the hands stopped working the knots. The body read it. The body knew. But the head was twelve and the head did not want to know.
 
-I read it before I know I am reading it — the change in his breathing, the color of his face, the way his hands stop working the knots. The body reads it. The body knows. But the head is twelve and the head does not want to know.
+He pulled the Old One to the open stone where the wind was. He was not strong enough. The Big One would have carried him. The Big One was dead. The boy got his shoulder under the Old One's arm and dragged him across the mud and the stone and it took everything, and when he got him to the wind he was already worse. The breathing was wrong. The color was wrong. The hands were wrong.
 
-I pull him to the open stone where the wind is. I am not strong enough. The Big One would carry him. The Big One is dead. I get my shoulder under the Old One's arm and I drag him across the mud and the stone and it takes everything and when I get him to the wind he is already worse. The breathing is wrong. The color is wrong. The hands are wrong.
+The shelter had been in the still place — between the trees where the air did not move. And the air in the still place was not air. It was the breath of the green — the rot-breath, the fever-vapor, the wet thing that rose off the standing water and the black mud and went into the lungs. The island did not need teeth. The island did not need claws. The island had the air, and the air was the weapon, and the air had killed the Old One the way the water had killed the Big One. Slowly. From the inside.
 
-The shelter was in the still place — between the trees where the air does not move. And the air in the still place is not air. The air in the still place is the breath of the green — the rot-breath, the fever-vapor, the wet thing that rises off the standing water and the black mud and goes into the lungs. The island does not need teeth. The island does not need claws. The island has the *air,* and the air is the weapon, and the air killed the Old One the way the water killed the Big One. Slowly. From the inside.
+The Old One knew. He read it off his own body the way he read the charts. He looked at the boy and his face was not afraid. His face was the face of a man who had read the end of the story and knew the shape of it and did not fight the shape.
 
-He knows. He reads it off his own body the way he reads the charts. He looks at me and his face is not afraid. His face is the face of a man who has read the end of the story and knows the shape of it and does not fight the shape.
+*Move the shelter,* he said. The voice was thin. *The still places. The air. Don't sleep where the air doesn't move. The wind is the only clean thing.*
 
-*Move the shelter,* he says. The voice is thin. *The still places. The air. Don't sleep where the air doesn't move. The wind is the only clean thing.*
-
-He puts his hand on my chest. Over the disc. Over the blood.
+He put his hand on the boy's chest. Over the disc. Over the blood.
 
 *You are your father's son. The blood remembers. Keep the disc. Don't let anyone read it who hasn't earned it.*
 
-He dies on the seventh night. The body trying to burn the thing out and the thing not burning. I sit with him through the burning. I hold his hand the way my sister held mine in the boat — the warm hand, the hand that says *I am here.* But the warmth goes one way. Out. The hand goes from warm to cool to cold and the cold is the thing the island leaves behind and the cold is the thing the Old One warned me about and I do not have the words for any of it.
+He died on the seventh night. The body trying to burn the thing out and the thing not burning. The boy sat with him through the burning. He held the Old One's hand the way his sister had held his in the boat — the warm hand, the hand that said *I am here.* But the warmth went one way. Out. From warm to cool to cold, and the cold was the thing the island left behind, and the boy did not have words for any of it.
 
-I burn the papers. Not the chart. Not the disc. The rest. The smoke goes up through the green and the green eats it. I burn them because the Old One is dead and the papers are his and the island will take them if I do not. I burn them because I am twelve and I am alone on a death-island and burning the papers is the only thing I can do.
-
----
-
-## The thing in the green
-
-It comes on the ninth night.
-
-I have moved the shelter to the high stone where the wind is. The Old One's knife is beside me — the only iron, the only thing that is not paper or cloth or the disc. The fire is low. The dark is around. And the sound comes from the edge of the stone — not the drip, not the chorus, not the boom of the large things calling. A dry sound. A scraping. Claws on stone. Coming up.
-
-I am on my feet. The knife is in my hand and the hand is shaking and the shaking is the thing the Old One said not to do — *don't sleep where the air doesn't move* — but this is not the air. This is something else. This is the green itself, the thing the Old One did not have a page for, the thing that hunts at night on the stones where the wind is.
-
-The thing comes over the edge.
-
-I will not describe it. The body holds it and the body flinches from it still. The shape. The sound. The smell. The *wrong* of it — the wrong of a thing that is alive in a way nothing should be alive in a place nothing should be. It is big. It is wrong. And it is between me and the edge of the stone and I have a knife and I am twelve and my hands are shaking.
-
-The thing comes for me.
-
-I do not remember deciding. The body decides. Something comes up from under the shaking — from under the fear, from under the grief, from under the twelve years and the cold and the hunger — and it is the thing I will later call the root. The survival-thing. The deepest wiring. The thing the island will burn down to over the next months until it is the only thing left. It comes up and the body moves and the knife is in the thing's hide and the thing is fast and the thing is strong and I am twelve and slow and small and the thing swats the knife away and the claws open my arm and the pain is bright and far down and the blood comes.
-
-And the blood does something.
-
-The thing stops. Not because of the knife. Not because of the boy. The *blood.* The blood on my arm — the blood running hot and red down the skin — the thing reads it. The thing's body goes still. The still of a thing that has touched something it does not understand and is deciding what to do. The way a predator reads a smell it does not know. The way a thing reads a thing that might be poison or might be nothing and the not-knowing is the thing that saves you.
-
-It decides. It goes back over the edge of the stone. Fast. Gone. The sound of claws on rock going down, and then the green, and then the silence.
-
-I look at my arm. The blood. The cut is deep — the claws opened the skin from the elbow to the wrist and the blood is running and the edges are wrong, ragged, the kind of cut that goes bad in a place like this. I press the skin. I hold it. I wait for the fever the Old One warned about — the wound going hot, the red climbing, the thing that kills.
-
-It does not come. The cut closes. Not slow, the way cuts close. *Fast.* Too fast. The edges pull together the way a mouth closes. The blood stops. The skin knits. And in the time it takes the dawn to come up gold over the green, the cut is a line — a thin pink line on the arm where the claws were, the kind of line a body carries a week after the hurt. A week's healing in a night.
-
-I do not understand it. I am twelve and I am alone and I do not understand why the thing stopped or why the cut closed or why the Big One is dead and the Old One is dead and my sister is gone and I am alive. I do not understand any of it.
-
-But the body holds it. The body holds the warmth and the cut and the stillness of the thing reading my blood. Set down deep. Where the word will be one day.
+He burned the papers. Not the chart. Not the disc. The rest. The smoke went up through the green and the green ate it. He burned them because the Old One was dead and the papers were his and the island would take them if the boy did not. He burned them because he was twelve and he was alone on a death-island and burning the papers was the only thing he could do.
 
 ---
 
-## Alone
+The thing came on the ninth night.
 
-Ten days. Twelve. The count blurs. I am alone on the island and the island is the whole world and the world is green and wet and warm and it wants me dead and I do not die.
+The boy had moved the shelter to the high stone where the wind was. The Old One's knife sat beside him — the only iron, the only thing that was not paper or cloth or the disc. The fire was low. The dark was around. And the sound came from the edge of the stone — not the drip, not the chorus, not the boom of the large things calling in the green. A dry sound. A scraping. Claws on stone. Coming up.
 
-The fever does not take me. I sleep in the still places where the air does not move — I sleep there because I do not know better, because the Old One is dead and his warning is a thing I am still learning to carry — and the rot-breath goes into my lungs and my lungs do not care. I breathe the bad air and my head stays clear. I drink the brown water and my gut does not turn. I eat the things I find in the green — the grubs, the root-things, the fat-fruit that falls from the canopy — and none of them poison me. The biting things settle on my arms at night and the bites do not swell. The swarms rise off the standing water and ring me and *will not land.*
+He was on his feet. The knife was in his hand and the hand was shaking and the shaking was the thing the body did when the body knew before the head that something was wrong.
 
-I do not know why. I am twelve and I am alone and I do not know why I am alive. The Old One said *the blood remembers* and I do not know what the blood remembers. The disc is warm at my chest and the disc does not explain. The Eye-and-Thorn does not explain. The cut on my arm is a silver line now — healed, gone, the skin smooth where the claws were. Healed in a night. The Old One's papers said nothing about this. The Old One's papers are ash.
+The thing came over the edge.
 
-I sit on the high stone where the wind is and I look at the water. North. The direction my sister went. The direction of the sail. The direction of the thing that was following us.
+The body held it. The body flinched from it — then, and long after. The shape. The sound. The smell. The wrong of it — the wrong of a thing alive in a way nothing should be, in a place nothing should be. It was big. It was wrong. And it was between the boy and the edge of the stone, and the boy had a knife, and he was twelve, and his hands were shaking.
 
-She is not coming. The water is flat and gold and empty. She is not coming because she is dead, or because she is caught, or because she is somewhere past the edge of the world still running and the running is the thing she does now instead of being here. I do not know which. The not-knowing is the thing I carry. Heavier than the disc. Heavier than the knife. Heavier than the name behind my teeth.
+The thing came for him.
 
-I look at the green. The green that should kill me. The green that killed the Old One. The green that sent the thing that killed — no. The thing did not kill me. The thing stopped. The blood stopped it. The green has not killed me and the water has not killed me and the air has not killed me and the thing in the green has not killed me and I am still here.
+The body decided. Something came up from under the shaking — from under the fear, from under the grief, from under the twelve years and the cold and the hunger — and it was the thing the island would burn down to over the coming months until it was the only thing left. The deepest wiring. The survival-root. It came up and the body moved and the knife was in the thing's hide and the thing was fast and the thing was strong and the boy was twelve and slow and small and the thing swatted the knife away and the claws opened his arm and the pain was bright and far down and the blood came.
 
-I do not know what I am.
+And the blood did something.
 
-But I know three things. I know the name behind my teeth — the name my mother gave me, the name my sister said in the hallway when she pulled me out. I know the disc at my chest — the Eye-and-Thorn, my father's mark, the blood that remembers. And I know the warmth — the warmth in my chest that does not transfer, the warmth that the wrong-cold flinched from, the warmth that closed the cut in a night, the warmth that keeps me alive where everything human dies.
+The thing stopped. Not because of the knife. Not because of the boy. The blood. The blood on his arm — running hot and red down the skin — the thing read it. The thing's body went still. The still of a thing that had touched something it did not understand and was deciding what to do. The way a predator reads a smell it does not know. The way a thing reads a thing that might be poison or might be nothing, and the not-knowing is the thing that saves you.
 
-I go down off the stone. I go into the green. The green closes over me like water.
+It decided. It went back over the edge. Fast. Gone. The sound of claws on rock going down, and then the green, and then silence.
 
-The boy who walked into it was twelve years old and he had a name and a disc and the warmth and the hole where his sister was and nothing else. The boy who came out the other side — weeks later, months later, the count lost — was something different. Something the green had burned down to the root.
+The boy looked at his arm. The blood. The cut was deep — the claws had opened the skin from the elbow to the wrist and the blood was running and the edges were wrong, ragged, the kind of cut that goes bad in a place like this. He pressed the skin. He held it. He waited for the fever the Old One had warned about — the wound going hot, the red climbing, the thing that kills.
 
-But that is the next part. This is the beach part. The part where the world took everything I had and left me standing and I did not know why.
+It did not come.
 
-I still don't.
+The cut closed. Not slow, the way cuts close. Fast. Too fast. The edges pulled together the way a mouth closes. The blood stopped. The skin knitted. And in the time it took the dawn to come up gold over the green, the cut was a line — a thin pink line on the arm where the claws had been, the kind of line a body carries a week after the hurt. A week's healing in a night.
+
+Three things now that should have ended him. The rot-air — he had slept in the still places, breathed the green's wet breath, and his lungs did not care. The fever that had come up out of the bad fish and burned through him in a night and left no mark. And now the cut closing too fast in a wet that should make it fester. He turned the three of them over the way he would press scattered teeth-marks to read what bit him. They would not come together. No frame in him yet for a question that size. Only the body's stubborn count — something here worth knowing, and no way to know it.
+
+He put the wrongness on a shelf at the back of himself. Not because he did not want it — because the body had its order, and eating came before knowing, and the order did not ask. The shelf was filling. The wrongness went up beside the hole where his sister was and the name behind his teeth and the Old One's last words — *the blood remembers* — and the weight of all of it pressed, and for now the weight held.
+
+---
+
+Ten days. Twelve. The count blurred. The boy was alone on the island and the island was the whole world and the world was green and wet and warm and it wanted him dead and he did not die.
+
+The fever did not take him. He slept in the still places where the air did not move — he slept there because he did not know better, because the Old One was dead and his warning was a thing the boy was still learning to carry — and the rot-breath went into his lungs and his lungs did not care. Few of the biting things would land on him, and the ones that did left no welt. The swarms rose off the standing water and ringed him and could not settle.
+
+He sat on the ridge-top stone and looked at the water. North. The direction his sister had gone. The direction of the sail. The direction of the thing that had been following them.
+
+She was not coming. The water was flat and gold and empty. She was not coming because she was dead, or because she was caught, or because she was somewhere past the edge of the world still running and the running was the thing she did now instead of being here. He did not know which. The not-knowing was the thing he carried. Heavier than the disc. Heavier than the knife. Heavier than the name behind his teeth.
+
+He looked at the green. The green that should have killed him. The green that had killed the Old One. The green that had sent the thing that opened his arm and stopped. The blood had stopped it. The green had not killed him and the water had not killed him and the air had not killed him and the thing in the green had not killed him and he was still here.
+
+He did not know what he was.
+
+But he knew three things. He knew the name behind his teeth — the name his mother had given him, the name his sister had said in the hallway when she pulled him out. He knew the disc at his chest — the Eye-and-Thorn, his father's mark, the blood that remembers. And he knew the warmth — the warmth in his chest that did not transfer, the warmth the wrong-cold had flinched from, the warmth that had closed the cut in a night, the warmth that kept him alive where everything human died.
+
+He went down off the stone and into the green, and the green swallowed him.
+
+The boy who walked in was twelve years old and he had a name and a disc and the warmth and the hole where his sister was and nothing else. What came out the other side would be something the green had burned to the root.
